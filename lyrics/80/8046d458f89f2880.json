@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "key": "test|test|180",
+  "track": "test",
+  "artist": "test",
+  "album": "Test Album",
+  "duration": 180,
+  "lrclib_id": 23274183,
+  "has_synced": true,
+  "has_plain": true,
+  "synced_enc": "sFOEQRkJdPdjegWM/ze//E/CFzk9c3M3NbNGk3wTmsQfJQhAgGXiQMbpTlmzo0HZlUH3AZj0hncKJtrrOWFAmA==",
+  "plain_enc": "G/YQm12idO+nyLHDYpeTCd9PaUwmzKYcDDt41cYKsoUznPbMO05pSI3eOpaDC2xa",
+  "cached_at": "2026-02-12T10:03:00.475Z"
+}
