@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "shard": "j",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:32.851Z",
+  "entries": [
+    {
+      "hash": "301246df8e262a6e",
+      "track": "Heeriye (feat. Arijit Singh)",
+      "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "album": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:50:26.262Z"
+    },
+    {
+      "hash": "44046a4da1b67ddb",
+      "track": "Heeriye (feat. Arijit Singh)",
+      "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "album": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:51:24.309Z"
+    },
+    {
+      "hash": "6cc0ab6d3ff4626f",
+      "track": "Humnava Mere",
+      "artist": "Jubin Nautiyal",
+      "album": "Jubin Nautiyal",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T12:20:32.540Z"
+    }
+  ]
+}
