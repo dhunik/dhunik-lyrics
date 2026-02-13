@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "shard": "a",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:28.299Z",
+  "entries": [
+    {
+      "hash": "02b1218ddf8f73e2",
+      "track": "To Chaloon",
+      "artist": "Anu Malik, Roopkumar Rathod",
+      "album": "Anu Malik, Roopkumar Rathod",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:57:45.574Z"
+    },
+    {
+      "hash": "1e8cb974b087ff5b",
+      "track": "Agar Tum Saath Ho",
+      "artist": "Alka Yagnik, Arijit Singh",
+      "album": "Tamasha",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-13T03:07:51.179Z"
+    },
+    {
+      "hash": "ac639255e97d6ae5",
+      "track": "Tere Naam",
+      "artist": "Alka Yagnik",
+      "album": "Tere Naam",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T09:38:00.634Z"
+    },
+    {
+      "hash": "d9f028237b8c06af",
+      "track": "To Chaloon",
+      "artist": "Anu Malik, Roopkumar Rathod",
+      "album": "Anu Malik, Roopkumar Rathod",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:41:14.714Z"
+    }
+  ]
+}
