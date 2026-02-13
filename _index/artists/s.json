@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "shard": "s",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:30.381Z",
+  "entries": [
+    {
+      "hash": "06d9b8692283a4c4",
+      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
+      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T12:19:54.528Z"
+    },
+    {
+      "hash": "486e3cd4ec50cc84",
+      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
+      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-12T11:15:11.349Z"
+    },
+    {
+      "hash": "d50660d7d4145af5",
+      "track": "Hanuman Chalisa Fast by Shankar Mahadevan",
+      "artist": "Shankar Mahadevan",
+      "album": "Hanuman Chalisa Fast",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-13T03:02:57.351Z"
+    }
+  ]
+}
