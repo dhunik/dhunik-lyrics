@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "p",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:43.706Z",
+  "entries": [
+    {
+      "hash": "8bbb39178868ab67",
+      "track": "Shayad",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Pritam, Arijit Singh",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T12:32:00.196Z"
+    }
+  ]
+}
