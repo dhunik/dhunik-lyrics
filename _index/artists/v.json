@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "v",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:37.392Z",
+  "entries": [
+    {
+      "hash": "51b9b85317ac8c34",
+      "track": "Tum Ho Toh",
+      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:34:58.852Z"
+    }
+  ]
+}
