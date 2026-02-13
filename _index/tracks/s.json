@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "shard": "s",
+  "type": "track",
+  "updated_at": "2026-02-13T17:36:23.738Z",
+  "entries": [
+    {
+      "hash": "3bbd9aea1b9d01c8",
+      "track": "Saiyaara",
+      "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:27:23.763Z"
+    },
+    {
+      "hash": "8bbb39178868ab67",
+      "track": "Shayad",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Pritam, Arijit Singh",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T12:32:00.196Z"
+    },
+    {
+      "hash": "a5f1b50f15abeff3",
+      "track": "Sanam Teri Kasam",
+      "artist": "Himesh Reshammiya, Ankit Tiwari, Palak Muchhal",
+      "album": "Sanam Teri Kasam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-12T10:51:01.611Z"
+    }
+  ]
+}
