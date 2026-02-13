@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "g",
+  "type": "track",
+  "updated_at": "2026-02-13T17:38:13.913Z",
+  "entries": [
+    {
+      "hash": "a87565d0406675a9",
+      "track": "Galliyan",
+      "artist": "Ankit Tiwari",
+      "album": "Ek Villain",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-13T17:38:12.303Z"
+    }
+  ]
+}
