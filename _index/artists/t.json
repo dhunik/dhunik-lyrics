@@ -1,0 +1,35 @@
+{
+  "v": 1,
+  "shard": "t",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:34.930Z",
+  "entries": [
+    {
+      "hash": "38af30baa3506ef8",
+      "track": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-02-12T12:02:26.992Z"
+    },
+    {
+      "hash": "3bbd9aea1b9d01c8",
+      "track": "Saiyaara",
+      "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:27:23.763Z"
+    },
+    {
+      "hash": "8046d458f89f2880",
+      "track": "test",
+      "artist": "test",
+      "album": "Test Album",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:03:00.475Z"
+    }
+  ]
+}
