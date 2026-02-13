@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "shard": "n",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:39.379Z",
+  "entries": [
+    {
+      "hash": "6651059a8a0e4347",
+      "track": "Baarish Mein Tum",
+      "artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
+      "album": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:23:58.511Z"
+    },
+    {
+      "hash": "895605ea64cfa88f",
+      "track": "Baarish Mein Tum",
+      "artist": "Neha Kakkar",
+      "album": "Baarish Mein Tum",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:09:02.552Z"
+    }
+  ]
+}
