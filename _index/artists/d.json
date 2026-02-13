@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "d",
+  "type": "artist",
+  "updated_at": "2026-02-13T17:36:48.193Z",
+  "entries": [
+    {
+      "hash": "ee51c7bd05b44fe0",
+      "track": "Heeriye (feat. Arijit Singh)",
+      "artist": "Dulquer Salmaan, Jasleen Royal, Arijit Singh",
+      "album": "Heeriye (feat. Arijit Singh)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-12T11:04:28.537Z"
+    }
+  ]
+}
