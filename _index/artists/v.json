@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-02-13T17:36:37.392Z",
+  "updated_at": "2026-02-14T05:54:45.196Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-02-12T10:34:58.852Z"
+    },
+    {
+      "hash": "86df45c9cf83ae4b",
+      "track": "Ehsaas",
+      "artist": "Faheem Abdullah, Duha Shah, Vaibhav Pani, Hyder Dar",
+      "album": "Ehsaas",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-14T05:30:17.245Z"
     }
   ]
 }
