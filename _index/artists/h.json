@@ -2,8 +2,26 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-02-13T17:36:45.729Z",
+  "updated_at": "2026-02-14T05:54:47.470Z",
   "entries": [
+    {
+      "hash": "51b9b85317ac8c34",
+      "track": "Tum Ho Toh",
+      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:34:58.852Z"
+    },
+    {
+      "hash": "86df45c9cf83ae4b",
+      "track": "Ehsaas",
+      "artist": "Faheem Abdullah, Duha Shah, Vaibhav Pani, Hyder Dar",
+      "album": "Ehsaas",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-14T05:30:17.245Z"
+    },
     {
       "hash": "a5f1b50f15abeff3",
       "track": "Sanam Teri Kasam",
