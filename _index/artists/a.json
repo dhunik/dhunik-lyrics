@@ -2,115 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:24.354Z",
+  "updated_at": "2026-02-14T06:07:06.777Z",
   "entries": [
     {
-      "hash": "02b1218ddf8f73e2",
-      "track": "To Chaloon",
-      "artist": "Anu Malik, Roopkumar Rathod",
-      "album": "Anu Malik, Roopkumar Rathod",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T11:57:45.574Z"
-    },
-    {
-      "hash": "1e8cb974b087ff5b",
-      "track": "Agar Tum Saath Ho",
-      "artist": "Alka Yagnik, Arijit Singh",
-      "album": "Tamasha",
+      "hash": "b42e3467ca4e5ced",
+      "track": "Jaan ‘Nisaar (Arijit)",
+      "artist": "Arijit Singh - Kedarnath",
+      "album": "Kedarnath",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-13T03:07:51.179Z"
-    },
-    {
-      "hash": "301246df8e262a6e",
-      "track": "Heeriye (feat. Arijit Singh)",
-      "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
-      "album": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T11:50:26.262Z"
-    },
-    {
-      "hash": "38af30baa3506ef8",
-      "track": "Makhna",
-      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "album": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-02-12T12:02:26.992Z"
-    },
-    {
-      "hash": "3bbd9aea1b9d01c8",
-      "track": "Saiyaara",
-      "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil - Saiyaara",
-      "album": "Saiyaara",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T10:27:23.763Z"
-    },
-    {
-      "hash": "44046a4da1b67ddb",
-      "track": "Heeriye (feat. Arijit Singh)",
-      "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
-      "album": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T11:51:24.309Z"
-    },
-    {
-      "hash": "8bbb39178868ab67",
-      "track": "Shayad",
-      "artist": "Pritam, Arijit Singh",
-      "album": "Pritam, Arijit Singh",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T12:32:00.196Z"
-    },
-    {
-      "hash": "a5f1b50f15abeff3",
-      "track": "Sanam Teri Kasam",
-      "artist": "Himesh Reshammiya, Ankit Tiwari, Palak Muchhal",
-      "album": "Sanam Teri Kasam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-12T10:51:01.611Z"
-    },
-    {
-      "hash": "a87565d0406675a9",
-      "track": "Galliyan",
-      "artist": "Ankit Tiwari",
-      "album": "Ek Villain",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-13T17:38:12.303Z"
-    },
-    {
-      "hash": "ac639255e97d6ae5",
-      "track": "Tere Naam",
-      "artist": "Alka Yagnik",
-      "album": "Tere Naam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T09:38:00.634Z"
-    },
-    {
-      "hash": "d9f028237b8c06af",
-      "track": "To Chaloon",
-      "artist": "Anu Malik, Roopkumar Rathod",
-      "album": "Anu Malik, Roopkumar Rathod",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T11:41:14.714Z"
-    },
-    {
-      "hash": "ee51c7bd05b44fe0",
-      "track": "Heeriye (feat. Arijit Singh)",
-      "artist": "Dulquer Salmaan, Jasleen Royal, Arijit Singh",
-      "album": "Heeriye (feat. Arijit Singh)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-12T11:04:28.537Z"
+      "cached_at": "2026-02-14T06:06:42.393Z"
     }
   ]
 }
