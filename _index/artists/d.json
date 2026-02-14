@@ -2,8 +2,35 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-02-13T17:36:48.193Z",
+  "updated_at": "2026-02-14T05:54:34.900Z",
   "entries": [
+    {
+      "hash": "301246df8e262a6e",
+      "track": "Heeriye (feat. Arijit Singh)",
+      "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "album": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:50:26.262Z"
+    },
+    {
+      "hash": "44046a4da1b67ddb",
+      "track": "Heeriye (feat. Arijit Singh)",
+      "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "album": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:51:24.309Z"
+    },
+    {
+      "hash": "86df45c9cf83ae4b",
+      "track": "Ehsaas",
+      "artist": "Faheem Abdullah, Duha Shah, Vaibhav Pani, Hyder Dar",
+      "album": "Ehsaas",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-14T05:30:17.245Z"
+    },
     {
       "hash": "ee51c7bd05b44fe0",
       "track": "Heeriye (feat. Arijit Singh)",
