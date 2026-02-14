@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "shard": "u",
+  "type": "artist",
+  "updated_at": "2026-02-14T05:54:30.436Z",
+  "entries": [
+    {
+      "hash": "06d9b8692283a4c4",
+      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
+      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T12:19:54.528Z"
+    },
+    {
+      "hash": "486e3cd4ec50cc84",
+      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
+      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-12T11:15:11.349Z"
+    }
+  ]
+}
