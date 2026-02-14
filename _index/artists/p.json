@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-02-13T17:36:43.706Z",
+  "updated_at": "2026-02-14T05:54:54.152Z",
   "entries": [
     {
       "hash": "8bbb39178868ab67",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-02-12T12:32:00.196Z"
+    },
+    {
+      "hash": "a5f1b50f15abeff3",
+      "track": "Sanam Teri Kasam",
+      "artist": "Himesh Reshammiya, Ankit Tiwari, Palak Muchhal",
+      "album": "Sanam Teri Kasam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-12T10:51:01.611Z"
     }
   ]
 }
