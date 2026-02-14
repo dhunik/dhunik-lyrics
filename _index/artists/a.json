@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-02-14T06:07:06.777Z",
+  "updated_at": "2026-02-14T06:07:45.736Z",
   "entries": [
     {
-      "hash": "b42e3467ca4e5ced",
-      "track": "Jaan ‘Nisaar (Arijit)",
-      "artist": "Arijit Singh - Kedarnath",
-      "album": "Kedarnath",
+      "hash": "bc5be3e582ebb7a7",
+      "track": "Soulmate",
+      "artist": "Badshah, Arijit Singh - Ek Tha Raja",
+      "album": "Ek Tha Raja",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-14T06:06:42.393Z"
+      "cached_at": "2026-02-14T06:07:29.722Z"
     }
   ]
 }
