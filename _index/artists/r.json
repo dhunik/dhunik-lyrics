@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "shard": "r",
+  "type": "artist",
+  "updated_at": "2026-02-14T05:54:26.348Z",
+  "entries": [
+    {
+      "hash": "02b1218ddf8f73e2",
+      "track": "To Chaloon",
+      "artist": "Anu Malik, Roopkumar Rathod",
+      "album": "Anu Malik, Roopkumar Rathod",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:57:45.574Z"
+    },
+    {
+      "hash": "51b9b85317ac8c34",
+      "track": "Tum Ho Toh",
+      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:34:58.852Z"
+    },
+    {
+      "hash": "6651059a8a0e4347",
+      "track": "Baarish Mein Tum",
+      "artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
+      "album": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T10:23:58.511Z"
+    },
+    {
+      "hash": "d9f028237b8c06af",
+      "track": "To Chaloon",
+      "artist": "Anu Malik, Roopkumar Rathod",
+      "album": "Anu Malik, Roopkumar Rathod",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-02-12T11:41:14.714Z"
+    }
+  ]
+}
