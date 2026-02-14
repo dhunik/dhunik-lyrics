@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "j",
+  "type": "track",
+  "updated_at": "2026-02-14T06:07:06.775Z",
+  "entries": [
+    {
+      "hash": "b42e3467ca4e5ced",
+      "track": "Jaan ‘Nisaar (Arijit)",
+      "artist": "Arijit Singh - Kedarnath",
+      "album": "Kedarnath",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-14T06:06:42.393Z"
+    }
+  ]
+}
