@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:47.470Z",
+  "updated_at": "2026-02-15T03:17:22.879Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-12T10:51:01.611Z"
+    },
+    {
+      "hash": "5c44ca0432d3384b",
+      "track": "Om Namo",
+      "artist": "Henrique Camacho, Sajanka, S3N0",
+      "album": "Om Namo",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-02-15T03:17:16.489Z"
     }
   ]
 }
