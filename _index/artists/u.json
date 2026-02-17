@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:30.436Z",
+  "updated_at": "2026-02-17T03:12:34.858Z",
   "entries": [
     {
       "hash": "06d9b8692283a4c4",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-12T11:15:11.349Z"
+    },
+    {
+      "hash": "1c5f896693733937",
+      "track": "Sang Rahiyo",
+      "artist": "Jasleen Royal, Ranveer Allahbadia, Ujjwal Kashyap - Sang Rahiyo",
+      "album": "Sang Rahiyo",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-02-17T03:12:34.262Z"
     }
   ]
 }
