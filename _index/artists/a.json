@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-02-14T06:07:45.736Z",
+  "updated_at": "2026-02-23T14:12:06.085Z",
   "entries": [
     {
-      "hash": "bc5be3e582ebb7a7",
-      "track": "Soulmate",
-      "artist": "Badshah, Arijit Singh - Ek Tha Raja",
-      "album": "Ek Tha Raja",
+      "hash": "bf30a1cbcce3cd06",
+      "track": "Deewaana Deewaana",
+      "artist": "A.R. Rahman, Irshad Kamil",
+      "album": "Tere Ishk Mein",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-14T06:07:29.722Z"
+      "cached_at": "2026-02-23T14:08:10.763Z"
     }
   ]
 }
