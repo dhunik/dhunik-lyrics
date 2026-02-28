@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-02-23T14:12:06.085Z",
+  "updated_at": "2026-02-28T12:19:21.333Z",
   "entries": [
     {
-      "hash": "bf30a1cbcce3cd06",
-      "track": "Deewaana Deewaana",
-      "artist": "A.R. Rahman, Irshad Kamil",
-      "album": "Tere Ishk Mein",
+      "hash": "a0a47abe57c4e06c",
+      "track": "Pal Pal",
+      "artist": "Afusic, AliSoomroMusic - Pal Pal",
+      "album": "Pal Pal",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-23T14:08:10.763Z"
+      "cached_at": "2026-02-28T12:12:02.909Z"
     }
   ]
 }
