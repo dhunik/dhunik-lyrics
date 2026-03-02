@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "k",
+  "type": "artist",
+  "updated_at": "2026-03-02T06:13:10.446Z",
+  "entries": [
+    {
+      "hash": "43b3b9eabb8f2f98",
+      "track": "Finding Her",
+      "artist": "Kushagra, Bharath, Saaheal - Finding Her",
+      "album": "Finding Her",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-02T06:11:24.618Z"
+    }
+  ]
+}
