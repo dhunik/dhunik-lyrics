@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "u",
+  "type": "track",
+  "updated_at": "2026-03-02T06:19:27.733Z",
+  "entries": [
+    {
+      "hash": "b7934ccc5bd3c0dc",
+      "track": "Udaarian",
+      "artist": "Satinder Sartaaj - Seasons Of Sartaaj",
+      "album": "Seasons Of Sartaaj",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-02T06:19:27.055Z"
+    }
+  ]
+}
