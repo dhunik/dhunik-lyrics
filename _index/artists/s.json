@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:28.447Z",
+  "updated_at": "2026-03-02T06:14:22.866Z",
   "entries": [
     {
       "hash": "06d9b8692283a4c4",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-13T03:02:57.351Z"
+    },
+    {
+      "hash": "2e3e1e69d7054d72",
+      "track": "Sajjan Raazi",
+      "artist": "Satinder Sartaaj, Jatinder Shah ft. Kritika Sobti - Hazaarey Wala Munda",
+      "album": "Hazaarey Wala Munda",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-02T06:14:22.168Z"
     }
   ]
 }
