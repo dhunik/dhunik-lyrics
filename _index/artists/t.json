@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:36.887Z",
+  "updated_at": "2026-03-02T06:19:17.111Z",
   "entries": [
     {
       "hash": "38af30baa3506ef8",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-02-12T10:03:00.475Z"
+    },
+    {
+      "hash": "9a97cd668578070e",
+      "track": "Rang",
+      "artist": "Shloke Lal, Tanishk Bagchi, Satinder Sartaaj, Zahrah S Khan - Sky Force",
+      "album": "Sky Force",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-02T06:19:16.532Z"
     }
   ]
 }
