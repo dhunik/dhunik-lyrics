@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:49.777Z",
+  "updated_at": "2026-03-02T06:38:52.201Z",
   "entries": [
     {
       "hash": "6651059a8a0e4347",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-02-12T10:09:02.552Z"
+    },
+    {
+      "hash": "58acf346fa05988b",
+      "track": "Phull Te Khushbo (From \"Shayar\")",
+      "artist": "Satinder Sartaaj, Neeru Bajwa - Phull Te Khushbo (From \"Shayar\")",
+      "album": "Phull Te Khushbo (From \"Shayar\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-02T06:38:51.615Z"
     }
   ]
 }
