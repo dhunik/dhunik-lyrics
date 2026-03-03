@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "r",
+  "type": "track",
+  "updated_at": "2026-03-03T03:00:48.588Z",
+  "entries": [
+    {
+      "hash": "43f1a522613bbf43",
+      "track": "Ram Siya Ram",
+      "artist": "Sachet Tandon - Ram Siya Ram",
+      "album": "Ram Siya Ram",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-03T03:00:47.995Z"
+    }
+  ]
+}
