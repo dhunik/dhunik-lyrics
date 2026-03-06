@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-02-28T12:19:21.333Z",
+  "updated_at": "2026-03-06T03:07:47.699Z",
   "entries": [
     {
       "hash": "a0a47abe57c4e06c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-28T12:12:02.909Z"
+    },
+    {
+      "hash": "8551d5cec50c93e0",
+      "track": "Rudrashtakam",
+      "artist": "Agam Aggarwal",
+      "album": "Rudrashtakam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-06T03:07:47.032Z"
     }
   ]
 }
