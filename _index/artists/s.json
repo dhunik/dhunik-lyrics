@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-04T09:37:53.516Z",
+  "updated_at": "2026-03-06T03:04:33.750Z",
   "entries": [
     {
-      "hash": "06d9b8692283a4c4",
-      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
-      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T12:19:54.528Z"
-    },
-    {
-      "hash": "486e3cd4ec50cc84",
-      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
-      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "hash": "d516314a26877e4b",
+      "track": "Krishnaya Vasudevaya - Shri Krishna Mantra",
+      "artist": "Siddharth Amit Bhavsar, Prateeksha Srivastava",
+      "album": "Krishnaya Vasudevaya - Shri Krishna Mantra",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-12T11:15:11.349Z"
-    },
-    {
-      "hash": "6651059a8a0e4347",
-      "track": "Baarish Mein Tum",
-      "artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
-      "album": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T10:23:58.511Z"
-    },
-    {
-      "hash": "d50660d7d4145af5",
-      "track": "Hanuman Chalisa Fast by Shankar Mahadevan",
-      "artist": "Shankar Mahadevan",
-      "album": "Hanuman Chalisa Fast",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-13T03:02:57.351Z"
-    },
-    {
-      "hash": "2e3e1e69d7054d72",
-      "track": "Sajjan Raazi",
-      "artist": "Satinder Sartaaj, Jatinder Shah ft. Kritika Sobti - Hazaarey Wala Munda",
-      "album": "Hazaarey Wala Munda",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-02T06:14:22.168Z"
-    },
-    {
-      "hash": "9a97cd668578070e",
-      "track": "Rang",
-      "artist": "Shloke Lal, Tanishk Bagchi, Satinder Sartaaj, Zahrah S Khan - Sky Force",
-      "album": "Sky Force",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-02T06:19:16.532Z"
-    },
-    {
-      "hash": "b7934ccc5bd3c0dc",
-      "track": "Udaarian",
-      "artist": "Satinder Sartaaj - Seasons Of Sartaaj",
-      "album": "Seasons Of Sartaaj",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-02T06:19:27.055Z"
-    },
-    {
-      "hash": "43f1a522613bbf43",
-      "track": "Ram Siya Ram",
-      "artist": "Sachet Tandon - Ram Siya Ram",
-      "album": "Ram Siya Ram",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-03T03:00:47.995Z"
-    },
-    {
-      "hash": "292d887b35f9a16e",
-      "track": "Gehra Hua",
-      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan - Dhurandhar",
-      "album": "Dhurandhar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-04T09:37:52.766Z"
+      "cached_at": "2026-03-06T03:00:44.951Z"
     }
   ]
 }
