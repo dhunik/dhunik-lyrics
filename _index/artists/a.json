@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-06T03:07:47.699Z",
+  "updated_at": "2026-03-09T17:43:15.738Z",
   "entries": [
     {
-      "hash": "a0a47abe57c4e06c",
-      "track": "Pal Pal",
-      "artist": "Afusic, AliSoomroMusic - Pal Pal",
-      "album": "Pal Pal",
+      "hash": "448a3f2cdf9d0745",
+      "track": "Laal Pari",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Alfaaz - Housefull 5",
+      "album": "Housefull 5",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-28T12:12:02.909Z"
-    },
-    {
-      "hash": "8551d5cec50c93e0",
-      "track": "Rudrashtakam",
-      "artist": "Agam Aggarwal",
-      "album": "Rudrashtakam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-06T03:07:47.032Z"
+      "cached_at": "2026-03-09T17:37:45.159Z"
     }
   ]
 }
