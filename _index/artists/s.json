@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-06T03:04:33.750Z",
+  "updated_at": "2026-03-09T17:43:15.735Z",
   "entries": [
     {
-      "hash": "d516314a26877e4b",
-      "track": "Krishnaya Vasudevaya - Shri Krishna Mantra",
-      "artist": "Siddharth Amit Bhavsar, Prateeksha Srivastava",
-      "album": "Krishnaya Vasudevaya - Shri Krishna Mantra",
+      "hash": "448a3f2cdf9d0745",
+      "track": "Laal Pari",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Alfaaz - Housefull 5",
+      "album": "Housefull 5",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-06T03:00:44.951Z"
+      "cached_at": "2026-03-09T17:37:45.159Z"
     }
   ]
 }
