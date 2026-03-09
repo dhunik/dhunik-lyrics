@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:38.791Z",
+  "updated_at": "2026-03-09T17:34:15.375Z",
   "entries": [
     {
-      "hash": "38af30baa3506ef8",
-      "track": "Makhna",
-      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "album": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-02-12T12:02:26.992Z"
+      "hash": "00298bcbf42f841e",
+      "track": "Desi Kalakaar",
+      "artist": "Yo Yo Honey Singh",
+      "album": "Desi Kalakaar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-09T17:29:54.340Z"
     }
   ]
 }
