@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-09T17:34:26.829Z",
+  "updated_at": "2026-03-09T17:43:15.731Z",
   "entries": [
     {
-      "hash": "00298bcbf42f841e",
-      "track": "Desi Kalakaar",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Desi Kalakaar",
+      "hash": "448a3f2cdf9d0745",
+      "track": "Laal Pari",
+      "artist": "Yo Yo Honey Singh, Simar Kaur, Alfaaz - Housefull 5",
+      "album": "Housefull 5",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-09T17:29:54.340Z"
-    },
-    {
-      "hash": "75836265830a8da5",
-      "track": "Brown Rang",
-      "artist": "Yo Yo Honey Singh - International Villager",
-      "album": "International Villager",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-09T17:34:25.878Z"
+      "cached_at": "2026-03-09T17:37:45.159Z"
     }
   ]
 }
