@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-02-15T03:21:49.466Z",
+  "updated_at": "2026-03-10T17:48:04.217Z",
   "entries": [
     {
-      "hash": "ec695b15a6ab0cc1",
-      "track": "Narayan Mil Jayega",
-      "artist": "Payal Dev, Jubin Nautiyal, Manoj Muntashir - Narayan Mil Jayega",
-      "album": "Narayan Mil Jayega",
+      "hash": "95bec653b40e6ae0",
+      "track": "Kabhi Shaam Dhale",
+      "artist": "Jaani, Mohammad Faiz - Kabhi Shaam Dhale",
+      "album": "Kabhi Shaam Dhale",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-15T03:17:32.402Z"
+      "cached_at": "2026-03-10T17:47:52.915Z"
     }
   ]
 }
