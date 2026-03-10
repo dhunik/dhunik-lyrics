@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:45.196Z",
+  "updated_at": "2026-03-10T20:09:09.417Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-14T05:30:17.245Z"
+    },
+    {
+      "hash": "9a1ea1b8aaa770cd",
+      "track": "Aaj Bhi 2",
+      "artist": "Vishal Mishra - Aaj Bhi 2",
+      "album": "Aaj Bhi 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-10T20:09:08.693Z"
     }
   ]
 }
