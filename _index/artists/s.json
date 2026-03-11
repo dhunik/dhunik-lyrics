@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T04:28:49.423Z",
+  "updated_at": "2026-03-11T04:32:06.430Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T04:28:48.751Z"
+    },
+    {
+      "hash": "83dca1bdfcf2c2bb",
+      "track": "BLUE",
+      "artist": "Billie Eilish - HIT ME HARD AND SOFT",
+      "album": "HIT ME HARD AND SOFT",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:32:05.814Z"
     }
   ]
 }
