@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-11T04:21:03.072Z",
+  "updated_at": "2026-03-11T04:26:38.520Z",
   "entries": [
     {
       "hash": "38af30baa3506ef8",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T04:21:02.468Z"
+    },
+    {
+      "hash": "96ccb0263395deb0",
+      "track": "Blinding Lights",
+      "artist": "The Weeknd - After Hours",
+      "album": "After Hours",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:26:37.953Z"
     }
   ]
 }
