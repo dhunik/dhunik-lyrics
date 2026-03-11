@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "e",
+  "type": "artist",
+  "updated_at": "2026-03-11T04:18:07.530Z",
+  "entries": [
+    {
+      "hash": "2c10290148f0f545",
+      "track": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "Sheeran: ÷",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:18:06.833Z"
+    }
+  ]
+}
