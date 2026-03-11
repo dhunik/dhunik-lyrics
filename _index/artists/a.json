@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-11T02:38:46.129Z",
+  "updated_at": "2026-03-11T09:45:01.585Z",
   "entries": [
     {
       "hash": "61dbe8c9fedaafc8",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T02:38:18.607Z"
+    },
+    {
+      "hash": "96249c3b8592b323",
+      "track": "Gehra Hua (From \"Dhurandhar\")",
+      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan - Gehra Hua (From \"Dhurandhar\")",
+      "album": "Gehra Hua (From \"Dhurandhar\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T09:45:00.816Z"
     }
   ]
 }
