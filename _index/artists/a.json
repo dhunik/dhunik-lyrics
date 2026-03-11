@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-11T09:54:22.513Z",
+  "updated_at": "2026-03-11T13:26:11.837Z",
   "entries": [
     {
       "hash": "61dbe8c9fedaafc8",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-11T09:54:14.607Z"
+    },
+    {
+      "hash": "be1179b02649b88f",
+      "track": "Tu hai kahan",
+      "artist": "AUR - Tu hai kahan",
+      "album": "Tu hai kahan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T13:26:10.956Z"
     }
   ]
 }
