@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T05:13:44.183Z",
+  "updated_at": "2026-03-11T05:13:50.418Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T05:13:43.223Z"
+    },
+    {
+      "hash": "ce010d72121a2c28",
+      "track": "Matwaliye",
+      "artist": "Satinder Sartaaj - Seven Rivers",
+      "album": "Seven Rivers",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T05:13:49.852Z"
     }
   ]
 }
