@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "w",
+  "type": "track",
+  "updated_at": "2026-03-11T04:27:54.028Z",
+  "entries": [
+    {
+      "hash": "602b56e53e1cfb6e",
+      "track": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:27:53.434Z"
+    }
+  ]
+}
