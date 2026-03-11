@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T05:13:50.418Z",
+  "updated_at": "2026-03-11T08:07:35.997Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T05:13:49.852Z"
+    },
+    {
+      "hash": "ad283fa403a34112",
+      "track": "Zihaal e Miskin",
+      "artist": "Javed-Mohsin, Vishal Mishra, Shreya Ghoshal - Zihaal e Miskin",
+      "album": "Zihaal e Miskin",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T08:07:35.257Z"
     }
   ]
 }
