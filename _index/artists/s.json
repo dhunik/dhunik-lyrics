@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T04:32:06.430Z",
+  "updated_at": "2026-03-11T04:32:19.964Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T04:32:05.814Z"
+    },
+    {
+      "hash": "a1195312f48767eb",
+      "track": "CHIHIRO",
+      "artist": "Billie Eilish - HIT ME HARD AND SOFT",
+      "album": "HIT ME HARD AND SOFT",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:32:19.327Z"
     }
   ]
 }
