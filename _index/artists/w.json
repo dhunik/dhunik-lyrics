@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "w",
+  "type": "artist",
+  "updated_at": "2026-03-11T04:27:40.092Z",
+  "entries": [
+    {
+      "hash": "056bd744bffe792b",
+      "track": "See You Again (feat. Charlie Puth)",
+      "artist": "Wiz Khalifa",
+      "album": "Nine Track Mind",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:27:39.480Z"
+    }
+  ]
+}
