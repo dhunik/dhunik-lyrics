@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T04:28:26.505Z",
+  "updated_at": "2026-03-11T04:28:49.423Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T04:28:25.934Z"
+    },
+    {
+      "hash": "f9692d0141d61a45",
+      "track": "Lost In Japan",
+      "artist": "Shawn Mendes - Shawn Mendes",
+      "album": "Shawn Mendes",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:28:48.751Z"
     }
   ]
 }
