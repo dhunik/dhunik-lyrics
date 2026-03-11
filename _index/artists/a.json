@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-11T09:45:01.585Z",
+  "updated_at": "2026-03-11T09:54:22.513Z",
   "entries": [
     {
       "hash": "61dbe8c9fedaafc8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T09:45:00.816Z"
+    },
+    {
+      "hash": "d0c0611e7543d116",
+      "track": "Sitaare (From \"Ikkis\")",
+      "artist": "Arijit Singh, White Noise Collectives, Amitabh Bhattacharya - Sitaare (From \"Ikkis\")",
+      "album": "Sitaare (From \"Ikkis\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-11T09:54:14.607Z"
     }
   ]
 }
