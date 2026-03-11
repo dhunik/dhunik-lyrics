@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-03-11T15:19:59.951Z",
+  "updated_at": "2026-03-11T18:27:34.493Z",
   "entries": [
     {
-      "hash": "b8fab0d23bf2c59a",
-      "track": "Funk de Beleza",
-      "artist": "Scythermane, Nateki, MC Mayah",
-      "album": "Funk de Beleza",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-11T15:19:47.526Z"
+      "hash": "3c4b41a5c2635675",
+      "track": "Akhiyaan Gulaab",
+      "artist": "Mitraz - Teri Baaton Mein Aisa Uljha Jiya",
+      "album": "Teri Baaton Mein Aisa Uljha Jiya",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T18:26:56.862Z"
     }
   ]
 }
