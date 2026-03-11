@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-09T17:43:15.738Z",
+  "updated_at": "2026-03-11T02:38:46.129Z",
   "entries": [
     {
-      "hash": "448a3f2cdf9d0745",
-      "track": "Laal Pari",
-      "artist": "Yo Yo Honey Singh, Simar Kaur, Alfaaz - Housefull 5",
-      "album": "Housefull 5",
+      "hash": "61dbe8c9fedaafc8",
+      "track": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain - Jo Tum Mere Ho",
+      "album": "Jo Tum Mere Ho",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-09T17:37:45.159Z"
+      "cached_at": "2026-03-11T02:38:18.607Z"
     }
   ]
 }
