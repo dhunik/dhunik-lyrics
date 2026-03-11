@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-02T06:38:52.201Z",
+  "updated_at": "2026-03-11T11:33:09.114Z",
   "entries": [
     {
       "hash": "6651059a8a0e4347",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-02T06:38:51.615Z"
+    },
+    {
+      "hash": "d03fbd96a3447663",
+      "track": "Baarish Mein Tum",
+      "artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti - Baarish Mein Tum",
+      "album": "Baarish Mein Tum",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T11:33:08.373Z"
     }
   ]
 }
