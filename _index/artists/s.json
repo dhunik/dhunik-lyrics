@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T04:32:19.964Z",
+  "updated_at": "2026-03-11T05:13:44.183Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T04:32:19.327Z"
+    },
+    {
+      "hash": "4774d3ae80f35fcc",
+      "track": "Kamaal Ho Gea",
+      "artist": "Satinder Sartaaj, Manan Bhardwaj - Kamaal Ho Gea",
+      "album": "Kamaal Ho Gea",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T05:13:43.223Z"
     }
   ]
 }
