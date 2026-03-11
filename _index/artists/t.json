@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-02T06:19:17.111Z",
+  "updated_at": "2026-03-11T04:21:03.072Z",
   "entries": [
     {
       "hash": "38af30baa3506ef8",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-02T06:19:16.532Z"
+    },
+    {
+      "hash": "99282ada317bc30d",
+      "track": "Out of Time",
+      "artist": "The Weeknd - Dawn FM (Alternate World)",
+      "album": "Dawn FM (Alternate World)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:21:02.468Z"
     }
   ]
 }
