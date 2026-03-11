@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-09T17:43:15.735Z",
+  "updated_at": "2026-03-11T04:28:26.505Z",
   "entries": [
     {
       "hash": "448a3f2cdf9d0745",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-09T17:37:45.159Z"
+    },
+    {
+      "hash": "a4d891e6b1779757",
+      "track": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes - Illuminate",
+      "album": "Illuminate",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:28:25.934Z"
     }
   ]
 }
