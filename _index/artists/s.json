@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T12:51:22.046Z",
+  "updated_at": "2026-03-11T15:38:30.490Z",
   "entries": [
     {
-      "hash": "448a3f2cdf9d0745",
-      "track": "Laal Pari",
-      "artist": "Yo Yo Honey Singh, Simar Kaur, Alfaaz - Housefull 5",
-      "album": "Housefull 5",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-09T17:37:45.159Z"
-    },
-    {
-      "hash": "a4d891e6b1779757",
-      "track": "There's Nothing Holdin' Me Back",
-      "artist": "Shawn Mendes - Illuminate",
-      "album": "Illuminate",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:28:25.934Z"
-    },
-    {
-      "hash": "f9692d0141d61a45",
-      "track": "Lost In Japan",
-      "artist": "Shawn Mendes - Shawn Mendes",
-      "album": "Shawn Mendes",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:28:48.751Z"
-    },
-    {
-      "hash": "83dca1bdfcf2c2bb",
-      "track": "BLUE",
-      "artist": "Billie Eilish - HIT ME HARD AND SOFT",
-      "album": "HIT ME HARD AND SOFT",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:32:05.814Z"
-    },
-    {
-      "hash": "a1195312f48767eb",
-      "track": "CHIHIRO",
-      "artist": "Billie Eilish - HIT ME HARD AND SOFT",
-      "album": "HIT ME HARD AND SOFT",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:32:19.327Z"
-    },
-    {
-      "hash": "4774d3ae80f35fcc",
-      "track": "Kamaal Ho Gea",
-      "artist": "Satinder Sartaaj, Manan Bhardwaj - Kamaal Ho Gea",
-      "album": "Kamaal Ho Gea",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T05:13:43.223Z"
-    },
-    {
-      "hash": "ce010d72121a2c28",
-      "track": "Matwaliye",
-      "artist": "Satinder Sartaaj - Seven Rivers",
-      "album": "Seven Rivers",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T05:13:49.852Z"
-    },
-    {
-      "hash": "ad283fa403a34112",
-      "track": "Zihaal e Miskin",
-      "artist": "Javed-Mohsin, Vishal Mishra, Shreya Ghoshal - Zihaal e Miskin",
-      "album": "Zihaal e Miskin",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T08:07:35.257Z"
-    },
-    {
-      "hash": "f475bd4e463cd02d",
-      "track": "Ek Ladki Ko Dekha To",
-      "artist": "Sanam Puri - Revisited Sanam",
-      "album": "Revisited Sanam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T12:51:21.296Z"
+      "hash": "59875883fb72928a",
+      "track": "Gehra Hua",
+      "artist": "Irshad Kamil, Arijit Singh, Shashwat Sachdev, Armaan Khan",
+      "album": "Dhurandhar",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-11T15:36:57.297Z"
     }
   ]
 }
