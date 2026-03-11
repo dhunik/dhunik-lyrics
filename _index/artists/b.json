@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-10T17:55:27.357Z",
+  "updated_at": "2026-03-11T04:18:16.360Z",
   "entries": [
     {
       "hash": "bc5be3e582ebb7a7",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-10T17:55:26.632Z"
+    },
+    {
+      "hash": "a1ec9d502700a0b8",
+      "track": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-11T04:18:15.658Z"
     }
   ]
 }
