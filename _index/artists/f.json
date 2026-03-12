@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-02-14T05:54:40.801Z",
+  "updated_at": "2026-03-12T03:05:38.513Z",
   "entries": [
     {
       "hash": "3bbd9aea1b9d01c8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-14T05:30:17.245Z"
+    },
+    {
+      "hash": "e9228745fa270252",
+      "track": "Aawaara Angaara",
+      "artist": "A.R. Rahman, Faheem Abdullah, Irshad Kamil - Tere Ishk Mein",
+      "album": "Tere Ishk Mein",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-12T03:05:34.099Z"
     }
   ]
 }
