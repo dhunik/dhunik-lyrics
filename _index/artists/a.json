@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-11T23:31:21.544Z",
+  "updated_at": "2026-03-12T03:03:12.240Z",
   "entries": [
     {
       "hash": "61dbe8c9fedaafc8",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T23:31:20.938Z"
+    },
+    {
+      "hash": "f4d633a716fdc437",
+      "track": "Apna Bana Le",
+      "artist": "Sachin-Jigar, Arijit Singh - Bhediya",
+      "album": "Bhediya",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-12T03:03:11.637Z"
     }
   ]
 }
