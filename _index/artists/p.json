@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-06T03:04:33.753Z",
+  "updated_at": "2026-03-12T03:15:32.393Z",
   "entries": [
     {
       "hash": "d516314a26877e4b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-06T03:00:44.951Z"
+    },
+    {
+      "hash": "24a7487783fb9b3a",
+      "track": "Raanjhan",
+      "artist": "Sachet-Parampara, Parampara Tandon, Kausar Munir - Do Patti",
+      "album": "Do Patti",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-12T03:15:31.778Z"
     }
   ]
 }
