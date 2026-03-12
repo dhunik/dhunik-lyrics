@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-12T03:03:12.247Z",
+  "updated_at": "2026-03-12T10:07:34.698Z",
   "entries": [
     {
-      "hash": "200ecb8087e8e798",
-      "track": "Un Ka Andaz-E-Karam (Complete Original Version)",
-      "artist": "Nusrat Fateh Ali Khan – Eternal Qawwali & Sufi Classics",
-      "album": "Nusrat Fateh Ali Khan – Eternal Qawwali & Sufi Classics",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-12T01:44:06.254Z"
-    },
-    {
-      "hash": "f4d633a716fdc437",
-      "track": "Apna Bana Le",
-      "artist": "Sachin-Jigar, Arijit Singh - Bhediya",
-      "album": "Bhediya",
+      "hash": "d335514972ec4cd4",
+      "track": "Darkhaast",
+      "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+      "album": "Shivaay",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-12T03:03:11.637Z"
+      "cached_at": "2026-03-12T10:07:02.745Z"
     }
   ]
 }
