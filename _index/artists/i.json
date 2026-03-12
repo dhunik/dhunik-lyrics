@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-03-11T15:38:30.483Z",
+  "updated_at": "2026-03-12T03:05:11.684Z",
   "entries": [
     {
       "hash": "59875883fb72928a",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-11T15:36:57.297Z"
+    },
+    {
+      "hash": "f09c0df5df4db901",
+      "track": "Saiyaara",
+      "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-12T03:05:11.087Z"
     }
   ]
 }
