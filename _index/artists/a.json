@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-12T03:03:12.240Z",
+  "updated_at": "2026-03-12T03:05:33.093Z",
   "entries": [
     {
       "hash": "61dbe8c9fedaafc8",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-12T03:03:11.637Z"
+    },
+    {
+      "hash": "938d4f1d6a929a85",
+      "track": "Rudrashtakam",
+      "artist": "Anuradha Paudwal",
+      "album": "Mahima Mahakaal Ki",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-12T03:05:24.505Z"
     }
   ]
 }
