@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-11T15:38:30.490Z",
+  "updated_at": "2026-03-12T01:44:22.540Z",
   "entries": [
     {
-      "hash": "59875883fb72928a",
-      "track": "Gehra Hua",
-      "artist": "Irshad Kamil, Arijit Singh, Shashwat Sachdev, Armaan Khan",
-      "album": "Dhurandhar",
+      "hash": "200ecb8087e8e798",
+      "track": "Un Ka Andaz-E-Karam (Complete Original Version)",
+      "artist": "Nusrat Fateh Ali Khan – Eternal Qawwali & Sufi Classics",
+      "album": "Nusrat Fateh Ali Khan – Eternal Qawwali & Sufi Classics",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-11T15:36:57.297Z"
+      "cached_at": "2026-03-12T01:44:06.254Z"
     }
   ]
 }
