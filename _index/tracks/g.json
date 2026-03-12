@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-03-11T15:36:58.787Z",
+  "updated_at": "2026-03-12T04:27:48.704Z",
   "entries": [
     {
       "hash": "a87565d0406675a9",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-11T15:36:57.297Z"
+    },
+    {
+      "hash": "eb3939604f8cfc2f",
+      "track": "Glock In My Lap",
+      "artist": "21 Savage, Metro Boomin",
+      "album": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-12T04:27:48.141Z"
     }
   ]
 }
