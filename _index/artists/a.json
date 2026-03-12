@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-12T03:05:33.093Z",
+  "updated_at": "2026-03-12T10:07:34.696Z",
   "entries": [
     {
-      "hash": "61dbe8c9fedaafc8",
-      "track": "Jo Tum Mere Ho",
-      "artist": "Anuv Jain - Jo Tum Mere Ho",
-      "album": "Jo Tum Mere Ho",
+      "hash": "d335514972ec4cd4",
+      "track": "Darkhaast",
+      "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+      "album": "Shivaay",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-11T02:38:18.607Z"
-    },
-    {
-      "hash": "96249c3b8592b323",
-      "track": "Gehra Hua (From \"Dhurandhar\")",
-      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan - Gehra Hua (From \"Dhurandhar\")",
-      "album": "Gehra Hua (From \"Dhurandhar\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T09:45:00.816Z"
-    },
-    {
-      "hash": "d0c0611e7543d116",
-      "track": "Sitaare (From \"Ikkis\")",
-      "artist": "Arijit Singh, White Noise Collectives, Amitabh Bhattacharya - Sitaare (From \"Ikkis\")",
-      "album": "Sitaare (From \"Ikkis\")",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-11T09:54:14.607Z"
-    },
-    {
-      "hash": "be1179b02649b88f",
-      "track": "Tu hai kahan",
-      "artist": "AUR - Tu hai kahan",
-      "album": "Tu hai kahan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T13:26:10.956Z"
-    },
-    {
-      "hash": "e9378a2a376e957c",
-      "track": "Main Koi Aisa Geet Gaoon",
-      "artist": "Abhijeet, Alka Yagnik",
-      "album": "Yes Boss (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T23:31:20.938Z"
-    },
-    {
-      "hash": "f4d633a716fdc437",
-      "track": "Apna Bana Le",
-      "artist": "Sachin-Jigar, Arijit Singh - Bhediya",
-      "album": "Bhediya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T03:03:11.637Z"
-    },
-    {
-      "hash": "938d4f1d6a929a85",
-      "track": "Rudrashtakam",
-      "artist": "Anuradha Paudwal",
-      "album": "Mahima Mahakaal Ki",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T03:05:24.505Z"
+      "cached_at": "2026-03-12T10:07:02.745Z"
     }
   ]
 }
