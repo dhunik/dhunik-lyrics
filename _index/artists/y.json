@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-09T17:57:43.381Z",
+  "updated_at": "2026-03-12T04:25:04.689Z",
   "entries": [
     {
       "hash": "4a08dcbd9f7e4d1c",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-09T17:57:42.720Z"
+    },
+    {
+      "hash": "2f73d95e100e6f63",
+      "track": "Millionaire",
+      "artist": "Yo Yo Honey Singh",
+      "album": "GLORY",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-12T04:25:04.043Z"
     }
   ]
 }
