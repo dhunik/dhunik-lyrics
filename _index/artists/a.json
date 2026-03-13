@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-12T10:07:34.696Z",
+  "updated_at": "2026-03-13T17:28:44.518Z",
   "entries": [
     {
-      "hash": "d335514972ec4cd4",
-      "track": "Darkhaast",
-      "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
-      "album": "Shivaay",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T10:07:02.745Z"
+      "hash": "8ee2a37b6baafce1",
+      "track": "Samjhawan",
+      "artist": "Jawad Ahmad, Sharib Toshi, Arijit Singh, Shreya Ghoshal",
+      "album": "Humpty Sharma Ki Dulhania",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-13T17:23:47.064Z"
     }
   ]
 }
