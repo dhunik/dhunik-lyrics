@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-13T17:09:21.289Z",
+  "updated_at": "2026-03-13T17:33:10.537Z",
   "entries": [
     {
-      "hash": "fb6cbd73e69e5b03",
-      "track": "Tauba Tauba",
-      "artist": "Karan Aujla",
-      "album": "Bad Newz",
+      "hash": "58bec048dab18628",
+      "track": "Tu Hi Meri Shab Hai (From \"Gangster\")",
+      "artist": "KK, Pritam",
+      "album": "Gangster",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-13T17:09:10.596Z"
+      "cached_at": "2026-03-13T17:30:12.721Z"
     }
   ]
 }
