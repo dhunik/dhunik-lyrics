@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-02T06:13:10.446Z",
+  "updated_at": "2026-03-13T17:09:21.289Z",
   "entries": [
     {
-      "hash": "43b3b9eabb8f2f98",
-      "track": "Finding Her",
-      "artist": "Kushagra, Bharath, Saaheal - Finding Her",
-      "album": "Finding Her",
+      "hash": "fb6cbd73e69e5b03",
+      "track": "Tauba Tauba",
+      "artist": "Karan Aujla",
+      "album": "Bad Newz",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-02T06:11:24.618Z"
+      "cached_at": "2026-03-13T17:09:10.596Z"
     }
   ]
 }
