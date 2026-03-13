@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-02-15T03:17:22.879Z",
+  "updated_at": "2026-03-13T17:08:56.706Z",
   "entries": [
     {
-      "hash": "51b9b85317ac8c34",
-      "track": "Tum Ho Toh",
-      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar - Saiyaara",
-      "album": "Saiyaara",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T10:34:58.852Z"
-    },
-    {
-      "hash": "86df45c9cf83ae4b",
-      "track": "Ehsaas",
-      "artist": "Faheem Abdullah, Duha Shah, Vaibhav Pani, Hyder Dar",
-      "album": "Ehsaas",
+      "hash": "abfc3d1c00a34d8b",
+      "track": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+      "artist": "Shashwat Sachdev, Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Babu Singh Maan, Ranjit Kaur",
+      "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-14T05:30:17.245Z"
-    },
-    {
-      "hash": "a5f1b50f15abeff3",
-      "track": "Sanam Teri Kasam",
-      "artist": "Himesh Reshammiya, Ankit Tiwari, Palak Muchhal",
-      "album": "Sanam Teri Kasam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-12T10:51:01.611Z"
-    },
-    {
-      "hash": "5c44ca0432d3384b",
-      "track": "Om Namo",
-      "artist": "Henrique Camacho, Sajanka, S3N0",
-      "album": "Om Namo",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-02-15T03:17:16.489Z"
+      "cached_at": "2026-03-13T17:00:42.893Z"
     }
   ]
 }
