@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "e",
   "type": "artist",
-  "updated_at": "2026-03-12T01:45:41.357Z",
+  "updated_at": "2026-03-14T19:04:17.853Z",
   "entries": [
     {
       "hash": "2c10290148f0f545",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-12T01:45:40.732Z"
+    },
+    {
+      "hash": "7949565a75c19c07",
+      "track": "Do You Know? (The Ping Pong Song)",
+      "artist": "Enrique Iglesias",
+      "album": "Do You Know? (The Ping Pong Song)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T19:04:17.317Z"
     }
   ]
 }
