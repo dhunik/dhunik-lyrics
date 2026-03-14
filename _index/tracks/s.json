@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-03-14T05:35:49.199Z",
+  "updated_at": "2026-03-14T05:43:15.770Z",
   "entries": [
     {
       "hash": "95bf8afd07b8f210",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-14T05:35:48.638Z"
+    },
+    {
+      "hash": "8a279c77c9f6207c",
+      "track": "Satranga",
+      "artist": "Arijit Singh, Shreyas Puranik, Siddharth-Garima - ANIMAL",
+      "album": "ANIMAL",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:15.110Z"
     }
   ]
 }
