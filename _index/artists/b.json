@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-14T05:44:59.740Z",
+  "updated_at": "2026-03-14T14:29:08.354Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:44:59.263Z"
+    },
+    {
+      "hash": "1170c35cf6e151e9",
+      "track": "Dhurandhar - Title Track",
+      "artist": "Hanumankind, Jasmine Sandlas, Babu Singh Maan, Shashwat Sachdev, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur - Dhurandhar",
+      "album": "Dhurandhar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T14:29:07.659Z"
     }
   ]
 }
