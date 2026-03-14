@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-03-14T05:34:17.042Z",
+  "updated_at": "2026-03-14T05:42:42.234Z",
   "entries": [
     {
-      "hash": "3c4b41a5c2635675",
-      "track": "Akhiyaan Gulaab",
-      "artist": "Mitraz - Teri Baaton Mein Aisa Uljha Jiya",
-      "album": "Teri Baaton Mein Aisa Uljha Jiya",
+      "hash": "49728f1ff039e84b",
+      "track": "Dhun",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Saiyaara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-11T18:26:56.862Z"
-    },
-    {
-      "hash": "eb3939604f8cfc2f",
-      "track": "Glock In My Lap",
-      "artist": "21 Savage, Metro Boomin",
-      "album": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T04:27:48.141Z"
-    },
-    {
-      "hash": "fadb07495168e9cb",
-      "track": "Tum Hi Ho (From \"Aashiqui 2\")",
-      "artist": "Arijit Singh, Mithoon",
-      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:27:31.765Z"
-    },
-    {
-      "hash": "02e24a6c01f4e42e",
-      "track": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "artist": "Arijit Singh, Tanishk Bagchi, Manoj Muntashir",
-      "album": "Sunny Sanskari Ki Tulsi Kumari",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:34:16.373Z"
+      "cached_at": "2026-03-14T05:42:17.955Z"
     }
   ]
 }
