@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-03-12T04:27:48.709Z",
+  "updated_at": "2026-03-14T05:27:34.777Z",
   "entries": [
     {
       "hash": "3c4b41a5c2635675",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-12T04:27:48.141Z"
+    },
+    {
+      "hash": "fadb07495168e9cb",
+      "track": "Tum Hi Ho (From \"Aashiqui 2\")",
+      "artist": "Arijit Singh, Mithoon",
+      "album": "Best Of Arijit Singh - Collection Of Romantic Songs",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:27:31.765Z"
     }
   ]
 }
