@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:29.743Z",
+  "updated_at": "2026-03-14T05:44:09.328Z",
   "entries": [
     {
       "hash": "d335514972ec4cd4",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:29.138Z"
+    },
+    {
+      "hash": "adba67e5fa1996e7",
+      "track": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "artist": "Amitabh Bhattacharya, Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi - Rocky Aur Rani Kii Prem Kahaani",
+      "album": "Rocky Aur Rani Kii Prem Kahaani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:44:08.679Z"
     }
   ]
 }
