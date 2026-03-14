@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-13T17:33:10.537Z",
+  "updated_at": "2026-03-14T05:43:29.737Z",
   "entries": [
     {
       "hash": "58bec048dab18628",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-13T17:30:12.721Z"
+    },
+    {
+      "hash": "f5671af302c15ac9",
+      "track": "Ghungroo",
+      "artist": "Vishal & Shekhar, Arijit Singh, Shilpa Rao, Kumaar - War",
+      "album": "War",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:29.138Z"
     }
   ]
 }
