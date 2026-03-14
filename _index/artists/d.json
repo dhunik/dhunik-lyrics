@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-03-11T15:22:19.156Z",
+  "updated_at": "2026-03-14T05:46:08.238Z",
   "entries": [
     {
       "hash": "78ab4fad0f6e5b13",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T15:20:12.189Z"
+    },
+    {
+      "hash": "d5526b3922391105",
+      "track": "Hilesso Hilessa",
+      "artist": "Devi Sri Prasad, Nakash Aziz, Shreya Ghoshal",
+      "album": "Thandel",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:46:07.584Z"
     }
   ]
 }
