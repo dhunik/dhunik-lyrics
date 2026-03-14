@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-03-14T05:43:36.621Z",
+  "updated_at": "2026-03-14T05:44:17.420Z",
   "entries": [
     {
       "hash": "e834938b1c28cf38",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:36.104Z"
+    },
+    {
+      "hash": "7bec17fc7db36d35",
+      "track": "Chhod Diya",
+      "artist": "Arijit Singh - Baazaar",
+      "album": "Baazaar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:44:16.892Z"
     }
   ]
 }
