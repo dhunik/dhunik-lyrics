@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-14T05:29:23.623Z",
+  "updated_at": "2026-03-14T05:35:29.739Z",
   "entries": [
     {
       "hash": "d335514972ec4cd4",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:29:21.793Z"
+    },
+    {
+      "hash": "4c744cd9356830c3",
+      "track": "Sadiya",
+      "artist": "Pawan Singh, Shivani Singh, Kundan Preet",
+      "album": "Sadiya",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:35:29.099Z"
     }
   ]
 }
