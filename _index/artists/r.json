@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-14T05:44:01.640Z",
+  "updated_at": "2026-03-14T05:45:08.456Z",
   "entries": [
     {
       "hash": "13b009ecdad3706d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:44:01.054Z"
+    },
+    {
+      "hash": "c3cf400c24cb1369",
+      "track": "Tu Hi Hai",
+      "artist": "Rahul Mishra - Half Girlfriend",
+      "album": "Half Girlfriend",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:45:07.851Z"
     }
   ]
 }
