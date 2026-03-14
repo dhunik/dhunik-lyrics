@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-03-11T08:07:35.992Z",
+  "updated_at": "2026-03-14T05:35:49.207Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-11T08:07:35.257Z"
+    },
+    {
+      "hash": "88958f83b7e54784",
+      "track": "Sadha Ninna Kannali",
+      "artist": "Sonu Nigam, Shreya Ghoshal, V. Harikrishna, Jayanth Kaikini",
+      "album": "Bachchan",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-14T05:35:48.638Z"
     }
   ]
 }
