@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-14T05:35:29.691Z",
+  "updated_at": "2026-03-14T05:46:45.643Z",
   "entries": [
     {
       "hash": "d516314a26877e4b",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:35:29.099Z"
+    },
+    {
+      "hash": "fea3bc1465783e3a",
+      "track": "Channa Mereya (Unplugged)",
+      "artist": "Pritam, Arijit Singh - Ae Dil Hai Mushkil  [Deluxe Edition]",
+      "album": "Ae Dil Hai Mushkil  [Deluxe Edition]",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:46:44.988Z"
     }
   ]
 }
