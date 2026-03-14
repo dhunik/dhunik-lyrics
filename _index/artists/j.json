@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:25.415Z",
+  "updated_at": "2026-03-14T05:46:59.421Z",
   "entries": [
     {
       "hash": "8ee2a37b6baafce1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:24.856Z"
+    },
+    {
+      "hash": "b5d8d36801daeb6f",
+      "track": "Samjhawan (Unplugged By Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "artist": "Shaarib Toshi, Jawad Ahmad, Alia Bhatt - Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "album": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:46:54.608Z"
     }
   ]
 }
