@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-11T15:19:59.949Z",
+  "updated_at": "2026-03-14T05:34:57.204Z",
   "entries": [
     {
       "hash": "b8fab0d23bf2c59a",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-11T15:19:47.526Z"
+    },
+    {
+      "hash": "d8085dcbc38c1316",
+      "track": "Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+      "artist": "Dj Chetas, Neha Kakkar, Farhan Sabri - Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+      "album": "Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:34:56.638Z"
     }
   ]
 }
