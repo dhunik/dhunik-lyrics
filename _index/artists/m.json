@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-03-14T05:27:34.777Z",
+  "updated_at": "2026-03-14T05:34:17.042Z",
   "entries": [
     {
       "hash": "3c4b41a5c2635675",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:27:31.765Z"
+    },
+    {
+      "hash": "02e24a6c01f4e42e",
+      "track": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "artist": "Arijit Singh, Tanishk Bagchi, Manoj Muntashir",
+      "album": "Sunny Sanskari Ki Tulsi Kumari",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:34:16.373Z"
     }
   ]
 }
