@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-14T05:44:09.328Z",
+  "updated_at": "2026-03-14T05:45:07.169Z",
   "entries": [
     {
       "hash": "d335514972ec4cd4",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:44:08.679Z"
+    },
+    {
+      "hash": "c76e5827e8b57dfa",
+      "track": "Asalaam-e-Ishqum",
+      "artist": "Sohail Sen, Bappi Lahiri, Neha Bhasin, Irshad Kamil - Gunday",
+      "album": "Gunday",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-14T05:45:06.499Z"
     }
   ]
 }
