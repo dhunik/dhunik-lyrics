@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:29:25.093Z",
+  "updated_at": "2026-03-14T05:42:42.238Z",
   "entries": [
     {
-      "hash": "8ee2a37b6baafce1",
-      "track": "Samjhawan",
-      "artist": "Jawad Ahmad, Sharib Toshi, Arijit Singh, Shreya Ghoshal",
-      "album": "Humpty Sharma Ki Dulhania",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-13T17:23:47.064Z"
-    },
-    {
-      "hash": "e834938b1c28cf38",
-      "track": "Chaleya",
-      "artist": "Anirudh Ravichander, Arijit Singh, Shilpa Rao - Jawan",
-      "album": "Jawan",
+      "hash": "49728f1ff039e84b",
+      "track": "Dhun",
+      "artist": "Mithoon, Arijit Singh",
+      "album": "Saiyaara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-14T05:29:06.225Z"
-    },
-    {
-      "hash": "a8915728a7ebbf7d",
-      "track": "Zamaana Lage",
-      "artist": "Arijit Singh, Shashwat Singh, Qaisar Ul Jafri, Sandeep Shrivastava, Pritam - Metro ... In Dino (Side A)",
-      "album": "Metro ... In Dino (Side A)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:29:21.793Z"
-    },
-    {
-      "hash": "35b2fdc26d3b2eba",
-      "track": "Hawayein",
-      "artist": "Pritam, Arijit Singh - Jab Harry Met Sejal",
-      "album": "Jab Harry Met Sejal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:29:24.559Z"
+      "cached_at": "2026-03-14T05:42:17.955Z"
     }
   ]
 }
