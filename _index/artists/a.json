@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:27.758Z",
+  "updated_at": "2026-03-14T05:43:33.286Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:27.149Z"
+    },
+    {
+      "hash": "bebda4ea5a088974",
+      "track": "Ijazat",
+      "artist": "Arijit Singh - One Night Stand",
+      "album": "One Night Stand",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:32.703Z"
     }
   ]
 }
