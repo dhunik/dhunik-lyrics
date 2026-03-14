@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:18.561Z",
+  "updated_at": "2026-03-14T05:43:21.765Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:18.026Z"
+    },
+    {
+      "hash": "b220a5ce18a5b644",
+      "track": "Saanson Ko",
+      "artist": "Sharib Toshi, Arijit Singh - Zid",
+      "album": "Zid",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:21.223Z"
     }
   ]
 }
