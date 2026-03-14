@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:21.765Z",
+  "updated_at": "2026-03-14T05:43:25.413Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:21.223Z"
+    },
+    {
+      "hash": "72eea1ca14275b9e",
+      "track": "Baatein Ye Kabhi Na (Male)",
+      "artist": "Jeet Gannguli, Arijit Singh, Sayeed Quadri - Khamoshiyan",
+      "album": "Khamoshiyan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:24.856Z"
     }
   ]
 }
