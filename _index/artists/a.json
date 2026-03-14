@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:36.630Z",
+  "updated_at": "2026-03-14T05:43:38.575Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:36.104Z"
+    },
+    {
+      "hash": "5901dc070d795568",
+      "track": "Raaz Aankhein Teri",
+      "artist": "Arijit Singh - Raaz Reboot",
+      "album": "Raaz Reboot",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:37.973Z"
     }
   ]
 }
