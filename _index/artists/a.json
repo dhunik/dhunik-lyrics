@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:29:07.031Z",
+  "updated_at": "2026-03-14T05:29:23.626Z",
   "entries": [
     {
       "hash": "8ee2a37b6baafce1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:29:06.225Z"
+    },
+    {
+      "hash": "a8915728a7ebbf7d",
+      "track": "Zamaana Lage",
+      "artist": "Arijit Singh, Shashwat Singh, Qaisar Ul Jafri, Sandeep Shrivastava, Pritam - Metro ... In Dino (Side A)",
+      "album": "Metro ... In Dino (Side A)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:29:21.793Z"
     }
   ]
 }
