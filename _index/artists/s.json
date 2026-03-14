@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-12T10:07:34.698Z",
+  "updated_at": "2026-03-14T05:28:46.717Z",
   "entries": [
     {
       "hash": "d335514972ec4cd4",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-12T10:07:02.745Z"
+    },
+    {
+      "hash": "dd6be264ba45287a",
+      "track": "Apna Bana Le",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
+      "album": "Valentines Special",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:28:46.099Z"
     }
   ]
 }
