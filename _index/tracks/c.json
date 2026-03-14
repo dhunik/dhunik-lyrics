@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "c",
+  "type": "track",
+  "updated_at": "2026-03-14T05:29:06.974Z",
+  "entries": [
+    {
+      "hash": "e834938b1c28cf38",
+      "track": "Chaleya",
+      "artist": "Anirudh Ravichander, Arijit Singh, Shilpa Rao - Jawan",
+      "album": "Jawan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:29:06.225Z"
+    }
+  ]
+}
