@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:44:17.412Z",
+  "updated_at": "2026-03-14T18:51:43.303Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:44:16.892Z"
+    },
+    {
+      "hash": "33879b9ebdd53825",
+      "track": "Tu Chale",
+      "artist": "A.R. Rahman, Arijit Singh, Shreya Ghoshal",
+      "album": "I",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T18:51:39.244Z"
     }
   ]
 }
