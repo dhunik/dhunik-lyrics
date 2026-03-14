@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-14T05:42:00.090Z",
+  "updated_at": "2026-03-14T05:44:01.640Z",
   "entries": [
     {
       "hash": "13b009ecdad3706d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:40:00.581Z"
+    },
+    {
+      "hash": "1226c830d96f2259",
+      "track": "Ek Din Title Track (From \"Ek Din\")",
+      "artist": "Irshad Kamil, Arijit Singh, Ram Sampath - Ek Din Title Track (From \"Ek Din\")",
+      "album": "Ek Din Title Track (From \"Ek Din\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:44:01.054Z"
     }
   ]
 }
