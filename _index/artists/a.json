@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:10.739Z",
+  "updated_at": "2026-03-14T05:43:18.561Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:10.097Z"
+    },
+    {
+      "hash": "f14cfaf0cbf2efe8",
+      "track": "Lambiyaan Si Judaiyaan",
+      "artist": "Arijit Singh - Raabta",
+      "album": "Raabta",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:18.026Z"
     }
   ]
 }
