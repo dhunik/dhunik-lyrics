@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-13T17:28:44.518Z",
+  "updated_at": "2026-03-14T05:29:07.031Z",
   "entries": [
     {
       "hash": "8ee2a37b6baafce1",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-13T17:23:47.064Z"
+    },
+    {
+      "hash": "e834938b1c28cf38",
+      "track": "Chaleya",
+      "artist": "Anirudh Ravichander, Arijit Singh, Shilpa Rao - Jawan",
+      "album": "Jawan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:29:06.225Z"
     }
   ]
 }
