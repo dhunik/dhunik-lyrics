@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-03-12T03:05:11.684Z",
+  "updated_at": "2026-03-14T05:29:53.771Z",
   "entries": [
     {
       "hash": "59875883fb72928a",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-12T03:05:11.087Z"
+    },
+    {
+      "hash": "4582eb5d6af6f269",
+      "track": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
+      "artist": "Irshad Kamil, A.R. Rahman, Arijit Singh - Tere Ishk Mein (From \"Tere Ishk Mein\")",
+      "album": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:29:52.912Z"
     }
   ]
 }
