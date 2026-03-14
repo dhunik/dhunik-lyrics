@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-12T03:15:32.393Z",
+  "updated_at": "2026-03-14T05:29:25.099Z",
   "entries": [
     {
       "hash": "d516314a26877e4b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-12T03:15:31.778Z"
+    },
+    {
+      "hash": "35b2fdc26d3b2eba",
+      "track": "Hawayein",
+      "artist": "Pritam, Arijit Singh - Jab Harry Met Sejal",
+      "album": "Jab Harry Met Sejal",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:29:24.559Z"
     }
   ]
 }
