@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:21.754Z",
+  "updated_at": "2026-03-14T05:43:27.749Z",
   "entries": [
     {
       "hash": "d335514972ec4cd4",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:21.223Z"
+    },
+    {
+      "hash": "16a2664877c219e8",
+      "track": "Anuvanuvuu",
+      "artist": "Sunny M.R., Arijit Singh - Om Bheem Bush",
+      "album": "Om Bheem Bush",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:27.149Z"
     }
   ]
 }
