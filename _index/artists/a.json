@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:38.575Z",
+  "updated_at": "2026-03-14T05:43:47.772Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:37.973Z"
+    },
+    {
+      "hash": "7074499a89914144",
+      "track": "Dekha Hazaro Dafaa",
+      "artist": "Arijit Singh, Palak Muchhal - Rustom",
+      "album": "Rustom",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:47.198Z"
     }
   ]
 }
