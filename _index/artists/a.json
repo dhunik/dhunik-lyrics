@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:51.064Z",
+  "updated_at": "2026-03-14T05:44:10.110Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -102,6 +102,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:50.529Z"
+    },
+    {
+      "hash": "77d4ed7d512a5834",
+      "track": "Ik Vaari Aa",
+      "artist": "Arijit Singh - Raabta",
+      "album": "Raabta",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:44:09.562Z"
     }
   ]
 }
