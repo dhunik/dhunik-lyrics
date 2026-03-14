@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:47.772Z",
+  "updated_at": "2026-03-14T05:43:51.064Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:47.198Z"
+    },
+    {
+      "hash": "b2b44c4d2e2b0798",
+      "track": "Ishq Mubarak",
+      "artist": "Arijit Singh - Tum Bin 2",
+      "album": "Tum Bin 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-14T05:43:50.529Z"
     }
   ]
 }
