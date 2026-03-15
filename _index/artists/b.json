@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-14T18:44:08.491Z",
+  "updated_at": "2026-03-15T07:45:16.142Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T18:44:07.666Z"
+    },
+    {
+      "hash": "0d22b00daf9ecfd1",
+      "track": "Mann Bharryaa 2.0",
+      "artist": "B Praak, Jaani",
+      "album": "Shershaah",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:45:14.781Z"
     }
   ]
 }
