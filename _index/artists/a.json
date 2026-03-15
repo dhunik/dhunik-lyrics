@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-15T07:45:13.934Z",
+  "updated_at": "2026-03-15T07:45:37.070Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -147,6 +147,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:45:12.670Z"
+    },
+    {
+      "hash": "9aec409e14fff14a",
+      "track": "Jeene Laga Hoon",
+      "artist": "Rishi Chanda, Aditi Paul",
+      "album": "Sathiya",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-15T07:45:35.758Z"
     }
   ]
 }
