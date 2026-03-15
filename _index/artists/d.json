@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-03-15T07:52:02.539Z",
+  "updated_at": "2026-03-15T07:52:06.364Z",
   "entries": [
     {
       "hash": "78ab4fad0f6e5b13",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:52:00.942Z"
+    },
+    {
+      "hash": "813bbab2e7ce815b",
+      "track": "Bach Ke Rehna (Red Notice)",
+      "artist": "Badshah, DIVINE, Jonita Gandhi, Mikey McCleary",
+      "album": "Bach Ke Rehna (Red Notice)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:52:05.152Z"
     }
   ]
 }
