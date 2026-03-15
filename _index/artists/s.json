@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-15T12:24:34.864Z",
+  "updated_at": "2026-03-15T12:32:16.244Z",
   "entries": [
     {
       "hash": "d335514972ec4cd4",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-15T12:24:34.249Z"
+    },
+    {
+      "hash": "00f0e10f6fb9685f",
+      "track": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab - Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "album": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T12:32:15.730Z"
     }
   ]
 }
