@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-15T07:48:52.952Z",
+  "updated_at": "2026-03-15T07:48:56.244Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -165,6 +165,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-15T07:48:51.752Z"
+    },
+    {
+      "hash": "34839e022eb72af0",
+      "track": "Tere Bina",
+      "artist": "Arijit Singh, Aakanksha Sharma",
+      "album": "1921",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:48:54.769Z"
     }
   ]
 }
