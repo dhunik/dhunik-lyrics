@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "v",
+  "type": "track",
+  "updated_at": "2026-03-15T07:48:58.626Z",
+  "entries": [
+    {
+      "hash": "f053ddba50397d70",
+      "track": "Ve Maahi",
+      "artist": "Arijit Singh, Asees Kaur",
+      "album": "Kesari",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:48:57.480Z"
+    }
+  ]
+}
