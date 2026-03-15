@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-14T18:51:43.303Z",
+  "updated_at": "2026-03-15T07:45:01.035Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -129,6 +129,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T18:51:39.244Z"
+    },
+    {
+      "hash": "4186becf71f63f33",
+      "track": "Duniyaa",
+      "artist": "Abhijit Vaghani, Akhil, Dhvani Bhanushali",
+      "album": "Luka Chuppi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:44:59.813Z"
     }
   ]
 }
