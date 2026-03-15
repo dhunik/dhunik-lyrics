@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-03-14T05:35:49.207Z",
+  "updated_at": "2026-03-15T07:45:08.392Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-14T05:35:48.638Z"
+    },
+    {
+      "hash": "a000b6c3db40718a",
+      "track": "Humdum",
+      "artist": "Vishal Mishra, Raj Shekhar",
+      "album": "Savi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:45:07.093Z"
     }
   ]
 }
