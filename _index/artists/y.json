@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-15T07:48:52.964Z",
+  "updated_at": "2026-03-15T07:55:49.107Z",
   "entries": [
     {
       "hash": "4a08dcbd9f7e4d1c",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-15T07:48:51.752Z"
+    },
+    {
+      "hash": "40dd01924c5e8017",
+      "track": "Makhna",
+      "artist": "Yo Yo Honey Singh, Neha Kakkar, Singhsta, Pinaki, Sean, Allistair",
+      "album": "Makhna",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:55:47.696Z"
     }
   ]
 }
