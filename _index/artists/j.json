@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-14T05:46:59.421Z",
+  "updated_at": "2026-03-15T07:44:43.117Z",
   "entries": [
     {
       "hash": "8ee2a37b6baafce1",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:46:54.608Z"
+    },
+    {
+      "hash": "dc72c84a3f6b1291",
+      "track": "Tum Hi Aana",
+      "artist": "Payal Dev, Jubin Nautiyal",
+      "album": "Marjaavaan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:44:41.879Z"
     }
   ]
 }
