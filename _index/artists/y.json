@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-12T04:25:04.689Z",
+  "updated_at": "2026-03-15T07:48:52.964Z",
   "entries": [
     {
       "hash": "4a08dcbd9f7e4d1c",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-12T04:25:04.043Z"
+    },
+    {
+      "hash": "ba7bf861dbf32124",
+      "track": "Makhna",
+      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
+      "album": "Drive",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-15T07:48:51.752Z"
     }
   ]
 }
