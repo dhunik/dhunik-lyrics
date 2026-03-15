@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-03-15T07:52:02.546Z",
+  "updated_at": "2026-03-15T17:42:15.441Z",
   "entries": [
     {
-      "hash": "38af30baa3506ef8",
-      "track": "Makhna",
-      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "album": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-02-12T12:02:26.992Z"
-    },
-    {
-      "hash": "ce010d72121a2c28",
-      "track": "Matwaliye",
-      "artist": "Satinder Sartaaj - Seven Rivers",
-      "album": "Seven Rivers",
+      "hash": "1e8ce1edda2760a3",
+      "track": "Muskurane (Romantic)",
+      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "album": "Citylights",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-11T05:13:49.852Z"
-    },
-    {
-      "hash": "2f73d95e100e6f63",
-      "track": "Millionaire",
-      "artist": "Yo Yo Honey Singh",
-      "album": "GLORY",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-12T04:25:04.043Z"
-    },
-    {
-      "hash": "efdcf6efa6bd37d3",
-      "track": "Mera Pyar Tera Pyar",
-      "artist": "Jeet Gannguli, Arijit Singh - Jalebi",
-      "album": "Jalebi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:10.097Z"
-    },
-    {
-      "hash": "cad3571dc12140a5",
-      "track": "Main Dhoondne Ko Zamaane Mein",
-      "artist": "Gaurav Dagaonkar, Arijit Singh - Heartless",
-      "album": "Heartless",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:44:07.920Z"
-    },
-    {
-      "hash": "0d22b00daf9ecfd1",
-      "track": "Mann Bharryaa 2.0",
-      "artist": "B Praak, Jaani",
-      "album": "Shershaah",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:45:14.781Z"
-    },
-    {
-      "hash": "926c8bfe4af10ef5",
-      "track": "Mere Gully Mein",
-      "artist": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
-      "album": "Gully Boy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:51:54.625Z"
-    },
-    {
-      "hash": "aa306226b8e2e87b",
-      "track": "Mera Bhai",
-      "artist": "DIVINE",
-      "album": "Punya Paap",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:52:00.942Z"
+      "cached_at": "2026-03-15T17:41:34.465Z"
     }
   ]
 }
