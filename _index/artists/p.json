@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-15T09:01:12.077Z",
+  "updated_at": "2026-03-15T17:48:26.550Z",
   "entries": [
     {
       "hash": "d516314a26877e4b",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-15T09:01:11.279Z"
+    },
+    {
+      "hash": "5e428b8c5128e0e3",
+      "track": "Alta Makhi",
+      "artist": "Bijay Anand Sahu, Pankaj Tandi, Pratham Kumbhar, Kiran Dash",
+      "album": "Alta Makhi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-15T17:48:21.485Z"
     }
   ]
 }
