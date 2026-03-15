@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-15T07:51:54.854Z",
+  "updated_at": "2026-03-15T12:24:35.637Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:51:53.590Z"
+    },
+    {
+      "hash": "8e2dfd9e4f4de5d7",
+      "track": "Tareefan",
+      "artist": "QARAN, Badshah",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-15T12:24:31.592Z"
     }
   ]
 }
