@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-03-15T07:51:56.998Z",
+  "updated_at": "2026-03-15T07:52:02.539Z",
   "entries": [
     {
       "hash": "78ab4fad0f6e5b13",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:51:54.625Z"
+    },
+    {
+      "hash": "aa306226b8e2e87b",
+      "track": "Mera Bhai",
+      "artist": "DIVINE",
+      "album": "Punya Paap",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:52:00.942Z"
     }
   ]
 }
