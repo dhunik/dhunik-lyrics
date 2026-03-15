@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-15T07:45:16.142Z",
+  "updated_at": "2026-03-15T07:49:07.526Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:45:14.781Z"
+    },
+    {
+      "hash": "e49f9e59f8bbe4f5",
+      "track": "O’Sajna",
+      "artist": "Badshah, DIVINE, Nikhita Gandhi",
+      "album": "Ek Tha Raja",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-15T07:49:06.277Z"
     }
   ]
 }
