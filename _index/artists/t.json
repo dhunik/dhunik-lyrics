@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-14T05:34:17.040Z",
+  "updated_at": "2026-03-15T12:24:39.077Z",
   "entries": [
     {
       "hash": "38af30baa3506ef8",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:34:16.373Z"
+    },
+    {
+      "hash": "8865fc4e77ad451a",
+      "track": "Gallan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "artist": "Talwiinder, Nds, MC Square",
+      "album": "Gallan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-15T12:24:38.475Z"
     }
   ]
 }
