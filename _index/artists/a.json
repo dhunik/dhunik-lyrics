@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-15T07:48:58.640Z",
+  "updated_at": "2026-03-15T20:19:31.833Z",
   "entries": [
     {
       "hash": "49728f1ff039e84b",
@@ -183,6 +183,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:48:57.480Z"
+    },
+    {
+      "hash": "fd0d381db701315d",
+      "track": "Alag Aasmaan",
+      "artist": "Anuv Jain",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-15T20:19:31.258Z"
     }
   ]
 }
