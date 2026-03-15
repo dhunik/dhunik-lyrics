@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "q",
+  "type": "artist",
+  "updated_at": "2026-03-15T12:24:35.633Z",
+  "entries": [
+    {
+      "hash": "8e2dfd9e4f4de5d7",
+      "track": "Tareefan",
+      "artist": "QARAN, Badshah",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-15T12:24:31.592Z"
+    }
+  ]
+}
