@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-15T17:48:26.550Z",
+  "updated_at": "2026-03-16T16:53:21.237Z",
   "entries": [
     {
-      "hash": "d516314a26877e4b",
-      "track": "Krishnaya Vasudevaya - Shri Krishna Mantra",
-      "artist": "Siddharth Amit Bhavsar, Prateeksha Srivastava",
-      "album": "Krishnaya Vasudevaya - Shri Krishna Mantra",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-06T03:00:44.951Z"
-    },
-    {
-      "hash": "24a7487783fb9b3a",
-      "track": "Raanjhan",
-      "artist": "Sachet-Parampara, Parampara Tandon, Kausar Munir - Do Patti",
-      "album": "Do Patti",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T03:15:31.778Z"
-    },
-    {
-      "hash": "35b2fdc26d3b2eba",
-      "track": "Hawayein",
-      "artist": "Pritam, Arijit Singh - Jab Harry Met Sejal",
-      "album": "Jab Harry Met Sejal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:29:24.559Z"
-    },
-    {
-      "hash": "4c744cd9356830c3",
-      "track": "Sadiya",
-      "artist": "Pawan Singh, Shivani Singh, Kundan Preet",
-      "album": "Sadiya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:35:29.099Z"
-    },
-    {
-      "hash": "fea3bc1465783e3a",
-      "track": "Channa Mereya (Unplugged)",
-      "artist": "Pritam, Arijit Singh - Ae Dil Hai Mushkil  [Deluxe Edition]",
-      "album": "Ae Dil Hai Mushkil  [Deluxe Edition]",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:46:44.988Z"
-    },
-    {
-      "hash": "dc72c84a3f6b1291",
-      "track": "Tum Hi Aana",
-      "artist": "Payal Dev, Jubin Nautiyal",
-      "album": "Marjaavaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:44:41.879Z"
-    },
-    {
-      "hash": "baaaada7bf1b31d6",
-      "track": "Kasoor",
-      "artist": "Prateek Kuhad",
-      "album": "Prateek Kuhad",
+      "hash": "32fdbbe619e50943",
+      "track": "Kesariya",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "album": "Brahmastra",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-15T09:01:11.279Z"
-    },
-    {
-      "hash": "5e428b8c5128e0e3",
-      "track": "Alta Makhi",
-      "artist": "Bijay Anand Sahu, Pankaj Tandi, Pratham Kumbhar, Kiran Dash",
-      "album": "Alta Makhi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-15T17:48:21.485Z"
+      "cached_at": "2026-03-16T16:44:47.688Z"
     }
   ]
 }
