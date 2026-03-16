@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-15T07:52:06.384Z",
+  "updated_at": "2026-03-16T16:54:36.271Z",
   "entries": [
     {
       "hash": "8ee2a37b6baafce1",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:52:05.152Z"
+    },
+    {
+      "hash": "194f999318b5579e",
+      "track": "Raataan Lambiyan",
+      "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+      "album": "Shershaah",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-16T16:54:35.354Z"
     }
   ]
 }
