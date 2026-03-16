@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-03-15T07:51:57.424Z",
+  "updated_at": "2026-03-16T04:41:17.687Z",
   "entries": [
     {
       "hash": "279b68c348f48bc1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:51:56.272Z"
+    },
+    {
+      "hash": "4014078611e4f6b4",
+      "track": "Where Is My Mind (From \"Fight Club\")",
+      "artist": "Geek Music",
+      "album": "Where Is My Mind (From \"Fight Club\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-16T04:41:17.078Z"
     }
   ]
 }
