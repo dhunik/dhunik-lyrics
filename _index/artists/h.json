@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-03-13T17:08:56.706Z",
+  "updated_at": "2026-03-16T04:46:24.293Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-13T17:00:42.893Z"
+    },
+    {
+      "hash": "569ff6e6a4d438d3",
+      "track": "Sajna",
+      "artist": "Darshan Raval, Siddharth Amit Bhavsar, Aditya Gadhvi, Hansika Pareek - Sajna",
+      "album": "Sajna",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-16T04:46:23.652Z"
     }
   ]
 }
