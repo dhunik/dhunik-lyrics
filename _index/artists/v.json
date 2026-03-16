@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-03-15T07:45:08.392Z",
+  "updated_at": "2026-03-16T16:54:39.891Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T07:45:07.093Z"
+    },
+    {
+      "hash": "45114a1a5b915c59",
+      "track": "Kaise Hua",
+      "artist": "Vishal Mishra",
+      "album": "Kabir Singh",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-16T16:54:38.896Z"
     }
   ]
 }
