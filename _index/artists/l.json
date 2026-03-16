@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-03-09T17:29:47.430Z",
+  "updated_at": "2026-03-16T15:22:28.282Z",
   "entries": [
     {
       "hash": "279b68c348f48bc1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-09T17:26:38.347Z"
+    },
+    {
+      "hash": "fb6591215ec1d05f",
+      "track": "Pyar Kiya To Darna Kya",
+      "artist": "Lata Mangeshkar",
+      "album": "Timeless",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-16T15:22:27.270Z"
     }
   ]
 }
