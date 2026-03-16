@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-15T17:42:15.450Z",
+  "updated_at": "2026-03-16T04:45:22.993Z",
   "entries": [
     {
       "hash": "1e8ce1edda2760a3",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T17:41:34.465Z"
+    },
+    {
+      "hash": "d5f25033479ea448",
+      "track": "Laal Peeli Akhiyaan",
+      "artist": "Romy, Tanishk Bagchi, Neeraj Rajawat - Teri Baaton Mein Aisa Uljha Jiya",
+      "album": "Teri Baaton Mein Aisa Uljha Jiya",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-16T04:45:19.927Z"
     }
   ]
 }
