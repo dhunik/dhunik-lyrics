@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-14T05:43:29.737Z",
+  "updated_at": "2026-03-17T13:37:37.092Z",
   "entries": [
     {
       "hash": "58bec048dab18628",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:43:29.138Z"
+    },
+    {
+      "hash": "5fa8307df0c50384",
+      "track": "Finding Her (Female Version)  (From \"UR Debut\")",
+      "artist": "Kushagra, Saaheal, Tanishka Bahl, Bharath",
+      "album": "Finding Her (Female Version)  (From \"UR Debut\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-17T13:37:36.261Z"
     }
   ]
 }
