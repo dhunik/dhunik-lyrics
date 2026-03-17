@@ -2,133 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-15T12:32:16.244Z",
+  "updated_at": "2026-03-17T03:26:35.342Z",
   "entries": [
     {
-      "hash": "d335514972ec4cd4",
-      "track": "Darkhaast",
-      "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
-      "album": "Shivaay",
+      "hash": "4c7728209b21085f",
+      "track": "Hanuman Chalisa",
+      "artist": "Sonu Nigam",
+      "album": "Haidakhan Arti Bhajans",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-12T10:07:02.745Z"
-    },
-    {
-      "hash": "dd6be264ba45287a",
-      "track": "Apna Bana Le",
-      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Arijit Singh",
-      "album": "Valentines Special",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:28:46.099Z"
-    },
-    {
-      "hash": "a8915728a7ebbf7d",
-      "track": "Zamaana Lage",
-      "artist": "Arijit Singh, Shashwat Singh, Qaisar Ul Jafri, Sandeep Shrivastava, Pritam - Metro ... In Dino (Side A)",
-      "album": "Metro ... In Dino (Side A)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:29:21.793Z"
-    },
-    {
-      "hash": "4c744cd9356830c3",
-      "track": "Sadiya",
-      "artist": "Pawan Singh, Shivani Singh, Kundan Preet",
-      "album": "Sadiya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:35:29.099Z"
-    },
-    {
-      "hash": "8a279c77c9f6207c",
-      "track": "Satranga",
-      "artist": "Arijit Singh, Shreyas Puranik, Siddharth-Garima - ANIMAL",
-      "album": "ANIMAL",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:15.110Z"
-    },
-    {
-      "hash": "b220a5ce18a5b644",
-      "track": "Saanson Ko",
-      "artist": "Sharib Toshi, Arijit Singh - Zid",
-      "album": "Zid",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:21.223Z"
-    },
-    {
-      "hash": "16a2664877c219e8",
-      "track": "Anuvanuvuu",
-      "artist": "Sunny M.R., Arijit Singh - Om Bheem Bush",
-      "album": "Om Bheem Bush",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:27.149Z"
-    },
-    {
-      "hash": "f5671af302c15ac9",
-      "track": "Ghungroo",
-      "artist": "Vishal & Shekhar, Arijit Singh, Shilpa Rao, Kumaar - War",
-      "album": "War",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:29.138Z"
-    },
-    {
-      "hash": "adba67e5fa1996e7",
-      "track": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-      "artist": "Amitabh Bhattacharya, Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi - Rocky Aur Rani Kii Prem Kahaani",
-      "album": "Rocky Aur Rani Kii Prem Kahaani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:44:08.679Z"
-    },
-    {
-      "hash": "c76e5827e8b57dfa",
-      "track": "Asalaam-e-Ishqum",
-      "artist": "Sohail Sen, Bappi Lahiri, Neha Bhasin, Irshad Kamil - Gunday",
-      "album": "Gunday",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-14T05:45:06.499Z"
-    },
-    {
-      "hash": "b5d8d36801daeb6f",
-      "track": "Samjhawan (Unplugged By Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "artist": "Shaarib Toshi, Jawad Ahmad, Alia Bhatt - Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "album": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:46:54.608Z"
-    },
-    {
-      "hash": "40dd01924c5e8017",
-      "track": "Makhna",
-      "artist": "Yo Yo Honey Singh, Neha Kakkar, Singhsta, Pinaki, Sean, Allistair",
-      "album": "Makhna",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:55:47.696Z"
-    },
-    {
-      "hash": "5dc3301246783c04",
-      "track": "Dil Chori",
-      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
-      "album": "Yo Yo Da Tashan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-15T12:24:34.249Z"
-    },
-    {
-      "hash": "00f0e10f6fb9685f",
-      "track": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab - Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-      "album": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T12:32:15.730Z"
+      "cached_at": "2026-03-17T03:22:08.896Z"
     }
   ]
 }
