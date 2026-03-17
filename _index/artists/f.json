@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-03-14T05:34:57.196Z",
+  "updated_at": "2026-03-17T11:53:02.230Z",
   "entries": [
     {
       "hash": "3bbd9aea1b9d01c8",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T05:34:56.638Z"
+    },
+    {
+      "hash": "4433192a1cdf07ff",
+      "track": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
+      "artist": "Fort Minor",
+      "album": "The Rising Tied",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-17T11:53:01.512Z"
     }
   ]
 }
