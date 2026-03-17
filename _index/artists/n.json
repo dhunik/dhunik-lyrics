@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-16T16:54:54.669Z",
+  "updated_at": "2026-03-17T13:42:05.593Z",
   "entries": [
     {
       "hash": "b8fab0d23bf2c59a",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-16T16:54:53.910Z"
+    },
+    {
+      "hash": "7146e6359d506d58",
+      "track": "Khayaal",
+      "artist": "Talwiinder, Nds",
+      "album": "Khayaal",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-17T13:42:04.105Z"
     }
   ]
 }
