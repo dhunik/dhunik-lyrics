@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-16T16:53:21.237Z",
+  "updated_at": "2026-03-18T09:19:31.428Z",
   "entries": [
     {
       "hash": "32fdbbe619e50943",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-16T16:44:47.688Z"
+    },
+    {
+      "hash": "af5baf367c2efc1a",
+      "track": "Ae Dil Hai Mushkil Title Track",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Arijit Singh Heartbreak Hits",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-18T09:19:30.574Z"
     }
   ]
 }
