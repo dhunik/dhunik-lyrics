@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-16T02:11:19.275Z",
+  "updated_at": "2026-03-19T06:59:56.047Z",
   "entries": [
     {
       "hash": "38af30baa3506ef8",
@@ -84,6 +84,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-16T02:11:18.631Z"
+    },
+    {
+      "hash": "fcecea656b26be97",
+      "track": "Starboy",
+      "artist": "The Weeknd",
+      "album": "The Highlights",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-19T06:59:55.318Z"
     }
   ]
 }
