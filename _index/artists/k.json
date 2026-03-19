@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-17T13:37:37.092Z",
+  "updated_at": "2026-03-19T02:18:09.914Z",
   "entries": [
     {
-      "hash": "58bec048dab18628",
-      "track": "Tu Hi Meri Shab Hai (From \"Gangster\")",
-      "artist": "KK, Pritam",
-      "album": "Gangster",
+      "hash": "c40ef5993b35c7b0",
+      "track": "Dil Lagana Mana Tha",
+      "artist": "Krish Mondal, Kishore Mondal, Devv Sadaana, Kunaal Vermaa - Dil Lagana Mana Tha",
+      "album": "Dil Lagana Mana Tha",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-13T17:30:12.721Z"
-    },
-    {
-      "hash": "f5671af302c15ac9",
-      "track": "Ghungroo",
-      "artist": "Vishal & Shekhar, Arijit Singh, Shilpa Rao, Kumaar - War",
-      "album": "War",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:29.138Z"
-    },
-    {
-      "hash": "5fa8307df0c50384",
-      "track": "Finding Her (Female Version)  (From \"UR Debut\")",
-      "artist": "Kushagra, Saaheal, Tanishka Bahl, Bharath",
-      "album": "Finding Her (Female Version)  (From \"UR Debut\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-17T13:37:36.261Z"
+      "cached_at": "2026-03-19T02:14:55.000Z"
     }
   ]
 }
