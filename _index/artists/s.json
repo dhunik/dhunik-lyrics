@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-17T03:26:35.342Z",
+  "updated_at": "2026-03-19T06:34:33.092Z",
   "entries": [
     {
       "hash": "4c7728209b21085f",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-17T03:22:08.896Z"
+    },
+    {
+      "hash": "5fcb5d8e0b216132",
+      "track": "More Than You Know",
+      "artist": "Sebastian Ingrosso, Ingrosso, Axwell",
+      "album": "More Than You Know",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-19T06:34:32.441Z"
     }
   ]
 }
