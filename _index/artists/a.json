@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-16T16:55:05.482Z",
+  "updated_at": "2026-03-19T06:32:38.094Z",
   "entries": [
     {
       "hash": "ffb0864ec288e120",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-16T16:55:04.136Z"
+    },
+    {
+      "hash": "b32e49abfcf358eb",
+      "track": "Humdard",
+      "artist": "Mithoon, Arijit Singh - Ek Villain",
+      "album": "Ek Villain",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-19T06:32:37.514Z"
     }
   ]
 }
