@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-03-19T06:59:56.041Z",
+  "updated_at": "2026-03-19T07:33:41.205Z",
   "entries": [
     {
       "hash": "95bf8afd07b8f210",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-19T06:59:55.318Z"
+    },
+    {
+      "hash": "8f57925bc51898fc",
+      "track": "Señorita",
+      "artist": "Shawn Mendes, Camila Cabello",
+      "album": "Shawn Mendes, Camila Cabello",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-19T07:33:38.283Z"
     }
   ]
 }
