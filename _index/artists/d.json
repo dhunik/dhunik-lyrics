@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-03-16T04:46:24.271Z",
+  "updated_at": "2026-03-19T02:18:09.906Z",
   "entries": [
     {
-      "hash": "78ab4fad0f6e5b13",
-      "track": "Automotivo da Turbulencia",
-      "artist": "MC Oliver, MC ZKW, DJ RD DA DZ7, DJ VYZ",
-      "album": "AUTOMOTIVO DA TURBULENCIA",
+      "hash": "c40ef5993b35c7b0",
+      "track": "Dil Lagana Mana Tha",
+      "artist": "Krish Mondal, Kishore Mondal, Devv Sadaana, Kunaal Vermaa - Dil Lagana Mana Tha",
+      "album": "Dil Lagana Mana Tha",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-11T15:20:12.189Z"
-    },
-    {
-      "hash": "d5526b3922391105",
-      "track": "Hilesso Hilessa",
-      "artist": "Devi Sri Prasad, Nakash Aziz, Shreya Ghoshal",
-      "album": "Thandel",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:46:07.584Z"
-    },
-    {
-      "hash": "926c8bfe4af10ef5",
-      "track": "Mere Gully Mein",
-      "artist": "Ranveer Singh, DIVINE, Naezy, Sez On The Beat",
-      "album": "Gully Boy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:51:54.625Z"
-    },
-    {
-      "hash": "aa306226b8e2e87b",
-      "track": "Mera Bhai",
-      "artist": "DIVINE",
-      "album": "Punya Paap",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:52:00.942Z"
-    },
-    {
-      "hash": "813bbab2e7ce815b",
-      "track": "Bach Ke Rehna (Red Notice)",
-      "artist": "Badshah, DIVINE, Jonita Gandhi, Mikey McCleary",
-      "album": "Bach Ke Rehna (Red Notice)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:52:05.152Z"
-    },
-    {
-      "hash": "569ff6e6a4d438d3",
-      "track": "Sajna",
-      "artist": "Darshan Raval, Siddharth Amit Bhavsar, Aditya Gadhvi, Hansika Pareek - Sajna",
-      "album": "Sajna",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T04:46:23.652Z"
+      "cached_at": "2026-03-19T02:14:55.000Z"
     }
   ]
 }
