@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-16T04:45:22.993Z",
+  "updated_at": "2026-03-19T06:43:44.512Z",
   "entries": [
     {
       "hash": "1e8ce1edda2760a3",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-16T04:45:19.927Z"
+    },
+    {
+      "hash": "914bb8f8b4d1ee4a",
+      "track": "Bewafa Tera Masoom Chehra",
+      "artist": "Jubin Nautiyal, Rochak Kohli - Bewafa Tera Masoom Chehra",
+      "album": "Bewafa Tera Masoom Chehra",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-19T06:43:43.958Z"
     }
   ]
 }
