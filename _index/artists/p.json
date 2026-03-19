@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-18T13:32:38.910Z",
+  "updated_at": "2026-03-19T10:14:35.868Z",
   "entries": [
     {
       "hash": "4921aa02afc53f24",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-18T13:26:13.424Z"
+    },
+    {
+      "hash": "5bacc489434eb0d9",
+      "track": "Malhari",
+      "artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
+      "album": "Bajirao Mastani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-19T10:14:26.701Z"
     }
   ]
 }
