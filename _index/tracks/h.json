@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-03-17T03:26:35.339Z",
+  "updated_at": "2026-03-19T07:26:09.094Z",
   "entries": [
     {
-      "hash": "4c7728209b21085f",
-      "track": "Hanuman Chalisa",
-      "artist": "Sonu Nigam",
-      "album": "Haidakhan Arti Bhajans",
+      "hash": "9ae6f0c273315cdd",
+      "track": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Glass Animals",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-17T03:22:08.896Z"
+      "has_plain": true,
+      "cached_at": "2026-03-19T07:22:51.040Z"
     }
   ]
 }
