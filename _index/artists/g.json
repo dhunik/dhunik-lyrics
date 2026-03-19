@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-03-16T04:41:17.687Z",
+  "updated_at": "2026-03-19T07:26:09.096Z",
   "entries": [
     {
-      "hash": "279b68c348f48bc1",
-      "track": "DOPAMINE",
-      "artist": "Lavish Dhiman, Guru Randhawa, Gurjit Gill",
-      "album": "DOPAMINE",
+      "hash": "9ae6f0c273315cdd",
+      "track": "Heat Waves",
+      "artist": "Glass Animals",
+      "album": "Glass Animals",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-09T17:26:38.347Z"
-    },
-    {
-      "hash": "0d4525d81f49e7c9",
-      "track": "Naach Meri Rani",
-      "artist": "Guru Randhawa, Tanishk Bagchi, Nikhita Gandhi",
-      "album": "Naach Meri Rani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:51:56.272Z"
-    },
-    {
-      "hash": "4014078611e4f6b4",
-      "track": "Where Is My Mind (From \"Fight Club\")",
-      "artist": "Geek Music",
-      "album": "Where Is My Mind (From \"Fight Club\")",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-16T04:41:17.078Z"
+      "cached_at": "2026-03-19T07:22:51.040Z"
     }
   ]
 }
