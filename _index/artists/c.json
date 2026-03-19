@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-03-11T04:27:54.035Z",
+  "updated_at": "2026-03-19T07:34:54.441Z",
   "entries": [
     {
-      "hash": "602b56e53e1cfb6e",
-      "track": "We Don't Talk Anymore (feat. Selena Gomez)",
-      "artist": "Charlie Puth",
-      "album": "Nine Track Mind",
+      "hash": "8f57925bc51898fc",
+      "track": "Señorita",
+      "artist": "Shawn Mendes, Camila Cabello",
+      "album": "Shawn Mendes, Camila Cabello",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:27:53.434Z"
+      "has_plain": true,
+      "cached_at": "2026-03-19T07:33:38.283Z"
     }
   ]
 }
