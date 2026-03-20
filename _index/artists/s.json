@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-19T07:33:41.208Z",
+  "updated_at": "2026-03-20T08:05:19.279Z",
   "entries": [
     {
       "hash": "4c7728209b21085f",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-19T07:33:38.283Z"
+    },
+    {
+      "hash": "560cd395d3d928a2",
+      "track": "Main tera ho gaya",
+      "artist": "Simon Vikram, Karneast, Riya",
+      "album": "Main tera ho gaya",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-20T08:05:15.083Z"
     }
   ]
 }
