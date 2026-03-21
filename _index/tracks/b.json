@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-03-19T06:43:44.517Z",
+  "updated_at": "2026-03-21T17:02:13.780Z",
   "entries": [
     {
-      "hash": "6651059a8a0e4347",
-      "track": "Baarish Mein Tum",
-      "artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
-      "album": "Neha Kakkar, Rohanpreet Singh, ShowKidd",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T10:23:58.511Z"
-    },
-    {
-      "hash": "895605ea64cfa88f",
-      "track": "Baarish Mein Tum",
-      "artist": "Neha Kakkar",
-      "album": "Baarish Mein Tum",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T10:09:02.552Z"
-    },
-    {
-      "hash": "75836265830a8da5",
-      "track": "Brown Rang",
-      "artist": "Yo Yo Honey Singh - International Villager",
-      "album": "International Villager",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-09T17:34:25.878Z"
-    },
-    {
-      "hash": "a1ec9d502700a0b8",
-      "track": "BIRDS OF A FEATHER",
-      "artist": "Billie Eilish",
-      "album": "HIT ME HARD AND SOFT",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:18:15.658Z"
-    },
-    {
-      "hash": "96ccb0263395deb0",
-      "track": "Blinding Lights",
-      "artist": "The Weeknd - After Hours",
-      "album": "After Hours",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:26:37.953Z"
-    },
-    {
-      "hash": "83dca1bdfcf2c2bb",
-      "track": "BLUE",
-      "artist": "Billie Eilish - HIT ME HARD AND SOFT",
-      "album": "HIT ME HARD AND SOFT",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:32:05.814Z"
-    },
-    {
-      "hash": "d03fbd96a3447663",
-      "track": "Baarish Mein Tum",
-      "artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti - Baarish Mein Tum",
-      "album": "Baarish Mein Tum",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T11:33:08.373Z"
-    },
-    {
-      "hash": "813bbab2e7ce815b",
-      "track": "Bach Ke Rehna (Red Notice)",
-      "artist": "Badshah, DIVINE, Jonita Gandhi, Mikey McCleary",
-      "album": "Bach Ke Rehna (Red Notice)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:52:05.152Z"
-    },
-    {
-      "hash": "3e8da7d81c94302f",
-      "track": "Bekhayali (Arijit Singh Version)",
-      "artist": "Arijit Singh",
+      "hash": "14255f6f29ba005f",
+      "track": "Bekhayali",
+      "artist": "Sachet Tandon - Kabir Singh",
       "album": "Kabir Singh",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-16T16:54:55.337Z"
-    },
-    {
-      "hash": "914bb8f8b4d1ee4a",
-      "track": "Bewafa Tera Masoom Chehra",
-      "artist": "Jubin Nautiyal, Rochak Kohli - Bewafa Tera Masoom Chehra",
-      "album": "Bewafa Tera Masoom Chehra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T06:43:43.958Z"
+      "cached_at": "2026-03-21T16:57:42.775Z"
     }
   ]
 }
