@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-15T07:55:49.107Z",
+  "updated_at": "2026-03-21T13:33:19.970Z",
   "entries": [
     {
-      "hash": "4a08dcbd9f7e4d1c",
-      "track": "Love Dose",
+      "hash": "09baaf6e0e6d1575",
+      "track": "Lungi Dance",
       "artist": "Yo Yo Honey Singh",
-      "album": "Desi Kalakaar",
+      "album": "Lungi Dance",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-09T17:52:58.363Z"
-    },
-    {
-      "hash": "485081a15c7a5d1b",
-      "track": "Blue Eyes",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Blue Eyes",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-09T17:57:42.720Z"
-    },
-    {
-      "hash": "2f73d95e100e6f63",
-      "track": "Millionaire",
-      "artist": "Yo Yo Honey Singh",
-      "album": "GLORY",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-12T04:25:04.043Z"
-    },
-    {
-      "hash": "ba7bf861dbf32124",
-      "track": "Makhna",
-      "artist": "Tanishk Bagchi, Asees Kaur, Yasser Desai",
-      "album": "Drive",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-15T07:48:51.752Z"
-    },
-    {
-      "hash": "40dd01924c5e8017",
-      "track": "Makhna",
-      "artist": "Yo Yo Honey Singh, Neha Kakkar, Singhsta, Pinaki, Sean, Allistair",
-      "album": "Makhna",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:55:47.696Z"
+      "cached_at": "2026-03-21T13:30:36.935Z"
     }
   ]
 }
