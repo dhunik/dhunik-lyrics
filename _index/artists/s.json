@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-20T08:05:19.279Z",
+  "updated_at": "2026-03-21T16:57:29.145Z",
   "entries": [
     {
       "hash": "4c7728209b21085f",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-20T08:05:15.083Z"
+    },
+    {
+      "hash": "497db6a93fc097ad",
+      "track": "Mitwa (Lofi Flip)",
+      "artist": "Silent Ocean, Shankar Mahadevan, Shankar-Ehsaan-Loy, Bollywood Lofi",
+      "album": "Mitwa (Lofi Flip)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-21T16:57:20.122Z"
     }
   ]
 }
