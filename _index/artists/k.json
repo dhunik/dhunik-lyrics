@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-19T02:18:09.914Z",
+  "updated_at": "2026-03-21T16:57:14.902Z",
   "entries": [
     {
-      "hash": "c40ef5993b35c7b0",
-      "track": "Dil Lagana Mana Tha",
-      "artist": "Krish Mondal, Kishore Mondal, Devv Sadaana, Kunaal Vermaa - Dil Lagana Mana Tha",
-      "album": "Dil Lagana Mana Tha",
+      "hash": "53d814e1ce330c57",
+      "track": "Judai",
+      "artist": "Pritam, Kamran Ahmed - Jannat",
+      "album": "Jannat",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-19T02:14:55.000Z"
+      "cached_at": "2026-03-21T16:53:54.842Z"
     }
   ]
 }
