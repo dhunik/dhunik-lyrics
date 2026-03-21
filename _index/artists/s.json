@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-21T16:57:29.145Z",
+  "updated_at": "2026-03-21T17:02:13.782Z",
   "entries": [
     {
-      "hash": "4c7728209b21085f",
-      "track": "Hanuman Chalisa",
-      "artist": "Sonu Nigam",
-      "album": "Haidakhan Arti Bhajans",
+      "hash": "14255f6f29ba005f",
+      "track": "Bekhayali",
+      "artist": "Sachet Tandon - Kabir Singh",
+      "album": "Kabir Singh",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-17T03:22:08.896Z"
-    },
-    {
-      "hash": "5fcb5d8e0b216132",
-      "track": "More Than You Know",
-      "artist": "Sebastian Ingrosso, Ingrosso, Axwell",
-      "album": "More Than You Know",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-19T06:34:32.441Z"
-    },
-    {
-      "hash": "8f57925bc51898fc",
-      "track": "Señorita",
-      "artist": "Shawn Mendes, Camila Cabello",
-      "album": "Shawn Mendes, Camila Cabello",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T07:33:38.283Z"
-    },
-    {
-      "hash": "560cd395d3d928a2",
-      "track": "Main tera ho gaya",
-      "artist": "Simon Vikram, Karneast, Riya",
-      "album": "Main tera ho gaya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-20T08:05:15.083Z"
-    },
-    {
-      "hash": "497db6a93fc097ad",
-      "track": "Mitwa (Lofi Flip)",
-      "artist": "Silent Ocean, Shankar Mahadevan, Shankar-Ehsaan-Loy, Bollywood Lofi",
-      "album": "Mitwa (Lofi Flip)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-21T16:57:20.122Z"
+      "cached_at": "2026-03-21T16:57:42.775Z"
     }
   ]
 }
