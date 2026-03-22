@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-22T12:21:24.078Z",
+  "updated_at": "2026-03-22T12:21:25.569Z",
   "entries": [
     {
       "hash": "53d814e1ce330c57",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-22T12:21:23.357Z"
+    },
+    {
+      "hash": "776b0461e3ab49d4",
+      "track": "Iktara",
+      "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-22T12:21:24.942Z"
     }
   ]
 }
