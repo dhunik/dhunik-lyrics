@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-22T08:10:58.245Z",
+  "updated_at": "2026-03-22T12:14:49.047Z",
   "entries": [
     {
       "hash": "14255f6f29ba005f",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-22T08:10:56.981Z"
+    },
+    {
+      "hash": "6d5ef44d101215fd",
+      "track": "Jhoome Jo Pathaan",
+      "artist": "Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-22T12:14:48.319Z"
     }
   ]
 }
