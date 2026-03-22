@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-21T17:02:13.782Z",
+  "updated_at": "2026-03-22T08:10:58.245Z",
   "entries": [
     {
       "hash": "14255f6f29ba005f",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-21T16:57:42.775Z"
+    },
+    {
+      "hash": "d613a031afb16a0e",
+      "track": "Jaiye Sajana",
+      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-22T08:10:56.981Z"
     }
   ]
 }
