@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-22T12:21:19.144Z",
+  "updated_at": "2026-03-22T12:23:39.492Z",
   "entries": [
     {
-      "hash": "e54f4a12ca4db1c2",
-      "track": "Dhurandhar The Revenge - Aari Aari",
-      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
+      "hash": "0114b897c610b8f7",
+      "track": "Infinity",
+      "artist": "Jaymes Young",
+      "album": "Feel Something",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-22T12:21:07.154Z"
+      "cached_at": "2026-03-22T12:23:20.476Z"
     }
   ]
 }
