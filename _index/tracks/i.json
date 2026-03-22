@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "track",
-  "updated_at": "2026-03-22T12:23:39.490Z",
+  "updated_at": "2026-03-22T12:24:50.104Z",
   "entries": [
     {
       "hash": "0114b897c610b8f7",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-22T12:23:20.476Z"
+    },
+    {
+      "hash": "d67d796e4281d90b",
+      "track": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+      "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan, Sahir Ludhianvi",
+      "album": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-22T12:24:47.905Z"
     }
   ]
 }
