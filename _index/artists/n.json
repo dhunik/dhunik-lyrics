@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-17T13:42:05.593Z",
+  "updated_at": "2026-03-22T12:24:52.488Z",
   "entries": [
     {
       "hash": "b8fab0d23bf2c59a",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-17T13:42:04.105Z"
+    },
+    {
+      "hash": "f810ca1272553982",
+      "track": "Symphony (Techno Version)",
+      "artist": "No Emotion",
+      "album": "Symphony (Techno Version)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-22T12:24:51.814Z"
     }
   ]
 }
