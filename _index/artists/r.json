@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-22T12:24:55.131Z",
+  "updated_at": "2026-03-22T12:26:04.098Z",
   "entries": [
     {
       "hash": "1e8ce1edda2760a3",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-22T12:24:47.905Z"
+    },
+    {
+      "hash": "7318390a0419c43b",
+      "track": "A Flying Jatt - Title Track",
+      "artist": "Raftaar, Mansheel Gujaral, Tanishkaa - A Flying Jatt",
+      "album": "A Flying Jatt",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-22T12:26:03.450Z"
     }
   ]
 }
