@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-22T12:24:52.488Z",
+  "updated_at": "2026-03-22T12:25:51.827Z",
   "entries": [
     {
-      "hash": "b8fab0d23bf2c59a",
-      "track": "Funk de Beleza",
-      "artist": "Scythermane, Nateki, MC Mayah",
-      "album": "Funk de Beleza",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-11T15:19:47.526Z"
-    },
-    {
-      "hash": "d8085dcbc38c1316",
-      "track": "Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
-      "artist": "Dj Chetas, Neha Kakkar, Farhan Sabri - Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
-      "album": "Bol Kaffara Kya Hoga (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:34:56.638Z"
-    },
-    {
-      "hash": "11e7fe802eb344c3",
-      "track": "Oh Humsafar",
-      "artist": "Neha Kakkar, Tony Kakkar - Oh Humsafar",
-      "album": "Oh Humsafar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:35:00.690Z"
-    },
-    {
-      "hash": "e49f9e59f8bbe4f5",
-      "track": "O’Sajna",
-      "artist": "Badshah, DIVINE, Nikhita Gandhi",
-      "album": "Ek Tha Raja",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:49:06.277Z"
-    },
-    {
-      "hash": "40dd01924c5e8017",
-      "track": "Makhna",
-      "artist": "Yo Yo Honey Singh, Neha Kakkar, Singhsta, Pinaki, Sean, Allistair",
-      "album": "Makhna",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:55:47.696Z"
-    },
-    {
-      "hash": "8865fc4e77ad451a",
-      "track": "Gallan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "artist": "Talwiinder, Nds, MC Square",
-      "album": "Gallan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-15T12:24:38.475Z"
-    },
-    {
-      "hash": "d5f25033479ea448",
-      "track": "Laal Peeli Akhiyaan",
-      "artist": "Romy, Tanishk Bagchi, Neeraj Rajawat - Teri Baaton Mein Aisa Uljha Jiya",
-      "album": "Teri Baaton Mein Aisa Uljha Jiya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T04:45:19.927Z"
-    },
-    {
-      "hash": "58bfddd2245b5ea3",
-      "track": "Mere Yaaraa",
-      "artist": "Arijit Singh, Neeti Mohan",
-      "album": "Sooryavanshi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:54:53.910Z"
-    },
-    {
-      "hash": "7146e6359d506d58",
-      "track": "Khayaal",
-      "artist": "Talwiinder, Nds",
-      "album": "Khayaal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-17T13:42:04.105Z"
-    },
-    {
-      "hash": "f810ca1272553982",
-      "track": "Symphony (Techno Version)",
-      "artist": "No Emotion",
-      "album": "Symphony (Techno Version)",
+      "hash": "88df85f3d32ee63c",
+      "track": "Haseen",
+      "artist": "Talwiinder, Nds, Rippy Grewal",
+      "album": "Haseen",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-22T12:24:51.814Z"
+      "cached_at": "2026-03-22T12:25:06.702Z"
     }
   ]
 }
