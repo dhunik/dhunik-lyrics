@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-03-15T12:24:34.867Z",
+  "updated_at": "2026-03-22T12:21:19.132Z",
   "entries": [
     {
-      "hash": "59875883fb72928a",
-      "track": "Gehra Hua",
-      "artist": "Irshad Kamil, Arijit Singh, Shashwat Sachdev, Armaan Khan",
-      "album": "Dhurandhar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-11T15:36:57.297Z"
-    },
-    {
-      "hash": "f09c0df5df4db901",
-      "track": "Saiyaara",
-      "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil - Saiyaara",
-      "album": "Saiyaara",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T03:05:11.087Z"
-    },
-    {
-      "hash": "4582eb5d6af6f269",
-      "track": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
-      "artist": "Irshad Kamil, A.R. Rahman, Arijit Singh - Tere Ishk Mein (From \"Tere Ishk Mein\")",
-      "album": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:29:52.912Z"
-    },
-    {
-      "hash": "5dc3301246783c04",
-      "track": "Dil Chori",
-      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
-      "album": "Yo Yo Da Tashan",
+      "hash": "e54f4a12ca4db1c2",
+      "track": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-15T12:24:34.249Z"
+      "cached_at": "2026-03-22T12:21:07.154Z"
     }
   ]
 }
