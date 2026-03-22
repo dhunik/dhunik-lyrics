@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "track",
-  "updated_at": "2026-03-22T12:21:25.564Z",
+  "updated_at": "2026-03-22T12:23:39.490Z",
   "entries": [
     {
-      "hash": "bebda4ea5a088974",
-      "track": "Ijazat",
-      "artist": "Arijit Singh - One Night Stand",
-      "album": "One Night Stand",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:32.703Z"
-    },
-    {
-      "hash": "b2b44c4d2e2b0798",
-      "track": "Ishq Mubarak",
-      "artist": "Arijit Singh - Tum Bin 2",
-      "album": "Tum Bin 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:50.529Z"
-    },
-    {
-      "hash": "4a2076e6fba1a039",
-      "track": "I'm Geekin (Remix)",
-      "artist": "Ddg",
-      "album": "I'm Geekin (Remix)",
+      "hash": "0114b897c610b8f7",
+      "track": "Infinity",
+      "artist": "Jaymes Young",
+      "album": "Feel Something",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-21T12:18:09.475Z"
-    },
-    {
-      "hash": "776b0461e3ab49d4",
-      "track": "Iktara",
-      "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:21:24.942Z"
+      "cached_at": "2026-03-22T12:23:20.476Z"
     }
   ]
 }
