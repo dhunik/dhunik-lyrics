@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-15T12:32:16.241Z",
+  "updated_at": "2026-03-22T12:21:24.063Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-15T12:32:15.730Z"
+    },
+    {
+      "hash": "039108aeb3537575",
+      "track": "Jai Jai Shivshankar",
+      "artist": "Vishal & Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
+      "album": "War",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-22T12:21:23.357Z"
     }
   ]
 }
