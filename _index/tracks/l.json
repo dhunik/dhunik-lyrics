@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-03-21T13:33:19.979Z",
+  "updated_at": "2026-03-23T14:13:53.496Z",
   "entries": [
     {
       "hash": "09baaf6e0e6d1575",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-21T13:30:36.935Z"
+    },
+    {
+      "hash": "4f118ef4afed33fc",
+      "track": "Let It Go",
+      "artist": "James Bay - Chaos And The Calm",
+      "album": "James Bay",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-23T14:13:52.434Z"
     }
   ]
 }
