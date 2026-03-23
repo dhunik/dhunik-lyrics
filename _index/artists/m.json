@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-03-19T06:32:38.102Z",
+  "updated_at": "2026-03-23T14:34:12.615Z",
   "entries": [
     {
       "hash": "2f303ad60ff65b11",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-19T06:32:37.514Z"
+    },
+    {
+      "hash": "06146bf6c0e1bdb0",
+      "track": "Crystals",
+      "artist": "Of Monsters And Men - Rock Hits 2015",
+      "album": "Crystals",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-23T14:34:11.705Z"
     }
   ]
 }
