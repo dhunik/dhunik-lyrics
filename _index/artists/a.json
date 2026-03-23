@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-19T06:32:38.094Z",
+  "updated_at": "2026-03-23T16:51:50.693Z",
   "entries": [
     {
-      "hash": "ffb0864ec288e120",
-      "track": "Piya Bawri",
-      "artist": "Asha Bhosle, Ashok Kumar",
-      "album": "Khubsoorat",
+      "hash": "57d2d28db6451e89",
+      "track": "Tere Ho Ke Rahenge",
+      "artist": "Arijit Singh",
+      "album": "Kaari Kaari And Other Hits",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-16T15:14:05.815Z"
-    },
-    {
-      "hash": "194f999318b5579e",
-      "track": "Raataan Lambiyan",
-      "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
-      "album": "Shershaah",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:54:35.354Z"
-    },
-    {
-      "hash": "2caae739143faee4",
-      "track": "Tujhe Kitna Chahne Lage",
-      "artist": "Arijit Singh",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:54:40.626Z"
-    },
-    {
-      "hash": "3e8da7d81c94302f",
-      "track": "Bekhayali (Arijit Singh Version)",
-      "artist": "Arijit Singh",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:54:55.337Z"
-    },
-    {
-      "hash": "96b0117def3c38ff",
-      "track": "Pachtaoge (From \"Jaani Ve\")",
-      "artist": "Arijit Singh",
-      "album": "Pachtaoge (From \"Jaani Ve\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:55:04.136Z"
-    },
-    {
-      "hash": "b32e49abfcf358eb",
-      "track": "Humdard",
-      "artist": "Mithoon, Arijit Singh - Ek Villain",
-      "album": "Ek Villain",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T06:32:37.514Z"
+      "cached_at": "2026-03-23T16:50:08.461Z"
     }
   ]
 }
