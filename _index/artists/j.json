@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-23T14:13:53.526Z",
+  "updated_at": "2026-03-23T16:56:45.754Z",
   "entries": [
     {
-      "hash": "0114b897c610b8f7",
-      "track": "Infinity",
-      "artist": "Jaymes Young",
-      "album": "Feel Something",
+      "hash": "6bfd9364b0e1f332",
+      "track": "Taaron Ke Shehar",
+      "artist": "Neha Kakkar, Jubin Nautiyal, Jaani",
+      "album": "Taaron Ke Shehar",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:23:20.476Z"
-    },
-    {
-      "hash": "4f118ef4afed33fc",
-      "track": "Let It Go",
-      "artist": "James Bay - Chaos And The Calm",
-      "album": "James Bay",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-23T14:13:52.434Z"
+      "has_plain": false,
+      "cached_at": "2026-03-23T16:55:32.192Z"
     }
   ]
 }
