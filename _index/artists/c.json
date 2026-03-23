@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-03-22T12:23:19.001Z",
+  "updated_at": "2026-03-23T17:08:01.023Z",
   "entries": [
     {
-      "hash": "8f57925bc51898fc",
-      "track": "Señorita",
-      "artist": "Shawn Mendes, Camila Cabello",
-      "album": "Shawn Mendes, Camila Cabello",
+      "hash": "edb1309b675c9b29",
+      "track": "Mast Magan",
+      "artist": "Shankar-Ehsaan-Loy, Arijit Singh, Chinmayi Sripada",
+      "album": "2 States",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T07:33:38.283Z"
-    },
-    {
-      "hash": "233fd85d4e383f2f",
-      "track": "Levitating",
-      "artist": "Covers Culture",
-      "album": "Levitating",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:23:09.381Z"
+      "has_plain": false,
+      "cached_at": "2026-03-23T17:02:57.384Z"
     }
   ]
 }
