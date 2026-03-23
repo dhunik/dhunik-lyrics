@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-22T12:24:55.126Z",
+  "updated_at": "2026-03-23T17:08:01.015Z",
   "entries": [
     {
-      "hash": "14255f6f29ba005f",
-      "track": "Bekhayali",
-      "artist": "Sachet Tandon - Kabir Singh",
-      "album": "Kabir Singh",
+      "hash": "edb1309b675c9b29",
+      "track": "Mast Magan",
+      "artist": "Shankar-Ehsaan-Loy, Arijit Singh, Chinmayi Sripada",
+      "album": "2 States",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-21T16:57:42.775Z"
-    },
-    {
-      "hash": "d613a031afb16a0e",
-      "track": "Jaiye Sajana",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-22T08:10:56.981Z"
-    },
-    {
-      "hash": "6d5ef44d101215fd",
-      "track": "Jhoome Jo Pathaan",
-      "artist": "Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
-      "album": "Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:14:48.319Z"
-    },
-    {
-      "hash": "d67d796e4281d90b",
-      "track": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-      "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan, Sahir Ludhianvi",
-      "album": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:24:47.905Z"
+      "cached_at": "2026-03-23T17:02:57.384Z"
     }
   ]
 }
