@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-03-22T12:24:52.492Z",
+  "updated_at": "2026-03-24T03:09:22.043Z",
   "entries": [
     {
-      "hash": "95bf8afd07b8f210",
-      "track": "Shiv Panchakshar Stotra",
-      "artist": "Religious India",
-      "album": "Shiv Panchakshar Stotra",
+      "hash": "0d9b8e1ac948b9be",
+      "track": "Shri Krishna Govind Hare Murari",
+      "artist": "Jubin Nautiyal",
+      "album": "Shri Krishna Govind Hare Murari",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-12T03:09:04.289Z"
-    },
-    {
-      "hash": "88958f83b7e54784",
-      "track": "Sadha Ninna Kannali",
-      "artist": "Sonu Nigam, Shreya Ghoshal, V. Harikrishna, Jayanth Kaikini",
-      "album": "Bachchan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-14T05:35:48.638Z"
-    },
-    {
-      "hash": "8a279c77c9f6207c",
-      "track": "Satranga",
-      "artist": "Arijit Singh, Shreyas Puranik, Siddharth-Garima - ANIMAL",
-      "album": "ANIMAL",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:15.110Z"
-    },
-    {
-      "hash": "b5d8d36801daeb6f",
-      "track": "Samjhawan (Unplugged By Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "artist": "Shaarib Toshi, Jawad Ahmad, Alia Bhatt - Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "album": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:46:54.608Z"
-    },
-    {
-      "hash": "73129495d3baf667",
-      "track": "Shiv Tandav Stotram",
-      "artist": "Shankar Mahadevan",
-      "album": "Shiv Tandav Stotram",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T02:58:25.415Z"
-    },
-    {
-      "hash": "569ff6e6a4d438d3",
-      "track": "Sajna",
-      "artist": "Darshan Raval, Siddharth Amit Bhavsar, Aditya Gadhvi, Hansika Pareek - Sajna",
-      "album": "Sajna",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T04:46:23.652Z"
-    },
-    {
-      "hash": "fcecea656b26be97",
-      "track": "Starboy",
-      "artist": "The Weeknd",
-      "album": "The Highlights",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T06:59:55.318Z"
-    },
-    {
-      "hash": "8f57925bc51898fc",
-      "track": "Señorita",
-      "artist": "Shawn Mendes, Camila Cabello",
-      "album": "Shawn Mendes, Camila Cabello",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T07:33:38.283Z"
-    },
-    {
-      "hash": "f810ca1272553982",
-      "track": "Symphony (Techno Version)",
-      "artist": "No Emotion",
-      "album": "Symphony (Techno Version)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:24:51.814Z"
+      "cached_at": "2026-03-24T03:04:26.281Z"
     }
   ]
 }
