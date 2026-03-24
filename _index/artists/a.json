@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-23T16:59:23.924Z",
+  "updated_at": "2026-03-24T14:13:10.692Z",
   "entries": [
     {
-      "hash": "57d2d28db6451e89",
-      "track": "Tere Ho Ke Rahenge",
-      "artist": "Arijit Singh",
-      "album": "Kaari Kaari And Other Hits",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-23T16:50:08.461Z"
-    },
-    {
-      "hash": "79225e633f184140",
-      "track": "Naina Banjare",
-      "artist": "Arijit Singh",
-      "album": "Pataakha",
+      "hash": "06f22bcd39a28c7d",
+      "track": "Soch Na Sake",
+      "artist": "Arijit Singh, Tulsi Kumar, Amaal Mallik - Airlift",
+      "album": "Airlift",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-23T16:59:23.191Z"
+      "cached_at": "2026-03-24T14:08:17.865Z"
     }
   ]
 }
