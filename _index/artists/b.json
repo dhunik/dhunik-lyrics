@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-25T21:51:28.925Z",
+  "updated_at": "2026-03-25T21:55:38.582Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -102,6 +102,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T21:51:25.957Z"
+    },
+    {
+      "hash": "1071873b599ee827",
+      "track": "Chances",
+      "artist": "Backstreet Boys",
+      "album": "Chances",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:55:35.476Z"
     }
   ]
 }
