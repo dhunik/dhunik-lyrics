@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-03-23T16:56:45.748Z",
+  "updated_at": "2026-03-25T02:47:58.723Z",
   "entries": [
     {
       "hash": "6bfd9364b0e1f332",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-23T16:55:32.192Z"
+    },
+    {
+      "hash": "84442373c971204e",
+      "track": "Tere Ishq Ne",
+      "artist": "Shashwat Sachdev, Jyoti Nooran, Kumaar - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T02:47:58.107Z"
     }
   ]
 }
