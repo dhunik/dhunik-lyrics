@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-25T21:21:53.819Z",
+  "updated_at": "2026-03-25T21:39:28.069Z",
   "entries": [
     {
       "hash": "edb1309b675c9b29",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T21:21:50.388Z"
+    },
+    {
+      "hash": "bfc9e16328127885",
+      "track": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "artist": "Spice",
+      "album": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:39:25.927Z"
     }
   ]
 }
