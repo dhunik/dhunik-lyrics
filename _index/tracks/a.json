@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-03-18T09:19:31.414Z",
+  "updated_at": "2026-03-25T02:35:48.221Z",
   "entries": [
     {
       "hash": "3c4b41a5c2635675",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-18T09:19:30.574Z"
+    },
+    {
+      "hash": "1bb3c86b29ed1261",
+      "track": "Aakhri Ishq",
+      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T02:35:46.604Z"
     }
   ]
 }
