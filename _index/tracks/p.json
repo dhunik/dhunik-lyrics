@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-03-16T16:55:05.380Z",
+  "updated_at": "2026-03-25T02:41:34.965Z",
   "entries": [
     {
-      "hash": "ffb0864ec288e120",
-      "track": "Piya Bawri",
-      "artist": "Asha Bhosle, Ashok Kumar",
-      "album": "Khubsoorat",
+      "hash": "a58f24d57a81d3e8",
+      "track": "Phir Se",
+      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-16T15:14:05.815Z"
-    },
-    {
-      "hash": "fb6591215ec1d05f",
-      "track": "Pyar Kiya To Darna Kya",
-      "artist": "Lata Mangeshkar",
-      "album": "Timeless",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-16T15:22:27.270Z"
-    },
-    {
-      "hash": "96b0117def3c38ff",
-      "track": "Pachtaoge (From \"Jaani Ve\")",
-      "artist": "Arijit Singh",
-      "album": "Pachtaoge (From \"Jaani Ve\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:55:04.136Z"
+      "cached_at": "2026-03-25T02:41:05.696Z"
     }
   ]
 }
