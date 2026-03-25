@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "track",
-  "updated_at": "2026-03-21T12:30:28.222Z",
+  "updated_at": "2026-03-25T02:47:39.277Z",
   "entries": [
     {
-      "hash": "43f1a522613bbf43",
-      "track": "Ram Siya Ram",
-      "artist": "Sachet Tandon - Ram Siya Ram",
-      "album": "Ram Siya Ram",
+      "hash": "a3bef1c04895284b",
+      "track": "Ranjha",
+      "artist": "Jasleen Royal, B Praak, Romy",
+      "album": "Shershaah",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-03T03:00:47.995Z"
-    },
-    {
-      "hash": "45db5efaa4461ab9",
-      "track": "Rula Ke Gaya Ishq",
-      "artist": "Stebin Ben - Rula Ke Gaya Ishq",
-      "album": "Rula Ke Gaya Ishq",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T09:38:34.691Z"
-    },
-    {
-      "hash": "938d4f1d6a929a85",
-      "track": "Rudrashtakam",
-      "artist": "Anuradha Paudwal",
-      "album": "Mahima Mahakaal Ki",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T03:05:24.505Z"
-    },
-    {
-      "hash": "24a7487783fb9b3a",
-      "track": "Raanjhan",
-      "artist": "Sachet-Parampara, Parampara Tandon, Kausar Munir - Do Patti",
-      "album": "Do Patti",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T03:15:31.778Z"
-    },
-    {
-      "hash": "5901dc070d795568",
-      "track": "Raaz Aankhein Teri",
-      "artist": "Arijit Singh - Raaz Reboot",
-      "album": "Raaz Reboot",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:37.973Z"
-    },
-    {
-      "hash": "f5741674f50be395",
-      "track": "Raat Raazi",
-      "artist": "Prateek Kuhad",
-      "album": "Raat Raazi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-15T09:05:04.867Z"
-    },
-    {
-      "hash": "66a52804932af60c",
-      "track": "Raydar",
-      "artist": "Jid ft. Lil Durk - The Forever Story (Extended Version)",
-      "album": "The Forever Story (Extended Version)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-21T12:30:27.553Z"
+      "cached_at": "2026-03-25T02:47:22.799Z"
     }
   ]
 }
