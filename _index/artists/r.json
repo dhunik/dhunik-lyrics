@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-25T02:47:39.283Z",
+  "updated_at": "2026-03-25T23:04:08.561Z",
   "entries": [
     {
-      "hash": "a3bef1c04895284b",
-      "track": "Ranjha",
-      "artist": "Jasleen Royal, B Praak, Romy",
-      "album": "Shershaah",
+      "hash": "612a735e313cd8e8",
+      "track": "Khabar Nahi",
+      "artist": "Vishal & Shekhar, Shreya Ghoshal, Amanat Ali, Vishal Dadlani, Raja Hasan",
+      "album": "Dostana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-25T02:47:22.799Z"
+      "cached_at": "2026-03-25T23:03:15.564Z"
     }
   ]
 }
