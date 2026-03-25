@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-03-21T12:30:28.220Z",
+  "updated_at": "2026-03-25T21:46:39.010Z",
   "entries": [
     {
       "hash": "279b68c348f48bc1",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-21T12:30:27.553Z"
+    },
+    {
+      "hash": "9c9e2f63a9ab2ae1",
+      "track": "Mirror",
+      "artist": "Lil Wayne",
+      "album": "Tha Carter IV (Complete Edition)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:46:33.993Z"
     }
   ]
 }
