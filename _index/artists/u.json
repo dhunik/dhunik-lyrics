@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-02-17T03:12:34.858Z",
+  "updated_at": "2026-03-25T22:16:57.001Z",
   "entries": [
     {
       "hash": "06d9b8692283a4c4",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-02-17T03:12:34.262Z"
+    },
+    {
+      "hash": "7283e948ef61699e",
+      "track": "Yeah! (feat. Lil Jon & Ludacris)",
+      "artist": "Usher",
+      "album": "Crunkest Hits (Clean)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T22:16:56.245Z"
     }
   ]
 }
