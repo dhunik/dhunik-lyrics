@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-19T10:14:35.868Z",
+  "updated_at": "2026-03-25T02:35:24.515Z",
   "entries": [
     {
-      "hash": "4921aa02afc53f24",
-      "track": "Zara Sa",
-      "artist": "Pritam, KK, Sayeed Quadri - Jannat",
-      "album": "Jannat",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-18T13:26:13.424Z"
-    },
-    {
-      "hash": "5bacc489434eb0d9",
-      "track": "Malhari",
-      "artist": "Sanjay Leela Bhansali, Vishal Dadlani, Prashant Ingole",
-      "album": "Bajirao Mastani",
+      "hash": "c1d70adfff952bcc",
+      "track": "Kaun Tujhe",
+      "artist": "Palak Muchhal",
+      "album": "M.S. Dhoni - The Untold Story",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-19T10:14:26.701Z"
+      "cached_at": "2026-03-25T02:35:05.641Z"
     }
   ]
 }
