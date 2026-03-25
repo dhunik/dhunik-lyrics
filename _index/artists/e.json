@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "e",
   "type": "artist",
-  "updated_at": "2026-03-14T19:04:17.853Z",
+  "updated_at": "2026-03-25T21:33:43.774Z",
   "entries": [
     {
       "hash": "2c10290148f0f545",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-14T19:04:17.317Z"
+    },
+    {
+      "hash": "263cf2994272e0e2",
+      "track": "One Day At A Time",
+      "artist": "Enrique Iglesias",
+      "album": "Euphoria",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:33:38.788Z"
     }
   ]
 }
