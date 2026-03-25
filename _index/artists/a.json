@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-24T14:13:10.692Z",
+  "updated_at": "2026-03-25T21:21:53.813Z",
   "entries": [
     {
       "hash": "06f22bcd39a28c7d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-24T14:08:17.865Z"
+    },
+    {
+      "hash": "00fe4e1a432ba2b0",
+      "track": "Yun Hi Re",
+      "artist": "Anirudh Ravichander, Shweta Mohan",
+      "album": "David",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:21:50.388Z"
     }
   ]
 }
