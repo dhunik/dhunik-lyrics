@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-03-25T02:41:34.972Z",
+  "updated_at": "2026-03-25T22:20:18.709Z",
   "entries": [
     {
       "hash": "a58f24d57a81d3e8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-25T02:41:05.696Z"
+    },
+    {
+      "hash": "f4579f535bd2bd5d",
+      "track": "Levitate (From The Original Motion Picture “Passengers”)",
+      "artist": "Imagine Dragons",
+      "album": "Levitate (From The Original Motion Picture “Passengers”)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T22:20:17.995Z"
     }
   ]
 }
