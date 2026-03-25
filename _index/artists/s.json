@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-25T22:44:56.066Z",
+  "updated_at": "2026-03-25T22:45:08.863Z",
   "entries": [
     {
       "hash": "edb1309b675c9b29",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T22:44:55.398Z"
+    },
+    {
+      "hash": "5a437ec08cf33907",
+      "track": "Hips Don't Lie",
+      "artist": "Shakira",
+      "album": "City Sounds",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T22:45:02.939Z"
     }
   ]
 }
