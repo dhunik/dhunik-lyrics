@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "shard": "o",
+  "type": "artist",
+  "updated_at": "2026-03-25T21:42:44.086Z",
+  "entries": [
+    {
+      "hash": "d251c59a517dcaaa",
+      "track": "Fireflies",
+      "artist": "Owl City",
+      "album": "Ocean Eyes",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:42:37.359Z"
+    }
+  ]
+}
