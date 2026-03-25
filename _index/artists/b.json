@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-25T21:55:38.582Z",
+  "updated_at": "2026-03-25T22:29:25.208Z",
   "entries": [
     {
       "hash": "abfc3d1c00a34d8b",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T21:55:35.476Z"
+    },
+    {
+      "hash": "5e262363913dc1fd",
+      "track": "Halo",
+      "artist": "Beyoncé",
+      "album": "I AM...SASHA FIERCE - Platinum Edition",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T22:29:24.481Z"
     }
   ]
 }
