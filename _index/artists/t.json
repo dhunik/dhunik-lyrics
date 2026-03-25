@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-25T02:31:19.138Z",
+  "updated_at": "2026-03-25T21:22:13.808Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T02:31:18.291Z"
+    },
+    {
+      "hash": "fca8c8cb5c0e30f7",
+      "track": "No One Noticed",
+      "artist": "The Marías",
+      "album": "No One Noticed",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-03-25T21:22:13.038Z"
     }
   ]
 }
