@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-25T21:21:53.813Z",
+  "updated_at": "2026-03-25T21:27:08.561Z",
   "entries": [
     {
       "hash": "06f22bcd39a28c7d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T21:21:50.388Z"
+    },
+    {
+      "hash": "db05555515cc1e33",
+      "track": "Don't Matter",
+      "artist": "Akon",
+      "album": "Konvicted",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:27:04.300Z"
     }
   ]
 }
