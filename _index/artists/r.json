@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-25T02:41:04.919Z",
+  "updated_at": "2026-03-25T02:47:39.283Z",
   "entries": [
     {
-      "hash": "1e8ce1edda2760a3",
-      "track": "Muskurane (Romantic)",
-      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
-      "album": "Citylights",
+      "hash": "a3bef1c04895284b",
+      "track": "Ranjha",
+      "artist": "Jasleen Royal, B Praak, Romy",
+      "album": "Shershaah",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-15T17:41:34.465Z"
-    },
-    {
-      "hash": "d5f25033479ea448",
-      "track": "Laal Peeli Akhiyaan",
-      "artist": "Romy, Tanishk Bagchi, Neeraj Rajawat - Teri Baaton Mein Aisa Uljha Jiya",
-      "album": "Teri Baaton Mein Aisa Uljha Jiya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T04:45:19.927Z"
-    },
-    {
-      "hash": "914bb8f8b4d1ee4a",
-      "track": "Bewafa Tera Masoom Chehra",
-      "artist": "Jubin Nautiyal, Rochak Kohli - Bewafa Tera Masoom Chehra",
-      "album": "Bewafa Tera Masoom Chehra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T06:43:43.958Z"
-    },
-    {
-      "hash": "d67d796e4281d90b",
-      "track": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-      "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan, Sahir Ludhianvi",
-      "album": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:24:47.905Z"
-    },
-    {
-      "hash": "7318390a0419c43b",
-      "track": "A Flying Jatt - Title Track",
-      "artist": "Raftaar, Mansheel Gujaral, Tanishkaa - A Flying Jatt",
-      "album": "A Flying Jatt",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:26:03.450Z"
-    },
-    {
-      "hash": "b93ee0a90aeb8986",
-      "track": "Main Aur Tu",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Reble - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T02:41:03.164Z"
+      "cached_at": "2026-03-25T02:47:22.799Z"
     }
   ]
 }
