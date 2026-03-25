@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-03-23T14:13:53.496Z",
+  "updated_at": "2026-03-25T21:39:02.764Z",
   "entries": [
     {
       "hash": "09baaf6e0e6d1575",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-23T14:13:52.434Z"
+    },
+    {
+      "hash": "24e416d66fee2711",
+      "track": "Locked Up",
+      "artist": "Akon",
+      "album": "Locked Up",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T21:39:02.064Z"
     }
   ]
 }
