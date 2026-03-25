@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-22T12:25:51.827Z",
+  "updated_at": "2026-03-25T22:50:29.235Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-22T12:25:06.702Z"
+    },
+    {
+      "hash": "6bc3e9938bd74849",
+      "track": "Those Eyes",
+      "artist": "New West",
+      "album": "Those Eyes (Alternate Versions)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-25T22:50:28.544Z"
     }
   ]
 }
