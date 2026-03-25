@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-03-25T02:35:48.288Z",
+  "updated_at": "2026-03-25T02:41:34.972Z",
   "entries": [
     {
-      "hash": "e54f4a12ca4db1c2",
-      "track": "Dhurandhar The Revenge - Aari Aari",
-      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi - Dhurandhar The Revenge",
+      "hash": "a58f24d57a81d3e8",
+      "track": "Phir Se",
+      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil - Dhurandhar The Revenge",
       "album": "Dhurandhar The Revenge",
-      "has_synced": true,
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-22T12:21:07.154Z"
-    },
-    {
-      "hash": "1bb3c86b29ed1261",
-      "track": "Aakhri Ishq",
-      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T02:35:46.604Z"
+      "cached_at": "2026-03-25T02:41:05.696Z"
     }
   ]
 }
