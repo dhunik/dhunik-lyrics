@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-25T21:22:13.808Z",
+  "updated_at": "2026-03-26T10:52:50.022Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-25T21:22:13.038Z"
+    },
+    {
+      "hash": "347d78f5700ae906",
+      "track": "Call You Mine",
+      "artist": "The Chainsmokers ft. Bebe Rexha - World War Joy...Takeaway",
+      "album": "2019",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-26T10:52:49.287Z"
     }
   ]
 }
