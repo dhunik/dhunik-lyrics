@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-26T07:27:40.578Z",
+  "updated_at": "2026-03-26T10:56:14.768Z",
   "entries": [
     {
-      "hash": "edb1309b675c9b29",
-      "track": "Mast Magan",
-      "artist": "Shankar-Ehsaan-Loy, Arijit Singh, Chinmayi Sripada",
-      "album": "2 States",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-23T17:02:57.384Z"
-    },
-    {
-      "hash": "00fe4e1a432ba2b0",
-      "track": "Yun Hi Re",
-      "artist": "Anirudh Ravichander, Shweta Mohan",
-      "album": "David",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:21:50.388Z"
-    },
-    {
-      "hash": "bfc9e16328127885",
-      "track": "Go Down Deh (feat. Sean Paul & Shaggy)",
-      "artist": "Spice",
-      "album": "Go Down Deh (feat. Sean Paul & Shaggy)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:39:25.927Z"
-    },
-    {
-      "hash": "1309d63ff4f08bc5",
-      "track": "Dooron Dooron",
-      "artist": "PARESH PAHUJA, Shiv Tandan, Meghdeep Bose",
-      "album": "Dooron Dooron",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-25T22:30:25.386Z"
-    },
-    {
-      "hash": "fd977db0be75b727",
-      "track": "Hips Don't Lie (Live - December 2006)",
-      "artist": "Shakira",
-      "album": "Shakira Oral Fixation Tour (Live)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:44:55.398Z"
-    },
-    {
-      "hash": "5a437ec08cf33907",
-      "track": "Hips Don't Lie",
-      "artist": "Shakira",
-      "album": "City Sounds",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:45:02.939Z"
-    },
-    {
-      "hash": "4e2cfa2a88aaf115",
-      "track": "Bin Tere (Reprise)",
-      "artist": "Vishal & Shekhar, Shekhar Ravjiani",
-      "album": "I Hate Luv Storys",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:49:44.553Z"
-    },
-    {
-      "hash": "fcb5768882ab1eb6",
-      "track": "Tumse Hi Tumse",
-      "artist": "Shekhar Ravjiani, Caralisa",
-      "album": "Anjaana Anjaani",
+      "hash": "4475238af25fcb9d",
+      "track": "Stitches",
+      "artist": "Shawn Mendes - Stitches",
+      "album": null,
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-26T07:27:39.877Z"
+      "cached_at": "2026-03-26T10:55:07.173Z"
     }
   ]
 }
