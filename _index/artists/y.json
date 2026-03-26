@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-21T13:33:19.970Z",
+  "updated_at": "2026-03-26T10:47:32.610Z",
   "entries": [
     {
       "hash": "09baaf6e0e6d1575",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-21T13:30:36.935Z"
+    },
+    {
+      "hash": "14dbbc95592e1fc4",
+      "track": "King",
+      "artist": "Years & Years - King",
+      "album": "Communion",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-26T10:47:31.804Z"
     }
   ]
 }
