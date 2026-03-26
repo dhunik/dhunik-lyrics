@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-03-23T17:08:01.023Z",
+  "updated_at": "2026-03-26T10:52:46.002Z",
   "entries": [
     {
       "hash": "edb1309b675c9b29",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-23T17:02:57.384Z"
+    },
+    {
+      "hash": "9a12fc570c0d0eb2",
+      "track": "Hey Ma (feat. Camila Cabello)",
+      "artist": "J Balvin, Pitbull ft. Camila Cabello - Fast & Furious 8: The Album",
+      "album": "J Balvin Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-03-26T10:52:45.325Z"
     }
   ]
 }
