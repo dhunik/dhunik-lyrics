@@ -2,124 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-25T22:29:25.208Z",
+  "updated_at": "2026-03-26T12:13:56.313Z",
   "entries": [
     {
-      "hash": "abfc3d1c00a34d8b",
-      "track": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-      "artist": "Shashwat Sachdev, Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Babu Singh Maan, Ranjit Kaur",
-      "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-13T17:00:42.893Z"
-    },
-    {
-      "hash": "eb51e1ed75f69b64",
-      "track": "Proper Patola",
-      "artist": "Badshah, Diljit Dosanjh, Aastha Gill - Namaste England",
-      "album": "Namaste England",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:44:59.263Z"
-    },
-    {
-      "hash": "1170c35cf6e151e9",
-      "track": "Dhurandhar - Title Track",
-      "artist": "Hanumankind, Jasmine Sandlas, Babu Singh Maan, Shashwat Sachdev, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur - Dhurandhar",
-      "album": "Dhurandhar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T14:29:07.659Z"
-    },
-    {
-      "hash": "08ff6b438243adda",
-      "track": "Wild Rose",
-      "artist": "Bombay Rockers",
-      "album": "Introducing…",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T18:44:07.666Z"
-    },
-    {
-      "hash": "0d22b00daf9ecfd1",
-      "track": "Mann Bharryaa 2.0",
-      "artist": "B Praak, Jaani",
-      "album": "Shershaah",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:45:14.781Z"
-    },
-    {
-      "hash": "e49f9e59f8bbe4f5",
-      "track": "O’Sajna",
-      "artist": "Badshah, DIVINE, Nikhita Gandhi",
-      "album": "Ek Tha Raja",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:49:06.277Z"
-    },
-    {
-      "hash": "6c4a7f1adfc9955c",
-      "track": "Jugnu",
-      "artist": "Badshah",
-      "album": "Jugnu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:51:53.590Z"
-    },
-    {
-      "hash": "8e2dfd9e4f4de5d7",
-      "track": "Tareefan",
-      "artist": "QARAN, Badshah",
-      "album": null,
-      "has_synced": true,
+      "hash": "0304a15640f0df72",
+      "track": "All I Did Was Dream of You",
+      "artist": "beabadoobee ft. The Marías - All I Did Was Dream of You",
+      "album": "All I Did Was Dream of You",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-15T12:24:31.592Z"
-    },
-    {
-      "hash": "00f0e10f6fb9685f",
-      "track": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab - Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-      "album": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T12:32:15.730Z"
-    },
-    {
-      "hash": "039108aeb3537575",
-      "track": "Jai Jai Shivshankar",
-      "artist": "Vishal & Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
-      "album": "War",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:21:23.357Z"
-    },
-    {
-      "hash": "45ad4a2466f8b45f",
-      "track": "That's The Way I Like It",
-      "artist": "Backstreet Boys",
-      "album": "Backstreet's Back",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:51:25.957Z"
-    },
-    {
-      "hash": "1071873b599ee827",
-      "track": "Chances",
-      "artist": "Backstreet Boys",
-      "album": "Chances",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:55:35.476Z"
-    },
-    {
-      "hash": "5e262363913dc1fd",
-      "track": "Halo",
-      "artist": "Beyoncé",
-      "album": "I AM...SASHA FIERCE - Platinum Edition",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:29:24.481Z"
+      "cached_at": "2026-03-26T12:13:35.719Z"
     }
   ]
 }
