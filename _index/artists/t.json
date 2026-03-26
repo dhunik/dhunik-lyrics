@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-26T10:52:50.022Z",
+  "updated_at": "2026-03-26T12:12:19.985Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-26T10:52:49.287Z"
+    },
+    {
+      "hash": "82bdeb0f6a5d27b0",
+      "track": "Nobody New",
+      "artist": "The Marías - Back To Me",
+      "album": "Back To Me",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-26T12:12:17.737Z"
     }
   ]
 }
