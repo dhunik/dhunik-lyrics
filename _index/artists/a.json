@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-25T22:24:08.583Z",
+  "updated_at": "2026-03-28T12:46:16.196Z",
   "entries": [
     {
       "hash": "06f22bcd39a28c7d",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T22:24:04.520Z"
+    },
+    {
+      "hash": "c4f231db5704229d",
+      "track": "Uska Hi Banana",
+      "artist": "Arijit Singh",
+      "album": "1920 Evil Returns",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-28T12:46:15.564Z"
     }
   ]
 }
