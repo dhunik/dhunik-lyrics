@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-03-26T12:13:56.313Z",
+  "updated_at": "2026-03-28T16:02:30.637Z",
   "entries": [
     {
-      "hash": "0304a15640f0df72",
-      "track": "All I Did Was Dream of You",
-      "artist": "beabadoobee ft. The Marías - All I Did Was Dream of You",
-      "album": "All I Did Was Dream of You",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-26T12:13:35.719Z"
+      "hash": "0dd286d1be3d6916",
+      "track": "Traag",
+      "artist": "Bizzey",
+      "album": "Traag",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-28T16:02:01.638Z"
     }
   ]
 }
