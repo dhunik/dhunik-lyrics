@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-23T16:56:45.754Z",
+  "updated_at": "2026-03-28T16:08:06.603Z",
   "entries": [
     {
-      "hash": "6bfd9364b0e1f332",
-      "track": "Taaron Ke Shehar",
-      "artist": "Neha Kakkar, Jubin Nautiyal, Jaani",
-      "album": "Taaron Ke Shehar",
+      "hash": "1a66c61f84815312",
+      "track": "Nashe Si Chadh Gayi",
+      "artist": "Vishal & Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni",
+      "album": "Befikre",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-23T16:55:32.192Z"
+      "cached_at": "2026-03-28T16:07:39.876Z"
     }
   ]
 }
