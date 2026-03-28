@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-03-28T16:05:40.295Z",
+  "updated_at": "2026-03-28T16:19:58.573Z",
   "entries": [
     {
       "hash": "612a735e313cd8e8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-28T16:05:39.691Z"
+    },
+    {
+      "hash": "a3bef1c04895284b",
+      "track": "Ranjha",
+      "artist": "Jasleen Royal, B Praak, Romy",
+      "album": "Shershaah",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-28T16:19:56.065Z"
     }
   ]
 }
