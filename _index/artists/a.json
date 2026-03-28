@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-28T16:20:00.424Z",
+  "updated_at": "2026-03-28T16:29:18.952Z",
   "entries": [
     {
       "hash": "06f22bcd39a28c7d",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-28T16:19:58.960Z"
+    },
+    {
+      "hash": "5cb8cea8799162e2",
+      "track": "Tera Dil",
+      "artist": "Udit Narayan, Alka Yagnik - Hungama",
+      "album": "Hungama",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-28T16:29:06.662Z"
     }
   ]
 }
