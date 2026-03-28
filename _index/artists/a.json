@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-28T12:46:16.196Z",
+  "updated_at": "2026-03-28T16:20:00.424Z",
   "entries": [
     {
       "hash": "06f22bcd39a28c7d",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-28T12:46:15.564Z"
+    },
+    {
+      "hash": "48a4ed796c2af942",
+      "track": "Saadi Galli Aaja",
+      "artist": "Ayushmann Khurrana, Rochak Kohli, Neeti Mohan",
+      "album": "Nautanki Saala!",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-28T16:19:58.960Z"
     }
   ]
 }
