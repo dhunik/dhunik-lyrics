@@ -1,0 +1,77 @@
+{
+  "v": 1,
+  "key": "jaiye sajana|shashwat sachdev",
+  "track": "Jaiye Sajana",
+  "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+  "album": "Dhurandhar The Revenge",
+  "language": "English",
+  "generated_at": "2026-03-29T08:05:47.599Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Jaiye Sajana' is a heartfelt expression of longing and love. The lyrics convey a deep emotional pain and yearning for a lost love, with the speaker struggling to move on and find their way in a world that feels unfamiliar and lonely. The song's core message revolves around the enduring power of love and the pain of separation. The emotional journey is one of sorrow, nostalgia, and a lingering hope for reunion.",
+  "background": {
+    "composition": "The song features a soulful blend of traditional and contemporary music elements, with a focus on emotive vocals and poignant lyrics.",
+    "cultural_context": "The song is part of the album 'Dhurandhar The Revenge' and represents a fusion of modern and traditional music styles, reflecting the diverse cultural influences of the artists involved.",
+    "fun_facts": [
+      "The song features a collaboration between artists Shashwat Sachdev, Jasmine Sandlas, and Satinder Sartaaj, bringing together different musical styles and influences.",
+      "[Unverified] The song may have been inspired by traditional Punjabi music and folklore, with lyrics that reflect a deep connection to the region's cultural heritage."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "ਬੱਦਲ਼ਾਂ 'ਚੋਂ ਡਿੱਗਦੇ ਹੰਝੂ, ਅੱਖ ਮੇਰੀ ਫ਼ਿਰ ਵੀ ਰੋਈ ਨਾ",
+      "meaning": "Tears fall from the clouds, but my eyes still haven't cried. This line suggests a deep emotional pain that hasn't been fully expressed.",
+      "literary_device": "metaphor",
+      "mood": "longing"
+    },
+    {
+      "original": "ਐਸੀ ਪ੍ਰੀਤ ਲਾ ਲਈ, ਰੱਬਾ, ਜੈਸੀ ਹੋਰ ਕਦੇ ਹੋਈ ਨਾ",
+      "meaning": "I've fallen in love in such a way, God, that it's never happened before. This line conveys the intensity and uniqueness of the speaker's love.",
+      "literary_device": "hyperbole",
+      "mood": "joy"
+    },
+    {
+      "original": "ਤੇਰੇ ਜਾਣ ਤੋਂ ਮੈਂ ਬਾਅਦ ਇੱਕ ਦਿਨ ਸੋਈ ਨਾ",
+      "meaning": "I didn't sleep for a single day after you left. This line expresses the speaker's insomnia and restlessness due to the loss of their loved one.",
+      "literary_device": "exaggeration",
+      "mood": "sorrow"
+    },
+    {
+      "original": "ਪੂਰਾ ਸ਼ਹਿਰ ਬੇਗਾਨਾ, ਐਥੇ ਮੇਰਾ ਕੋਈ ਨਾ",
+      "meaning": "The whole city feels unfamiliar, I have no one here. This line conveys the speaker's sense of loneliness and disconnection.",
+      "literary_device": "imagery",
+      "mood": "desolation"
+    },
+    {
+      "original": "ਫ਼ਿਰ ਪ੍ਰੀਤ ਕਿਸੇ ਦੇ ਨਾਲ਼ ਕਦੇ ਹੋਈ ਨਾ",
+      "meaning": "I've never fallen in love with anyone else since then. This line emphasizes the speaker's enduring love for the lost one.",
+      "literary_device": "emphasis",
+      "mood": "nostalgia"
+    },
+    {
+      "original": "ਸਾਰੇ ਰੰਗ ਵੇਖ ਲਏ, ਹੁਣ ਕੋਈ ਡਰ ਨਈਂ",
+      "meaning": "I've experienced all the colors of life, now I have no fear. This line suggests a sense of acceptance and fearlessness.",
+      "literary_device": "metaphor",
+      "mood": "acceptance"
+    },
+    {
+      "original": "ਜਿਉਂਦੀ ਰਹੂੰ ਆਸ਼ਕੀ, ਇਹ ਕਦੇ ਨਾ ਮਰਨੀ",
+      "meaning": "My love should live on, it should never die. This line expresses the speaker's desire for their love to endure.",
+      "literary_device": "wish",
+      "mood": "hope"
+    }
+  ],
+  "themes": [
+    "love",
+    "longing",
+    "nostalgia",
+    "separation",
+    "hope"
+  ],
+  "mood_arc": [
+    "sorrow",
+    "longing",
+    "nostalgia",
+    "acceptance",
+    "hope"
+  ]
+}
