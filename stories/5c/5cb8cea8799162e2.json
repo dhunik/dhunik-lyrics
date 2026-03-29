@@ -1,0 +1,75 @@
+{
+  "v": 1,
+  "key": "tera dil|udit narayan",
+  "track": "Tera Dil",
+  "artist": "Udit Narayan, Alka Yagnik",
+  "album": "Hungama",
+  "language": "English",
+  "generated_at": "2026-03-29T08:17:27.036Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Tera Dil' is a romantic ballad where the singer yearns for the beloved's heart to reside with them, expressing a deep emotional connection and longing. The lyrics convey a sense of intimacy and desire, with the singer requesting the beloved to let them express their feelings and to be close. The song's core message revolves around the pain of love and the desire for togetherness.",
+  "background": {
+    "composition": "The song features a melodic composition with a soothing rhythm, typical of 90s Bollywood romantic tracks. The music is composed to enhance the emotional appeal of the lyrics.",
+    "cultural_context": "The song 'Tera Dil' from the album 'Hungama' is a part of Indian cinema's rich tradition of romantic ballads. Released in the early 2000s, it reflects the era's musical style and romantic themes.",
+    "fun_facts": [
+      "The song is sung by renowned Indian playback singers Udit Narayan and Alka Yagnik.",
+      "It was featured in the Bollywood film 'Hungama', which is a comedy film released in 2003.",
+      "[Unverified] The song received positive reviews and became a popular romantic track of its time."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "आज तुझसे जो कहना है, कहने दे",
+      "meaning": "Today, let me say what I want to say to you, let me express my feelings.",
+      "mood": "longing"
+    },
+    {
+      "original": "तेरा दिल मेरे पास रहने दे",
+      "meaning": "Let your heart reside with me.",
+      "mood": "intimacy"
+    },
+    {
+      "original": "मेरी आँखें, तेरा चेहरा, चेहरे पे दिल ठहरा",
+      "meaning": "My eyes see your face, and my heart stops at the sight of you.",
+      "literary_device": "metaphor",
+      "mood": "love"
+    },
+    {
+      "original": "मेरी धड़कन पे हर दम तेरी यादों का पहरा",
+      "meaning": "Every moment, your memories guard my heartbeat.",
+      "literary_device": "metaphor",
+      "mood": "nostalgia"
+    },
+    {
+      "original": "ये दर्द-ए-मोहब्बत सहने दे",
+      "meaning": "Let me endure this pain of love.",
+      "mood": "melancholy"
+    },
+    {
+      "original": "तेरे होंठों से खेलूँ, तेरी ज़ुल्फ़ें सुलझाऊँ",
+      "meaning": "I want to play with your lips, and untangle your hair.",
+      "literary_device": "metaphor",
+      "mood": "desire"
+    },
+    {
+      "original": "मस्ताना आलम है, मौसम है सिंदूरी",
+      "meaning": "The world is intoxicating, and the atmosphere is romantic.",
+      "literary_device": "simile",
+      "mood": "ecstasy"
+    }
+  ],
+  "themes": [
+    "love",
+    "longing",
+    "intimacy",
+    "desire",
+    "nostalgia"
+  ],
+  "mood_arc": [
+    "longing",
+    "intimacy",
+    "desire",
+    "melancholy",
+    "ecstasy"
+  ]
+}
