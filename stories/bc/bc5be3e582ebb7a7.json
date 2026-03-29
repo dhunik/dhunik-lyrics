@@ -1,0 +1,83 @@
+{
+  "v": 1,
+  "key": "soulmate|badshah",
+  "track": "Soulmate",
+  "artist": "Badshah, Arijit Singh - Ek Tha Raja",
+  "album": "Ek Tha Raja",
+  "language": "English",
+  "generated_at": "2026-03-29T08:28:30.880Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Soulmate' by Badshah and Arijit Singh is a romantic ballad that expresses the depth of love and devotion towards a soulmate. The lyrics convey a sense of sacrifice, protection, and the idea that life is incomplete without the loved one. The song takes the listener on an emotional journey of longing, love, and the promise to cherish and protect the partner.",
+  "background": {
+    "composition": "The song features a blend of Indian classical and contemporary music elements, with a soothing melody that complements the emotional depth of the lyrics. The composition likely includes traditional Indian instruments along with modern orchestral elements.",
+    "cultural_context": "The song 'Soulmate' from the album 'Ek Tha Raja' represents a cultural blend of traditional and modern music, reflecting the evolving tastes and preferences of the Indian music audience. The use of both Hindi and Punjabi lyrics adds to its cultural richness.",
+    "fun_facts": [
+      "The song features a collaboration between Badshah, known for his rap and pop contributions, and Arijit Singh, a renowned Indian playback singer famous for his soulful voice.",
+      "The lyrics of 'Soulmate' are a poetic expression of love, using metaphors and similes to convey the intensity of emotions."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "दिन को रात कहेगी तो मैं रात कहूँ",
+      "meaning": "If you call day a night, I'll agree it's night. This line signifies the extent of the speaker's agreement and adjustment for the sake of the loved one.",
+      "literary_device": "metaphor",
+      "mood": "devotion"
+    },
+    {
+      "original": "तेरा दिल दुखा दे जो, ऐसी ना बात करूँ",
+      "meaning": "I won't say anything that might hurt your heart. This line shows the speaker's care and consideration for the partner's feelings.",
+      "literary_device": "hyperbole",
+      "mood": "care"
+    },
+    {
+      "original": "एक शिकन भी माथे पे ना आए, मेरी जाँ",
+      "meaning": "I won't let a single worry line appear on your forehead, my life. This line emphasizes the speaker's desire to protect the partner from all worries.",
+      "literary_device": "metaphor",
+      "mood": "protection"
+    },
+    {
+      "original": "तेरी आई मैं मर जावां, जिंदड़ी नाम तेरे कर जावां",
+      "meaning": "For your arrival, I'd gladly die; I'd live my life just for your name. This line expresses the ultimate sacrifice and dedication to the loved one.",
+      "literary_device": "exaggeration",
+      "mood": "sacrifice"
+    },
+    {
+      "original": "क्या वो मोहब्बत, जिसका हिसाब लग जाए",
+      "meaning": "Is that really love if it can be measured? This line questions the true nature of love that can be quantified or calculated.",
+      "literary_device": "rhetorical question",
+      "mood": "introspection"
+    },
+    {
+      "original": "प्यारी इतनी तू, मुझे Punjab लगे",
+      "meaning": "You are so dear to me, you make me feel like I'm in Punjab. This line uses a metaphor to express the vastness of the speaker's love.",
+      "literary_device": "metaphor",
+      "mood": "joy"
+    },
+    {
+      "original": "इस प्यार को खोने नहीं दूँगा",
+      "meaning": "I won't let this love be lost. This line is a promise to preserve and protect the relationship.",
+      "literary_device": "determination",
+      "mood": "resolve"
+    },
+    {
+      "original": "तुझसे पहले ना कुछ था, ना बाद तेरे",
+      "meaning": "There was nothing before you, and there will be nothing after you. This line signifies the completeness the partner brings to the speaker's life.",
+      "literary_device": "hyperbole",
+      "mood": "longing"
+    }
+  ],
+  "themes": [
+    "love",
+    "devotion",
+    "sacrifice",
+    "protection",
+    "longing"
+  ],
+  "mood_arc": [
+    "longing",
+    "devotion",
+    "joy",
+    "resolve",
+    "sacrifice"
+  ]
+}
