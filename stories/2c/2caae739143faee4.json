@@ -1,0 +1,95 @@
+{
+  "v": 1,
+  "key": "tujhe kitna chahne lage|arijit singh",
+  "track": "Tujhe Kitna Chahne Lage",
+  "artist": "Arijit Singh",
+  "album": "Kabir Singh",
+  "language": "English",
+  "generated_at": "2026-03-29T09:19:15.474Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Tujhe Kitna Chahne Lage' is a romantic ballad expressing the depth of love and longing for a partner. The lyrics convey a sense of complete surrender and devotion, with the speaker unable to imagine life without their beloved. The song takes the listener on an emotional journey of intense love, commitment, and the willingness to give up everything for the one they love.",
+  "background": {
+    "composition": "The song features a soulful melody with Arijit Singh's emotive vocals, characteristic of Bollywood romantic ballads. The composition is likely arranged with traditional Indian instruments, enhancing the emotional depth of the lyrics.",
+    "cultural_context": "Released as part of the soundtrack for the Bollywood film 'Kabir Singh', the song became a massive hit and is often associated with the film's narrative of intense love and heartbreak.",
+    "fun_facts": [
+      "The song was sung by Arijit Singh, who is known as the 'King of Bollywood Playback Singing'.",
+      "The song 'Tujhe Kitna Chahne Lage' is considered one of Arijit Singh's most iconic and popular tracks.",
+      "[Unverified] The song's music video features the film's lead actors, Shahid Kapoor and Pooja Chopra."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "दिल का दरिया बह ही गया",
+      "meaning": "My heart's river has flowed endlessly, symbolizing the overwhelming emotions of love.",
+      "literary_device": "metaphor",
+      "mood": "longing"
+    },
+    {
+      "original": "इश्क़ इबादत बन ही गया",
+      "meaning": "My love has become my worship, indicating the depth of devotion.",
+      "literary_device": "metaphor",
+      "mood": "devotion"
+    },
+    {
+      "original": "खुद को मुझे तू सौंप दे",
+      "meaning": "I surrender myself to you, showing complete devotion.",
+      "mood": "surrender"
+    },
+    {
+      "original": "मेरी ज़रूरत तू बन गया",
+      "meaning": "You have become my necessity, my need.",
+      "mood": "dependence"
+    },
+    {
+      "original": "बात दिल की नज़रों ने की",
+      "meaning": "It's a matter of the heart and eyes, implying a deep emotional connection.",
+      "mood": "intimacy"
+    },
+    {
+      "original": "सच कह रहा, तेरी क़सम",
+      "meaning": "I'm telling the truth, I swear on you, showing the intensity of the speaker's emotions.",
+      "mood": "conviction"
+    },
+    {
+      "original": "तेरे बिन अब ना लेंगे एक भी दम",
+      "meaning": "I won't take another breath without you, expressing the inability to live without the beloved.",
+      "literary_device": "hyperbole",
+      "mood": "desperation"
+    },
+    {
+      "original": "तुझे कितना चाहने लगे हम",
+      "meaning": "How much I have started to love you, a repetition of the song's title and core message.",
+      "mood": "love"
+    },
+    {
+      "original": "इस जगह आ गईं चाहतें अब मेरी",
+      "meaning": "My desires have reached this point now, indicating a peak of longing.",
+      "mood": "yearning"
+    },
+    {
+      "original": "छीन लूँगा तुम्हें सारी दुनिया से ही",
+      "meaning": "I will snatch you from the entire world, showing the possessiveness of love.",
+      "literary_device": "hyperbole",
+      "mood": "possessiveness"
+    },
+    {
+      "original": "जिस रास्ते तू ना मिले",
+      "meaning": "The path where I don't find you, expressing the unwillingness to go on without the beloved.",
+      "mood": "resignation"
+    }
+  ],
+  "themes": [
+    "love",
+    "longing",
+    "devotion",
+    "surrender",
+    "heartbreak"
+  ],
+  "mood_arc": [
+    "longing",
+    "devotion",
+    "desperation",
+    "yearning",
+    "resignation"
+  ]
+}
