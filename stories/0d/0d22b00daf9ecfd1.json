@@ -1,0 +1,66 @@
+{
+  "v": 1,
+  "key": "mann bharryaa 20|b praak",
+  "track": "Mann Bharryaa 2.0",
+  "artist": "B Praak, Jaani",
+  "album": "Shershaah",
+  "language": "English",
+  "generated_at": "2026-03-29T08:07:38.845Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Mann Bharryaa 2.0' by B Praak and Jaani is a heartfelt expression of love and longing. The lyrics convey the pain of separation and the yearning for a lost love. The song's core message revolves around the theme of love, loss, and the memories that linger.",
+  "background": {
+    "composition": "The song features a soulful melody with a mix of traditional and modern instrumentation, creating a nostalgic yet contemporary feel.",
+    "cultural_context": "The song is part of the soundtrack for the movie 'Shershaah', which is based on the life of Captain Vikram Batra, an Indian Army officer who fought in the Kargil War. The song has become an anthem for love and patriotism.",
+    "fun_facts": [
+      "The song 'Mann Bharryaa 2.0' is a sequel to the original 'Mann Bharryaa' from the 2019 film 'Angrej'.",
+      "The song features B Praak and Jaani, who are renowned artists in the Punjabi music industry.",
+      "[Unverified] The song's lyrics were written by Jaani, and the music was composed by B Praak."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "ਵੇ ਮੈਥੋਂ ਤੇਰਾ ਮੰਨ ਭਰਿਆ",
+      "meaning": "Your mind is filled with thoughts of me, and my mind is filled with thoughts of you.",
+      "literary_device": "metaphor",
+      "mood": "longing"
+    },
+    {
+      "original": "ਗੱਲਾਂ ਤੇਰੀਆਂ ਤੋਂ ਲਗਦਾ ਏ, ਯਾਰਾ",
+      "meaning": "From your words, it seems like you're going to leave me, friend.",
+      "literary_device": "implication",
+      "mood": "sadness"
+    },
+    {
+      "original": "ਗੱਲ-ਗੱਲ 'ਤੇ ਸ਼ੱਕ ਕਰਦੈ",
+      "meaning": "You're doubting every word I say.",
+      "literary_device": "hyperbole",
+      "mood": "anger"
+    },
+    {
+      "original": "ਕਾਸ਼ ਐਸਾ ਹੋ ਸਕਦਾ, ਰੱਬ ਦੇ ਪੈਰੀਂ ਪੈ ਜਾਂਦੀ",
+      "meaning": "If only it were possible, I would fall at God's feet and ask Him to take my life instead of yours.",
+      "literary_device": "wish",
+      "mood": "desperation"
+    },
+    {
+      "original": "ਤੂੰ ਸੱਭ ਜਾਣਦਾ ਏ, ਮੈਂ ਛੱਡ ਨਹੀਂ ਸੱਕਦੀ ਤੈਨੂੰ",
+      "meaning": "You know everything, I cannot leave you.",
+      "literary_device": "affirmation",
+      "mood": "devotion"
+    }
+  ],
+  "themes": [
+    "love",
+    "loss",
+    "longing",
+    "separation",
+    "memories"
+  ],
+  "mood_arc": [
+    "longing",
+    "sadness",
+    "desperation",
+    "devotion",
+    "heartbreak"
+  ]
+}
