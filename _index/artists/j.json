@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-28T16:19:58.893Z",
+  "updated_at": "2026-03-30T17:30:51.178Z",
   "entries": [
     {
-      "hash": "1a66c61f84815312",
-      "track": "Nashe Si Chadh Gayi",
-      "artist": "Vishal & Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni",
-      "album": "Befikre",
+      "hash": "b50f185d9dd492f7",
+      "track": "Ek Din Teri Raahon",
+      "artist": "Javed Ali, Pritam - Naqaab",
+      "album": "Naqaab",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-28T16:07:39.876Z"
-    },
-    {
-      "hash": "a3bef1c04895284b",
-      "track": "Ranjha",
-      "artist": "Jasleen Royal, B Praak, Romy",
-      "album": "Shershaah",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-28T16:19:56.065Z"
+      "cached_at": "2026-03-30T17:25:58.876Z"
     }
   ]
 }
