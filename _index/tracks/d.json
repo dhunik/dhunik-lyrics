@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-03-25T22:30:28.678Z",
+  "updated_at": "2026-03-30T17:37:28.730Z",
   "entries": [
     {
-      "hash": "2452bd3857ffa908",
-      "track": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
-      "artist": "Vishal Mishra, Kaushik-Guddu, Kunaal Vermaa - Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
-      "album": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
+      "hash": "f58428342f8482be",
+      "track": "Dil Laga Liya Maine",
+      "artist": "Sameer Anjaan, Nadeem-Shravan, Alka Yagnik, Udit Narayan - Dil Hai Tumhaara",
+      "album": "Dil Hai Tumhaara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-12T03:05:15.628Z"
-    },
-    {
-      "hash": "d335514972ec4cd4",
-      "track": "Darkhaast",
-      "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
-      "album": "Shivaay",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T10:07:02.745Z"
-    },
-    {
-      "hash": "7074499a89914144",
-      "track": "Dekha Hazaro Dafaa",
-      "artist": "Arijit Singh, Palak Muchhal - Rustom",
-      "album": "Rustom",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T05:43:47.198Z"
-    },
-    {
-      "hash": "1170c35cf6e151e9",
-      "track": "Dhurandhar - Title Track",
-      "artist": "Hanumankind, Jasmine Sandlas, Babu Singh Maan, Shashwat Sachdev, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur - Dhurandhar",
-      "album": "Dhurandhar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T14:29:07.659Z"
-    },
-    {
-      "hash": "7949565a75c19c07",
-      "track": "Do You Know? (The Ping Pong Song)",
-      "artist": "Enrique Iglesias",
-      "album": "Do You Know? (The Ping Pong Song)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T19:04:17.317Z"
-    },
-    {
-      "hash": "4186becf71f63f33",
-      "track": "Duniyaa",
-      "artist": "Abhijit Vaghani, Akhil, Dhvani Bhanushali",
-      "album": "Luka Chuppi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:44:59.813Z"
-    },
-    {
-      "hash": "8bf1974bc897825f",
-      "track": "Destiny - Mann Atkeya",
-      "artist": "Shashwat Sachdev, Token, Vaibhav Gupta, Shahzad Ali, Traditional - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T02:31:18.291Z"
-    },
-    {
-      "hash": "db05555515cc1e33",
-      "track": "Don't Matter",
-      "artist": "Akon",
-      "album": "Konvicted",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:27:04.300Z"
-    },
-    {
-      "hash": "1309d63ff4f08bc5",
-      "track": "Dooron Dooron",
-      "artist": "PARESH PAHUJA, Shiv Tandan, Meghdeep Bose",
-      "album": "Dooron Dooron",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-25T22:30:25.386Z"
+      "cached_at": "2026-03-30T17:37:12.997Z"
     }
   ]
 }
