@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-30T18:26:54.902Z",
+  "updated_at": "2026-03-30T18:58:24.140Z",
   "entries": [
     {
-      "hash": "e8424eb68705a87a",
-      "track": "Dil Ne Yeh Kaha Hai Dil Se",
-      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
+      "hash": "fae9070bbaf770df",
+      "track": "Ye Kaali Kaali Aankhen (From \"Baazigar\")",
+      "artist": "Kumar Sanu, Anu Malik",
+      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-30T18:22:12.317Z"
+      "cached_at": "2026-03-30T18:52:17.698Z"
     }
   ]
 }
