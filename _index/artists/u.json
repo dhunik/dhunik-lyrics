@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-03-30T18:26:54.895Z",
+  "updated_at": "2026-03-30T18:41:34.985Z",
   "entries": [
     {
       "hash": "e8424eb68705a87a",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T18:22:12.317Z"
+    },
+    {
+      "hash": "8b48e20ebb7c3519",
+      "track": "Pehla Nasha",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "album": "Jo Jeeta Wohi Sikandar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-30T18:41:34.133Z"
     }
   ]
 }
