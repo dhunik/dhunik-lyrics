@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-03-30T17:06:53.869Z",
+  "updated_at": "2026-03-30T18:26:54.895Z",
   "entries": [
     {
-      "hash": "06d9b8692283a4c4",
-      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
-      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-02-12T12:19:54.528Z"
-    },
-    {
-      "hash": "486e3cd4ec50cc84",
-      "track": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
-      "artist": "Sadhana Sargam, Udit Narayan, Shankar-Ehsaan-Loy",
-      "album": "Aao Naa (From \"Kyun Ho Gaya Na\") [Jhankar]",
+      "hash": "e8424eb68705a87a",
+      "track": "Dil Ne Yeh Kaha Hai Dil Se",
+      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
+      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-12T11:15:11.349Z"
-    },
-    {
-      "hash": "1c5f896693733937",
-      "track": "Sang Rahiyo",
-      "artist": "Jasleen Royal, Ranveer Allahbadia, Ujjwal Kashyap - Sang Rahiyo",
-      "album": "Sang Rahiyo",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-17T03:12:34.262Z"
-    },
-    {
-      "hash": "7283e948ef61699e",
-      "track": "Yeah! (feat. Lil Jon & Ludacris)",
-      "artist": "Usher",
-      "album": "Crunkest Hits (Clean)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:16:56.245Z"
-    },
-    {
-      "hash": "5cb8cea8799162e2",
-      "track": "Tera Dil",
-      "artist": "Udit Narayan, Alka Yagnik - Hungama",
-      "album": "Hungama",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-28T16:29:06.662Z"
-    },
-    {
-      "hash": "3af7892d73710f5e",
-      "track": "Itna Main Chaahoon (Duet Version)",
-      "artist": "Alka Yagnik, Udit Narayan - Raaz",
-      "album": "Raaz",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T17:01:25.316Z"
-    },
-    {
-      "hash": "22bc6c12ec5a51ed",
-      "track": "Jo Bhi Kasmein",
-      "artist": "Alka Yagnik, Udit Narayan - Raaz",
-      "album": "Raaz",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T17:06:53.048Z"
+      "cached_at": "2026-03-30T18:22:12.317Z"
     }
   ]
 }
