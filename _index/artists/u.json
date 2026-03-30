@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-03-28T16:29:18.283Z",
+  "updated_at": "2026-03-30T17:01:26.176Z",
   "entries": [
     {
       "hash": "06d9b8692283a4c4",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-28T16:29:06.662Z"
+    },
+    {
+      "hash": "3af7892d73710f5e",
+      "track": "Itna Main Chaahoon (Duet Version)",
+      "artist": "Alka Yagnik, Udit Narayan - Raaz",
+      "album": "Raaz",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-30T17:01:25.316Z"
     }
   ]
 }
