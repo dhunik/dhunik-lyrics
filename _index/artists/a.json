@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-30T17:12:50.525Z",
+  "updated_at": "2026-03-30T17:37:07.310Z",
   "entries": [
     {
       "hash": "06f22bcd39a28c7d",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T17:12:49.742Z"
+    },
+    {
+      "hash": "7a1d3d233ddf521e",
+      "track": "Aisa Deewana",
+      "artist": "Sonu Nigam, Alka Yagnik - Dil Maange More",
+      "album": "Dil Maange More",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-30T17:37:06.470Z"
     }
   ]
 }
