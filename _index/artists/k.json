@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-30T18:58:24.140Z",
+  "updated_at": "2026-03-30T18:59:34.741Z",
   "entries": [
     {
       "hash": "fae9070bbaf770df",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T18:52:17.698Z"
+    },
+    {
+      "hash": "a85102569a5d2480",
+      "track": "Jab Koi Baat Bigad Jaye",
+      "artist": "Kumar Sanu, Sadhana Sargam",
+      "album": "Jurm (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-30T18:59:34.065Z"
     }
   ]
 }
