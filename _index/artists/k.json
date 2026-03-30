@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-03-25T02:47:58.735Z",
+  "updated_at": "2026-03-30T18:26:54.902Z",
   "entries": [
     {
-      "hash": "53d814e1ce330c57",
-      "track": "Judai",
-      "artist": "Pritam, Kamran Ahmed - Jannat",
-      "album": "Jannat",
+      "hash": "e8424eb68705a87a",
+      "track": "Dil Ne Yeh Kaha Hai Dil Se",
+      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
+      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-21T16:53:54.842Z"
-    },
-    {
-      "hash": "6d5ef44d101215fd",
-      "track": "Jhoome Jo Pathaan",
-      "artist": "Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
-      "album": "Vishal & Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:14:48.319Z"
-    },
-    {
-      "hash": "039108aeb3537575",
-      "track": "Jai Jai Shivshankar",
-      "artist": "Vishal & Shekhar, Vishal Dadlani, Benny Dayal, Kumaar",
-      "album": "War",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:21:23.357Z"
-    },
-    {
-      "hash": "776b0461e3ab49d4",
-      "track": "Iktara",
-      "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-22T12:21:24.942Z"
-    },
-    {
-      "hash": "84442373c971204e",
-      "track": "Tere Ishq Ne",
-      "artist": "Shashwat Sachdev, Jyoti Nooran, Kumaar - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T02:47:58.107Z"
+      "cached_at": "2026-03-30T18:22:12.317Z"
     }
   ]
 }
