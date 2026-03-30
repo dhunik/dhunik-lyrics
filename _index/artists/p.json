@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-26T10:52:46.015Z",
+  "updated_at": "2026-03-30T17:30:51.189Z",
   "entries": [
     {
-      "hash": "c1d70adfff952bcc",
-      "track": "Kaun Tujhe",
-      "artist": "Palak Muchhal",
-      "album": "M.S. Dhoni - The Untold Story",
+      "hash": "b50f185d9dd492f7",
+      "track": "Ek Din Teri Raahon",
+      "artist": "Javed Ali, Pritam - Naqaab",
+      "album": "Naqaab",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-25T02:35:05.641Z"
-    },
-    {
-      "hash": "9a12fc570c0d0eb2",
-      "track": "Hey Ma (feat. Camila Cabello)",
-      "artist": "J Balvin, Pitbull ft. Camila Cabello - Fast & Furious 8: The Album",
-      "album": "J Balvin Songs",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-26T10:52:45.325Z"
+      "cached_at": "2026-03-30T17:25:58.876Z"
     }
   ]
 }
