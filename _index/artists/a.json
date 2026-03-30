@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-30T17:37:28.741Z",
+  "updated_at": "2026-03-30T18:16:20.021Z",
   "entries": [
     {
       "hash": "f58428342f8482be",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T17:37:12.997Z"
+    },
+    {
+      "hash": "5fe325b46f10b21f",
+      "track": "Humko Tumse Pyaar Hai",
+      "artist": "Kumar Sanu, Alka Yagnik, Anand Raaj Anand - Humko Tumse Pyar Hai",
+      "album": "Humko Tumse Pyar Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-30T18:16:19.137Z"
     }
   ]
 }
