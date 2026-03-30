@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-03-28T10:04:53.183Z",
+  "updated_at": "2026-03-30T17:47:19.228Z",
   "entries": [
     {
-      "hash": "c40ef5993b35c7b0",
-      "track": "Dil Lagana Mana Tha",
-      "artist": "Krish Mondal, Kishore Mondal, Devv Sadaana, Kunaal Vermaa - Dil Lagana Mana Tha",
-      "album": "Dil Lagana Mana Tha",
+      "hash": "edfa4629d40a314d",
+      "track": "Vaaste",
+      "artist": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
+      "album": "Vaaste",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-19T02:14:55.000Z"
-    },
-    {
-      "hash": "4a2076e6fba1a039",
-      "track": "I'm Geekin (Remix)",
-      "artist": "Ddg",
-      "album": "I'm Geekin (Remix)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-21T12:18:09.475Z"
-    },
-    {
-      "hash": "659a6994f754b8f1",
-      "track": "Turn Down for What",
-      "artist": "DJ Snake, Lil Jon",
-      "album": "Turn Down for What",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-28T10:04:51.332Z"
+      "cached_at": "2026-03-30T17:44:08.191Z"
     }
   ]
 }
