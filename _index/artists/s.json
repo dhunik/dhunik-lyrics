@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-03-26T10:56:14.768Z",
+  "updated_at": "2026-03-31T13:47:18.370Z",
   "entries": [
     {
-      "hash": "4475238af25fcb9d",
-      "track": "Stitches",
-      "artist": "Shawn Mendes - Stitches",
-      "album": null,
+      "hash": "c91fcf2646554646",
+      "track": "Baarish",
+      "artist": "Ash King, Shashaa Tirupati",
+      "album": "Half Girlfriend",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-26T10:55:07.173Z"
+      "has_plain": false,
+      "cached_at": "2026-03-31T13:42:40.887Z"
     }
   ]
 }
