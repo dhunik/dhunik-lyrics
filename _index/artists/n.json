@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-25T22:50:29.235Z",
+  "updated_at": "2026-03-31T13:52:08.814Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T22:50:28.544Z"
+    },
+    {
+      "hash": "27955b7d2b3f0e5a",
+      "track": "Morni Banke",
+      "artist": "Neha Kakkar, Guru Randhawa",
+      "album": "Badhaai Ho",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-03-31T13:52:07.920Z"
     }
   ]
 }
