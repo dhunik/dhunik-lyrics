@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-03-19T07:26:09.096Z",
+  "updated_at": "2026-03-31T13:35:43.973Z",
   "entries": [
     {
-      "hash": "9ae6f0c273315cdd",
-      "track": "Heat Waves",
-      "artist": "Glass Animals",
-      "album": "Glass Animals",
+      "hash": "dea4ac4c9e8dadad",
+      "track": "Illegal Weapon 2.0",
+      "artist": "Tanishk Bagchi, Jasmine Sandlas, Garry Sandhu",
+      "album": "Street Dancer 3D",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-19T07:22:51.040Z"
+      "has_plain": false,
+      "cached_at": "2026-03-31T13:26:02.406Z"
     }
   ]
 }
