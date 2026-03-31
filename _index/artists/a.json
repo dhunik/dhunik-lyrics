@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-03-31T03:03:41.735Z",
+  "updated_at": "2026-03-31T12:58:14.766Z",
   "entries": [
     {
-      "hash": "e8424eb68705a87a",
-      "track": "Dil Ne Yeh Kaha Hai Dil Se",
-      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
+      "hash": "f430d6619388df91",
+      "track": "Pal",
+      "artist": "Arijit Singh",
+      "album": "Monsoon Shootout",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-30T18:22:12.317Z"
-    },
-    {
-      "hash": "7dc659a81185a8cf",
-      "track": "Sad Gaana",
-      "artist": "Bali, AN1K8T",
-      "album": "Kala Khatta",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-31T03:03:41.104Z"
+      "cached_at": "2026-03-31T12:54:45.604Z"
     }
   ]
 }
