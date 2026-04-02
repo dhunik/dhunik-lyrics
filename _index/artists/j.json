@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-03-30T17:30:51.178Z",
+  "updated_at": "2026-04-02T12:41:39.416Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T17:25:58.876Z"
+    },
+    {
+      "hash": "a3107e750c2f2082",
+      "track": "Vaari Jaavan",
+      "artist": "Shashwat Sachdev, Jyoti Nooran, Jasmine Sandlas, Reble - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-02T12:41:38.641Z"
     }
   ]
 }
