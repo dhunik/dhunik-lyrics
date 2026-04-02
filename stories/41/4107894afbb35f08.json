@@ -1,0 +1,62 @@
+{
+  "v": 1,
+  "key": "jaan se guzarte hain|shashwat sachdev",
+  "track": "Jaan Se Guzarte Hain",
+  "artist": "Shashwat Sachdev, Khan Saab",
+  "album": "Dhurandhar The Revenge",
+  "language": "English",
+  "generated_at": "2026-04-02T16:49:22.017Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Jaan Se Guzarte Hain' expresses the pain and longing of unrequited love. The lyrics convey the emotional turmoil of loving someone from afar, and the heartache that comes with it. The song's core message revolves around the themes of love, yearning, and the pain of separation.",
+  "background": {
+    "composition": "The song features a melancholic and introspective composition, likely with a slow tempo and emotive instrumentation, emphasizing the emotional depth of the lyrics.",
+    "cultural_context": "Information not available.",
+    "fun_facts": [
+      "The song is part of the album 'Dhurandhar The Revenge' by Shashwat Sachdev and Khan Saab.",
+      "[Unverified] The song may have been inspired by traditional Indian music or poetry, given its lyrical style and themes."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "दिल पे ज़ख़्म खाते हैं, जान से गुज़रते हैं",
+      "meaning": "We bear the wounds on our heart and pass through life with our soul.",
+      "literary_device": "metaphor",
+      "mood": "longing"
+    },
+    {
+      "original": "जुर्म सिर्फ़ इतना है, उनको प्यार करते हैं",
+      "meaning": "The only crime is that we love them.",
+      "mood": "yearning"
+    },
+    {
+      "original": "ऐतबार बढ़ता है और भी मोहब्बत का",
+      "meaning": "The trust and love keep increasing.",
+      "mood": "hope"
+    },
+    {
+      "original": "जब वो अजनबी बन कर पास से गुज़रते हैं",
+      "meaning": "When they pass by like strangers.",
+      "literary_device": "metaphor",
+      "mood": "melancholy"
+    },
+    {
+      "original": "ऐ ग़म-ए-ज़माना, हम तुझको याद करते हैं",
+      "meaning": "Oh, sorrow of the world, we remember you.",
+      "mood": "nostalgia"
+    }
+  ],
+  "themes": [
+    "love",
+    "longing",
+    "heartache",
+    "separation",
+    "yearning"
+  ],
+  "mood_arc": [
+    "melancholy",
+    "longing",
+    "yearning",
+    "nostalgia",
+    "heartache"
+  ]
+}
