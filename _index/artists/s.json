@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-02T12:41:39.409Z",
+  "updated_at": "2026-04-02T12:45:26.564Z",
   "entries": [
     {
       "hash": "c91fcf2646554646",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-02T12:41:38.641Z"
+    },
+    {
+      "hash": "edb4b51d1365e484",
+      "track": "Hum Pyaar Karne Wale",
+      "artist": "Shashwat Sachdev, Qveen Herby, Anuradha Paudwal, Udit Narayan, Anand - Milind, Sameer Anjaan - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-02T12:45:25.706Z"
     }
   ]
 }
