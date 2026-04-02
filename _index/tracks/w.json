@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "w",
   "type": "track",
-  "updated_at": "2026-03-25T21:38:48.354Z",
+  "updated_at": "2026-04-02T12:39:20.677Z",
   "entries": [
     {
-      "hash": "602b56e53e1cfb6e",
-      "track": "We Don't Talk Anymore (feat. Selena Gomez)",
-      "artist": "Charlie Puth",
-      "album": "Nine Track Mind",
+      "hash": "1260bf0a0c07f12f",
+      "track": "Wild Ride",
+      "artist": "Shaswat Sachdev, Ellisar, Shashwat Sachdev - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T04:27:53.434Z"
-    },
-    {
-      "hash": "08ff6b438243adda",
-      "track": "Wild Rose",
-      "artist": "Bombay Rockers",
-      "album": "Introducing…",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-14T18:44:07.666Z"
-    },
-    {
-      "hash": "4014078611e4f6b4",
-      "track": "Where Is My Mind (From \"Fight Club\")",
-      "artist": "Geek Music",
-      "album": "Where Is My Mind (From \"Fight Club\")",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-16T04:41:17.078Z"
-    },
-    {
-      "hash": "4433192a1cdf07ff",
-      "track": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
-      "artist": "Fort Minor",
-      "album": "The Rising Tied",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-17T11:53:01.512Z"
-    },
-    {
-      "hash": "e07178cacf142098",
-      "track": "Whispering",
-      "artist": "Eric Rogers And His Orchestra",
-      "album": "The Percussive Twenties",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-25T21:38:46.344Z"
+      "cached_at": "2026-04-02T12:39:07.032Z"
     }
   ]
 }
