@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-02T12:41:39.416Z",
+  "updated_at": "2026-04-02T12:43:11.871Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-02T12:41:38.641Z"
+    },
+    {
+      "hash": "ca86b2dad5a98365",
+      "track": "Rang De Lal (Oye Oye)",
+      "artist": "Shashwat Sachdev, Jasmine Sandlas, Afsana Khan, Amit Kumar, Sapna Mukherjee, Kalyanji - Anandji, Anand Bakshi, Reble - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-02T12:43:11.125Z"
     }
   ]
 }
