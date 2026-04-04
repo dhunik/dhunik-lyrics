@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-02T12:43:11.910Z",
+  "updated_at": "2026-04-04T06:47:51.721Z",
   "entries": [
     {
-      "hash": "f430d6619388df91",
-      "track": "Pal",
-      "artist": "Arijit Singh",
-      "album": "Monsoon Shootout",
+      "hash": "adcd41bad5bac043",
+      "track": "Baaton Ko Teri",
+      "artist": "Arijit Singh, Himesh Reshammiya",
+      "album": "All Is Well",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-31T12:54:45.604Z"
-    },
-    {
-      "hash": "ca86b2dad5a98365",
-      "track": "Rang De Lal (Oye Oye)",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Afsana Khan, Amit Kumar, Sapna Mukherjee, Kalyanji - Anandji, Anand Bakshi, Reble - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:43:11.125Z"
+      "cached_at": "2026-04-04T06:43:12.853Z"
     }
   ]
 }
