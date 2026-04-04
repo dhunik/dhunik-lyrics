@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-03-25T21:38:48.351Z",
+  "updated_at": "2026-04-04T06:47:51.724Z",
   "entries": [
     {
-      "hash": "abfc3d1c00a34d8b",
-      "track": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-      "artist": "Shashwat Sachdev, Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Babu Singh Maan, Ranjit Kaur",
-      "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+      "hash": "adcd41bad5bac043",
+      "track": "Baaton Ko Teri",
+      "artist": "Arijit Singh, Himesh Reshammiya",
+      "album": "All Is Well",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-13T17:00:42.893Z"
-    },
-    {
-      "hash": "569ff6e6a4d438d3",
-      "track": "Sajna",
-      "artist": "Darshan Raval, Siddharth Amit Bhavsar, Aditya Gadhvi, Hansika Pareek - Sajna",
-      "album": "Sajna",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T04:46:23.652Z"
-    },
-    {
-      "hash": "e07178cacf142098",
-      "track": "Whispering",
-      "artist": "Eric Rogers And His Orchestra",
-      "album": "The Percussive Twenties",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-25T21:38:46.344Z"
+      "cached_at": "2026-04-04T06:43:12.853Z"
     }
   ]
 }
