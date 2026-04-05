@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-03-16T16:54:39.891Z",
+  "updated_at": "2026-04-05T19:24:00.958Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-16T16:54:38.896Z"
+    },
+    {
+      "hash": "101f3ecb99acb968",
+      "track": "Pal Pal Dil Ke Paas (Lofi Flip)",
+      "artist": "Kishore Kumar, VIBIE",
+      "album": "Kishore Kumar Lofi Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-05T19:23:58.627Z"
     }
   ]
 }
