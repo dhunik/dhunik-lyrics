@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-03-31T13:52:08.814Z",
+  "updated_at": "2026-04-05T19:30:52.352Z",
   "entries": [
     {
-      "hash": "88df85f3d32ee63c",
-      "track": "Haseen",
-      "artist": "Talwiinder, Nds, Rippy Grewal",
-      "album": "Haseen",
+      "hash": "be59241bb55320c0",
+      "track": "Ajeeb Dastan Hain Yeh",
+      "artist": "Nitin Mukesh",
+      "album": "Ajeeb Dastaan Hai Yeh",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-22T12:25:06.702Z"
-    },
-    {
-      "hash": "6bc3e9938bd74849",
-      "track": "Those Eyes",
-      "artist": "New West",
-      "album": "Those Eyes (Alternate Versions)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:50:28.544Z"
-    },
-    {
-      "hash": "27955b7d2b3f0e5a",
-      "track": "Morni Banke",
-      "artist": "Neha Kakkar, Guru Randhawa",
-      "album": "Badhaai Ho",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-31T13:52:07.920Z"
+      "cached_at": "2026-04-05T19:29:34.056Z"
     }
   ]
 }
