@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-04-05T19:38:02.208Z",
+  "updated_at": "2026-04-05T19:49:26.347Z",
   "entries": [
     {
-      "hash": "fae9070bbaf770df",
-      "track": "Ye Kaali Kaali Aankhen (From \"Baazigar\")",
-      "artist": "Kumar Sanu, Anu Malik",
-      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T18:52:17.698Z"
-    },
-    {
-      "hash": "a85102569a5d2480",
-      "track": "Jab Koi Baat Bigad Jaye",
-      "artist": "Kumar Sanu, Sadhana Sargam",
-      "album": "Jurm (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T18:59:34.065Z"
-    },
-    {
-      "hash": "101f3ecb99acb968",
-      "track": "Pal Pal Dil Ke Paas (Lofi Flip)",
-      "artist": "Kishore Kumar, VIBIE",
-      "album": "Kishore Kumar Lofi Songs",
+      "hash": "2800f05a0b9c68b3",
+      "track": "Dheere Dheere Se Meri Zindagi Mein Aana",
+      "artist": "Anuradha Paudwal, Kumar Sanu",
+      "album": "Aashiqui",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-05T19:23:58.627Z"
-    },
-    {
-      "hash": "9180dafde9d8b940",
-      "track": "Mera Jeevan Kora Kagaz",
-      "artist": "Kishore Kumar",
-      "album": "Kishor Kumar Legends",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:30:56.503Z"
-    },
-    {
-      "hash": "aaef4750a8675ffe",
-      "track": "Ye Dua Hai Meri Rab Se",
-      "artist": "Kumar Sanu",
-      "album": "Sapne Sajan Ke",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:38:01.652Z"
+      "cached_at": "2026-04-05T19:43:59.212Z"
     }
   ]
 }
