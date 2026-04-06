@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-03-26T12:14:26.066Z",
+  "updated_at": "2026-04-06T12:43:29.184Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-26T12:14:20.815Z"
+    },
+    {
+      "hash": "9db7c6f45e7a08ae",
+      "track": "Tera Ban Jaunga",
+      "artist": "Akhil Sachdeva, Tulsi Kumar",
+      "album": null,
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-06T12:43:24.800Z"
     }
   ]
 }
