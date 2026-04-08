@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-04-04T06:47:51.724Z",
+  "updated_at": "2026-04-08T17:27:55.243Z",
   "entries": [
     {
       "hash": "adcd41bad5bac043",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-04T06:43:12.853Z"
+    },
+    {
+      "hash": "c6fb6095376f0aa5",
+      "track": "Shiv Kailasho Ke Vasi",
+      "artist": "Hansraj Raghuwanshi",
+      "album": "Shiv Kailasho Ke Vasi",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-08T17:27:54.525Z"
     }
   ]
 }
