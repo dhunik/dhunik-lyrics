@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-02T12:45:26.564Z",
+  "updated_at": "2026-04-08T17:19:32.455Z",
   "entries": [
     {
-      "hash": "c91fcf2646554646",
-      "track": "Baarish",
-      "artist": "Ash King, Shashaa Tirupati",
-      "album": "Half Girlfriend",
+      "hash": "bb79824f04869355",
+      "track": "Tere Bina Na Guzara E",
+      "artist": "Satinder Sartaaj - Tere Bina Na Guzara E",
+      "album": "Tere Bina Na Guzara E",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-31T13:42:40.887Z"
-    },
-    {
-      "hash": "4107894afbb35f08",
-      "track": "Jaan Se Guzarte Hain",
-      "artist": "Shashwat Sachdev, Khan Saab - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:41:25.532Z"
-    },
-    {
-      "hash": "a3107e750c2f2082",
-      "track": "Vaari Jaavan",
-      "artist": "Shashwat Sachdev, Jyoti Nooran, Jasmine Sandlas, Reble - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:41:38.641Z"
-    },
-    {
-      "hash": "edb4b51d1365e484",
-      "track": "Hum Pyaar Karne Wale",
-      "artist": "Shashwat Sachdev, Qveen Herby, Anuradha Paudwal, Udit Narayan, Anand - Milind, Sameer Anjaan - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:45:25.706Z"
+      "cached_at": "2026-04-08T17:18:59.732Z"
     }
   ]
 }
