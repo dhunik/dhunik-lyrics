@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-04-05T19:30:57.174Z",
+  "updated_at": "2026-04-08T17:42:57.129Z",
   "entries": [
     {
-      "hash": "ba8a70b7b104efa6",
-      "track": "Mere Sapnon Ki Rani",
-      "artist": "Kishore Kumar",
-      "album": null,
+      "hash": "7f20a01f15b6be9f",
+      "track": "Mahadev Ke Deewane (From \"Mahadev Ke Deewane\")",
+      "artist": "Hansraj Raghuwanshi",
+      "album": "Har Har Mahadev Maha Shivratri Special",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:24:12.228Z"
-    },
-    {
-      "hash": "9180dafde9d8b940",
-      "track": "Mera Jeevan Kora Kagaz",
-      "artist": "Kishore Kumar",
-      "album": "Kishor Kumar Legends",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:30:56.503Z"
+      "has_plain": false,
+      "cached_at": "2026-04-08T17:38:07.801Z"
     }
   ]
 }
