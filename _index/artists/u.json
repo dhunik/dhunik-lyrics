@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-03-30T18:41:34.985Z",
+  "updated_at": "2026-04-10T19:46:20.071Z",
   "entries": [
     {
       "hash": "e8424eb68705a87a",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T18:41:34.133Z"
+    },
+    {
+      "hash": "6a5b8de3dc456248",
+      "track": "Kaho Naa Pyar Hai - Sad",
+      "artist": "Udit Narayan",
+      "album": "Kaho Naa Pyar Hai",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:46:19.322Z"
     }
   ]
 }
