@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-06T13:17:01.918Z",
+  "updated_at": "2026-04-10T19:35:10.484Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-06T13:12:35.117Z"
+    },
+    {
+      "hash": "4d6398a60006babf",
+      "track": "Kesariya (From \"Brahmastra\")",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "album": "Kesariya (From \"Brahmastra\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:35:09.791Z"
     }
   ]
 }
