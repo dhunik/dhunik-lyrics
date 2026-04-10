@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:17.306Z",
+  "updated_at": "2026-04-10T19:46:26.357Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -201,6 +201,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:46:16.637Z"
+    },
+    {
+      "hash": "50af44972e7c97f0",
+      "track": "Panchhi Nadiyan Pawan Ke Jhonke",
+      "artist": "Anu Malik, Sonu Nigam, Alka Yagnik",
+      "album": "Refugee - Kuch Naa Kaho - Main Prem Ki Diwani Hoon",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:46:25.571Z"
     }
   ]
 }
