@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:40:39.814Z",
+  "updated_at": "2026-04-10T19:41:11.202Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:40:38.526Z"
+    },
+    {
+      "hash": "6dfa12804942c203",
+      "track": "Sapna Jahan",
+      "artist": "Ajay-Atul, Sonu Nigam, Neeti Mohan",
+      "album": "Brothers",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:41:07.354Z"
     }
   ]
 }
