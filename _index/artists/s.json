@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:37:26.700Z",
+  "updated_at": "2026-04-10T19:38:01.110Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:37:25.885Z"
+    },
+    {
+      "hash": "b151bb9003666d05",
+      "track": "Pappu Can't Dance",
+      "artist": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi Shah, Bhargavi",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:38:00.431Z"
     }
   ]
 }
