@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-03-31T13:35:43.973Z",
+  "updated_at": "2026-04-10T19:35:15.727Z",
   "entries": [
     {
       "hash": "dea4ac4c9e8dadad",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-31T13:26:02.406Z"
+    },
+    {
+      "hash": "04c11a216da70d9e",
+      "track": "Mann Mera (Original Version)",
+      "artist": "Gajendra Verma",
+      "album": "Mann Mera (Original Version)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:35:15.055Z"
     }
   ]
 }
