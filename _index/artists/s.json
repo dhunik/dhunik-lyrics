@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:45:11.407Z",
+  "updated_at": "2026-04-10T19:45:53.712Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -147,6 +147,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:45:10.689Z"
+    },
+    {
+      "hash": "18ca5d779aee0a7d",
+      "track": "Dil Chahta Hai",
+      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy",
+      "album": "Dil Chahta Hai",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:45:53.013Z"
     }
   ]
 }
