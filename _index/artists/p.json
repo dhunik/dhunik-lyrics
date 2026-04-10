@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-10T19:34:50.335Z",
+  "updated_at": "2026-04-10T19:34:56.211Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:34:49.587Z"
+    },
+    {
+      "hash": "e1753336300b4272",
+      "track": "In Dino",
+      "artist": "Pritam, Soham, Sayeed Quadri",
+      "album": "Life In A Metro",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:51.024Z"
     }
   ]
 }
