@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-04-10T19:45:19.415Z",
+  "updated_at": "2026-04-10T19:45:35.879Z",
   "entries": [
     {
       "hash": "db094249472c9361",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-10T19:45:18.695Z"
+    },
+    {
+      "hash": "4f06222e20345063",
+      "track": "Naam Hai Tera",
+      "artist": "Himesh Reshammiya",
+      "album": "Aap Kaa Surroor",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:45:35.242Z"
     }
   ]
 }
