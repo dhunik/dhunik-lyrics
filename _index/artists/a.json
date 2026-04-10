@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:44:16.976Z",
+  "updated_at": "2026-04-10T19:44:21.814Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -156,6 +156,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:44:16.235Z"
+    },
+    {
+      "hash": "baf5f779cf975c08",
+      "track": "Paani Paani",
+      "artist": "Badshah, Aastha Gill",
+      "album": "Paani Paani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:44:21.100Z"
     }
   ]
 }
