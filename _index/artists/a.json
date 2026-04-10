@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:38:01.102Z",
+  "updated_at": "2026-04-10T19:38:27.459Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:38:00.431Z"
+    },
+    {
+      "hash": "c4f58834a362389e",
+      "track": "Khairiyat",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Chhichhore",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:38:26.050Z"
     }
   ]
 }
