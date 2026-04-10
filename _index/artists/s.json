@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:42:37.877Z",
+  "updated_at": "2026-04-10T19:43:05.512Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:42:37.107Z"
+    },
+    {
+      "hash": "6aeb67b556661bee",
+      "track": "Ye Un Dinon Ki Baat Hain",
+      "artist": "Sonu Nigam, Sarika Kapoor",
+      "album": "Tum Se Achcha Kaun Hai",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:43:04.845Z"
     }
   ]
 }
