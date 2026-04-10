@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:39:47.468Z",
+  "updated_at": "2026-04-10T19:39:49.205Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -75,6 +75,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-10T19:39:46.684Z"
+    },
+    {
+      "hash": "067c00bcf633e5f3",
+      "track": "Enna Sona",
+      "artist": "A.R. Rahman, Arijit Singh",
+      "album": "OK Jaanu",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:39:48.446Z"
     }
   ]
 }
