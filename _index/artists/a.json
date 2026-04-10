@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:39:49.205Z",
+  "updated_at": "2026-04-10T19:39:55.274Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:39:48.446Z"
+    },
+    {
+      "hash": "de1895ae51b665d6",
+      "track": "Mere Rashke Qamar (From \"Baadshaho\")",
+      "artist": "Tulsi Kumar, Tanishk Bagchi, A1 Melody Master-Fana, Manoj Muntashir",
+      "album": "The Ultimate - Tulsi Kumar Playlist",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:39:54.266Z"
     }
   ]
 }
