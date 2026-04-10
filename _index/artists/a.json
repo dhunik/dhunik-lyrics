@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:44:21.814Z",
+  "updated_at": "2026-04-10T19:44:46.671Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -165,6 +165,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:44:21.100Z"
+    },
+    {
+      "hash": "1865efafc8825298",
+      "track": "Bol Do Na Zara",
+      "artist": "Armaan Malik",
+      "album": "Azhar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:44:39.165Z"
     }
   ]
 }
