@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-04-10T17:20:35.638Z",
+  "updated_at": "2026-04-10T19:37:26.687Z",
   "entries": [
     {
       "hash": "279b68c348f48bc1",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-10T17:20:34.619Z"
+    },
+    {
+      "hash": "9aa7e62f242b3d77",
+      "track": "Coka 2.0",
+      "artist": "Jaani, Lijo George-Dj Chetas, Sukh-E Muzical Doctorz, Lisa Mishra",
+      "album": "Liger",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:37:25.885Z"
     }
   ]
 }
