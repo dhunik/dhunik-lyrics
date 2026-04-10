@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-04-10T19:35:33.134Z",
+  "updated_at": "2026-04-10T19:46:00.454Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:35:32.484Z"
+    },
+    {
+      "hash": "3f4978912056b6e8",
+      "track": "Afsana",
+      "artist": "Himesh Reshammiya, Tulsi Kumar",
+      "album": "Dil Diya Hai",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:45:59.818Z"
     }
   ]
 }
