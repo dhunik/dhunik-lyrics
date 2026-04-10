@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-08T17:19:32.455Z",
+  "updated_at": "2026-04-10T19:34:15.337Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-08T17:18:59.732Z"
+    },
+    {
+      "hash": "5bbce7c6c4f8cf90",
+      "track": "Tu Hi Haqeeqat",
+      "artist": "Pritam, Javed Ali, Irshan Ashraf, Shadab, Sayeed Quadri",
+      "album": "Tum Mile",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:13.789Z"
     }
   ]
 }
