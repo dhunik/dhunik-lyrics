@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-10T19:44:55.877Z",
+  "updated_at": "2026-04-10T19:45:38.311Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:44:55.192Z"
+    },
+    {
+      "hash": "bd3c336225c14ea5",
+      "track": "Meri Aashiqui",
+      "artist": "Arijit Singh, Palak Muchhal",
+      "album": "Aashiqui 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:45:37.648Z"
     }
   ]
 }
