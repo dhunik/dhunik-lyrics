@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-04-05T19:49:26.347Z",
+  "updated_at": "2026-04-10T19:34:50.331Z",
   "entries": [
     {
       "hash": "2800f05a0b9c68b3",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-05T19:43:59.212Z"
+    },
+    {
+      "hash": "f873b05c7220d849",
+      "track": "O Meri Jaan",
+      "artist": "Pritam, KK",
+      "album": "Life In A Metro",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:49.587Z"
     }
   ]
 }
