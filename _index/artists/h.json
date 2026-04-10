@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-04-08T17:27:55.243Z",
+  "updated_at": "2026-04-10T19:36:01.752Z",
   "entries": [
     {
-      "hash": "adcd41bad5bac043",
-      "track": "Baaton Ko Teri",
-      "artist": "Arijit Singh, Himesh Reshammiya",
-      "album": "All Is Well",
+      "hash": "db094249472c9361",
+      "track": "Tera Chehra",
+      "artist": "Himesh Reshammiya, Arijit Singh",
+      "album": "Sanam Teri Kasam",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-04-04T06:43:12.853Z"
-    },
-    {
-      "hash": "c6fb6095376f0aa5",
-      "track": "Shiv Kailasho Ke Vasi",
-      "artist": "Hansraj Raghuwanshi",
-      "album": "Shiv Kailasho Ke Vasi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-08T17:27:54.525Z"
+      "cached_at": "2026-04-10T19:35:49.729Z"
     }
   ]
 }
