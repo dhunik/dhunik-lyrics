@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-04-10T19:39:06.141Z",
+  "updated_at": "2026-04-10T19:40:52.036Z",
   "entries": [
     {
       "hash": "f9e07154772ea90d",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:39:05.280Z"
+    },
+    {
+      "hash": "8f3d28360a495188",
+      "track": "Khamoshiyan",
+      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "album": "Khamoshiyan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:40:51.215Z"
     }
   ]
 }
