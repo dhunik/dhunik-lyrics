@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-10T19:34:29.857Z",
+  "updated_at": "2026-04-10T19:34:33.749Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:34:29.168Z"
+    },
+    {
+      "hash": "a727f2cf24e42eab",
+      "track": "Tum Mile",
+      "artist": "Pritam, Neeraj Shridhar",
+      "album": "Tum Mile",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:32.979Z"
     }
   ]
 }
