@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-03-30T17:30:51.189Z",
+  "updated_at": "2026-04-10T17:20:32.089Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T17:25:58.876Z"
+    },
+    {
+      "hash": "f2c2c8cc1313ba24",
+      "track": "Mere Bina",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-10T17:20:28.847Z"
     }
   ]
 }
