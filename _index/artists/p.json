@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-10T19:35:10.479Z",
+  "updated_at": "2026-04-10T19:39:06.137Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:35:09.791Z"
+    },
+    {
+      "hash": "40e23d1daa17096c",
+      "track": "Phir Le Aya Dil",
+      "artist": "Pritam, Rekha Bhardwaj",
+      "album": "Barfi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:39:05.280Z"
     }
   ]
 }
