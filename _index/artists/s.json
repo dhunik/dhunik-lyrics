@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:45:53.712Z",
+  "updated_at": "2026-04-10T19:46:06.586Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -156,6 +156,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-10T19:45:53.013Z"
+    },
+    {
+      "hash": "2abe91eda89d515d",
+      "track": "Tere Hawale (Arijit - Shreya Duet)",
+      "artist": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
+      "album": "Laal Singh Chaddha (Extended Album)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:46:05.762Z"
     }
   ]
 }
