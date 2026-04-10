@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-10T19:34:15.351Z",
+  "updated_at": "2026-04-10T19:34:29.857Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:34:13.789Z"
+    },
+    {
+      "hash": "535d3b32709c7f84",
+      "track": "Jannat Jahan",
+      "artist": "Pritam, Rupam Islam",
+      "album": "Jannat",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:29.168Z"
     }
   ]
 }
