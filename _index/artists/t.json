@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-04-10T17:20:38.651Z",
+  "updated_at": "2026-04-10T19:35:33.134Z",
   "entries": [
     {
       "hash": "88df85f3d32ee63c",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-10T17:20:37.897Z"
+    },
+    {
+      "hash": "ab4055769f35c317",
+      "track": "Koi Naa (From \"Bhool Chuk Maaf\")",
+      "artist": "Tanishk Bagchi, Gifty, Harnoor, Shreya Ghoshal, Irshad Kamil",
+      "album": "Koi Naa (From \"Bhool Chuk Maaf\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:35:32.484Z"
     }
   ]
 }
