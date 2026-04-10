@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:43:05.512Z",
+  "updated_at": "2026-04-10T19:44:16.980Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -120,6 +120,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-10T19:43:04.845Z"
+    },
+    {
+      "hash": "8928eb6fd083e34a",
+      "track": "Raabta (Kehte Hain Khuda Ne)",
+      "artist": "Pritam, Shreya Ghoshal, Arijit Singh",
+      "album": "Agent Vinod",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:44:16.235Z"
     }
   ]
 }
