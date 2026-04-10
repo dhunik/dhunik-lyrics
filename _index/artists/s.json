@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:38:01.110Z",
+  "updated_at": "2026-04-10T19:40:39.814Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:38:00.431Z"
+    },
+    {
+      "hash": "e412f7943b6977a6",
+      "track": "Judaai",
+      "artist": "Sachin-Jigar, Rekha Bhardwaj, Arijit Singh",
+      "album": "Badlapur",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:40:38.526Z"
     }
   ]
 }
