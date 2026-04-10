@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:09.182Z",
+  "updated_at": "2026-04-10T19:46:12.803Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -183,6 +183,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:46:08.456Z"
+    },
+    {
+      "hash": "406653c66d9c3151",
+      "track": "Mere Haath Mein",
+      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
+      "album": "Fanaa",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:46:12.159Z"
     }
   ]
 }
