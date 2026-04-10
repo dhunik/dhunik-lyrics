@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:34:15.337Z",
+  "updated_at": "2026-04-10T19:34:48.479Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:34:13.789Z"
+    },
+    {
+      "hash": "ecd900f9990908f8",
+      "track": "Maahi",
+      "artist": "Sharib Toshi, Sayeed Quadri",
+      "album": "RAAZ - The Mystery Continues",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:47.762Z"
     }
   ]
 }
