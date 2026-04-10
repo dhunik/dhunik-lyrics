@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-10T19:36:20.493Z",
+  "updated_at": "2026-04-10T19:37:06.388Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:36:14.977Z"
+    },
+    {
+      "hash": "e259cf7cf977c96c",
+      "track": "Saari Duniya Jalaa Denge",
+      "artist": "Jaani, B Praak",
+      "album": "ANIMAL",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:37:05.583Z"
     }
   ]
 }
