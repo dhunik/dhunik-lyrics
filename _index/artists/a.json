@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:12.803Z",
+  "updated_at": "2026-04-10T19:46:17.306Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -192,6 +192,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:46:12.159Z"
+    },
+    {
+      "hash": "d59eddf742254dda",
+      "track": "O Re Piya",
+      "artist": "Armaan Malik",
+      "album": "Ek Kahani Julie Ki",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:46:16.637Z"
     }
   ]
 }
