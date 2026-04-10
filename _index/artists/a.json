@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:35:10.484Z",
+  "updated_at": "2026-04-10T19:35:19.079Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:35:09.791Z"
+    },
+    {
+      "hash": "68a6b00432aeb5aa",
+      "track": "Aashiq Tera",
+      "artist": "Sohail Sen, Altamash Faridi",
+      "album": "Happy Bhag Jayegi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:35:18.230Z"
     }
   ]
 }
