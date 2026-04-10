@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:39:55.274Z",
+  "updated_at": "2026-04-10T19:40:12.965Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:39:54.266Z"
+    },
+    {
+      "hash": "dd39481853b52a32",
+      "track": "Zaalima",
+      "artist": "Arijit Singh, Harshdeep Kaur",
+      "album": "Raees",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:40:12.139Z"
     }
   ]
 }
