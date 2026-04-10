@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "o",
   "type": "artist",
-  "updated_at": "2026-03-25T21:42:44.086Z",
+  "updated_at": "2026-04-10T17:43:15.807Z",
   "entries": [
     {
       "hash": "d251c59a517dcaaa",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T21:42:37.359Z"
+    },
+    {
+      "hash": "16f040da8dff36c6",
+      "track": "Ittefaq",
+      "artist": "OAFF, Savera, Siddhant Chaturvedi",
+      "album": "Ittefaq",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T17:43:09.365Z"
     }
   ]
 }
