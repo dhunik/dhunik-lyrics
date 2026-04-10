@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-04-10T19:35:33.130Z",
+  "updated_at": "2026-04-10T19:46:09.231Z",
   "entries": [
     {
       "hash": "dea4ac4c9e8dadad",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:35:32.484Z"
+    },
+    {
+      "hash": "a6c883f62bd09886",
+      "track": "Saathiya",
+      "artist": "A.R. Rahman, Sonu Nigam, Gulzar",
+      "album": "Saathiya",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:46:08.456Z"
     }
   ]
 }
