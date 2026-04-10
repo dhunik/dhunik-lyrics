@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-04-10T19:36:01.752Z",
+  "updated_at": "2026-04-10T19:45:19.415Z",
   "entries": [
     {
       "hash": "db094249472c9361",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:35:49.729Z"
+    },
+    {
+      "hash": "ae7518f2a9714e57",
+      "track": "Aap Ki Kashish",
+      "artist": "Himesh Reshammiya",
+      "album": "Aashiq Banaya Aapne",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:45:18.695Z"
     }
   ]
 }
