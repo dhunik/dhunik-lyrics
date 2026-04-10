@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-10T19:34:45.659Z",
+  "updated_at": "2026-04-10T19:36:20.493Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:34:44.964Z"
+    },
+    {
+      "hash": "6b3f0844b81ab3b6",
+      "track": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "artist": "Mohammad Faiz, Jaani",
+      "album": "Mr. And Mrs. Mahi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:36:14.977Z"
     }
   ]
 }
