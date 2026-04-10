@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-04-10T19:40:52.036Z",
+  "updated_at": "2026-04-10T19:40:56.375Z",
   "entries": [
     {
       "hash": "f9e07154772ea90d",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:40:51.215Z"
+    },
+    {
+      "hash": "a37b6448e93d7475",
+      "track": "Hamari Adhuri Kahani",
+      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "album": "Tu Kahe Toh",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:40:55.651Z"
     }
   ]
 }
