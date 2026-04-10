@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:41:11.202Z",
+  "updated_at": "2026-04-10T19:42:37.877Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -102,6 +102,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:41:07.354Z"
+    },
+    {
+      "hash": "dc2022bf1815adb0",
+      "track": "Nazar Na Lag Jaaye",
+      "artist": "Ash King, Sachin-Jigar",
+      "album": "Stree",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:42:37.107Z"
     }
   ]
 }
