@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:38:55.022Z",
+  "updated_at": "2026-04-10T19:39:47.468Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:38:54.072Z"
+    },
+    {
+      "hash": "f6784577b771fc2d",
+      "track": "Tera Hone Laga Hoon",
+      "artist": "Amjad Ali",
+      "album": "Tera Hone Laga Hoon",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:39:46.684Z"
     }
   ]
 }
