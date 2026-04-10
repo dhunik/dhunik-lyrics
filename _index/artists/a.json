@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:35:19.079Z",
+  "updated_at": "2026-04-10T19:35:48.937Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:35:18.230Z"
+    },
+    {
+      "hash": "212177bea40dbd01",
+      "track": "Zaroor",
+      "artist": "Aparshakti Khurana, Savi Kahlon",
+      "album": "Zaroor",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:35:48.284Z"
     }
   ]
 }
