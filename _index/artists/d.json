@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-03-30T17:47:19.228Z",
+  "updated_at": "2026-04-10T19:40:16.362Z",
   "entries": [
     {
       "hash": "edfa4629d40a314d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-30T17:44:08.191Z"
+    },
+    {
+      "hash": "58119a48a17ff100",
+      "track": "Sun Saathiya",
+      "artist": "Priya Saraiya, Divya Kumar",
+      "album": "ABCD 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:40:15.504Z"
     }
   ]
 }
