@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-04-10T19:38:55.023Z",
+  "updated_at": "2026-04-10T19:39:22.627Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:38:54.072Z"
+    },
+    {
+      "hash": "c4d5fb0ddba678c5",
+      "track": "Kinna Sona",
+      "artist": "Jubin Nautiyal, Dhvani Bhanushali, Meet Bros",
+      "album": "Marjaavaan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:39:21.943Z"
     }
   ]
 }
