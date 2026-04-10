@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-04-10T19:34:29.854Z",
+  "updated_at": "2026-04-10T19:38:19.815Z",
   "entries": [
     {
       "hash": "f9e07154772ea90d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:34:29.168Z"
+    },
+    {
+      "hash": "0ee42c9169190baa",
+      "track": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
+      "album": "Rab Ne Bana Di Jodi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:38:19.030Z"
     }
   ]
 }
