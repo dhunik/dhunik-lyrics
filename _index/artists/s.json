@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-10T19:44:41.820Z",
+  "updated_at": "2026-04-10T19:45:11.407Z",
   "entries": [
     {
       "hash": "bb79824f04869355",
@@ -138,6 +138,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:44:41.168Z"
+    },
+    {
+      "hash": "70466ec8828d4c12",
+      "track": "Deewana Tera",
+      "artist": "Sonu Nigam",
+      "album": "Deewana",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:45:10.689Z"
     }
   ]
 }
