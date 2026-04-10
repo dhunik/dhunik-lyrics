@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:41:35.390Z",
+  "updated_at": "2026-04-10T19:42:02.705Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -129,6 +129,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:41:34.610Z"
+    },
+    {
+      "hash": "925113ddd9167f7b",
+      "track": "Tu Hi Re (Trending Version)",
+      "artist": "A. R. Rahman, Abhay Jodhpurkar",
+      "album": "Tu Hi Re (Trending Version)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:42:01.905Z"
     }
   ]
 }
