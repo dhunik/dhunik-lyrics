@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-04-10T19:35:40.841Z",
+  "updated_at": "2026-04-10T19:36:01.749Z",
   "entries": [
     {
-      "hash": "bb79824f04869355",
-      "track": "Tere Bina Na Guzara E",
-      "artist": "Satinder Sartaaj - Tere Bina Na Guzara E",
-      "album": "Tere Bina Na Guzara E",
+      "hash": "db094249472c9361",
+      "track": "Tera Chehra",
+      "artist": "Himesh Reshammiya, Arijit Singh",
+      "album": "Sanam Teri Kasam",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-04-08T17:18:59.732Z"
-    },
-    {
-      "hash": "5bbce7c6c4f8cf90",
-      "track": "Tu Hi Haqeeqat",
-      "artist": "Pritam, Javed Ali, Irshan Ashraf, Shadab, Sayeed Quadri",
-      "album": "Tum Mile",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:13.789Z"
-    },
-    {
-      "hash": "a727f2cf24e42eab",
-      "track": "Tum Mile",
-      "artist": "Pritam, Neeraj Shridhar",
-      "album": "Tum Mile",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:32.979Z"
-    },
-    {
-      "hash": "19a19a79264b551d",
-      "track": "Tere Ishq Mein (From \"Nadaaniyan\")",
-      "artist": "Sachin-Jigar, Sachet Tandon, Asees Kaur, Amitabh Bhattacharya",
-      "album": "Tere Ishq Mein (From \"Nadaaniyan\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:40.190Z"
+      "cached_at": "2026-04-10T19:35:49.729Z"
     }
   ]
 }
