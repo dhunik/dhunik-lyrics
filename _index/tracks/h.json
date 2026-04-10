@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-04-10T19:40:56.366Z",
+  "updated_at": "2026-04-10T19:41:50.228Z",
   "entries": [
     {
       "hash": "c249fc486a2fcfc8",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:40:55.651Z"
+    },
+    {
+      "hash": "a1568f889a8c46af",
+      "track": "Happy",
+      "artist": "Pharrell Williams",
+      "album": "Pharrell Williams",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:41:48.783Z"
     }
   ]
 }
