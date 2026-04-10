@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:40:28.843Z",
+  "updated_at": "2026-04-10T19:41:35.390Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:40:28.162Z"
+    },
+    {
+      "hash": "4b716cb40853f7fd",
+      "track": "Jashn-E-Bahaaraa",
+      "artist": "A.R. Rahman, Javed Ali",
+      "album": "Jodhaa Akbar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:41:34.610Z"
     }
   ]
 }
