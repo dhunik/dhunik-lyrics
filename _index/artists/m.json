@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-04-10T19:39:22.627Z",
+  "updated_at": "2026-04-10T19:42:30.801Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:39:21.943Z"
+    },
+    {
+      "hash": "19c6e2436e6a444a",
+      "track": "Kuchh Khaas",
+      "artist": "Mohit Chauhan, Neha Bhasin",
+      "album": "Fashion",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:42:30.047Z"
     }
   ]
 }
