@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-03-25T23:28:45.837Z",
+  "updated_at": "2026-04-10T19:46:43.470Z",
   "entries": [
     {
       "hash": "a58f24d57a81d3e8",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-25T23:28:41.990Z"
+    },
+    {
+      "hash": "d594df9c7d2816a6",
+      "track": "Dilbar",
+      "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka",
+      "album": "Satyameva Jayate",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:46:42.672Z"
     }
   ]
 }
