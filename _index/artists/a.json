@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:40:12.965Z",
+  "updated_at": "2026-04-10T19:40:22.689Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -102,6 +102,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:40:12.139Z"
+    },
+    {
+      "hash": "838f4ebd09aca912",
+      "track": "O Re Piya",
+      "artist": "Ali Aslam",
+      "album": "Officer Arjun Singh IPS Batch 2000",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-10T19:40:21.927Z"
     }
   ]
 }
