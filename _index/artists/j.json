@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-02T12:43:11.871Z",
+  "updated_at": "2026-04-10T19:34:45.659Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-02T12:43:11.125Z"
+    },
+    {
+      "hash": "3ad4e8e0afa2c67f",
+      "track": "Hamari Adhuri Kahani (Title Track)",
+      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
+      "album": "Hamari Adhuri Kahani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:34:44.964Z"
     }
   ]
 }
