@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:40:22.689Z",
+  "updated_at": "2026-04-10T19:40:28.843Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -111,6 +111,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-10T19:40:21.927Z"
+    },
+    {
+      "hash": "30e240b9026eb59d",
+      "track": "Tumhare Hi Rahenge Hum",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Varun Jain, Shilpa Rao",
+      "album": "Stree 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-10T19:40:28.162Z"
     }
   ]
 }
