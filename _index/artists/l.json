@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-04-10T19:37:26.687Z",
+  "updated_at": "2026-04-12T09:43:45.730Z",
   "entries": [
     {
-      "hash": "279b68c348f48bc1",
-      "track": "DOPAMINE",
-      "artist": "Lavish Dhiman, Guru Randhawa, Gurjit Gill",
-      "album": "DOPAMINE",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-09T17:26:38.347Z"
-    },
-    {
-      "hash": "fb6591215ec1d05f",
-      "track": "Pyar Kiya To Darna Kya",
-      "artist": "Lata Mangeshkar",
-      "album": "Timeless",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-16T15:22:27.270Z"
-    },
-    {
-      "hash": "66a52804932af60c",
-      "track": "Raydar",
-      "artist": "Jid ft. Lil Durk - The Forever Story (Extended Version)",
-      "album": "The Forever Story (Extended Version)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-21T12:30:27.553Z"
-    },
-    {
-      "hash": "9c9e2f63a9ab2ae1",
-      "track": "Mirror",
-      "artist": "Lil Wayne",
-      "album": "Tha Carter IV (Complete Edition)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:46:33.993Z"
-    },
-    {
-      "hash": "5ec50a0b57b3bd6d",
-      "track": "Mirrors",
-      "artist": "Lone Tusker, Axway",
-      "album": "Mirrors",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:42:39.053Z"
-    },
-    {
-      "hash": "b68685b2c287d57b",
-      "track": "People",
-      "artist": "Libianca",
-      "album": "People",
+      "hash": "8646ea18f28514a9",
+      "track": "Tujhse Naraz Nahin Zindagi",
+      "artist": "Lata Mangeshkar, Gulzar",
+      "album": "Masoom",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-03-25T23:24:29.272Z"
-    },
-    {
-      "hash": "67b372d0b92b7428",
-      "track": "7 Years",
-      "artist": "Lukas Graham - Lukas Graham",
-      "album": "Lukas Graham",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-26T10:52:26.195Z"
-    },
-    {
-      "hash": "7acd138124d269ef",
-      "track": "Lag Ja Gale Se Phir",
-      "artist": "Lata Mangeshkar",
-      "album": "Lata Mangeshkar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:23:55.205Z"
-    },
-    {
-      "hash": "30552eba417592bd",
-      "track": "Kya Karoon?",
-      "artist": "Shankar-Ehsaan-Loy, Clinton Cerejo, Dominique Cerejo, Loy Mendonsa",
-      "album": "Wake Up Sid!",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-10T17:20:34.619Z"
-    },
-    {
-      "hash": "9aa7e62f242b3d77",
-      "track": "Coka 2.0",
-      "artist": "Jaani, Lijo George-Dj Chetas, Sukh-E Muzical Doctorz, Lisa Mishra",
-      "album": "Liger",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:37:25.885Z"
+      "cached_at": "2026-04-12T09:43:08.861Z"
     }
   ]
 }
