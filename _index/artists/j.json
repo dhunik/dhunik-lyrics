@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-10T19:40:52.039Z",
+  "updated_at": "2026-04-12T09:46:01.301Z",
   "entries": [
     {
-      "hash": "b50f185d9dd492f7",
-      "track": "Ek Din Teri Raahon",
-      "artist": "Javed Ali, Pritam - Naqaab",
-      "album": "Naqaab",
+      "hash": "16ba21157168c589",
+      "track": "Dil Jaaniye",
+      "artist": "Tulsi Kumar, Jubin Nautiyal",
+      "album": "Khandaani Shafakhana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-30T17:25:58.876Z"
-    },
-    {
-      "hash": "a3107e750c2f2082",
-      "track": "Vaari Jaavan",
-      "artist": "Shashwat Sachdev, Jyoti Nooran, Jasmine Sandlas, Reble - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:41:38.641Z"
-    },
-    {
-      "hash": "ca86b2dad5a98365",
-      "track": "Rang De Lal (Oye Oye)",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Afsana Khan, Amit Kumar, Sapna Mukherjee, Kalyanji - Anandji, Anand Bakshi, Reble - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:43:11.125Z"
-    },
-    {
-      "hash": "3ad4e8e0afa2c67f",
-      "track": "Hamari Adhuri Kahani (Title Track)",
-      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
-      "album": "Hamari Adhuri Kahani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:44.964Z"
-    },
-    {
-      "hash": "6b3f0844b81ab3b6",
-      "track": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
-      "artist": "Mohammad Faiz, Jaani",
-      "album": "Mr. And Mrs. Mahi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:36:14.977Z"
-    },
-    {
-      "hash": "e259cf7cf977c96c",
-      "track": "Saari Duniya Jalaa Denge",
-      "artist": "Jaani, B Praak",
-      "album": "ANIMAL",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:37:05.583Z"
-    },
-    {
-      "hash": "ab741bad267bdb60",
-      "track": "Nasha",
-      "artist": "Jasmine Sandlas, Sachet Tandon, Divya Kumar, Sumonto Mukherjee, Jaani, White Noise Collectives",
-      "album": "Raid 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:37:12.483Z"
-    },
-    {
-      "hash": "0ee42c9169190baa",
-      "track": "Tujh Mein Rab Dikhta Hai",
-      "artist": "Salim-Sulaiman, Roopkumar Rathod, Jaideep Sahni",
-      "album": "Rab Ne Bana Di Jodi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:38:19.030Z"
-    },
-    {
-      "hash": "c4d5fb0ddba678c5",
-      "track": "Kinna Sona",
-      "artist": "Jubin Nautiyal, Dhvani Bhanushali, Meet Bros",
-      "album": "Marjaavaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:39:21.943Z"
-    },
-    {
-      "hash": "8f3d28360a495188",
-      "track": "Khamoshiyan",
-      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
-      "album": "Khamoshiyan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:51.215Z"
+      "cached_at": "2026-04-12T09:45:46.759Z"
     }
   ]
 }
