@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-04-10T19:46:06.562Z",
+  "updated_at": "2026-04-12T09:43:45.726Z",
   "entries": [
     {
-      "hash": "db094249472c9361",
-      "track": "Tera Chehra",
-      "artist": "Himesh Reshammiya, Arijit Singh",
-      "album": "Sanam Teri Kasam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:49.729Z"
-    },
-    {
-      "hash": "8b26345d618f3bfb",
-      "track": "Tere Sang Yaara",
-      "artist": "Manoj Muntashir",
-      "album": "World Music Day 2025 with Bollywood Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:38:27.984Z"
-    },
-    {
-      "hash": "f6784577b771fc2d",
-      "track": "Tera Hone Laga Hoon",
-      "artist": "Amjad Ali",
-      "album": "Tera Hone Laga Hoon",
+      "hash": "8646ea18f28514a9",
+      "track": "Tujhse Naraz Nahin Zindagi",
+      "artist": "Lata Mangeshkar, Gulzar",
+      "album": "Masoom",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-04-10T19:39:46.684Z"
-    },
-    {
-      "hash": "30e240b9026eb59d",
-      "track": "Tumhare Hi Rahenge Hum",
-      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Varun Jain, Shilpa Rao",
-      "album": "Stree 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:28.162Z"
-    },
-    {
-      "hash": "925113ddd9167f7b",
-      "track": "Tu Hi Re (Trending Version)",
-      "artist": "A. R. Rahman, Abhay Jodhpurkar",
-      "album": "Tu Hi Re (Trending Version)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:42:01.905Z"
-    },
-    {
-      "hash": "f2d6555512c24ac3",
-      "track": "Tum Se Hi",
-      "artist": "Pritam, Mohit Chauhan",
-      "album": "Jab We Met",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:42:47.471Z"
-    },
-    {
-      "hash": "2abe91eda89d515d",
-      "track": "Tere Hawale (Arijit - Shreya Duet)",
-      "artist": "Pritam, Amitabh Bhattacharya, Arijit Singh, Shreya Ghoshal",
-      "album": "Laal Singh Chaddha (Extended Album)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:46:05.762Z"
+      "cached_at": "2026-04-12T09:43:08.861Z"
     }
   ]
 }
