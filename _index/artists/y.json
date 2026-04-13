@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-04-13T08:48:18.536Z",
+  "updated_at": "2026-04-13T08:58:04.399Z",
   "entries": [
     {
-      "hash": "09baaf6e0e6d1575",
-      "track": "Lungi Dance",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Lungi Dance",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-21T13:30:36.935Z"
-    },
-    {
-      "hash": "14dbbc95592e1fc4",
-      "track": "King",
-      "artist": "Years & Years - King",
-      "album": "Communion",
+      "hash": "2151b61f2a6d42d6",
+      "track": "DOG HOUSE",
+      "artist": "Drake, Julia Wolf, Yeat ft. Lil Uzi Vert - DOG HOUSE",
+      "album": "DOG HOUSE",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-03-26T10:47:31.804Z"
-    },
-    {
-      "hash": "2cfc08aa4f7fa14d",
-      "track": "If We Being Rëal",
-      "artist": "Yeat",
-      "album": "2093",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-13T08:48:17.755Z"
+      "cached_at": "2026-04-13T08:55:37.139Z"
     }
   ]
 }
