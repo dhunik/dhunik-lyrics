@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-03-26T10:47:32.610Z",
+  "updated_at": "2026-04-13T08:48:18.536Z",
   "entries": [
     {
       "hash": "09baaf6e0e6d1575",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-03-26T10:47:31.804Z"
+    },
+    {
+      "hash": "2cfc08aa4f7fa14d",
+      "track": "If We Being Rëal",
+      "artist": "Yeat",
+      "album": "2093",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-13T08:48:17.755Z"
     }
   ]
 }
