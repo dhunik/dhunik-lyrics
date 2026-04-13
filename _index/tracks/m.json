@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-04-10T19:45:38.309Z",
+  "updated_at": "2026-04-13T06:06:27.643Z",
   "entries": [
     {
-      "hash": "7f20a01f15b6be9f",
-      "track": "Mahadev Ke Deewane (From \"Mahadev Ke Deewane\")",
-      "artist": "Hansraj Raghuwanshi",
-      "album": "Har Har Mahadev Maha Shivratri Special",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-08T17:38:07.801Z"
-    },
-    {
-      "hash": "f2c2c8cc1313ba24",
-      "track": "Mere Bina",
-      "artist": "Pritam, Nikhil D'souza",
-      "album": null,
-      "has_synced": true,
+      "hash": "0e2d9cb9ac924c8e",
+      "track": "Mann Bharrya",
+      "artist": "B Praak",
+      "album": "Mann Bharrya",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-04-10T17:20:28.847Z"
-    },
-    {
-      "hash": "ecd900f9990908f8",
-      "track": "Maahi",
-      "artist": "Sharib Toshi, Sayeed Quadri",
-      "album": "RAAZ - The Mystery Continues",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:47.762Z"
-    },
-    {
-      "hash": "04c11a216da70d9e",
-      "track": "Mann Mera (Original Version)",
-      "artist": "Gajendra Verma",
-      "album": "Mann Mera (Original Version)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:15.055Z"
-    },
-    {
-      "hash": "de1895ae51b665d6",
-      "track": "Mere Rashke Qamar (From \"Baadshaho\")",
-      "artist": "Tulsi Kumar, Tanishk Bagchi, A1 Melody Master-Fana, Manoj Muntashir",
-      "album": "The Ultimate - Tulsi Kumar Playlist",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:39:54.266Z"
-    },
-    {
-      "hash": "bd3c336225c14ea5",
-      "track": "Meri Aashiqui",
-      "artist": "Arijit Singh, Palak Muchhal",
-      "album": "Aashiqui 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:45:37.648Z"
+      "cached_at": "2026-04-13T06:01:27.100Z"
     }
   ]
 }
