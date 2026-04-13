@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-04-12T09:46:01.295Z",
+  "updated_at": "2026-04-13T08:58:04.409Z",
   "entries": [
     {
-      "hash": "16ba21157168c589",
-      "track": "Dil Jaaniye",
-      "artist": "Tulsi Kumar, Jubin Nautiyal",
-      "album": "Khandaani Shafakhana",
+      "hash": "2151b61f2a6d42d6",
+      "track": "DOG HOUSE",
+      "artist": "Drake, Julia Wolf, Yeat ft. Lil Uzi Vert - DOG HOUSE",
+      "album": "DOG HOUSE",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-12T09:45:46.759Z"
+      "has_plain": true,
+      "cached_at": "2026-04-13T08:55:37.139Z"
     }
   ]
 }
