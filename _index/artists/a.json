@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:26.357Z",
+  "updated_at": "2026-04-14T12:27:32.974Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -210,6 +210,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:46:25.571Z"
+    },
+    {
+      "hash": "e021457d5a5b9ce1",
+      "track": "Dhoonde Akhiyaan",
+      "artist": "Yasser Desai, Altamash Faridi",
+      "album": "Altamash Faridi Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-14T12:27:32.138Z"
     }
   ]
 }
