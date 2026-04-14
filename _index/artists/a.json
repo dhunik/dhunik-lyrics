@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-14T12:34:59.087Z",
+  "updated_at": "2026-04-14T12:35:05.102Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -237,6 +237,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-14T12:34:50.738Z"
+    },
+    {
+      "hash": "611e59195f3730c4",
+      "track": "Kahin Pyaar Na Ho Jaaye",
+      "artist": "Alka Yagnik, Kumar Sanu",
+      "album": "Kahin Pyaar Na Ho Jaaye",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-14T12:35:04.158Z"
     }
   ]
 }
