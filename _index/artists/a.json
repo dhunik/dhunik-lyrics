@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-14T12:27:38.328Z",
+  "updated_at": "2026-04-14T12:34:59.087Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -228,6 +228,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-14T12:27:37.439Z"
+    },
+    {
+      "hash": "2261f918c031a465",
+      "track": "Pyar Ho Na Jaaye",
+      "artist": "Anand Raaj Anand, Shankar Mahadevan, Ram Shankar, Raj Bhatt",
+      "album": "Bichhoo",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-14T12:34:50.738Z"
     }
   ]
 }
