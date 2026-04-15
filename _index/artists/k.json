@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:12.856Z",
+  "updated_at": "2026-04-15T17:51:01.533Z",
   "entries": [
     {
-      "hash": "2800f05a0b9c68b3",
-      "track": "Dheere Dheere Se Meri Zindagi Mein Aana",
-      "artist": "Anuradha Paudwal, Kumar Sanu",
-      "album": "Aashiqui",
+      "hash": "668736a5888f9ae7",
+      "track": "Neend Kise Chain Kahan (From \"Zamaana Deewana\")",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Golden Hits (Kumar Sanu & Alka Yagnik)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-05T19:43:59.212Z"
-    },
-    {
-      "hash": "f873b05c7220d849",
-      "track": "O Meri Jaan",
-      "artist": "Pritam, KK",
-      "album": "Life In A Metro",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:49.587Z"
-    },
-    {
-      "hash": "406653c66d9c3151",
-      "track": "Mere Haath Mein",
-      "artist": "Jatin-Lalit, Sunidhi Chauhan, Sonu Nigam, Aamir Khan, Kajol, Prasoon Joshi",
-      "album": "Fanaa",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:46:12.159Z"
+      "cached_at": "2026-04-15T17:49:17.023Z"
     }
   ]
 }
