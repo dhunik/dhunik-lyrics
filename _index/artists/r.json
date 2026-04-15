@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-04-10T19:42:51.894Z",
+  "updated_at": "2026-04-15T17:21:25.097Z",
   "entries": [
     {
       "hash": "7325699e98d47f76",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:42:38.264Z"
+    },
+    {
+      "hash": "0a91638baf837b0e",
+      "track": "Chura Liya Hai Tumne Jo Dil Ko",
+      "artist": "R.D. Burman, Asha Bhosle, Mohammed Rafi - Yaadon Ki Baaraat",
+      "album": "Yaadon Ki Baaraat",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-15T17:21:17.714Z"
     }
   ]
 }
