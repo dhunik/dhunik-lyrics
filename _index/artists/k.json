@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-04-15T17:52:36.389Z",
+  "updated_at": "2026-04-15T18:13:36.758Z",
   "entries": [
     {
       "hash": "668736a5888f9ae7",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-15T17:52:35.077Z"
+    },
+    {
+      "hash": "8e532143ac57a7d0",
+      "track": "Hasi Ban Gaye",
+      "artist": "Ami Mishra, Kunaal Vermaa, Kasyap, VIBIE",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-15T18:13:35.541Z"
     }
   ]
 }
