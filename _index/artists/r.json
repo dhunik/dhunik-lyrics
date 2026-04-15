@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-04-15T17:21:25.097Z",
+  "updated_at": "2026-04-15T18:13:55.498Z",
   "entries": [
     {
       "hash": "7325699e98d47f76",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-15T17:21:17.714Z"
+    },
+    {
+      "hash": "970311f631543698",
+      "track": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+      "artist": "Rajat Nagpal, Yasser Desai, Neha Kakkar, Rana Sotal",
+      "album": "null",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-15T18:13:50.971Z"
     }
   ]
 }
