@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:20.071Z",
+  "updated_at": "2026-04-15T17:43:02.564Z",
   "entries": [
     {
-      "hash": "e8424eb68705a87a",
-      "track": "Dil Ne Yeh Kaha Hai Dil Se",
-      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol- 6- Tum Dil Ki Dhadkan Mein- With Shayeri",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T18:22:12.317Z"
-    },
-    {
-      "hash": "8b48e20ebb7c3519",
-      "track": "Pehla Nasha",
-      "artist": "Udit Narayan, Sadhana Sargam",
-      "album": "Jo Jeeta Wohi Sikandar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T18:41:34.133Z"
-    },
-    {
-      "hash": "6a5b8de3dc456248",
-      "track": "Kaho Naa Pyar Hai - Sad",
-      "artist": "Udit Narayan",
-      "album": "Kaho Naa Pyar Hai",
+      "hash": "8db16fb5b2915c43",
+      "track": "Dil Ke Badle Sanam",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Kyon Ki - It's Fate",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-04-10T19:46:19.322Z"
+      "cached_at": "2026-04-15T17:37:26.884Z"
     }
   ]
 }
