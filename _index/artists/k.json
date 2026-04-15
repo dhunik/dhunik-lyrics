@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-04-15T17:51:59.429Z",
+  "updated_at": "2026-04-15T17:52:36.389Z",
   "entries": [
     {
       "hash": "668736a5888f9ae7",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-15T17:51:58.695Z"
+    },
+    {
+      "hash": "d1548541739d50a1",
+      "track": "Gum Hai Kisi Ke Pyar Mein",
+      "artist": "Kishore Kumar, Lata Mangeshkar",
+      "album": "Golden Collection Lata Mangeshkar And Kishore Kumar",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-15T17:52:35.077Z"
     }
   ]
 }
