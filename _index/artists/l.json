@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-04-12T09:43:45.730Z",
+  "updated_at": "2026-04-15T17:51:59.420Z",
   "entries": [
     {
       "hash": "8646ea18f28514a9",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-12T09:43:08.861Z"
+    },
+    {
+      "hash": "f45d7594da2a85b6",
+      "track": "Tere Bina Zindagi Se",
+      "artist": "Lata Mangeshkar, Kishore Kumar",
+      "album": "Aandhi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-15T17:51:58.695Z"
     }
   ]
 }
