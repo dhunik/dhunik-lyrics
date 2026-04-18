@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-12T09:46:01.301Z",
+  "updated_at": "2026-04-18T18:22:49.051Z",
   "entries": [
     {
       "hash": "16ba21157168c589",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-12T09:45:46.759Z"
+    },
+    {
+      "hash": "91ce46bdcf377759",
+      "track": "Mann Bharryaa 2.0",
+      "artist": "Jaani, B Praak",
+      "album": "B Praak",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-18T18:22:41.514Z"
     }
   ]
 }
