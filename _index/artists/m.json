@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-04-19T22:18:15.327Z",
+  "updated_at": "2026-04-19T22:18:17.931Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -83,7 +83,7 @@
       "album": "R...Rajkumar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-04-19T22:18:14.539Z"
+      "cached_at": "2026-04-19T22:18:17.166Z"
     }
   ]
 }
