@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-04-15T18:13:58.795Z",
+  "updated_at": "2026-04-19T22:18:15.327Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-15T18:13:58.066Z"
+    },
+    {
+      "hash": "e5923472a14564fa",
+      "track": "Gandi Baat",
+      "artist": "Pritam, Mika Singh, Kalpana Patowary",
+      "album": "R...Rajkumar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-19T22:18:14.539Z"
     }
   ]
 }
