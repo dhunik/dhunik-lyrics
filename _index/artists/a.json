@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-14T12:35:05.102Z",
+  "updated_at": "2026-04-19T22:15:26.657Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -246,6 +246,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-14T12:35:04.158Z"
+    },
+    {
+      "hash": "fb72fff082e63c90",
+      "track": "Tera Chehra",
+      "artist": "Adnan Sami",
+      "album": "Tera Chehra",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-19T22:15:25.809Z"
     }
   ]
 }
