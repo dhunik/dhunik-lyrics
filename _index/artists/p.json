@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-10T19:45:38.311Z",
+  "updated_at": "2026-04-20T05:22:32.706Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:45:37.648Z"
+    },
+    {
+      "hash": "913008726b513439",
+      "track": "Zara Sa",
+      "artist": "Sayeed Quadri, Pritam, KK",
+      "album": "Jannat (Original Motion Picture Soundtrack)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-20T05:22:31.495Z"
     }
   ]
 }
