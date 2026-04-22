@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-04-10T19:35:42.979Z",
+  "updated_at": "2026-04-22T04:08:18.104Z",
   "entries": [
     {
       "hash": "51b9b85317ac8c34",
@@ -84,6 +84,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-10T19:35:42.368Z"
+    },
+    {
+      "hash": "515e08e0246a68f5",
+      "track": "Anjaana Anjaani",
+      "artist": "Vishal & Shekhar, Vishal Dadlani, Shilpa Rao",
+      "album": "Anjaana Anjaani",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-22T04:08:17.175Z"
     }
   ]
 }
