@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-04-22T04:08:18.100Z",
+  "updated_at": "2026-04-22T04:15:31.518Z",
   "entries": [
     {
-      "hash": "828d54981d8aa6ea",
-      "track": "Aashiq Banaya Aapne (Remix By Akbar Sami)",
-      "artist": "Himesh Reshammiya",
-      "album": "Aashiq Banaya Aapne",
+      "hash": "361347a076424639",
+      "track": "Aaj Kal Zindagi",
+      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan",
+      "album": "Wake Up Sid",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:38.338Z"
-    },
-    {
-      "hash": "ae7518f2a9714e57",
-      "track": "Aap Ki Kashish",
-      "artist": "Himesh Reshammiya",
-      "album": "Aashiq Banaya Aapne",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-04-10T19:45:18.695Z"
-    },
-    {
-      "hash": "3f4978912056b6e8",
-      "track": "Afsana",
-      "artist": "Himesh Reshammiya, Tulsi Kumar",
-      "album": "Dil Diya Hai",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-10T19:45:59.818Z"
-    },
-    {
-      "hash": "515e08e0246a68f5",
-      "track": "Anjaana Anjaani",
-      "artist": "Vishal & Shekhar, Vishal Dadlani, Shilpa Rao",
-      "album": "Anjaana Anjaani",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-22T04:08:17.175Z"
+      "cached_at": "2026-04-22T04:14:39.477Z"
     }
   ]
 }
