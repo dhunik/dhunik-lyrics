@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-04-12T09:46:01.297Z",
+  "updated_at": "2026-04-22T13:42:51.310Z",
   "entries": [
     {
-      "hash": "16ba21157168c589",
-      "track": "Dil Jaaniye",
-      "artist": "Tulsi Kumar, Jubin Nautiyal",
-      "album": "Khandaani Shafakhana",
+      "hash": "4c59296c1caf8031",
+      "track": "Raza",
+      "artist": "Tarsem Jassar",
+      "album": "Raza",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-04-12T09:45:46.759Z"
+      "cached_at": "2026-04-22T13:42:39.362Z"
     }
   ]
 }
