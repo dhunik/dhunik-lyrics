@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-22T04:15:31.520Z",
+  "updated_at": "2026-04-23T03:44:44.430Z",
   "entries": [
     {
       "hash": "361347a076424639",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-22T04:14:39.477Z"
+    },
+    {
+      "hash": "5d3943143f48bc12",
+      "track": "Zinda",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "Zinda",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-23T03:44:43.585Z"
     }
   ]
 }
