@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-23T03:44:44.430Z",
+  "updated_at": "2026-04-24T19:09:23.284Z",
   "entries": [
     {
       "hash": "361347a076424639",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-23T03:44:43.585Z"
+    },
+    {
+      "hash": "5fd9618556937225",
+      "track": "Ninaane Ninaane",
+      "artist": "Kunal Ganjawala, K. S. Chithra, Sadhu Kokila",
+      "album": "Suntaragaali",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-04-24T19:09:22.371Z"
     }
   ]
 }
