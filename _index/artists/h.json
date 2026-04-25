@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-04-10T19:45:35.879Z",
+  "updated_at": "2026-04-25T10:58:28.517Z",
   "entries": [
     {
       "hash": "db094249472c9361",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:45:35.242Z"
+    },
+    {
+      "hash": "b886311468f08c47",
+      "track": "Sajde",
+      "artist": "Faheem Abdullah, Huzaif Nazar",
+      "album": "Lost;Found",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-04-25T10:58:27.756Z"
     }
   ]
 }
