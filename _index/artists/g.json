@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:09.231Z",
+  "updated_at": "2026-04-25T07:43:04.844Z",
   "entries": [
     {
-      "hash": "dea4ac4c9e8dadad",
-      "track": "Illegal Weapon 2.0",
-      "artist": "Tanishk Bagchi, Jasmine Sandlas, Garry Sandhu",
-      "album": "Street Dancer 3D",
+      "hash": "7d25d707b7857177",
+      "track": "Ban Ja Rani",
+      "artist": "Guru Randhawa",
+      "album": "Groove With Guru",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-31T13:26:02.406Z"
-    },
-    {
-      "hash": "04c11a216da70d9e",
-      "track": "Mann Mera (Original Version)",
-      "artist": "Gajendra Verma",
-      "album": "Mann Mera (Original Version)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:15.055Z"
-    },
-    {
-      "hash": "ab4055769f35c317",
-      "track": "Koi Naa (From \"Bhool Chuk Maaf\")",
-      "artist": "Tanishk Bagchi, Gifty, Harnoor, Shreya Ghoshal, Irshad Kamil",
-      "album": "Koi Naa (From \"Bhool Chuk Maaf\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:32.484Z"
-    },
-    {
-      "hash": "a6c883f62bd09886",
-      "track": "Saathiya",
-      "artist": "A.R. Rahman, Sonu Nigam, Gulzar",
-      "album": "Saathiya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:46:08.456Z"
+      "has_plain": true,
+      "cached_at": "2026-04-25T07:40:48.725Z"
     }
   ]
 }
