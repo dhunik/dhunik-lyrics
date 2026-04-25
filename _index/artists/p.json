@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-20T05:22:32.706Z",
+  "updated_at": "2026-04-25T11:52:43.147Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -129,6 +129,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-20T05:22:31.495Z"
+    },
+    {
+      "hash": "c4efc7da637218c7",
+      "track": "Sajni",
+      "artist": "Ram Sampath, Arijit Singh, Prashant Pandey",
+      "album": "Ram Sampath, Arijit Singh, Prashant Pandey",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-25T11:52:42.323Z"
     }
   ]
 }
