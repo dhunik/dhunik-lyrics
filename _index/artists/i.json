@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-04-10T19:46:43.470Z",
+  "updated_at": "2026-04-25T12:00:33.060Z",
   "entries": [
     {
       "hash": "a58f24d57a81d3e8",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-10T19:46:42.672Z"
+    },
+    {
+      "hash": "b2cba4b38f7cf629",
+      "track": "Tum Se",
+      "artist": "Varun Jain, Raghav Chaitanya, Sachin-Jigar, Indraneel",
+      "album": "Varun Jain, Raghav Chaitanya, Sachin-Jigar, Indraneel",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-25T12:00:32.161Z"
     }
   ]
 }
