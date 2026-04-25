@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-18T18:22:49.051Z",
+  "updated_at": "2026-04-25T07:45:28.861Z",
   "entries": [
     {
       "hash": "16ba21157168c589",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-18T18:22:41.514Z"
+    },
+    {
+      "hash": "80213ab9f3421e05",
+      "track": "Dekhha Tenu",
+      "artist": "Mohammad Faiz, Jaani",
+      "album": "Mohammad Faiz, Jaani",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-25T07:45:28.102Z"
     }
   ]
 }
