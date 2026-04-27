@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-25T11:52:43.147Z",
+  "updated_at": "2026-04-27T04:11:01.651Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -138,6 +138,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-25T11:52:42.323Z"
+    },
+    {
+      "hash": "5dc612560623abb5",
+      "track": "Jannatein Kahan (Power Ballad)",
+      "artist": "Pritam, Nikhil D'souza",
+      "album": "Jannat 2",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-27T04:11:00.588Z"
     }
   ]
 }
