@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-25T07:45:28.861Z",
+  "updated_at": "2026-04-27T16:28:17.434Z",
   "entries": [
     {
       "hash": "16ba21157168c589",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-25T07:45:28.102Z"
+    },
+    {
+      "hash": "9636448cab2fb68f",
+      "track": "Tune Mujhe Pehchana Nahin",
+      "artist": "Jatin-Lalit, Shaan",
+      "album": "Raju Chacha",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-27T16:28:16.364Z"
     }
   ]
 }
