@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-04-15T17:43:02.564Z",
+  "updated_at": "2026-04-29T20:11:28.231Z",
   "entries": [
     {
       "hash": "8db16fb5b2915c43",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-15T17:37:26.884Z"
+    },
+    {
+      "hash": "8bd2189fad442e8f",
+      "track": "Hawaon Ne Yeh Kaha (Aap Mujhe Achche Lagne Lage / Soundtrack Version)",
+      "artist": "Udit Narayan - Aap Mujhe Achche Lagne Lage",
+      "album": "Aap Mujhe Achche Lagne Lage",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-04-29T20:11:20.838Z"
     }
   ]
 }
