@@ -2,151 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-27T04:11:01.651Z",
+  "updated_at": "2026-04-30T06:20:04.764Z",
   "entries": [
     {
-      "hash": "b50f185d9dd492f7",
-      "track": "Ek Din Teri Raahon",
-      "artist": "Javed Ali, Pritam - Naqaab",
-      "album": "Naqaab",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T17:25:58.876Z"
-    },
-    {
-      "hash": "f2c2c8cc1313ba24",
-      "track": "Mere Bina",
-      "artist": "Pritam, Nikhil D'souza",
-      "album": null,
+      "hash": "04b136f168b1e3c9",
+      "track": "Seva Me Bani Bhole Baba Ke",
+      "artist": "Pawan Singh, Shivani Singh",
+      "album": "Pawan Singh, Shivani Singh",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-10T17:20:28.847Z"
-    },
-    {
-      "hash": "5bbce7c6c4f8cf90",
-      "track": "Tu Hi Haqeeqat",
-      "artist": "Pritam, Javed Ali, Irshan Ashraf, Shadab, Sayeed Quadri",
-      "album": "Tum Mile",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:13.789Z"
-    },
-    {
-      "hash": "535d3b32709c7f84",
-      "track": "Jannat Jahan",
-      "artist": "Pritam, Rupam Islam",
-      "album": "Jannat",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:29.168Z"
-    },
-    {
-      "hash": "a727f2cf24e42eab",
-      "track": "Tum Mile",
-      "artist": "Pritam, Neeraj Shridhar",
-      "album": "Tum Mile",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:32.979Z"
-    },
-    {
-      "hash": "6a9fcbbd617f84a3",
-      "track": "Sang Hoon Tere",
-      "artist": "Pritam, Nikhil D'souza, Sayeed Quadri",
-      "album": "Jannat 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:43.189Z"
-    },
-    {
-      "hash": "f873b05c7220d849",
-      "track": "O Meri Jaan",
-      "artist": "Pritam, KK",
-      "album": "Life In A Metro",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:49.587Z"
-    },
-    {
-      "hash": "e1753336300b4272",
-      "track": "In Dino",
-      "artist": "Pritam, Soham, Sayeed Quadri",
-      "album": "Life In A Metro",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:51.024Z"
-    },
-    {
-      "hash": "4d6398a60006babf",
-      "track": "Kesariya (From \"Brahmastra\")",
-      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
-      "album": "Kesariya (From \"Brahmastra\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:09.791Z"
-    },
-    {
-      "hash": "40e23d1daa17096c",
-      "track": "Phir Le Aya Dil",
-      "artist": "Pritam, Rekha Bhardwaj",
-      "album": "Barfi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:39:05.280Z"
-    },
-    {
-      "hash": "a1568f889a8c46af",
-      "track": "Happy",
-      "artist": "Pharrell Williams",
-      "album": "Pharrell Williams",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:41:48.783Z"
-    },
-    {
-      "hash": "3065276cfb2e0c58",
-      "track": "Pee Loon",
-      "artist": "Pritam, Mohit Chauhan",
-      "album": "Once Upon A Time In Mumbaai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:44:55.192Z"
-    },
-    {
-      "hash": "bd3c336225c14ea5",
-      "track": "Meri Aashiqui",
-      "artist": "Arijit Singh, Palak Muchhal",
-      "album": "Aashiqui 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:45:37.648Z"
-    },
-    {
-      "hash": "913008726b513439",
-      "track": "Zara Sa",
-      "artist": "Sayeed Quadri, Pritam, KK",
-      "album": "Jannat (Original Motion Picture Soundtrack)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-20T05:22:31.495Z"
-    },
-    {
-      "hash": "c4efc7da637218c7",
-      "track": "Sajni",
-      "artist": "Ram Sampath, Arijit Singh, Prashant Pandey",
-      "album": "Ram Sampath, Arijit Singh, Prashant Pandey",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-25T11:52:42.323Z"
-    },
-    {
-      "hash": "5dc612560623abb5",
-      "track": "Jannatein Kahan (Power Ballad)",
-      "artist": "Pritam, Nikhil D'souza",
-      "album": "Jannat 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-27T04:11:00.588Z"
+      "cached_at": "2026-04-30T06:19:32.686Z"
     }
   ]
 }
