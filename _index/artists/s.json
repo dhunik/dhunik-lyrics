@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-27T16:28:17.441Z",
+  "updated_at": "2026-04-30T06:20:04.766Z",
   "entries": [
     {
-      "hash": "361347a076424639",
-      "track": "Aaj Kal Zindagi",
-      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan",
-      "album": "Wake Up Sid",
+      "hash": "04b136f168b1e3c9",
+      "track": "Seva Me Bani Bhole Baba Ke",
+      "artist": "Pawan Singh, Shivani Singh",
+      "album": "Pawan Singh, Shivani Singh",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-22T04:14:39.477Z"
-    },
-    {
-      "hash": "5d3943143f48bc12",
-      "track": "Zinda",
-      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
-      "album": "Zinda",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-23T03:44:43.585Z"
-    },
-    {
-      "hash": "5fd9618556937225",
-      "track": "Ninaane Ninaane",
-      "artist": "Kunal Ganjawala, K. S. Chithra, Sadhu Kokila",
-      "album": "Suntaragaali",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-24T19:09:22.371Z"
-    },
-    {
-      "hash": "cfbef70c6107cd0d",
-      "track": "Rootha Kyun",
-      "artist": "Shaarib Sabri, Toshi Sabri, Mohit Chauhan, Payal Dev, Shaarib Toshi",
-      "album": "1920 London",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-24T20:44:55.491Z"
-    },
-    {
-      "hash": "b2cba4b38f7cf629",
-      "track": "Tum Se",
-      "artist": "Varun Jain, Raghav Chaitanya, Sachin-Jigar, Indraneel",
-      "album": "Varun Jain, Raghav Chaitanya, Sachin-Jigar, Indraneel",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-25T12:00:32.161Z"
-    },
-    {
-      "hash": "9636448cab2fb68f",
-      "track": "Tune Mujhe Pehchana Nahin",
-      "artist": "Jatin-Lalit, Shaan",
-      "album": "Raju Chacha",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-27T16:28:16.364Z"
+      "cached_at": "2026-04-30T06:19:32.686Z"
     }
   ]
 }
