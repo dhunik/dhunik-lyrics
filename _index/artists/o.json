@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "o",
   "type": "artist",
-  "updated_at": "2026-04-10T17:43:15.807Z",
+  "updated_at": "2026-05-01T12:30:47.338Z",
   "entries": [
     {
-      "hash": "d251c59a517dcaaa",
-      "track": "Fireflies",
-      "artist": "Owl City",
-      "album": "Ocean Eyes",
+      "hash": "15377106d919e5ab",
+      "track": "Nanchaku",
+      "artist": "Seedhe Maut, MC STAN ft. OG Lucifer - Nanchaku",
+      "album": "Nanchaku",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:42:37.359Z"
-    },
-    {
-      "hash": "16f040da8dff36c6",
-      "track": "Ittefaq",
-      "artist": "OAFF, Savera, Siddhant Chaturvedi",
-      "album": "Ittefaq",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-04-10T17:43:09.365Z"
+      "cached_at": "2026-05-01T12:30:04.522Z"
     }
   ]
 }
