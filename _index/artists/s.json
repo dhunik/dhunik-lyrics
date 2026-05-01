@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-01T12:30:47.332Z",
+  "updated_at": "2026-05-01T12:30:52.601Z",
   "entries": [
     {
       "hash": "15377106d919e5ab",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-01T12:30:04.522Z"
+    },
+    {
+      "hash": "e3de9433e2a5fff1",
+      "track": "SHUTDOWN",
+      "artist": "Seedhe Maut - SHUTDOWN",
+      "album": "SHUTDOWN",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-01T12:30:51.794Z"
     }
   ]
 }
