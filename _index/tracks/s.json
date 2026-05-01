@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-04-30T06:19:37.463Z",
+  "updated_at": "2026-05-01T12:27:49.085Z",
   "entries": [
     {
-      "hash": "c583e435b5555ed4",
-      "track": "Suit Suit",
-      "artist": "Guru Randhawa",
-      "album": "Hindi Medium",
+      "hash": "3b68b4496eb6452f",
+      "track": "Seedhe Maut Anthem",
+      "artist": "Seedhe Maut, Sez On The Beat",
+      "album": "Seedhe Maut Anthem",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-25T07:35:27.140Z"
-    },
-    {
-      "hash": "b886311468f08c47",
-      "track": "Sajde",
-      "artist": "Faheem Abdullah, Huzaif Nazar",
-      "album": "Lost;Found",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-25T10:58:27.756Z"
-    },
-    {
-      "hash": "c4efc7da637218c7",
-      "track": "Sajni",
-      "artist": "Ram Sampath, Arijit Singh, Prashant Pandey",
-      "album": "Ram Sampath, Arijit Singh, Prashant Pandey",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-25T11:52:42.323Z"
-    },
-    {
-      "hash": "04b136f168b1e3c9",
-      "track": "Seva Me Bani Bhole Baba Ke",
-      "artist": "Pawan Singh, Shivani Singh",
-      "album": "Pawan Singh, Shivani Singh",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-30T06:19:32.686Z"
+      "cached_at": "2026-05-01T12:26:27.853Z"
     }
   ]
 }
