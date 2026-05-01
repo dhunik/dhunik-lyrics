@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-01T12:27:49.088Z",
+  "updated_at": "2026-05-01T12:30:47.332Z",
   "entries": [
     {
-      "hash": "3b68b4496eb6452f",
-      "track": "Seedhe Maut Anthem",
-      "artist": "Seedhe Maut, Sez On The Beat",
-      "album": "Seedhe Maut Anthem",
+      "hash": "15377106d919e5ab",
+      "track": "Nanchaku",
+      "artist": "Seedhe Maut, MC STAN ft. OG Lucifer - Nanchaku",
+      "album": "Nanchaku",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-01T12:26:27.853Z"
+      "cached_at": "2026-05-01T12:30:04.522Z"
     }
   ]
 }
