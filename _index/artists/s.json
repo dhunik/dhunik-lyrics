@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-04-30T06:20:04.766Z",
+  "updated_at": "2026-05-01T12:27:49.088Z",
   "entries": [
     {
-      "hash": "04b136f168b1e3c9",
-      "track": "Seva Me Bani Bhole Baba Ke",
-      "artist": "Pawan Singh, Shivani Singh",
-      "album": "Pawan Singh, Shivani Singh",
+      "hash": "3b68b4496eb6452f",
+      "track": "Seedhe Maut Anthem",
+      "artist": "Seedhe Maut, Sez On The Beat",
+      "album": "Seedhe Maut Anthem",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-30T06:19:32.686Z"
+      "cached_at": "2026-05-01T12:26:27.853Z"
     }
   ]
 }
