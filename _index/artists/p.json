@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-04-30T06:20:04.764Z",
+  "updated_at": "2026-05-02T19:11:12.170Z",
   "entries": [
     {
       "hash": "04b136f168b1e3c9",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-30T06:19:32.686Z"
+    },
+    {
+      "hash": "3bfedc6ff43e191d",
+      "track": "Rafta Rafta Wo Meri Hasti Ka",
+      "artist": "Puthhay Pangay",
+      "album": "Rafta Rafta Wo Meri Hasti Ka",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-02T19:11:11.256Z"
     }
   ]
 }
