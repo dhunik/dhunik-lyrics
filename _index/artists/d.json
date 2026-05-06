@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-05-06T14:26:29.380Z",
+  "updated_at": "2026-05-06T14:26:44.490Z",
   "entries": [
     {
       "hash": "edfa4629d40a314d",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-06T14:26:28.062Z"
+    },
+    {
+      "hash": "a86f4966befbd14f",
+      "track": "Don't start Now",
+      "artist": "Despotem, Austin Salter",
+      "album": "Don't start Now",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-06T14:26:43.267Z"
     }
   ]
 }
