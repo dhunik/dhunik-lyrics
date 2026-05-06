@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-05-06T14:26:44.490Z",
+  "updated_at": "2026-05-06T14:27:03.545Z",
   "entries": [
     {
       "hash": "edfa4629d40a314d",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-06T14:26:43.267Z"
+    },
+    {
+      "hash": "d6a529034742e0f9",
+      "track": "Titanium",
+      "artist": "Titov, Rachela, Deep Mage",
+      "album": "Titanium",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-06T14:26:59.392Z"
     }
   ]
 }
