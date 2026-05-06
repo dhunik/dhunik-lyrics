@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-04-25T10:58:28.517Z",
+  "updated_at": "2026-05-06T18:13:01.679Z",
   "entries": [
     {
-      "hash": "db094249472c9361",
-      "track": "Tera Chehra",
-      "artist": "Himesh Reshammiya, Arijit Singh",
-      "album": "Sanam Teri Kasam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:49.729Z"
-    },
-    {
-      "hash": "ae7518f2a9714e57",
-      "track": "Aap Ki Kashish",
-      "artist": "Himesh Reshammiya",
-      "album": "Aashiq Banaya Aapne",
+      "hash": "a48e073b5f0cbc6b",
+      "track": "Ee Paadha Punya Pada",
+      "artist": "Hamsalekha, S.P. Balasubrahmanyam - Sri Manjunathaa",
+      "album": "Sri Manjunathaa",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-04-10T19:45:18.695Z"
-    },
-    {
-      "hash": "4f06222e20345063",
-      "track": "Naam Hai Tera",
-      "artist": "Himesh Reshammiya",
-      "album": "Aap Kaa Surroor",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:45:35.242Z"
-    },
-    {
-      "hash": "b886311468f08c47",
-      "track": "Sajde",
-      "artist": "Faheem Abdullah, Huzaif Nazar",
-      "album": "Lost;Found",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-25T10:58:27.756Z"
+      "cached_at": "2026-05-06T18:12:50.025Z"
     }
   ]
 }
