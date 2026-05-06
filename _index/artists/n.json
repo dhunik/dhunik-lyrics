@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-04-27T04:11:01.648Z",
+  "updated_at": "2026-05-06T18:49:16.014Z",
   "entries": [
     {
-      "hash": "be59241bb55320c0",
-      "track": "Ajeeb Dastan Hain Yeh",
-      "artist": "Nitin Mukesh",
-      "album": "Ajeeb Dastaan Hai Yeh",
+      "hash": "37c77fab39120f80",
+      "track": "Brahamamurari",
+      "artist": "Hamsalekha, Ramesh Chandra, Nanditha",
+      "album": "Sri Manjunathaa",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-05T19:29:34.056Z"
-    },
-    {
-      "hash": "b151bb9003666d05",
-      "track": "Pappu Can't Dance",
-      "artist": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi Shah, Bhargavi",
-      "album": "Jaane Tu... Ya Jaane Na",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:38:00.431Z"
-    },
-    {
-      "hash": "970311f631543698",
-      "track": "Dil Ko Karaar Aaya (From \"Sukoon\")",
-      "artist": "Rajat Nagpal, Yasser Desai, Neha Kakkar, Rana Sotal",
-      "album": "null",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-15T18:13:50.971Z"
-    },
-    {
-      "hash": "5dc612560623abb5",
-      "track": "Jannatein Kahan (Power Ballad)",
-      "artist": "Pritam, Nikhil D'souza",
-      "album": "Jannat 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-27T04:11:00.588Z"
+      "cached_at": "2026-05-06T18:48:02.907Z"
     }
   ]
 }
