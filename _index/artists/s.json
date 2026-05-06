@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-03T18:09:18.169Z",
+  "updated_at": "2026-05-06T18:13:01.683Z",
   "entries": [
     {
-      "hash": "11fca577c8145dcc",
-      "track": "Boss",
-      "artist": "Sidhu Moose Wala",
-      "album": "Snitches Get Stitches",
-      "has_synced": true,
+      "hash": "a48e073b5f0cbc6b",
+      "track": "Ee Paadha Punya Pada",
+      "artist": "Hamsalekha, S.P. Balasubrahmanyam - Sri Manjunathaa",
+      "album": "Sri Manjunathaa",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-03T18:05:32.944Z"
+      "cached_at": "2026-05-06T18:12:50.025Z"
     }
   ]
 }
