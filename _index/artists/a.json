@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-04-30T14:25:12.317Z",
+  "updated_at": "2026-05-07T06:54:02.071Z",
   "entries": [
     {
       "hash": "ffd77a3fb27614e1",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-04-30T14:25:10.914Z"
+    },
+    {
+      "hash": "655bc9cdc24cc6eb",
+      "track": "Meri Madhubala",
+      "artist": "Avadhoot Gupte - Meri Madhubala",
+      "album": "Meri Madhubala",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-07T06:54:01.067Z"
     }
   ]
 }
