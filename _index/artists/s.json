@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-06T18:47:42.836Z",
+  "updated_at": "2026-05-07T17:39:24.178Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-06T18:43:23.613Z"
+    },
+    {
+      "hash": "5ea7c84c624fdad3",
+      "track": "KARUNADA THAYI",
+      "artist": "S. P. Balasubrahmanyam",
+      "album": "Naanu Nanna Hendthi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-07T17:39:17.719Z"
     }
   ]
 }
