@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-04-15T18:13:55.506Z",
+  "updated_at": "2026-05-08T04:42:12.785Z",
   "entries": [
     {
       "hash": "2151b61f2a6d42d6",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-15T18:13:50.971Z"
+    },
+    {
+      "hash": "63e3524620ebb251",
+      "track": "Khuda Kare",
+      "artist": "Yasser Desai",
+      "album": "Khuda Kare",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-08T04:42:11.742Z"
     }
   ]
 }
