@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "o",
   "type": "artist",
-  "updated_at": "2026-05-01T12:30:47.338Z",
+  "updated_at": "2026-05-13T00:30:37.693Z",
   "entries": [
     {
       "hash": "15377106d919e5ab",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-01T12:30:04.522Z"
+    },
+    {
+      "hash": "a3aedbe4ac8ca7a5",
+      "track": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-13T00:30:36.754Z"
     }
   ]
 }
