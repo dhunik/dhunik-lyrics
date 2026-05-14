@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-04-19T22:18:17.935Z",
+  "updated_at": "2026-05-14T05:48:16.599Z",
   "entries": [
     {
       "hash": "a87565d0406675a9",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-19T22:18:17.166Z"
+    },
+    {
+      "hash": "5e2284f9810090b5",
+      "track": "GANI BHAI",
+      "artist": "Emiway Bantai",
+      "album": "Emiway Bantai",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-14T05:48:15.572Z"
     }
   ]
 }
