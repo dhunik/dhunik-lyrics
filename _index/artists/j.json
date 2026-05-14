@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-04-27T16:28:17.434Z",
+  "updated_at": "2026-05-14T10:38:31.390Z",
   "entries": [
     {
       "hash": "16ba21157168c589",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-27T16:28:16.364Z"
+    },
+    {
+      "hash": "e70ad37c81d8f2bc",
+      "track": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Irshad Kamil, Bombay Rockers, Reble, Token, Shashwat Sachdev, Khan Saab, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "album": "Dhurandhar The Revenge",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-14T10:38:26.157Z"
     }
   ]
 }
