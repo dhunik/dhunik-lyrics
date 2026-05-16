@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-04-22T04:08:18.104Z",
+  "updated_at": "2026-05-16T12:40:50.713Z",
   "entries": [
     {
-      "hash": "51b9b85317ac8c34",
-      "track": "Tum Ho Toh",
-      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar - Saiyaara",
-      "album": "Saiyaara",
+      "hash": "f04cb997e2e06edc",
+      "track": "Aisi Deewangi",
+      "artist": "Alka Yagnik, Vinod Rathod - Deewana",
+      "album": "Vinod Rathod",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-02-12T10:34:58.852Z"
-    },
-    {
-      "hash": "86df45c9cf83ae4b",
-      "track": "Ehsaas",
-      "artist": "Faheem Abdullah, Duha Shah, Vaibhav Pani, Hyder Dar",
-      "album": "Ehsaas",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-02-14T05:30:17.245Z"
-    },
-    {
-      "hash": "9a1ea1b8aaa770cd",
-      "track": "Aaj Bhi 2",
-      "artist": "Vishal Mishra - Aaj Bhi 2",
-      "album": "Aaj Bhi 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-10T20:09:08.693Z"
-    },
-    {
-      "hash": "ad283fa403a34112",
-      "track": "Zihaal e Miskin",
-      "artist": "Javed-Mohsin, Vishal Mishra, Shreya Ghoshal - Zihaal e Miskin",
-      "album": "Zihaal e Miskin",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T08:07:35.257Z"
-    },
-    {
-      "hash": "88958f83b7e54784",
-      "track": "Sadha Ninna Kannali",
-      "artist": "Sonu Nigam, Shreya Ghoshal, V. Harikrishna, Jayanth Kaikini",
-      "album": "Bachchan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-14T05:35:48.638Z"
-    },
-    {
-      "hash": "a000b6c3db40718a",
-      "track": "Humdum",
-      "artist": "Vishal Mishra, Raj Shekhar",
-      "album": "Savi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-15T07:45:07.093Z"
-    },
-    {
-      "hash": "45114a1a5b915c59",
-      "track": "Kaise Hua",
-      "artist": "Vishal Mishra",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-16T16:54:38.896Z"
-    },
-    {
-      "hash": "101f3ecb99acb968",
-      "track": "Pal Pal Dil Ke Paas (Lofi Flip)",
-      "artist": "Kishore Kumar, VIBIE",
-      "album": "Kishore Kumar Lofi Songs",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:23:58.627Z"
-    },
-    {
-      "hash": "838d40cdbe05be17",
-      "track": "Ishq Bulaava",
-      "artist": "Vishal & Shekhar, Sanam Puri, Shipra Goyal",
-      "album": "Hasee Toh Phasee",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-10T19:35:42.368Z"
-    },
-    {
-      "hash": "515e08e0246a68f5",
-      "track": "Anjaana Anjaani",
-      "artist": "Vishal & Shekhar, Vishal Dadlani, Shilpa Rao",
-      "album": "Anjaana Anjaani",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-22T04:08:17.175Z"
+      "cached_at": "2026-05-16T12:37:40.055Z"
     }
   ]
 }
