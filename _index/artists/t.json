@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-05-14T10:38:31.379Z",
+  "updated_at": "2026-05-17T21:50:35.363Z",
   "entries": [
     {
       "hash": "d6a529034742e0f9",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-14T10:38:26.157Z"
+    },
+    {
+      "hash": "bbf90596445f99fa",
+      "track": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "artist": "Raghav, Tanishk Bagchi, Asees Kaur - Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "album": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-17T21:50:34.521Z"
     }
   ]
 }
