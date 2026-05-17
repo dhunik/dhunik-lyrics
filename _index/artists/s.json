@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-15T13:18:21.236Z",
+  "updated_at": "2026-05-17T21:46:42.802Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-15T13:18:17.416Z"
+    },
+    {
+      "hash": "eccd6bc733d2d64d",
+      "track": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "artist": "Tanishk Bagchi, Ravi Pawar, Sonu Nigam, Asees Kaur - Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "album": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-17T21:46:41.959Z"
     }
   ]
 }
