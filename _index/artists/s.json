@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-17T21:46:42.802Z",
+  "updated_at": "2026-05-18T10:18:56.196Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-05-17T21:46:41.959Z"
+    },
+    {
+      "hash": "59d65a5fc4565ba7",
+      "track": "Dastaan - E - Om Shanti Om",
+      "artist": "Vishal & Shekhar, Shaan",
+      "album": "Om Shanti Om",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-18T10:18:55.013Z"
     }
   ]
 }
