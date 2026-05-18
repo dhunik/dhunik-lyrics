@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-04-24T20:44:58.074Z",
+  "updated_at": "2026-05-18T10:22:45.413Z",
   "entries": [
     {
       "hash": "f261002d5a86a1bd",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-24T20:44:55.491Z"
+    },
+    {
+      "hash": "7b8b34b83f7bd9f8",
+      "track": "Baarish - Yaariyan",
+      "artist": "Mohammed Irfan, Gajendra Verma",
+      "album": "Yaariyan",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-18T10:22:44.496Z"
     }
   ]
 }
