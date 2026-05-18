@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-18T10:22:29.590Z",
+  "updated_at": "2026-05-18T10:22:40.930Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-18T10:21:54.721Z"
+    },
+    {
+      "hash": "d5619ed09ca8033d",
+      "track": "Chahun Main Ya Naa",
+      "artist": "Arijit Singh, Palak Muchhal",
+      "album": "Rising Star - Palak Muchhal",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-18T10:22:39.681Z"
     }
   ]
 }
