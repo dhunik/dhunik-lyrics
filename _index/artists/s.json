@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-19T08:55:49.569Z",
+  "updated_at": "2026-05-19T08:55:52.550Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -138,6 +138,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T08:55:47.139Z"
+    },
+    {
+      "hash": "270cb32ed432d566",
+      "track": "London Thumakda",
+      "artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
+      "album": "Queen",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-19T08:55:51.523Z"
     }
   ]
 }
