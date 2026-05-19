@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-05-19T05:55:32.036Z",
+  "updated_at": "2026-05-19T05:57:41.871Z",
   "entries": [
     {
       "hash": "4f88ffbd578a36fb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:55:20.177Z"
+    },
+    {
+      "hash": "4f9cb0bfe347f621",
+      "track": "Laung Laachi Title Track",
+      "artist": "Mannat Noor",
+      "album": "Punjabi Swag Hits",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:57:39.737Z"
     }
   ]
 }
