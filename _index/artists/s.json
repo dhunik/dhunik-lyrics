@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-19T05:57:52.936Z",
+  "updated_at": "2026-05-19T05:57:57.614Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:57:49.651Z"
+    },
+    {
+      "hash": "ef8c5cc8c12664a3",
+      "track": "So High",
+      "artist": "Sidhu Moose Wala",
+      "album": "Sidhu Moose Wala",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:57:55.061Z"
     }
   ]
 }
