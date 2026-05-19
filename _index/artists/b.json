@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-04-24T18:28:28.182Z",
+  "updated_at": "2026-05-19T05:58:47.959Z",
   "entries": [
     {
       "hash": "0e2d9cb9ac924c8e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-04-24T18:28:27.134Z"
+    },
+    {
+      "hash": "50763756fd597e60",
+      "track": "Bohemia",
+      "artist": "Bohemia",
+      "album": "BOHEMIA",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:58:43.411Z"
     }
   ]
 }
