@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-05-06T14:27:03.545Z",
+  "updated_at": "2026-05-19T05:57:24.508Z",
   "entries": [
     {
-      "hash": "edfa4629d40a314d",
-      "track": "Vaaste",
-      "artist": "Nikhil D'souza, Dhvani Bhanushali, Tanishk Bagchi",
-      "album": "Vaaste",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T17:44:08.191Z"
-    },
-    {
-      "hash": "58119a48a17ff100",
-      "track": "Sun Saathiya",
-      "artist": "Priya Saraiya, Divya Kumar",
-      "album": "ABCD 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:15.504Z"
-    },
-    {
-      "hash": "d594df9c7d2816a6",
-      "track": "Dilbar",
-      "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka",
-      "album": "Satyameva Jayate",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:46:42.672Z"
-    },
-    {
-      "hash": "1be209a117dfa33b",
-      "track": "Levitating",
-      "artist": "Dua Lipa",
-      "album": "Dua Lipa",
+      "hash": "6bef083e7b4fe8b0",
+      "track": "Tunak Tunak Tun",
+      "artist": "Daler Mehndi",
+      "album": "Daler Mehndi",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-06T14:26:28.062Z"
-    },
-    {
-      "hash": "a86f4966befbd14f",
-      "track": "Don't start Now",
-      "artist": "Despotem, Austin Salter",
-      "album": "Don't start Now",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-06T14:26:43.267Z"
-    },
-    {
-      "hash": "d6a529034742e0f9",
-      "track": "Titanium",
-      "artist": "Titov, Rachela, Deep Mage",
-      "album": "Titanium",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-06T14:26:59.392Z"
+      "cached_at": "2026-05-19T05:55:50.731Z"
     }
   ]
 }
