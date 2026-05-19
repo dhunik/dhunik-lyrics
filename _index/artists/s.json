@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-19T05:57:57.614Z",
+  "updated_at": "2026-05-19T05:57:59.976Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:57:55.061Z"
+    },
+    {
+      "hash": "578a7a2bb1ab83ca",
+      "track": "Badfella",
+      "artist": "Sidhu Moose Wala",
+      "album": "Pbx 1",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:57:59.148Z"
     }
   ]
 }
