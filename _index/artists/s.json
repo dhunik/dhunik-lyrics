@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-19T05:55:49.087Z",
+  "updated_at": "2026-05-19T05:57:52.936Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:55:45.201Z"
+    },
+    {
+      "hash": "024439b5159c5388",
+      "track": "Same Beef",
+      "artist": "Bohemia, Sidhu Moose Wala",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:57:49.651Z"
     }
   ]
 }
