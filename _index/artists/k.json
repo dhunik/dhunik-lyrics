@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-05-18T10:22:29.594Z",
+  "updated_at": "2026-05-19T13:26:07.364Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-18T10:21:54.721Z"
+    },
+    {
+      "hash": "24a9553dccdc755f",
+      "track": "Escobar Paisa",
+      "artist": "Kuhad, Escape Sequence",
+      "album": "Sapne Vs Everyone (A TVF Original Series Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T13:26:06.050Z"
     }
   ]
 }
