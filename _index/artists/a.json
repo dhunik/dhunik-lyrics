@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-18T10:22:40.930Z",
+  "updated_at": "2026-05-19T02:55:38.369Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-18T10:22:39.681Z"
+    },
+    {
+      "hash": "1eae95a537c1c9ff",
+      "track": "Hanuman Chalisa",
+      "artist": "Anup Jalota",
+      "album": "Hanuman Chalisa – Zee Music Devotional",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T02:55:37.399Z"
     }
   ]
 }
