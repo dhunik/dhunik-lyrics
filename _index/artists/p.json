@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-05-14T05:48:18.773Z",
+  "updated_at": "2026-05-19T05:55:34.203Z",
   "entries": [
     {
       "hash": "04b136f168b1e3c9",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-14T05:48:17.934Z"
+    },
+    {
+      "hash": "bcf9d5fe5f3fc2da",
+      "track": "Mundian To Bach Ke",
+      "artist": "Panjabi MC",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:55:33.271Z"
     }
   ]
 }
