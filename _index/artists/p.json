@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-05-19T05:55:34.203Z",
+  "updated_at": "2026-05-19T05:59:11.525Z",
   "entries": [
     {
       "hash": "04b136f168b1e3c9",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:55:33.271Z"
+    },
+    {
+      "hash": "d0ebb8769cfe0f32",
+      "track": "Le Chakk Main Aa Gya",
+      "artist": "Parmish Verma",
+      "album": "Le Chakk Main Aa Gya",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:59:09.831Z"
     }
   ]
 }
