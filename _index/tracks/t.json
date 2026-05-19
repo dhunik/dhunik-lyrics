@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-05-19T05:55:36.197Z",
+  "updated_at": "2026-05-19T05:57:24.506Z",
   "entries": [
     {
-      "hash": "8646ea18f28514a9",
-      "track": "Tujhse Naraz Nahin Zindagi",
-      "artist": "Lata Mangeshkar, Gulzar",
-      "album": "Masoom",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-12T09:43:08.861Z"
-    },
-    {
-      "hash": "6ddfa4c8f7851e1f",
-      "track": "Tum Ho",
-      "artist": "A.R. Rahman, Suzanne D'Mello, Mohit Chauhan",
-      "album": "Tum Ho Lofi Mix",
+      "hash": "6bef083e7b4fe8b0",
+      "track": "Tunak Tunak Tun",
+      "artist": "Daler Mehndi",
+      "album": "Daler Mehndi",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-15T18:13:58.066Z"
-    },
-    {
-      "hash": "fb72fff082e63c90",
-      "track": "Tera Chehra",
-      "artist": "Adnan Sami",
-      "album": "Tera Chehra",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-19T22:15:25.809Z"
-    },
-    {
-      "hash": "3e448752c3279009",
-      "track": "Tochan",
-      "artist": "Sidhu Moose Wala, Byg Byrd",
-      "album": "Tochan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-03T18:16:52.902Z"
-    },
-    {
-      "hash": "d6a529034742e0f9",
-      "track": "Titanium",
-      "artist": "Titov, Rachela, Deep Mage",
-      "album": "Titanium",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-06T14:26:59.392Z"
-    },
-    {
-      "hash": "f816b83d28a5388e",
-      "track": "These Days (feat. Bohemia)",
-      "artist": "Sidhu Moose Wala, Bohemia",
-      "album": "Sidhu Moose Wala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:55:35.333Z"
+      "cached_at": "2026-05-19T05:55:50.731Z"
     }
   ]
 }
