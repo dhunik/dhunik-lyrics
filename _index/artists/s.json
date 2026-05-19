@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-19T08:55:52.550Z",
+  "updated_at": "2026-05-19T09:00:48.367Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -147,6 +147,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-19T08:55:51.523Z"
+    },
+    {
+      "hash": "d3af3b01bbf97b0a",
+      "track": "Ude Dil Befikre",
+      "artist": "Vishal & Shekhar, Benny Dayal, Sophie Choudry, Jaideep Sahni",
+      "album": "Befikre",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T09:00:46.429Z"
     }
   ]
 }
