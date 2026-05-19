@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-19T05:59:02.578Z",
+  "updated_at": "2026-05-19T05:59:14.296Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:59:00.133Z"
+    },
+    {
+      "hash": "cf11f274429ae48c",
+      "track": "Black Heart",
+      "artist": "Sara Khan",
+      "album": "Black Heart",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:59:12.678Z"
     }
   ]
 }
