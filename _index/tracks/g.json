@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-05-14T05:48:16.599Z",
+  "updated_at": "2026-05-19T05:58:01.477Z",
   "entries": [
     {
       "hash": "a87565d0406675a9",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-14T05:48:15.572Z"
+    },
+    {
+      "hash": "a3b3eb1fba95fc10",
+      "track": "GOAT",
+      "artist": "Sidhu Moose Wala, Wazir Patar",
+      "album": "Moosetape",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:58:00.566Z"
     }
   ]
 }
