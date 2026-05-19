@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-05-19T05:59:11.525Z",
+  "updated_at": "2026-05-19T08:34:50.558Z",
   "entries": [
     {
-      "hash": "04b136f168b1e3c9",
-      "track": "Seva Me Bani Bhole Baba Ke",
-      "artist": "Pawan Singh, Shivani Singh",
-      "album": "Pawan Singh, Shivani Singh",
+      "hash": "daf966d25696d62d",
+      "track": "Mauja Hi Mauja",
+      "artist": "Pritam, Mika Singh",
+      "album": "4:06",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-30T06:19:32.686Z"
-    },
-    {
-      "hash": "3bfedc6ff43e191d",
-      "track": "Rafta Rafta Wo Meri Hasti Ka",
-      "artist": "Puthhay Pangay",
-      "album": "Rafta Rafta Wo Meri Hasti Ka",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-02T19:11:11.256Z"
-    },
-    {
-      "hash": "1a6ade32d159f3da",
-      "track": "Rihaayi",
-      "artist": "Paradox",
-      "album": "Mtv Hustle 2.0",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-14T05:48:17.934Z"
-    },
-    {
-      "hash": "bcf9d5fe5f3fc2da",
-      "track": "Mundian To Bach Ke",
-      "artist": "Panjabi MC",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:55:33.271Z"
-    },
-    {
-      "hash": "d0ebb8769cfe0f32",
-      "track": "Le Chakk Main Aa Gya",
-      "artist": "Parmish Verma",
-      "album": "Le Chakk Main Aa Gya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:59:09.831Z"
+      "cached_at": "2026-05-19T08:32:11.466Z"
     }
   ]
 }
