@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-05-06T18:13:01.679Z",
+  "updated_at": "2026-05-19T03:04:47.532Z",
   "entries": [
     {
       "hash": "a48e073b5f0cbc6b",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-06T18:12:50.025Z"
+    },
+    {
+      "hash": "fd1823fdc6d47e9f",
+      "track": "Hanuman Chalisa",
+      "artist": "Hari Om Sharan, Murli Manohar Swarup",
+      "album": "Shree Hanuman Chalisa",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T03:04:41.189Z"
     }
   ]
 }
