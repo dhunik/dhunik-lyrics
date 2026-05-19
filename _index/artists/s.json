@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-18T10:18:56.196Z",
+  "updated_at": "2026-05-19T05:55:36.200Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-18T10:18:55.013Z"
+    },
+    {
+      "hash": "f816b83d28a5388e",
+      "track": "These Days (feat. Bohemia)",
+      "artist": "Sidhu Moose Wala, Bohemia",
+      "album": "Sidhu Moose Wala",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:55:35.333Z"
     }
   ]
 }
