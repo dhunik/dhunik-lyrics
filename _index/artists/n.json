@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-05-06T18:49:16.014Z",
+  "updated_at": "2026-05-19T09:53:56.216Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-06T18:48:02.907Z"
+    },
+    {
+      "hash": "446ae33361e4d06b",
+      "track": "Khat",
+      "artist": "Navjot Ahuja",
+      "album": "Khat",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-19T09:53:55.004Z"
     }
   ]
 }
