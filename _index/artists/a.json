@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-19T02:55:38.369Z",
+  "updated_at": "2026-05-19T05:55:50.719Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T02:55:37.399Z"
+    },
+    {
+      "hash": "a1e9ee20cd242be9",
+      "track": "Bambiha Bole",
+      "artist": "Sidhu Moose Wala, Amrit Maan",
+      "album": "null",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:55:45.201Z"
     }
   ]
 }
