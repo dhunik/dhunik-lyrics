@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-05-19T05:57:40.105Z",
+  "updated_at": "2026-05-19T05:59:20.326Z",
   "entries": [
     {
       "hash": "7d25d707b7857177",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-19T05:57:33.013Z"
+    },
+    {
+      "hash": "925562a24e9b50b9",
+      "track": "Yaar Beli (feat. Deep Jandu)",
+      "artist": "Guri",
+      "album": "Yaar Beli (feat. Deep Jandu)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:59:19.373Z"
     }
   ]
 }
