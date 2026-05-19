@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-19T05:55:50.719Z",
+  "updated_at": "2026-05-19T05:59:07.358Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:55:45.201Z"
+    },
+    {
+      "hash": "21e0307a56ecac31",
+      "track": "Jatt Flex",
+      "artist": "Amrit Maan",
+      "album": "Jatt Flex",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-19T05:59:06.470Z"
     }
   ]
 }
