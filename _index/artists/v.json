@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-05-16T12:40:50.713Z",
+  "updated_at": "2026-05-20T06:21:23.181Z",
   "entries": [
     {
       "hash": "f04cb997e2e06edc",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-16T12:37:40.055Z"
+    },
+    {
+      "hash": "dcc3132c24427797",
+      "track": "Kya Bataun Tujhe",
+      "artist": "Vishal Mishra",
+      "album": "Vishal Mishra",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-20T06:21:22.228Z"
     }
   ]
 }
