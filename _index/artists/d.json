@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-05-20T05:05:14.372Z",
+  "updated_at": "2026-05-20T06:16:34.164Z",
   "entries": [
     {
       "hash": "6bef083e7b4fe8b0",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-20T05:05:13.479Z"
+    },
+    {
+      "hash": "58f38a7339b09f08",
+      "track": "Dhundhla",
+      "artist": "Dino James ft. Black Virus - D",
+      "album": "D",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-20T06:16:33.149Z"
     }
   ]
 }
