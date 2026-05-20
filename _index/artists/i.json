@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-04-25T12:00:33.060Z",
+  "updated_at": "2026-05-20T05:04:21.834Z",
   "entries": [
     {
-      "hash": "a58f24d57a81d3e8",
-      "track": "Phir Se",
-      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-25T02:41:05.696Z"
-    },
-    {
-      "hash": "f4579f535bd2bd5d",
-      "track": "Levitate (From The Original Motion Picture “Passengers”)",
-      "artist": "Imagine Dragons",
-      "album": "Levitate (From The Original Motion Picture “Passengers”)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T22:20:17.995Z"
-    },
-    {
-      "hash": "e3c682cf7d2f919d",
-      "track": "Believer",
-      "artist": "Imagine Dragons",
-      "album": "Evolve",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T23:28:41.990Z"
-    },
-    {
-      "hash": "d594df9c7d2816a6",
-      "track": "Dilbar",
-      "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka",
-      "album": "Satyameva Jayate",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:46:42.672Z"
-    },
-    {
-      "hash": "b2cba4b38f7cf629",
-      "track": "Tum Se",
-      "artist": "Varun Jain, Raghav Chaitanya, Sachin-Jigar, Indraneel",
-      "album": "Varun Jain, Raghav Chaitanya, Sachin-Jigar, Indraneel",
+      "hash": "0e597d9de4bf0848",
+      "track": "WOH",
+      "artist": "Ikka, Dino James, Badshah",
+      "album": "WOH",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-25T12:00:32.161Z"
+      "cached_at": "2026-05-20T05:03:51.701Z"
     }
   ]
 }
