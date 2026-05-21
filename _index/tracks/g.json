@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-05-20T06:25:46.203Z",
+  "updated_at": "2026-05-21T03:20:51.774Z",
   "entries": [
     {
       "hash": "a87565d0406675a9",
@@ -93,6 +93,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-20T06:25:45.202Z"
+    },
+    {
+      "hash": "9a756cbe06754924",
+      "track": "God's Plan",
+      "artist": "Drake",
+      "album": "Scorpion",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-21T03:20:50.857Z"
     }
   ]
 }
