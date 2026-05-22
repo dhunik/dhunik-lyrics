@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-05-19T05:59:20.326Z",
+  "updated_at": "2026-05-22T03:13:34.948Z",
   "entries": [
     {
       "hash": "7d25d707b7857177",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:59:19.373Z"
+    },
+    {
+      "hash": "530d9eae0e3a3e77",
+      "track": "Man Udhan Varyache",
+      "artist": "Shankar Mahadevan, Ajay-Atul, Guru Thakur - Aga Bai Arrecha!",
+      "album": "Mazi Gaani - Ajay-Atul",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T03:13:33.750Z"
     }
   ]
 }
