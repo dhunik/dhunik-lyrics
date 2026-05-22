@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-22T12:32:42.623Z",
+  "updated_at": "2026-05-22T12:36:05.814Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -183,6 +183,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T12:32:41.658Z"
+    },
+    {
+      "hash": "e67c216f154e82aa",
+      "track": "Chuttamalle",
+      "artist": "Anirudh Ravichander, Shilpa Rao, Ramajogayya Sastry",
+      "album": "Devara Part 1 - Telugu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T12:36:04.817Z"
     }
   ]
 }
