@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-19T05:59:07.358Z",
+  "updated_at": "2026-05-22T03:18:53.702Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T05:59:06.470Z"
+    },
+    {
+      "hash": "06886baf1d6e3e47",
+      "track": "Ye Go Ye Ye Maina",
+      "artist": "Ajay Gogavale, Ajay-Atul - Jatra",
+      "album": "Jatra",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T03:18:52.785Z"
     }
   ]
 }
