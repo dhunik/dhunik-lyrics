@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-22T03:13:34.974Z",
+  "updated_at": "2026-05-22T03:34:30.571Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -165,6 +165,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T03:13:33.750Z"
+    },
+    {
+      "hash": "1475bc1ffb9edca0",
+      "track": "Galavar Khali",
+      "artist": "Swapnil Bandodkar - Bedhund",
+      "album": "Swapnil Bandodkar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T03:34:29.645Z"
     }
   ]
 }
