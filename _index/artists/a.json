@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-22T03:18:53.702Z",
+  "updated_at": "2026-05-22T04:11:26.702Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T03:18:52.785Z"
+    },
+    {
+      "hash": "adff37aa2daa6698",
+      "track": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "album": "Alec Benjamin",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T04:11:25.677Z"
     }
   ]
 }
