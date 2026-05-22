@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-05-19T08:55:52.540Z",
+  "updated_at": "2026-05-22T04:14:17.780Z",
   "entries": [
     {
       "hash": "8646ea18f28514a9",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-19T08:55:51.523Z"
+    },
+    {
+      "hash": "d2ae619526fcc6d1",
+      "track": "Die With A Smile",
+      "artist": "Bruno Mars, Lady Gaga",
+      "album": "Bruno Mars, Lady Gaga",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T04:14:16.760Z"
     }
   ]
 }
