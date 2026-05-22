@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-22T12:28:23.221Z",
+  "updated_at": "2026-05-22T12:28:54.232Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T12:28:22.143Z"
+    },
+    {
+      "hash": "bbfc6815b5b00f85",
+      "track": "Powerhouse (From \"Coolie\") (Tamil)",
+      "artist": "Anirudh Ravichander, Arivu",
+      "album": "Powerhouse (From \"Coolie\") (Tamil)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-22T12:28:53.094Z"
     }
   ]
 }
