@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-22T04:54:08.462Z",
+  "updated_at": "2026-05-22T04:54:17.771Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T04:54:07.415Z"
+    },
+    {
+      "hash": "e1785ab81311efa7",
+      "track": "Raja Aala",
+      "artist": "Avadhoot Gupte",
+      "album": "Pawankhind",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T04:54:16.604Z"
     }
   ]
 }
