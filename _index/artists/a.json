@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-22T12:35:29.027Z",
+  "updated_at": "2026-05-22T12:36:31.964Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -129,6 +129,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T12:35:28.072Z"
+    },
+    {
+      "hash": "7f5edf6a4e5d8f76",
+      "track": "Ragile Ragile",
+      "artist": "Anirudh Ravichander",
+      "album": "Kingdom",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-22T12:36:31.010Z"
     }
   ]
 }
