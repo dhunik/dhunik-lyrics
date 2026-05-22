@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-22T12:33:14.741Z",
+  "updated_at": "2026-05-22T12:35:29.027Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T12:33:13.702Z"
+    },
+    {
+      "hash": "19fe042f6c1a00a4",
+      "track": "Badass (From \"Leo\")",
+      "artist": "Vishnu Edavan, Anirudh Ravichander",
+      "album": "Thalapathy Vijay Kondattam",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-22T12:35:28.072Z"
     }
   ]
 }
