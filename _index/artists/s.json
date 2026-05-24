@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-22T12:36:05.814Z",
+  "updated_at": "2026-05-24T13:10:10.735Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -192,6 +192,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T12:36:04.817Z"
+    },
+    {
+      "hash": "744345ddc0ba2d0d",
+      "track": "Sadka",
+      "artist": "Vishal & Shekhar, Suraj Jagan, Mahalakshmi Iyer",
+      "album": "I Hate Luv Storys",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-24T13:10:09.771Z"
     }
   ]
 }
