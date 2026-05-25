@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "key": "tum se hi|pritam",
+  "track": "Tum Se Hi",
+  "artist": "Pritam, Mohit Chauhan",
+  "album": "Jab We Met",
+  "language": "English",
+  "generated_at": "2026-05-25T16:24:58.053Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Tum Se Hi' is a romantic ballad that expresses the deep connection and dependence of the speaker on their loved one. The lyrics convey that every aspect of the speaker's life, from dawn to dusk, is influenced by the presence of their partner. The song revolves around the theme of love and how it becomes the central purpose of life.",
+  "background": {
+    "composition": "The song features a soulful melody with a blend of acoustic and orchestral elements, characteristic of Pritam's composition style. The musical structure builds up to a crescendo, enhancing the emotional depth of the lyrics.",
+    "cultural_context": "Released in 2007, 'Tum Se Hi' was part of the Bollywood film 'Jab We Met', which became a significant cultural phenomenon. The song captured the essence of love and longing, resonating with a young audience.",
+    "fun_facts": [
+      "The song was sung by Mohit Chauhan and composed by Pritam.",
+      "[Unverified] The song received critical acclaim and won several awards, including the Filmfare Award for Best Male Playback Singer for Mohit Chauhan in 2008.",
+      "The music video features the lead actors from the film 'Jab We Met', Shahid Kapoor and Kareena Kapoor."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "Na hai yeh paana, na khona hi hai",
+      "meaning": "There's no need to gain or lose; it seems like your presence is the only necessity.",
+      "literary_device": "antithesis",
+      "mood": "longing"
+    },
+    {
+      "original": "Tera na hona jaane kyun hona hi hai",
+      "meaning": "It's mysterious why but being with you seems to be a necessity.",
+      "mood": "yearning"
+    },
+    {
+      "original": "Tum se hi din hota hai, surmai shaam aati hai",
+      "meaning": "The day begins and the evening ends because of you.",
+      "literary_device": "metaphor",
+      "mood": "love"
+    },
+    {
+      "original": "Tum se hi, tum se hi har ghadi saans aati hai",
+      "meaning": "Every breath I take is because of you.",
+      "mood": "devotion"
+    },
+    {
+      "original": "Zindagi kehlaati hai tum se hi, tum se hi",
+      "meaning": "Life calls out to you, it's all about you.",
+      "mood": "affection"
+    },
+    {
+      "original": "Aankhon mein aankhein teri, baanhon mein baanhein teri",
+      "meaning": "Your eyes are in my eyes, your arms are in my arms.",
+      "literary_device": "simile",
+      "mood": "intimacy"
+    },
+    {
+      "original": "Mera na mujh mein kuch raha, hua kya?",
+      "meaning": "What happened to me? I feel like a part of me is missing without you.",
+      "mood": "melancholy"
+    },
+    {
+      "original": "Baaton mein baatein teri, raatein-saugaatein teri",
+      "meaning": "Our conversations are about you, and the nights are your gifts to me.",
+      "literary_device": "metaphor",
+      "mood": "romance"
+    },
+    {
+      "original": "Kyun tera sab yeh ho gaya? Hua kya?",
+      "meaning": "Why did everything about you happen? What changed?",
+      "mood": "confusion"
+    },
+    {
+      "original": "Main kahin bhi jaata hoon, tum se hi mil jaata hoon",
+      "meaning": "No matter where I go, I always find my way back to you.",
+      "literary_device": "hyperbole",
+      "mood": "reunion"
+    },
+    {
+      "original": "Tum se hi, tum se hi shor mein khamoshi hai",
+      "meaning": "In the noise, there's silence because of you.",
+      "literary_device": "oxymoron",
+      "mood": "peace"
+    },
+    {
+      "original": "Thodi si behoshi hai tum se hi, tum se hi",
+      "meaning": "A little intoxication is because of you.",
+      "mood": "euphoria"
+    },
+    {
+      "original": "Aadha sa waada kabhi, aadhe se zyada kabhi",
+      "meaning": "Sometimes a half promise is enough, sometimes more than that.",
+      "literary_device": "understatement",
+      "mood": "commitment"
+    },
+    {
+      "original": "Jee chahe kar loon is tarah wafaa ka",
+      "meaning": "I want to fulfill my promise in this way.",
+      "mood": "devotion"
+    },
+    {
+      "original": "Chhode na chhoote kabhi, tode na toote kabhi",
+      "meaning": "May we never leave or be separated.",
+      "literary_device": "wish",
+      "mood": "hope"
+    },
+    {
+      "original": "Jo dhaaga tum se jud gaya wafaa ka",
+      "meaning": "The thread of promise that got tied to you.",
+      "literary_device": "metaphor",
+      "mood": "loyalty"
+    },
+    {
+      "original": "Main tera sarmaaya hoon, jo bhi main ban paaya hoon",
+      "meaning": "I am your investment, whatever I have become.",
+      "mood": "gratitude"
+    },
+    {
+      "original": "Tum se hi, tum se hi raaste mil jaate hain",
+      "meaning": "Paths get found because of you.",
+      "mood": "guidance"
+    },
+    {
+      "original": "Manzilein mil jaati hain tum se hi, tum se hi",
+      "meaning": "Destinations are found because of you.",
+      "mood": "fulfillment"
+    }
+  ],
+  "themes": [
+    "love",
+    "devotion",
+    "longing",
+    "commitment",
+    "connection"
+  ],
+  "mood_arc": [
+    "yearning",
+    "intimacy",
+    "melancholy",
+    "devotion",
+    "fulfillment"
+  ]
+}
