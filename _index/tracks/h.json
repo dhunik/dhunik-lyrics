@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-05-19T02:55:38.349Z",
+  "updated_at": "2026-05-25T02:26:51.092Z",
   "entries": [
     {
-      "hash": "c249fc486a2fcfc8",
-      "track": "Haan Main Galat",
-      "artist": "Pritam, Arijit Singh, Shashwat Singh",
-      "album": "Love Aaj Kal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-06T13:46:06.426Z"
-    },
-    {
-      "hash": "3ad4e8e0afa2c67f",
-      "track": "Hamari Adhuri Kahani (Title Track)",
-      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
-      "album": "Hamari Adhuri Kahani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:44.964Z"
-    },
-    {
-      "hash": "a37b6448e93d7475",
-      "track": "Hamari Adhuri Kahani",
-      "artist": "Jeet Gannguli, Arijit Singh, Rashmi-Virag",
-      "album": "Tu Kahe Toh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:55.651Z"
-    },
-    {
-      "hash": "a1568f889a8c46af",
-      "track": "Happy",
-      "artist": "Pharrell Williams",
-      "album": "Pharrell Williams",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:41:48.783Z"
-    },
-    {
-      "hash": "8e532143ac57a7d0",
-      "track": "Hasi Ban Gaye",
-      "artist": "Ami Mishra, Kunaal Vermaa, Kasyap, VIBIE",
-      "album": null,
+      "hash": "fe90381e78215288",
+      "track": "Hudugi Hudugi",
+      "artist": "K. Kalyan, Kunal Ganjawala - Aishwarya (Original Motion Picture Soundtrack)",
+      "album": "Aishwarya (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-15T18:13:35.541Z"
-    },
-    {
-      "hash": "8bd2189fad442e8f",
-      "track": "Hawaon Ne Yeh Kaha (Aap Mujhe Achche Lagne Lage / Soundtrack Version)",
-      "artist": "Udit Narayan - Aap Mujhe Achche Lagne Lage",
-      "album": "Aap Mujhe Achche Lagne Lage",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-29T20:11:20.838Z"
-    },
-    {
-      "hash": "1eae95a537c1c9ff",
-      "track": "Hanuman Chalisa",
-      "artist": "Anup Jalota",
-      "album": "Hanuman Chalisa – Zee Music Devotional",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T02:55:37.399Z"
+      "cached_at": "2026-05-25T02:26:34.418Z"
     }
   ]
 }
