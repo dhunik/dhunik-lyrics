@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-05-19T08:57:02.459Z",
+  "updated_at": "2026-05-25T04:36:15.725Z",
   "entries": [
     {
-      "hash": "16ba21157168c589",
-      "track": "Dil Jaaniye",
-      "artist": "Tulsi Kumar, Jubin Nautiyal",
-      "album": "Khandaani Shafakhana",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-12T09:45:46.759Z"
-    },
-    {
-      "hash": "91ce46bdcf377759",
-      "track": "Mann Bharryaa 2.0",
-      "artist": "Jaani, B Praak",
-      "album": "B Praak",
+      "hash": "201cff4e85a2e0ea",
+      "track": "Ki Kore Toke Bolbo",
+      "artist": "Arijit Singh, Jeet Gannguli, Prasen",
+      "album": "Rangbaaz",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-18T18:22:41.514Z"
-    },
-    {
-      "hash": "80213ab9f3421e05",
-      "track": "Dekhha Tenu",
-      "artist": "Mohammad Faiz, Jaani",
-      "album": "Mohammad Faiz, Jaani",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-25T07:45:28.102Z"
-    },
-    {
-      "hash": "9636448cab2fb68f",
-      "track": "Tune Mujhe Pehchana Nahin",
-      "artist": "Jatin-Lalit, Shaan",
-      "album": "Raju Chacha",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-27T16:28:16.364Z"
-    },
-    {
-      "hash": "e70ad37c81d8f2bc",
-      "track": "Dhurandhar The Revenge - Aari Aari",
-      "artist": "Irshad Kamil, Bombay Rockers, Reble, Token, Shashwat Sachdev, Khan Saab, Jasmine Sandlas, Sudhir Yaduvanshi",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-14T10:38:26.157Z"
-    },
-    {
-      "hash": "907608ac21477c10",
-      "track": "Into You",
-      "artist": "Josh Heuston, After Hours - Off Campus: The Mixtape",
-      "album": "Off Campus: The Mixtape",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T08:57:01.335Z"
+      "cached_at": "2026-05-25T04:33:41.359Z"
     }
   ]
 }
