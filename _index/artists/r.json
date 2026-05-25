@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-05-22T12:36:05.818Z",
+  "updated_at": "2026-05-25T12:39:52.550Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T12:36:04.817Z"
+    },
+    {
+      "hash": "4e939102df92226d",
+      "track": "Mashooqa (From “Cocktail 2”)",
+      "artist": "Pritam, Mahmood, Amitabh Bhattacharya, Raghav Chaitanya, Ruaa Kayy - Mashooqa (From “Cocktail 2”)",
+      "album": "Mashooqa (From “Cocktail 2”)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-25T12:39:51.624Z"
     }
   ]
 }
