@@ -1,0 +1,66 @@
+{
+  "v": 1,
+  "key": "gehra hua from dhurandhar|shashwat sachdev",
+  "track": "Gehra Hua (From \"Dhurandhar\")",
+  "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan - Gehra Hua (From \"Dhurandhar\")",
+  "album": "Gehra Hua (From \"Dhurandhar\")",
+  "language": "English",
+  "generated_at": "2026-05-25T06:22:41.026Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Gehra Hua' is a romantic ballad that expresses the deep longing and devotion of one lover to another. The lyrics convey a sense of belonging and unity, with the speaker's entire world revolving around their beloved. The song takes the listener on an emotional journey of love, intimacy, and the blurring of boundaries between the self and the other.",
+  "background": {
+    "composition": "The song features a soulful melody with a mix of classical and contemporary elements, characteristic of Bollywood music. The composition style is likely to be a blend of traditional Indian instruments and modern orchestral arrangements.",
+    "cultural_context": "The song is part of the soundtrack for the TV series 'Dhurandhar', and its release likely coincided with the show's premiere. The song's themes of love and devotion are universal and timeless, resonating with listeners across cultures.",
+    "fun_facts": [
+      "The song features a collaboration between Shashwat Sachdev, Arijit Singh, Irshad Kamil, and Armaan Khan, showcasing a blend of established and emerging talents in the Indian music industry.",
+      "[Unverified] The song's lyrics are written by Irshad Kamil, who is known for his poetic and romantic lyrics in Bollywood films and TV shows."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "तू अगर मेरी, ये हवाएँ तेरी",
+      "meaning": "If you are mine, these winds are yours too, implying a complete merging of the speaker's world with the beloved's.",
+      "literary_device": "metaphor",
+      "mood": "longing"
+    },
+    {
+      "original": "बेताब सा मोहब्बत का तू इंक़लाब है",
+      "meaning": "You are a revolution, a passionate and intense love that transforms everything.",
+      "literary_device": "metaphor",
+      "mood": "passion"
+    },
+    {
+      "original": "गहरा हुआ, गहरा हुआ रंग आशिक़ी गहरा हुआ",
+      "meaning": "The color of love has deepened, signifying a profound and abiding connection between the lovers.",
+      "literary_device": "symbolism",
+      "mood": "joy"
+    },
+    {
+      "original": "पलकें झपकता है आसमाँ",
+      "meaning": "The sky blinks, a poetic expression of the vastness and wonder of the universe with the beloved.",
+      "literary_device": "personification",
+      "mood": "awe"
+    },
+    {
+      "original": "तेरी मोहब्बत में जलना भी है और तुझसे बच के ही चलना भी है",
+      "meaning": "To be in your love is to be consumed by it, yet also to navigate life while protected by your love.",
+      "literary_device": "oxymoron",
+      "mood": "conflict"
+    }
+  ],
+  "themes": [
+    "love",
+    "devotion",
+    "longing",
+    "intimacy",
+    "unity"
+  ],
+  "mood_arc": [
+    "longing",
+    "passion",
+    "joy",
+    "awe",
+    "conflict",
+    "resolution"
+  ]
+}
