@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-23T15:45:14.797Z",
+  "updated_at": "2026-05-25T07:27:47.886Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -147,6 +147,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-23T15:45:14.026Z"
+    },
+    {
+      "hash": "8017dd0336610a4d",
+      "track": "Pal",
+      "artist": "Javed-Mohsin, Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole - Pal",
+      "album": "Pal",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-25T07:27:46.871Z"
     }
   ]
 }
