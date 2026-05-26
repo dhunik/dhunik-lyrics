@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-24T13:10:10.735Z",
+  "updated_at": "2026-05-26T07:24:34.675Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -201,6 +201,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-05-24T13:10:09.771Z"
+    },
+    {
+      "hash": "ab883a3e6f7406e5",
+      "track": "Lag Ja Gale",
+      "artist": "Sanam",
+      "album": "In Love With Sanam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-26T07:24:33.617Z"
     }
   ]
 }
