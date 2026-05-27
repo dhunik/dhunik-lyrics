@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-26T07:24:34.675Z",
+  "updated_at": "2026-05-27T09:29:10.070Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -210,6 +210,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-05-26T07:24:33.617Z"
+    },
+    {
+      "hash": "06c575a7c555fb2e",
+      "track": "Ehsaas",
+      "artist": "Sheera Jasvir",
+      "album": "Ehsaas",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-27T09:29:08.276Z"
     }
   ]
 }
