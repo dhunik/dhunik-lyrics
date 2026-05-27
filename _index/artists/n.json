@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-05-19T09:53:56.216Z",
+  "updated_at": "2026-05-27T10:35:11.388Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-19T09:53:55.004Z"
+    },
+    {
+      "hash": "b96b3f5044e47941",
+      "track": "Dil Mera Tod Diya",
+      "artist": "Nadeem-Shravan",
+      "album": "Kasoor",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-27T10:35:10.326Z"
     }
   ]
 }
