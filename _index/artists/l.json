@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-05-22T04:14:17.780Z",
+  "updated_at": "2026-05-28T03:35:47.597Z",
   "entries": [
     {
       "hash": "8646ea18f28514a9",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T04:14:16.760Z"
+    },
+    {
+      "hash": "7e38b51a52134323",
+      "track": "Tujhe Dekha To",
+      "artist": "Lata Mangeshkar, Kumar Sanu",
+      "album": "Lata Mangeshkar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:35:46.609Z"
     }
   ]
 }
