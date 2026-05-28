@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-05-25T05:00:36.718Z",
+  "updated_at": "2026-05-28T13:44:06.469Z",
   "entries": [
     {
-      "hash": "4f88ffbd578a36fb",
-      "track": "Chhore Ncr Aale",
-      "artist": "Paradox, MC Square",
-      "album": "Mc Square",
-      "has_synced": true,
+      "hash": "d2bac849d2fee7a8",
+      "track": "Nooru Janmaku",
+      "artist": "Mano Murthy",
+      "album": "Mano Murthy",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-19T05:55:20.177Z"
-    },
-    {
-      "hash": "4f9cb0bfe347f621",
-      "track": "Laung Laachi Title Track",
-      "artist": "Mannat Noor",
-      "album": "Punjabi Swag Hits",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:57:39.737Z"
-    },
-    {
-      "hash": "744345ddc0ba2d0d",
-      "track": "Sadka",
-      "artist": "Vishal & Shekhar, Suraj Jagan, Mahalakshmi Iyer",
-      "album": "I Hate Luv Storys",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-24T13:10:09.771Z"
-    },
-    {
-      "hash": "974e45f8ba6b25bd",
-      "track": "Aaj Ki Raat",
-      "artist": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya - Stree 2",
-      "album": "Stree 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-25T05:00:35.729Z"
+      "cached_at": "2026-05-28T13:43:53.405Z"
     }
   ]
 }
