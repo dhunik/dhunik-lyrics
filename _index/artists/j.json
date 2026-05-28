@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-05-25T07:27:47.915Z",
+  "updated_at": "2026-05-28T08:51:06.698Z",
   "entries": [
     {
       "hash": "201cff4e85a2e0ea",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-05-25T07:27:46.871Z"
+    },
+    {
+      "hash": "f0c3faf54b8993a8",
+      "track": "Ranjha (Lofi Flip)",
+      "artist": "VIBIE, Jasleen Royal, B Praak, Bollywood Lofi",
+      "album": "Ranjha",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T08:51:05.510Z"
     }
   ]
 }
