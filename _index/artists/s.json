@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-28T03:35:25.439Z",
+  "updated_at": "2026-05-28T03:39:49.837Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -237,6 +237,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:35:16.557Z"
+    },
+    {
+      "hash": "7c22ae2477fe8481",
+      "track": "Falak Dekhun (Sonu Nigam)",
+      "artist": "Sonu Nigam",
+      "album": "Garam Masala",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:39:48.960Z"
     }
   ]
 }
