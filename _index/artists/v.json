@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-05-28T14:12:44.786Z",
+  "updated_at": "2026-05-28T15:13:19.492Z",
   "entries": [
     {
       "hash": "f04cb997e2e06edc",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T14:12:42.259Z"
+    },
+    {
+      "hash": "acd6735c4a409b27",
+      "track": "Minchagi Neenu",
+      "artist": "Sonu Nigam, V. Harikrishna - Gaalipata",
+      "album": "V. Harikrishna Hits Vol -1",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-28T15:13:10.744Z"
     }
   ]
 }
