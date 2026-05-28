@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-05-28T03:35:37.995Z",
+  "updated_at": "2026-05-28T03:36:50.907Z",
   "entries": [
     {
       "hash": "8db16fb5b2915c43",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:35:30.528Z"
+    },
+    {
+      "hash": "46026ac5792c66f3",
+      "track": "Tere Naam (Sad)",
+      "artist": "Udit Narayan",
+      "album": "Tere Naam",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:36:50.070Z"
     }
   ]
 }
