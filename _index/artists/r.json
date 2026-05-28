@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-05-25T12:39:52.550Z",
+  "updated_at": "2026-05-28T14:35:45.034Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-05-25T12:39:51.624Z"
+    },
+    {
+      "hash": "b4b4fab2bd197b47",
+      "track": "Vaana Vaana",
+      "artist": "R P Patnaik",
+      "album": "Seenu Vasanthi Lakshmi",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-28T14:35:43.938Z"
     }
   ]
 }
