@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-05-20T06:21:23.181Z",
+  "updated_at": "2026-05-28T08:51:24.009Z",
   "entries": [
     {
       "hash": "f04cb997e2e06edc",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-20T06:21:22.228Z"
+    },
+    {
+      "hash": "2db31d5ee497d892",
+      "track": "Tanha Dil (Lofi Flip)",
+      "artist": "Shaan, VIBIE",
+      "album": "Shaan",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-28T08:51:16.970Z"
     }
   ]
 }
