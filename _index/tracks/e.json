@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "e",
   "type": "track",
-  "updated_at": "2026-05-27T09:29:10.016Z",
+  "updated_at": "2026-05-28T03:30:12.261Z",
   "entries": [
     {
       "hash": "b50f185d9dd492f7",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-27T09:29:08.276Z"
+    },
+    {
+      "hash": "68c552c806581a74",
+      "track": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "album": "Sabrina Carpenter",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:30:11.411Z"
     }
   ]
 }
