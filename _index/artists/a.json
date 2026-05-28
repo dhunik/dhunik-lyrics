@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-28T08:51:04.994Z",
+  "updated_at": "2026-05-28T14:03:36.406Z",
   "entries": [
     {
       "hash": "71c3ff407955b9d6",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T08:51:03.851Z"
+    },
+    {
+      "hash": "2ae00d43416e9a26",
+      "track": "Raja Shivaji Anthem 'Chhatrapati' (From \"Raja Shivaji\")",
+      "artist": "Ajay-Atul, Ajay Gogavale",
+      "album": "Raja Shivaji",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-28T14:03:35.019Z"
     }
   ]
 }
