@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-05-22T12:28:54.211Z",
+  "updated_at": "2026-05-28T03:35:23.220Z",
   "entries": [
     {
       "hash": "f430d6619388df91",
@@ -57,6 +57,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-22T12:28:53.094Z"
+    },
+    {
+      "hash": "628edfe42d90a7a2",
+      "track": "Pal Pal Dil Ke Paas- Title Track",
+      "artist": "Siddharth-Garima, Arijit Singh, Parampara Tandon, Sachet-Parampara",
+      "album": "The Arijit Singh Collection",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:35:16.557Z"
     }
   ]
 }
