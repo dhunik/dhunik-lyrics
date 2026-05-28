@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-04-29T20:11:28.231Z",
+  "updated_at": "2026-05-28T03:35:37.995Z",
   "entries": [
     {
       "hash": "8db16fb5b2915c43",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-04-29T20:11:20.838Z"
+    },
+    {
+      "hash": "a0bedc847e33ec3f",
+      "track": "Falak Dekhun (Udit Narayan)",
+      "artist": "Udit Narayan",
+      "album": "Garam Masala",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:35:30.528Z"
     }
   ]
 }
