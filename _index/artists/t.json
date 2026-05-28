@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-05-28T03:29:57.135Z",
+  "updated_at": "2026-05-28T08:50:52.715Z",
   "entries": [
     {
       "hash": "5f0c14e1e078abe4",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:29:44.703Z"
+    },
+    {
+      "hash": "50cd9168e9794f0b",
+      "track": "Saibo (Lofi Flip)",
+      "artist": "VIBIE, Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Lofi",
+      "album": "VIBIE, Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Lofi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T08:50:51.531Z"
     }
   ]
 }
