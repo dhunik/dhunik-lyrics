@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-28T03:29:18.394Z",
+  "updated_at": "2026-05-28T03:38:16.702Z",
   "entries": [
     {
       "hash": "430f3d8f493302b5",
@@ -165,6 +165,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:29:17.468Z"
+    },
+    {
+      "hash": "ca199b6e19b88457",
+      "track": "Der Se Hua (Female Version)",
+      "artist": "Alka Yagnik",
+      "album": "Golden Melodies Of Alka Yagnik & Kumar Sanu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:38:14.739Z"
     }
   ]
 }
