@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-28T14:12:42.473Z",
+  "updated_at": "2026-05-28T14:12:54.278Z",
   "entries": [
     {
       "hash": "71c3ff407955b9d6",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T14:12:40.922Z"
+    },
+    {
+      "hash": "fff775ab79a7286d",
+      "track": "Morya Morya",
+      "artist": "Ajay Gogavale",
+      "album": "Uladhaal",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T14:12:49.127Z"
     }
   ]
 }
