@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-05-28T14:03:36.406Z",
+  "updated_at": "2026-05-28T14:12:42.473Z",
   "entries": [
     {
       "hash": "71c3ff407955b9d6",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-28T14:03:35.019Z"
+    },
+    {
+      "hash": "65923800d6bb40cf",
+      "track": "Zingaat",
+      "artist": "Ajay Gogavale, Atul Gogavale, Ajay-Atul",
+      "album": "Sairat",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T14:12:40.922Z"
     }
   ]
 }
