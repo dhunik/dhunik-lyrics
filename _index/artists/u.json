@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-05-28T03:36:50.907Z",
+  "updated_at": "2026-05-28T03:39:30.244Z",
   "entries": [
     {
       "hash": "8db16fb5b2915c43",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:36:50.070Z"
+    },
+    {
+      "hash": "77cee069bc42b648",
+      "track": "O Jaana",
+      "artist": "Udit Narayan, Kamaal Khan, KK, Alka Yagnik",
+      "album": "Salman's Swag Anthems",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-28T03:39:21.874Z"
     }
   ]
 }
