@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-05-28T13:44:06.469Z",
+  "updated_at": "2026-05-29T01:50:38.435Z",
   "entries": [
     {
       "hash": "d2bac849d2fee7a8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-28T13:43:53.405Z"
+    },
+    {
+      "hash": "0d34edabf3e7aa8a",
+      "track": "They Don't Care About Us (Remastered Version)",
+      "artist": "Michael Jackson",
+      "album": "Michael Jackson's This Is It",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-29T01:50:37.517Z"
     }
   ]
 }
