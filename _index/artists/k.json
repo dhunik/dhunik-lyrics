@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-05-25T02:26:51.094Z",
+  "updated_at": "2026-05-30T15:21:50.007Z",
   "entries": [
     {
-      "hash": "fe90381e78215288",
-      "track": "Hudugi Hudugi",
-      "artist": "K. Kalyan, Kunal Ganjawala - Aishwarya (Original Motion Picture Soundtrack)",
-      "album": "Aishwarya (Original Motion Picture Soundtrack)",
-      "has_synced": true,
+      "hash": "7e32a661c5adf8df",
+      "track": "Pal Pal Dil Ke Paas (From \"Blackmail\")",
+      "artist": "Kishore Kumar",
+      "album": "70s Special - Hindi",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-25T02:26:34.418Z"
+      "cached_at": "2026-05-30T15:21:33.408Z"
     }
   ]
 }
