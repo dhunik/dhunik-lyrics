@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-05-28T08:50:52.686Z",
+  "updated_at": "2026-05-30T17:47:36.664Z",
   "entries": [
     {
-      "hash": "3b68b4496eb6452f",
-      "track": "Seedhe Maut Anthem",
-      "artist": "Seedhe Maut, Sez On The Beat",
-      "album": "Seedhe Maut Anthem",
+      "hash": "28fd0eab393d84fc",
+      "track": "Singham",
+      "artist": "Ajay-Atul, Sukhwinder Singh",
+      "album": "Singham",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-01T12:26:27.853Z"
-    },
-    {
-      "hash": "e3de9433e2a5fff1",
-      "track": "SHUTDOWN",
-      "artist": "Seedhe Maut - SHUTDOWN",
-      "album": "SHUTDOWN",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-01T12:30:51.794Z"
-    },
-    {
-      "hash": "024439b5159c5388",
-      "track": "Same Beef",
-      "artist": "Bohemia, Sidhu Moose Wala",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:57:49.651Z"
-    },
-    {
-      "hash": "ef8c5cc8c12664a3",
-      "track": "So High",
-      "artist": "Sidhu Moose Wala",
-      "album": "Sidhu Moose Wala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:57:55.061Z"
-    },
-    {
-      "hash": "50cd9168e9794f0b",
-      "track": "Saibo (Lofi Flip)",
-      "artist": "VIBIE, Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Lofi",
-      "album": "VIBIE, Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Lofi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T08:50:51.531Z"
+      "cached_at": "2026-05-30T17:42:24.043Z"
     }
   ]
 }
