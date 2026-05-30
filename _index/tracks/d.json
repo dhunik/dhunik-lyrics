@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-05-28T03:38:16.699Z",
+  "updated_at": "2026-05-30T15:21:10.511Z",
   "entries": [
     {
       "hash": "8db16fb5b2915c43",
@@ -102,6 +102,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:38:14.739Z"
+    },
+    {
+      "hash": "adf5a9924d398ccb",
+      "track": "Dope Shope",
+      "artist": "Yo Yo Honey Singh ft. Deep Money - International Villager",
+      "album": "International Villager",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-05-30T15:21:02.990Z"
     }
   ]
 }
