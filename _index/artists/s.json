@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-05-28T08:51:24.007Z",
+  "updated_at": "2026-05-30T07:30:06.720Z",
   "entries": [
     {
       "hash": "9a0a6620cc139065",
@@ -255,6 +255,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-28T08:51:16.970Z"
+    },
+    {
+      "hash": "21df4c59601530cb",
+      "track": "Radha Naam Jaap",
+      "artist": "Sanatan Bhakti Music",
+      "album": "Radha Naam Jaap",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-30T07:30:05.889Z"
     }
   ]
 }
