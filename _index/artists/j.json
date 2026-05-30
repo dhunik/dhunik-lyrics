@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-05-29T13:44:13.771Z",
+  "updated_at": "2026-05-30T12:30:50.993Z",
   "entries": [
     {
-      "hash": "b07cdc67d87a15f7",
-      "track": "On The Floor",
-      "artist": "Jennifer Lopez, Pitbull",
-      "album": "Good Morning Bangers!",
+      "hash": "a7dd6c9792f04e9e",
+      "track": "Koi Fariyaad",
+      "artist": "Jagjit Singh - Tum Bin",
+      "album": "null",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-29T13:41:02.722Z"
+      "cached_at": "2026-05-30T12:27:36.772Z"
     }
   ]
 }
