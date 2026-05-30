@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-05-29T01:50:38.435Z",
+  "updated_at": "2026-05-30T17:41:49.976Z",
   "entries": [
     {
       "hash": "d2bac849d2fee7a8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-29T01:50:37.517Z"
+    },
+    {
+      "hash": "a46bf4401c19230c",
+      "track": "Chak De India",
+      "artist": "Salim-Sulaiman, Sukhvinder Singh, Salim Merchant, Marianne D'Cruz-Aiman, Jaideep Sahni",
+      "album": "Cricket Party Mix",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-05-30T17:41:42.371Z"
     }
   ]
 }
