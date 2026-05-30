@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-05-22T12:35:29.052Z",
+  "updated_at": "2026-05-30T17:34:47.607Z",
   "entries": [
     {
-      "hash": "7d25d707b7857177",
-      "track": "Ban Ja Rani",
-      "artist": "Guru Randhawa",
-      "album": "Groove With Guru",
+      "hash": "bd430931fc62962c",
+      "track": "Besharam Rang",
+      "artist": "Vishal & Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+      "album": "Pathaan",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-25T07:40:48.725Z"
-    },
-    {
-      "hash": "eccd6bc733d2d64d",
-      "track": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "artist": "Tanishk Bagchi, Ravi Pawar, Sonu Nigam, Asees Kaur - Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "album": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-17T21:46:41.959Z"
-    },
-    {
-      "hash": "430f3d8f493302b5",
-      "track": "Bheegey Hont",
-      "artist": "Anu Malik, Kunal Ganjawala",
-      "album": "Murder",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-18T10:21:54.721Z"
-    },
-    {
-      "hash": "7b8b34b83f7bd9f8",
-      "track": "Baarish - Yaariyan",
-      "artist": "Mohammed Irfan, Gajendra Verma",
-      "album": "Yaariyan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-18T10:22:44.496Z"
-    },
-    {
-      "hash": "a1771f2f0098304a",
-      "track": "Bolo Ta Ra Ra",
-      "artist": "Daler Mehndi",
-      "album": "Bolo Ta Ra Ra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:57:26.018Z"
-    },
-    {
-      "hash": "50763756fd597e60",
-      "track": "Bohemia",
-      "artist": "Bohemia",
-      "album": "BOHEMIA",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:58:43.411Z"
-    },
-    {
-      "hash": "cf11f274429ae48c",
-      "track": "Black Heart",
-      "artist": "Sara Khan",
-      "album": "Black Heart",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:59:12.678Z"
-    },
-    {
-      "hash": "19fe042f6c1a00a4",
-      "track": "Badass (From \"Leo\")",
-      "artist": "Vishnu Edavan, Anirudh Ravichander",
-      "album": "Thalapathy Vijay Kondattam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T12:35:28.072Z"
+      "cached_at": "2026-05-30T17:30:34.402Z"
     }
   ]
 }
