@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-05-29T13:44:13.773Z",
+  "updated_at": "2026-05-31T12:51:13.284Z",
   "entries": [
     {
       "hash": "b07cdc67d87a15f7",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-29T13:41:02.722Z"
+    },
+    {
+      "hash": "bfbcd53f45f3bd27",
+      "track": "Tujhko (From “Cocktail 2”)",
+      "artist": "Arijit Singh, Sunidhi Chauhan, Amitabh Bhattacharya, Pritam - Tujhko (From “Cocktail 2”)",
+      "album": "Tujhko (From “Cocktail 2”)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-05-31T12:51:12.422Z"
     }
   ]
 }
