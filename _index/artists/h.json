@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-05-19T03:04:47.532Z",
+  "updated_at": "2026-06-01T13:35:49.838Z",
   "entries": [
     {
       "hash": "a48e073b5f0cbc6b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-19T03:04:41.189Z"
+    },
+    {
+      "hash": "fbe177dec2e937bf",
+      "track": "Mujhko Yaad Sataye Teri",
+      "artist": "Himesh Reshammiya",
+      "album": "Himesh Reshammiya",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-01T13:35:48.599Z"
     }
   ]
 }
