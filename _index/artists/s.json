@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-02T11:36:01.345Z",
+  "updated_at": "2026-06-02T16:47:03.256Z",
   "entries": [
     {
-      "hash": "54ddedffdd43d7c5",
-      "track": "Mungaru Maleye",
-      "artist": "Yogaraj Bhat, Sonu Nigam",
-      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
+      "hash": "a61793716e930d55",
+      "track": "Jaiye Sajana",
+      "artist": "Satinder Sartaaj, Jasmine Sandlas, Shashwat Sachdev - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-02T11:33:37.674Z"
+      "has_plain": false,
+      "cached_at": "2026-06-02T16:46:41.474Z"
     }
   ]
 }
