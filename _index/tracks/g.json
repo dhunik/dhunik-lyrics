@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-05-22T03:34:30.575Z",
+  "updated_at": "2026-06-02T10:54:15.725Z",
   "entries": [
     {
       "hash": "a87565d0406675a9",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-22T03:34:29.645Z"
+    },
+    {
+      "hash": "6e6d5a7cfb356267",
+      "track": "Goodbye Yellow Brick Road",
+      "artist": "Elton John",
+      "album": "Goodbye Yellow Brick Road (Newly Remastered)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T10:54:14.716Z"
     }
   ]
 }
