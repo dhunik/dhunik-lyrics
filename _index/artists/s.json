@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-02T03:43:41.702Z",
+  "updated_at": "2026-06-02T11:36:01.345Z",
   "entries": [
     {
-      "hash": "28fd0eab393d84fc",
-      "track": "Singham",
-      "artist": "Ajay-Atul, Sukhwinder Singh",
-      "album": "Singham",
+      "hash": "54ddedffdd43d7c5",
+      "track": "Mungaru Maleye",
+      "artist": "Yogaraj Bhat, Sonu Nigam",
+      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-30T17:42:24.043Z"
-    },
-    {
-      "hash": "bfbcd53f45f3bd27",
-      "track": "Tujhko (From “Cocktail 2”)",
-      "artist": "Arijit Singh, Sunidhi Chauhan, Amitabh Bhattacharya, Pritam - Tujhko (From “Cocktail 2”)",
-      "album": "Tujhko (From “Cocktail 2”)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-31T12:51:12.422Z"
-    },
-    {
-      "hash": "e065fa4ae60eb471",
-      "track": "Shri Ganesh Aarti",
-      "artist": "Sadhana Sargam",
-      "album": "Shri Ganesh Aradhna",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-02T03:43:36.689Z"
+      "cached_at": "2026-06-02T11:33:37.674Z"
     }
   ]
 }
