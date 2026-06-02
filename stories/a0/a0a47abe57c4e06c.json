@@ -1,0 +1,154 @@
+{
+  "v": 1,
+  "key": "pal pal|afusic",
+  "track": "Pal Pal",
+  "artist": "Afusic, AliSoomroMusic - Pal Pal",
+  "album": "Pal Pal",
+  "language": "English",
+  "generated_at": "2026-06-02T20:05:41.677Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Pal Pal' by Afusic and AliSoomroMusic is a heartfelt expression of longing and yearning for a loved one. The lyrics convey the pain of separation and the emptiness felt without the presence of the beloved. The song's core message revolves around the theme of love and the indispensable nature of the partner in the singer's life.",
+  "background": {
+    "composition": "The composition style of 'Pal Pal' seems to blend contemporary and traditional elements, likely featuring a mix of modern and classical instrumentation. However, specific details about the melody or musical structure are not available.",
+    "cultural_context": "Information not available.",
+    "fun_facts": [
+      "The song 'Pal Pal' appears to be a romantic ballad, which is a popular genre in South Asian music.",
+      "[Unverified] The song might have gained popularity through social media platforms or music streaming services."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "Pal pal jeena muhal",
+      "meaning": "To live every moment is a challenge",
+      "mood": "longing"
+    },
+    {
+      "original": "Mera tere bina",
+      "meaning": "My life without you",
+      "mood": "sadness"
+    },
+    {
+      "original": "Ye sary nashe bekaar",
+      "meaning": "All these intoxications are useless",
+      "literary_device": "metaphor",
+      "mood": "disappointment"
+    },
+    {
+      "original": "Teri ankhon kay siwa",
+      "meaning": "Except for your eyes",
+      "mood": "love"
+    },
+    {
+      "original": "Ghar nahi jata mein bahar",
+      "meaning": "I don't go out, I stay at home",
+      "mood": "loneliness"
+    },
+    {
+      "original": "Rehta tera intazar",
+      "meaning": "Waiting for you",
+      "mood": "anticipation"
+    },
+    {
+      "original": "Mere, khwabon mein aa na",
+      "meaning": "Don't come into my dreams",
+      "mood": "confusion"
+    },
+    {
+      "original": "Kakry sola singhaar",
+      "meaning": "Like a decorated bride",
+      "literary_device": "simile",
+      "mood": "romance"
+    },
+    {
+      "original": "Mein ab kyu hosh mein ata ni",
+      "meaning": "Why am I regaining consciousness now",
+      "mood": "disorientation"
+    },
+    {
+      "original": "Sukoon ye dil kyu pata ni",
+      "meaning": "Why doesn't my heart find peace",
+      "mood": "anxiety"
+    },
+    {
+      "original": "Kyu toru khud say jo thy wade kay ab ye ishq nibahana nahi",
+      "meaning": "Why did you break the promises you made to yourself, now this love doesn't seem to be sustainable",
+      "literary_device": "rhetorical question",
+      "mood": "heartbreak"
+    },
+    {
+      "original": "Mein moru tumsy jo ye chehra dubara nazar milana nahi",
+      "meaning": "I don't want to see your face again",
+      "mood": "anger"
+    },
+    {
+      "original": "Ye duniya janay mera dard tujhe ye nazar kyu ata nahi",
+      "meaning": "The world knows my pain, but why doesn't it seem to affect you",
+      "literary_device": "rhetorical question",
+      "mood": "frustration"
+    },
+    {
+      "original": "Soneya yu tera sharmana meri jaan na lele",
+      "meaning": "You seem to be blushing, my life isn't worth taking",
+      "mood": "love"
+    },
+    {
+      "original": "Kaan ke peechy zulf chupana meri jan kya kehnay",
+      "meaning": "What do people say when they hide behind their hair",
+      "mood": "curiosity"
+    },
+    {
+      "original": "Zalima toba tera nakhra iske war kya kehne",
+      "meaning": "Cruel, your stubbornness, what can I say about it",
+      "mood": "resignation"
+    },
+    {
+      "original": "Tham ky bethe dil ko ghayal kaheen har na bethein",
+      "meaning": "Sitting still, my heart gets wounded, I fear it might not heal",
+      "mood": "vulnerability"
+    },
+    {
+      "original": "Teri nazrien mujhsy kya kehti hen",
+      "meaning": "What do your eyes say to me",
+      "mood": "intimacy"
+    },
+    {
+      "original": "Inme wafa bethi hay",
+      "meaning": "There's loyalty in them",
+      "mood": "trust"
+    },
+    {
+      "original": "Thori thori si razi thori si khafa rehti hein",
+      "meaning": "Sometimes I agree, sometimes I disagree",
+      "mood": "ambivalence"
+    },
+    {
+      "original": "Log hein zalim bary",
+      "meaning": "People are very cruel",
+      "mood": "outrage"
+    },
+    {
+      "original": "Inme jafa dekhi hay",
+      "meaning": "I've seen injustice in them",
+      "mood": "disillusionment"
+    },
+    {
+      "original": "Ye duniya teri nahi mene tunjmy haya dekhi hay",
+      "meaning": "This world isn't yours, I've seen modesty in you",
+      "mood": "admiration"
+    }
+  ],
+  "themes": [
+    "love",
+    "longing",
+    "heartbreak",
+    "separation",
+    "yearning"
+  ],
+  "mood_arc": [
+    "longing",
+    "sadness",
+    "heartbreak",
+    "anger",
+    "vulnerability"
+  ]
+}
