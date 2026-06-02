@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-05-28T15:13:19.492Z",
+  "updated_at": "2026-06-02T10:39:04.755Z",
   "entries": [
     {
       "hash": "f04cb997e2e06edc",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-28T15:13:10.744Z"
+    },
+    {
+      "hash": "ff6e1bf5a16188d9",
+      "track": "Ambikapathy",
+      "artist": "A.R. Rahman, Naresh Iyer, Vairamuthu",
+      "album": "Ambikapathy",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T10:39:03.663Z"
     }
   ]
 }
