@@ -2,106 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-05-22T12:33:14.767Z",
+  "updated_at": "2026-06-02T16:47:03.254Z",
   "entries": [
     {
-      "hash": "53d814e1ce330c57",
-      "track": "Judai",
-      "artist": "Pritam, Kamran Ahmed - Jannat",
-      "album": "Jannat",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-21T16:53:54.842Z"
-    },
-    {
-      "hash": "d613a031afb16a0e",
+      "hash": "a61793716e930d55",
       "track": "Jaiye Sajana",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "artist": "Satinder Sartaaj, Jasmine Sandlas, Shashwat Sachdev - Dhurandhar The Revenge",
       "album": "Dhurandhar The Revenge",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-22T08:10:56.981Z"
-    },
-    {
-      "hash": "22bc6c12ec5a51ed",
-      "track": "Jo Bhi Kasmein",
-      "artist": "Alka Yagnik, Udit Narayan - Raaz",
-      "album": "Raaz",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T17:06:53.048Z"
-    },
-    {
-      "hash": "a85102569a5d2480",
-      "track": "Jab Koi Baat Bigad Jaye",
-      "artist": "Kumar Sanu, Sadhana Sargam",
-      "album": "Jurm (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T18:59:34.065Z"
-    },
-    {
-      "hash": "4107894afbb35f08",
-      "track": "Jaan Se Guzarte Hain",
-      "artist": "Shashwat Sachdev, Khan Saab - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:41:25.532Z"
-    },
-    {
-      "hash": "1640480ba853b1ff",
-      "track": "Jab Tak",
-      "artist": "Armaan Malik",
-      "album": "M.S. Dhoni - The Untold Story",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:39:20.627Z"
-    },
-    {
-      "hash": "e412f7943b6977a6",
-      "track": "Judaai",
-      "artist": "Sachin-Jigar, Rekha Bhardwaj, Arijit Singh",
-      "album": "Badlapur",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:38.526Z"
-    },
-    {
-      "hash": "4b716cb40853f7fd",
-      "track": "Jashn-E-Bahaaraa",
-      "artist": "A.R. Rahman, Javed Ali",
-      "album": "Jodhaa Akbar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:41:34.610Z"
-    },
-    {
-      "hash": "7ecfa89e28bb2afb",
-      "track": "Jeno Tomari Kache",
-      "artist": "Ash King",
-      "album": "Shudhu Tomari Jonyo (Original Motion Picture Soundtrack)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-30T14:25:10.914Z"
-    },
-    {
-      "hash": "21e0307a56ecac31",
-      "track": "Jatt Flex",
-      "artist": "Amrit Maan",
-      "album": "Jatt Flex",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:59:06.470Z"
-    },
-    {
-      "hash": "942e05de84ebd1d8",
-      "track": "JD Intro (From \"Master\") (Background Score)",
-      "artist": "Anirudh Ravichander",
-      "album": "Iconic Mass Themes",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T12:33:13.702Z"
+      "cached_at": "2026-06-02T16:46:41.474Z"
     }
   ]
 }
