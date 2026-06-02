@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-05-21T03:20:51.780Z",
+  "updated_at": "2026-06-02T17:13:17.668Z",
   "entries": [
     {
-      "hash": "6bef083e7b4fe8b0",
-      "track": "Tunak Tunak Tun",
-      "artist": "Daler Mehndi",
-      "album": "Daler Mehndi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:55:50.731Z"
-    },
-    {
-      "hash": "cffcfe2e47d11470",
-      "track": "Pyaar Pyaar",
-      "artist": "Dino James - D",
-      "album": "D",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-20T05:05:07.027Z"
-    },
-    {
-      "hash": "f7cae74067afe13f",
-      "track": "Lost",
-      "artist": "Dino James - D",
-      "album": "D",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-20T05:05:13.479Z"
-    },
-    {
-      "hash": "58f38a7339b09f08",
-      "track": "Dhundhla",
-      "artist": "Dino James ft. Black Virus - D",
-      "album": "D",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-20T06:16:33.149Z"
-    },
-    {
-      "hash": "9a756cbe06754924",
-      "track": "God's Plan",
+      "hash": "e060fe765b623783",
+      "track": "Janice STFU",
       "artist": "Drake",
-      "album": "Scorpion",
+      "album": "ICEMAN",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-21T03:20:50.857Z"
+      "has_plain": false,
+      "cached_at": "2026-06-02T17:12:52.444Z"
     }
   ]
 }
