@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-03-28T16:08:06.600Z",
+  "updated_at": "2026-06-02T15:32:14.392Z",
   "entries": [
     {
       "hash": "1a66c61f84815312",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-03-28T16:07:39.876Z"
+    },
+    {
+      "hash": "b2584d194718c0b7",
+      "track": "Baa Baa Black Sheep",
+      "artist": "Cocomelon",
+      "album": "Nursery Rhymes by CoComelon",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T15:32:12.966Z"
     }
   ]
 }
