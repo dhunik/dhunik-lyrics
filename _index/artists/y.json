@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-05-30T15:21:10.606Z",
+  "updated_at": "2026-06-02T11:36:01.338Z",
   "entries": [
     {
-      "hash": "2151b61f2a6d42d6",
-      "track": "DOG HOUSE",
-      "artist": "Drake, Julia Wolf, Yeat ft. Lil Uzi Vert - DOG HOUSE",
-      "album": "DOG HOUSE",
+      "hash": "54ddedffdd43d7c5",
+      "track": "Mungaru Maleye",
+      "artist": "Yogaraj Bhat, Sonu Nigam",
+      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-13T08:55:37.139Z"
-    },
-    {
-      "hash": "970311f631543698",
-      "track": "Dil Ko Karaar Aaya (From \"Sukoon\")",
-      "artist": "Rajat Nagpal, Yasser Desai, Neha Kakkar, Rana Sotal",
-      "album": "null",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-15T18:13:50.971Z"
-    },
-    {
-      "hash": "63e3524620ebb251",
-      "track": "Khuda Kare",
-      "artist": "Yasser Desai",
-      "album": "Khuda Kare",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-08T04:42:11.742Z"
-    },
-    {
-      "hash": "adf5a9924d398ccb",
-      "track": "Dope Shope",
-      "artist": "Yo Yo Honey Singh ft. Deep Money - International Villager",
-      "album": "International Villager",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-30T15:21:02.990Z"
+      "cached_at": "2026-06-02T11:33:37.674Z"
     }
   ]
 }
