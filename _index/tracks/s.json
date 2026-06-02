@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-05-30T17:47:36.664Z",
+  "updated_at": "2026-06-02T03:43:41.614Z",
   "entries": [
     {
       "hash": "28fd0eab393d84fc",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-30T17:42:24.043Z"
+    },
+    {
+      "hash": "e065fa4ae60eb471",
+      "track": "Shri Ganesh Aarti",
+      "artist": "Sadhana Sargam",
+      "album": "Shri Ganesh Aradhna",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-02T03:43:36.689Z"
     }
   ]
 }
