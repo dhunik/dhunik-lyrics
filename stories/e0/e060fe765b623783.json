@@ -1,0 +1,71 @@
+{
+  "v": 1,
+  "key": "janice stfu|drake",
+  "track": "Janice STFU",
+  "artist": "Drake",
+  "album": "ICEMAN",
+  "language": "English",
+  "generated_at": "2026-06-02T17:13:20.224Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Janice STFU' by Drake appears to be a confident and assertive response to critics and rivals, with Drake addressing his success, wealth, and influence. He reflects on his resilience and determination, while also critiquing the superficiality of others in the industry. The song's emotional journey shifts from introspection to a sense of triumph and defiance.",
+  "background": {
+    "composition": "The song features a contemporary hip-hop composition style, with a focus on Drake's signature emotive flow and introspective lyrics. The production likely incorporates elements of trap and drill music, given the references to luxury brands and high-end lifestyle.",
+    "cultural_context": "The song is part of Drake's album 'ICEMAN', which may have been released during a period of significant cultural and artistic relevance for the artist. Information not available on specific cultural significance.",
+    "fun_facts": [
+      "The song 'Janice STFU' features a distinctive chorus with the phrase 'Ayy, Janice, shut the fuck up', which has become a notable part of Drake's discography.",
+      "[Unverified] The song may have been inspired by Drake's personal experiences and feuds within the music industry."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "Emiliana, it's been so long since you texted me",
+      "meaning": "Drake is addressing someone named Emiliana, expressing that it's been a while since they last communicated.",
+      "mood": "longing"
+    },
+    {
+      "original": "You say what my work means to me will one day be the death of me",
+      "meaning": "Drake is referencing critics who claim that his work will ultimately be his downfall.",
+      "mood": "defensive"
+    },
+    {
+      "original": "They tried to kill me once, but, darling, you just resurrected me",
+      "meaning": "Drake feels that he has been revived or rejuvenated by someone's support or actions.",
+      "literary_device": "metaphor",
+      "mood": "grateful"
+    },
+    {
+      "original": "Reach me, baby / Call my phone and say you need me, baby",
+      "meaning": "Drake is expressing a desire for someone to reach out to him and acknowledge their need for him.",
+      "mood": "longing"
+    },
+    {
+      "original": "Tired of all of y'all tellin' me **** is real, pussy, I know when it's real",
+      "meaning": "Drake is expressing frustration with people telling him what is real or authentic, claiming that he knows what truly matters.",
+      "mood": "frustrated"
+    },
+    {
+      "original": "You only come home to pose and pop off a look, but you forgot how it feel",
+      "meaning": "Drake is criticizing someone who only superficially engages with their community or roots, forgetting the true emotions and experiences.",
+      "mood": "disapproving"
+    },
+    {
+      "original": "How many houses you build? How many souls did you heal off the back of your deal?",
+      "meaning": "Drake is questioning someone's impact and legacy, asking how many positive contributions they have made.",
+      "mood": "inquisitive"
+    }
+  ],
+  "themes": [
+    "success",
+    "resilience",
+    "authenticity",
+    "critique of superficiality",
+    "self-confidence"
+  ],
+  "mood_arc": [
+    "introspective",
+    "defensive",
+    "longing",
+    "frustrated",
+    "triumphant"
+  ]
+}
