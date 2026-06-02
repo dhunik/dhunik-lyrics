@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-06-02T16:47:03.254Z",
+  "updated_at": "2026-06-02T17:13:17.666Z",
   "entries": [
     {
-      "hash": "a61793716e930d55",
-      "track": "Jaiye Sajana",
-      "artist": "Satinder Sartaaj, Jasmine Sandlas, Shashwat Sachdev - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
+      "hash": "e060fe765b623783",
+      "track": "Janice STFU",
+      "artist": "Drake",
+      "album": "ICEMAN",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-02T16:46:41.474Z"
+      "cached_at": "2026-06-02T17:12:52.444Z"
     }
   ]
 }
