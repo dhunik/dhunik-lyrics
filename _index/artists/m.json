@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-05-30T17:41:49.976Z",
+  "updated_at": "2026-06-02T16:56:01.291Z",
   "entries": [
     {
       "hash": "d2bac849d2fee7a8",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-30T17:41:42.371Z"
+    },
+    {
+      "hash": "368e08dda0050ca5",
+      "track": "Vaathi Kabaddi (From \"Master\")",
+      "artist": "Vidyasagar, Anirudh Ravichander, Maran, Jayamoorthy, Pa. Vijay",
+      "album": "Vaathi Kabaddi (From \"Master\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T16:56:00.212Z"
     }
   ]
 }
