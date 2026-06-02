@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-06-02T11:33:14.164Z",
+  "updated_at": "2026-06-02T11:37:42.226Z",
   "entries": [
     {
       "hash": "f04cb997e2e06edc",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-02T11:33:12.811Z"
+    },
+    {
+      "hash": "24ea591266d655c4",
+      "track": "Sahiba",
+      "artist": "Priya Saraiya, Aditya Sharma, Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan - Sahiba",
+      "album": "Sahiba",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T11:37:41.178Z"
     }
   ]
 }
