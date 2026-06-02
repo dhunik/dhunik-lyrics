@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-02T10:54:32.093Z",
+  "updated_at": "2026-06-02T11:10:53.596Z",
   "entries": [
     {
       "hash": "71c3ff407955b9d6",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-02T10:54:31.160Z"
+    },
+    {
+      "hash": "95471fd16c987ffe",
+      "track": "Chikiri Chikiri",
+      "artist": "Raqueeb Alam, A.R. Rahman, Mohit Chauhan - Peddi - Hindi",
+      "album": "Peddi - Hindi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T11:10:52.373Z"
     }
   ]
 }
