@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-06-02T11:37:42.226Z",
+  "updated_at": "2026-06-02T12:52:40.534Z",
   "entries": [
     {
       "hash": "f04cb997e2e06edc",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-02T11:37:41.178Z"
+    },
+    {
+      "hash": "2c0bfbe1426d94f9",
+      "track": "Malhari",
+      "artist": "Vishal Dadlani",
+      "album": null,
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-02T12:52:39.304Z"
     }
   ]
 }
