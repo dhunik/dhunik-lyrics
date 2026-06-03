@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-06-02T11:33:14.280Z",
+  "updated_at": "2026-06-03T09:26:58.880Z",
   "entries": [
     {
-      "hash": "fe90381e78215288",
-      "track": "Hudugi Hudugi",
-      "artist": "K. Kalyan, Kunal Ganjawala - Aishwarya (Original Motion Picture Soundtrack)",
-      "album": "Aishwarya (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-25T02:26:34.418Z"
-    },
-    {
-      "hash": "4da90c2f56be54fa",
-      "track": "High On You",
-      "artist": "Jind Universe",
-      "album": "High On You",
+      "hash": "ef65544abb4f8c68",
+      "track": "Husn",
+      "artist": "Anuv Jain",
+      "album": "Husn",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-05-28T09:32:27.843Z"
-    },
-    {
-      "hash": "35c11726ae1cbb63",
-      "track": "Hotel California",
-      "artist": "Acoustic Guitar Tribute Players",
-      "album": "Acoustic Guitar Tribute to the Eagles",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T10:54:31.160Z"
-    },
-    {
-      "hash": "e8e16884e58b7760",
-      "track": "Hrudayave Bayaside Ninnane (From \" Krishnan Love Story\")",
-      "artist": "Sonu Nigam, Vidyasri, Jayanth Kaikini",
-      "album": "Ajai Rao Hit Songs",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-02T11:33:12.811Z"
+      "cached_at": "2026-06-03T09:23:22.702Z"
     }
   ]
 }
