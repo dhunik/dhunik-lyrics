@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-05-31T12:51:13.284Z",
+  "updated_at": "2026-06-03T09:23:19.947Z",
   "entries": [
     {
-      "hash": "b07cdc67d87a15f7",
-      "track": "On The Floor",
-      "artist": "Jennifer Lopez, Pitbull",
-      "album": "Good Morning Bangers!",
+      "hash": "597c8ef38f457c7d",
+      "track": "Yahan Koi Nahi",
+      "artist": "Punit Singh",
+      "album": "Yahan Koi Nahi",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-29T13:41:02.722Z"
-    },
-    {
-      "hash": "bfbcd53f45f3bd27",
-      "track": "Tujhko (From “Cocktail 2”)",
-      "artist": "Arijit Singh, Sunidhi Chauhan, Amitabh Bhattacharya, Pritam - Tujhko (From “Cocktail 2”)",
-      "album": "Tujhko (From “Cocktail 2”)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-31T12:51:12.422Z"
+      "has_plain": false,
+      "cached_at": "2026-06-03T09:23:04.893Z"
     }
   ]
 }
