@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-03T11:30:45.473Z",
+  "updated_at": "2026-06-03T11:30:47.202Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-03T11:30:44.238Z"
+    },
+    {
+      "hash": "9e17478beb53580b",
+      "track": "Smack That",
+      "artist": "Akon",
+      "album": "Smack That",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-03T11:30:46.003Z"
     }
   ]
 }
