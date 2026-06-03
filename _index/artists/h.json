@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-06-01T13:35:49.838Z",
+  "updated_at": "2026-06-03T02:31:50.965Z",
   "entries": [
     {
       "hash": "a48e073b5f0cbc6b",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-01T13:35:48.599Z"
+    },
+    {
+      "hash": "0c2ed78be4b8def2",
+      "track": "Gasoline",
+      "artist": "Halsey",
+      "album": "Badlands (Decade Edition Anthology)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-03T02:31:49.986Z"
     }
   ]
 }
