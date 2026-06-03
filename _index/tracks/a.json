@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-05-25T05:00:36.678Z",
+  "updated_at": "2026-06-03T09:58:27.253Z",
   "entries": [
     {
-      "hash": "37b4964b240c0692",
-      "track": "Arabic Kuthu - Halamithi Habibo",
-      "artist": "Anirudh Ravichander, Jonita Gandhi",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-24T08:45:27.975Z"
-    },
-    {
-      "hash": "974e45f8ba6b25bd",
-      "track": "Aaj Ki Raat",
-      "artist": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya - Stree 2",
-      "album": "Stree 2",
+      "hash": "6e3ca0a279b59cf9",
+      "track": "Aaj Bhi",
+      "artist": "Vishal Mishra",
+      "album": "Aaj Bhi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-05-25T05:00:35.729Z"
+      "cached_at": "2026-06-03T09:53:19.579Z"
     }
   ]
 }
