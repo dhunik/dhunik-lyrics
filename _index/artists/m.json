@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-02T16:56:01.291Z",
+  "updated_at": "2026-06-03T10:54:15.427Z",
   "entries": [
     {
       "hash": "d2bac849d2fee7a8",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-02T16:56:00.212Z"
+    },
+    {
+      "hash": "280cffbcfc47973f",
+      "track": "Time",
+      "artist": "Marin Hoxha, Vinsmoker",
+      "album": "No Time To Die",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-03T10:54:08.538Z"
     }
   ]
 }
