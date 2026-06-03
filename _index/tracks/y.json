@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "track",
-  "updated_at": "2026-05-28T03:29:18.378Z",
+  "updated_at": "2026-06-03T09:23:19.945Z",
   "entries": [
     {
-      "hash": "fae9070bbaf770df",
-      "track": "Ye Kaali Kaali Aankhen (From \"Baazigar\")",
-      "artist": "Kumar Sanu, Anu Malik",
-      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
+      "hash": "597c8ef38f457c7d",
+      "track": "Yahan Koi Nahi",
+      "artist": "Punit Singh",
+      "album": "Yahan Koi Nahi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-30T18:52:17.698Z"
-    },
-    {
-      "hash": "aaef4750a8675ffe",
-      "track": "Ye Dua Hai Meri Rab Se",
-      "artist": "Kumar Sanu",
-      "album": "Sapne Sajan Ke",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:38:01.652Z"
-    },
-    {
-      "hash": "6aeb67b556661bee",
-      "track": "Ye Un Dinon Ki Baat Hain",
-      "artist": "Sonu Nigam, Sarika Kapoor",
-      "album": "Tum Se Achcha Kaun Hai",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-10T19:43:04.845Z"
-    },
-    {
-      "hash": "925562a24e9b50b9",
-      "track": "Yaar Beli (feat. Deep Jandu)",
-      "artist": "Guri",
-      "album": "Yaar Beli (feat. Deep Jandu)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:59:19.373Z"
-    },
-    {
-      "hash": "06886baf1d6e3e47",
-      "track": "Ye Go Ye Ye Maina",
-      "artist": "Ajay Gogavale, Ajay-Atul - Jatra",
-      "album": "Jatra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T03:18:52.785Z"
-    },
-    {
-      "hash": "0960d3adb20d6398",
-      "track": "Yaad Hai Na",
-      "artist": "Arijit Singh",
-      "album": "Raaz Reboot",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:29:17.468Z"
+      "cached_at": "2026-06-03T09:23:04.893Z"
     }
   ]
 }
