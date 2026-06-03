@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-02T16:47:03.256Z",
+  "updated_at": "2026-06-03T17:13:01.764Z",
   "entries": [
     {
-      "hash": "a61793716e930d55",
-      "track": "Jaiye Sajana",
-      "artist": "Satinder Sartaaj, Jasmine Sandlas, Shashwat Sachdev - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
+      "hash": "b2751f6beb4f1875",
+      "track": "On My Way",
+      "artist": "Alan Walker, Sabrina Carpenter, Farruko",
+      "album": "On My Way",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T16:46:41.474Z"
+      "has_plain": true,
+      "cached_at": "2026-06-03T17:10:26.297Z"
     }
   ]
 }
