@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-06-02T15:32:14.417Z",
+  "updated_at": "2026-06-03T18:07:11.963Z",
   "entries": [
     {
       "hash": "bd430931fc62962c",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-02T15:32:12.966Z"
+    },
+    {
+      "hash": "b0f1a1295c6c40dc",
+      "track": "Balam Pichkari",
+      "artist": "Pritam, Vishal Dadlani, Shalmali",
+      "album": "Yeh Jawaani Hai Deewani",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-03T18:07:10.178Z"
     }
   ]
 }
