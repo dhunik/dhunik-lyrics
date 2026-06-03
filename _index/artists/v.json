@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-06-02T12:52:40.534Z",
+  "updated_at": "2026-06-03T09:58:27.257Z",
   "entries": [
     {
-      "hash": "f04cb997e2e06edc",
-      "track": "Aisi Deewangi",
-      "artist": "Alka Yagnik, Vinod Rathod - Deewana",
-      "album": "Vinod Rathod",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-16T12:37:40.055Z"
-    },
-    {
-      "hash": "dcc3132c24427797",
-      "track": "Kya Bataun Tujhe",
+      "hash": "6e3ca0a279b59cf9",
+      "track": "Aaj Bhi",
       "artist": "Vishal Mishra",
-      "album": "Vishal Mishra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-20T06:21:22.228Z"
-    },
-    {
-      "hash": "2db31d5ee497d892",
-      "track": "Tanha Dil (Lofi Flip)",
-      "artist": "Shaan, VIBIE",
-      "album": "Shaan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T08:51:16.970Z"
-    },
-    {
-      "hash": "0ec00298bd88bf4d",
-      "track": "Kombadi Palali",
-      "artist": "Vaishali Samant, Anand Shinde, Ajay-Atul",
-      "album": "Jatra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:12:42.259Z"
-    },
-    {
-      "hash": "acd6735c4a409b27",
-      "track": "Minchagi Neenu",
-      "artist": "Sonu Nigam, V. Harikrishna - Gaalipata",
-      "album": "V. Harikrishna Hits Vol -1",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T15:13:10.744Z"
-    },
-    {
-      "hash": "ff6e1bf5a16188d9",
-      "track": "Ambikapathy",
-      "artist": "A.R. Rahman, Naresh Iyer, Vairamuthu",
-      "album": "Ambikapathy",
+      "album": "Aaj Bhi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-02T10:39:03.663Z"
-    },
-    {
-      "hash": "e8e16884e58b7760",
-      "track": "Hrudayave Bayaside Ninnane (From \" Krishnan Love Story\")",
-      "artist": "Sonu Nigam, Vidyasri, Jayanth Kaikini",
-      "album": "Ajai Rao Hit Songs",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-02T11:33:12.811Z"
-    },
-    {
-      "hash": "24ea591266d655c4",
-      "track": "Sahiba",
-      "artist": "Priya Saraiya, Aditya Sharma, Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan - Sahiba",
-      "album": "Sahiba",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T11:37:41.178Z"
-    },
-    {
-      "hash": "2c0bfbe1426d94f9",
-      "track": "Malhari",
-      "artist": "Vishal Dadlani",
-      "album": null,
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T12:52:39.304Z"
+      "cached_at": "2026-06-03T09:53:19.579Z"
     }
   ]
 }
