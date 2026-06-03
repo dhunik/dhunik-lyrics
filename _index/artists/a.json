@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-03T09:26:58.881Z",
+  "updated_at": "2026-06-03T11:30:45.473Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-03T09:23:22.702Z"
+    },
+    {
+      "hash": "b5b1ee9f325d26b0",
+      "track": "Beautiful",
+      "artist": "Akon",
+      "album": "Freedom",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-03T11:30:44.238Z"
     }
   ]
 }
