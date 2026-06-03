@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-03T08:10:24.098Z",
+  "updated_at": "2026-06-03T09:26:58.881Z",
   "entries": [
     {
-      "hash": "71c3ff407955b9d6",
-      "track": "Tum Hi Ho",
-      "artist": "Arijit Singh",
-      "album": "Arijit Singh",
+      "hash": "ef65544abb4f8c68",
+      "track": "Husn",
+      "artist": "Anuv Jain",
+      "album": "Husn",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-05-28T08:16:07.847Z"
-    },
-    {
-      "hash": "95a6e0e8374040f0",
-      "track": "Iktara (Lofi Flip)",
-      "artist": "VIBIE, Amit Trivedi, Kavita Seth, Amitabh Bhattacharya, Bollywood Lofi",
-      "album": "Iktara (Lofi Flip)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T08:51:03.851Z"
-    },
-    {
-      "hash": "2ae00d43416e9a26",
-      "track": "Raja Shivaji Anthem 'Chhatrapati' (From \"Raja Shivaji\")",
-      "artist": "Ajay-Atul, Ajay Gogavale",
-      "album": "Raja Shivaji",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:03:35.019Z"
-    },
-    {
-      "hash": "65923800d6bb40cf",
-      "track": "Zingaat",
-      "artist": "Ajay Gogavale, Atul Gogavale, Ajay-Atul",
-      "album": "Sairat",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:12:40.922Z"
-    },
-    {
-      "hash": "fff775ab79a7286d",
-      "track": "Morya Morya",
-      "artist": "Ajay Gogavale",
-      "album": "Uladhaal",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:12:49.127Z"
-    },
-    {
-      "hash": "ff6e1bf5a16188d9",
-      "track": "Ambikapathy",
-      "artist": "A.R. Rahman, Naresh Iyer, Vairamuthu",
-      "album": "Ambikapathy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T10:39:03.663Z"
-    },
-    {
-      "hash": "35c11726ae1cbb63",
-      "track": "Hotel California",
-      "artist": "Acoustic Guitar Tribute Players",
-      "album": "Acoustic Guitar Tribute to the Eagles",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T10:54:31.160Z"
-    },
-    {
-      "hash": "95471fd16c987ffe",
-      "track": "Chikiri Chikiri",
-      "artist": "Raqueeb Alam, A.R. Rahman, Mohit Chauhan - Peddi - Hindi",
-      "album": "Peddi - Hindi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T11:10:52.373Z"
-    },
-    {
-      "hash": "368e08dda0050ca5",
-      "track": "Vaathi Kabaddi (From \"Master\")",
-      "artist": "Vidyasagar, Anirudh Ravichander, Maran, Jayamoorthy, Pa. Vijay",
-      "album": "Vaathi Kabaddi (From \"Master\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T16:56:00.212Z"
-    },
-    {
-      "hash": "fef8dcb56f7b04e1",
-      "track": "Ishq Jalakar - Karvaan",
-      "artist": "Shashwat Sachdev, Irshad Kamil, Shahzad Ali, Sahir Ludhianvi, Subhadeep Das Chowdhury, Armaan Khan, Roshan - Dhurandhar",
-      "album": "Dhurandhar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-03T08:10:22.932Z"
+      "cached_at": "2026-06-03T09:23:22.702Z"
     }
   ]
 }
