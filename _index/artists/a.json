@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-03T11:30:47.202Z",
+  "updated_at": "2026-06-04T05:31:08.689Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-03T11:30:46.003Z"
+    },
+    {
+      "hash": "f7ce00c385ca84fd",
+      "track": "Verappa - Extended",
+      "artist": "Arun Srinivasan, Sai Abhyankkar, Arivu - Karuppu (Original Motion Picture Soundtrack)",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-04T05:31:07.672Z"
     }
   ]
 }
