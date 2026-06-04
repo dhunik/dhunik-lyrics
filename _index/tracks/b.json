@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-06-03T18:07:11.963Z",
+  "updated_at": "2026-06-04T15:43:02.799Z",
   "entries": [
     {
       "hash": "bd430931fc62962c",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-03T18:07:10.178Z"
+    },
+    {
+      "hash": "3f8a1027d1e32b4e",
+      "track": "Baby Doll",
+      "artist": "Meet Bros Anjjan, Kanika Kapoor",
+      "album": "Ragini MMS 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-04T15:43:01.624Z"
     }
   ]
 }
