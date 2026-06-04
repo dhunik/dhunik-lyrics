@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-04T05:39:05.855Z",
+  "updated_at": "2026-06-04T05:39:22.827Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -66,6 +66,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-04T05:39:04.936Z"
+    },
+    {
+      "hash": "dce7379d983d9b7b",
+      "track": "Raavana Mavandaa (From \"Jana Nayagan\")",
+      "artist": "Anirudh Ravichander, Vivek - Raavana Mavandaa (From \"Jana Nayagan\")",
+      "album": "Raavana Mavandaa",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-04T05:39:21.770Z"
     }
   ]
 }
