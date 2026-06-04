@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-04T05:31:08.689Z",
+  "updated_at": "2026-06-04T05:31:26.607Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-04T05:31:07.672Z"
+    },
+    {
+      "hash": "23330ee3206a00ea",
+      "track": "Enjoy Enjaami",
+      "artist": "Arivu, Santhosh Narayanan, Dhee",
+      "album": "Enjoy Enjaami",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-04T05:31:18.362Z"
     }
   ]
 }
