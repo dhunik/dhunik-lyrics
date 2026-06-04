@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-06-03T02:31:50.938Z",
+  "updated_at": "2026-06-04T05:40:19.133Z",
   "entries": [
     {
       "hash": "a87565d0406675a9",
@@ -129,6 +129,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-03T02:31:49.986Z"
+    },
+    {
+      "hash": "f7db18634b53f476",
+      "track": "Guli Mata",
+      "artist": "Saad Lamjarred, Shreya Ghoshal, Rajat Nagpal",
+      "album": "Guli Mata",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-04T05:40:17.107Z"
     }
   ]
 }
