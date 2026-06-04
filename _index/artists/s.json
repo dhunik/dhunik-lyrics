@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-04T05:39:09.386Z",
+  "updated_at": "2026-06-04T15:44:34.312Z",
   "entries": [
     {
-      "hash": "b2751f6beb4f1875",
-      "track": "On My Way",
-      "artist": "Alan Walker, Sabrina Carpenter, Farruko",
-      "album": "On My Way",
+      "hash": "8aeca2d73dac053e",
+      "track": "Khalibali",
+      "artist": "Shivam Pathak, Shail Hada",
+      "album": "Padmaavat",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-03T17:10:26.297Z"
-    },
-    {
-      "hash": "b065b2e880b302ee",
-      "track": "Manasu Maree",
-      "artist": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
-      "album": "V",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:39:08.375Z"
+      "has_plain": false,
+      "cached_at": "2026-06-04T15:43:03.750Z"
     }
   ]
 }
