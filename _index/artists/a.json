@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-04T05:39:22.827Z",
+  "updated_at": "2026-06-04T05:39:41.045Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-04T05:39:21.770Z"
+    },
+    {
+      "hash": "b8aadcc5ab7a0f8b",
+      "track": "Sahiba",
+      "artist": "Aditya Rikhari",
+      "album": "Sahiba",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-04T05:39:40.099Z"
     }
   ]
 }
