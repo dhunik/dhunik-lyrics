@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-04T05:37:41.234Z",
+  "updated_at": "2026-06-04T05:39:05.855Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-04T05:37:40.389Z"
+    },
+    {
+      "hash": "9a4eb3fe9e3eac1b",
+      "track": "Thalli Pogathey",
+      "artist": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
+      "album": "Sid Sriram",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-04T05:39:04.936Z"
     }
   ]
 }
