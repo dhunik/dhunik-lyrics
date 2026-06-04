@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-04T05:31:26.607Z",
+  "updated_at": "2026-06-04T05:37:41.234Z",
   "entries": [
     {
       "hash": "ef65544abb4f8c68",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-04T05:31:18.362Z"
+    },
+    {
+      "hash": "0a3a04c48a38b819",
+      "track": "Pathikichu",
+      "artist": "Anirudh Ravichander, Yogi Sekar, Amogh Balaji",
+      "album": "Anirudh Ravichander, Yogi Sekar, Amogh Balaji",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-04T05:37:40.389Z"
     }
   ]
 }
