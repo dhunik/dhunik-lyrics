@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-06-02T11:36:01.338Z",
+  "updated_at": "2026-06-04T05:39:09.398Z",
   "entries": [
     {
       "hash": "54ddedffdd43d7c5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-02T11:33:37.674Z"
+    },
+    {
+      "hash": "b065b2e880b302ee",
+      "track": "Manasu Maree",
+      "artist": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
+      "album": "V",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-04T05:39:08.375Z"
     }
   ]
 }
