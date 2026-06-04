@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-06-04T05:35:10.774Z",
+  "updated_at": "2026-06-04T11:00:20.463Z",
   "entries": [
     {
       "hash": "6e3ca0a279b59cf9",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-04T05:35:09.657Z"
+    },
+    {
+      "hash": "d486066ef99da1b1",
+      "track": "Arz Kiya Hai | Coke Studio Bharat",
+      "artist": "Anuv Jain",
+      "album": "Arz Kiya Hai | Coke Studio Bharat",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-04T11:00:19.302Z"
     }
   ]
 }
