@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-05-28T14:12:44.777Z",
+  "updated_at": "2026-06-04T15:44:34.310Z",
   "entries": [
     {
-      "hash": "9e132c4653dc377f",
-      "track": "Kuhu Kuhu Kogile",
-      "artist": "S. Narayan, Haricharan, K. S. Chithra",
-      "album": "Chandra Chakori (Original Motion Picture Soundtrack)",
+      "hash": "8aeca2d73dac053e",
+      "track": "Khalibali",
+      "artist": "Shivam Pathak, Shail Hada",
+      "album": "Padmaavat",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-24T18:15:18.383Z"
-    },
-    {
-      "hash": "5ea7c84c624fdad3",
-      "track": "KARUNADA THAYI",
-      "artist": "S. P. Balasubrahmanyam",
-      "album": "Naanu Nanna Hendthi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-07T17:39:17.719Z"
-    },
-    {
-      "hash": "63e3524620ebb251",
-      "track": "Khuda Kare",
-      "artist": "Yasser Desai",
-      "album": "Khuda Kare",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-08T04:42:11.742Z"
-    },
-    {
-      "hash": "446ae33361e4d06b",
-      "track": "Khat",
-      "artist": "Navjot Ahuja",
-      "album": "Khat",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-19T09:53:55.004Z"
-    },
-    {
-      "hash": "dcc3132c24427797",
-      "track": "Kya Bataun Tujhe",
-      "artist": "Vishal Mishra",
-      "album": "Vishal Mishra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-20T06:21:22.228Z"
-    },
-    {
-      "hash": "0ec00298bd88bf4d",
-      "track": "Kombadi Palali",
-      "artist": "Vaishali Samant, Anand Shinde, Ajay-Atul",
-      "album": "Jatra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:12:42.259Z"
+      "has_plain": false,
+      "cached_at": "2026-06-04T15:43:03.750Z"
     }
   ]
 }
