@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-06-04T05:37:41.231Z",
+  "updated_at": "2026-06-04T05:40:04.471Z",
   "entries": [
     {
       "hash": "7e32a661c5adf8df",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-04T05:37:40.389Z"
+    },
+    {
+      "hash": "4b699fb73025a8eb",
+      "track": "Paaro",
+      "artist": "Aditya Rikhari",
+      "album": "Jaana",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-04T05:40:02.382Z"
     }
   ]
 }
