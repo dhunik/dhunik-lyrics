@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-05-30T15:21:50.007Z",
+  "updated_at": "2026-06-04T15:57:50.356Z",
   "entries": [
     {
-      "hash": "7e32a661c5adf8df",
-      "track": "Pal Pal Dil Ke Paas (From \"Blackmail\")",
-      "artist": "Kishore Kumar",
-      "album": "70s Special - Hindi",
+      "hash": "5e712076ea7de3cf",
+      "track": "Didi (Sher-E-Baloch)",
+      "artist": "Sons of Yusuf, Khaled, Shashwat Sachdev, Nabil El Houri - Dhurandhar The Revenge",
+      "album": "Dhurandhar The Revenge",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-30T15:21:33.408Z"
+      "cached_at": "2026-06-04T15:57:06.274Z"
     }
   ]
 }
