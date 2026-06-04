@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "key": "verappa extended|arun srinivasan",
+  "track": "Verappa - Extended",
+  "artist": "Arun Srinivasan, Sai Abhyankkar, Arivu",
+  "album": "Karuppu (Original Motion Picture Soundtrack)",
+  "language": "English",
+  "generated_at": "2026-06-04T05:31:28.978Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Verappa - Extended' appears to be an intense and powerful anthem with a strong message of justice and empowerment. The lyrics convey a sense of urgency and warning, with the protagonist urging others to be cautious and prepared for the consequences of their actions. The song's core message seems to revolve around the themes of justice, power, and the struggle against oppression.",
+  "background": {
+    "composition": "The song features a dynamic and energetic composition, with a mix of traditional and modern elements. The use of percussion and rhythmic beats creates a sense of tension and urgency, while the vocal delivery adds to the emotional intensity of the lyrics.",
+    "cultural_context": "The song appears to be part of the soundtrack for the Tamil film 'Karuppu', which suggests that it may be deeply rooted in Tamil culture and society. The lyrics and music may be influenced by traditional Tamil music and folklore, as well as contemporary themes and issues.",
+    "fun_facts": [
+      "The song features a unique blend of traditional and modern elements, with a mix of folk and contemporary instrumentation.",
+      "The lyrics appear to be written in a style that is reminiscent of traditional Tamil poetry, with a focus on storytelling and vivid imagery.",
+      "The song's themes of justice and empowerment may be reflective of the film's narrative and the cultural context in which it was created."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "ம்ம், வரியா",
+      "meaning": "The opening line appears to be a call to attention or a warning, with the protagonist urging others to be aware of their surroundings.",
+      "mood": "urgency"
+    },
+    {
+      "original": "ஹே, சடாருனு உருமும் வேங்கை இது",
+      "meaning": "The line translates to 'This is the roar of the thunder, this is the storm that will destroy you', suggesting a sense of power and intensity.",
+      "literary_device": "metaphor",
+      "mood": "fear"
+    },
+    {
+      "original": "பத்த வச்சுகிட்ட வந்து தொலைக்காதே",
+      "meaning": "The line translates to 'Don't come and disturb me when I'm at peace', suggesting a sense of warning and boundaries.",
+      "mood": "caution"
+    },
+    {
+      "original": "Crown on fire, he bounces when the night gets cold",
+      "meaning": "The line appears to be a reference to a figure of power and authority, who is able to rise to the challenge even in difficult circumstances.",
+      "literary_device": "symbolism",
+      "mood": "determination"
+    },
+    {
+      "original": "Blade of truth cuttin' through the lies they've told",
+      "meaning": "The line suggests a sense of cutting through deception and revealing the truth, with the protagonist advocating for honesty and justice.",
+      "literary_device": "metaphor",
+      "mood": "empowerment"
+    }
+  ],
+  "themes": [
+    "justice",
+    "empowerment",
+    "power",
+    "struggle",
+    "oppression"
+  ],
+  "mood_arc": [
+    "urgency",
+    "fear",
+    "caution",
+    "determination",
+    "empowerment"
+  ]
+}
