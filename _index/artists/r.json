@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-03T08:10:24.137Z",
+  "updated_at": "2026-06-04T05:35:06.560Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-03T08:10:22.932Z"
+    },
+    {
+      "hash": "5b590d26bdc54351",
+      "track": "Aura 10/10 (From \"Gaana Gang\")",
+      "artist": "Hiphop Tamizha, Rakendu Mouli",
+      "album": "Hiphop Tamizha, Rakendu Mouli",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-04T05:35:01.315Z"
     }
   ]
 }
