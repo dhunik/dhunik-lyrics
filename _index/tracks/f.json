@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "f",
   "type": "track",
-  "updated_at": "2026-05-28T03:39:49.831Z",
+  "updated_at": "2026-06-05T03:16:44.829Z",
   "entries": [
     {
       "hash": "43b3b9eabb8f2f98",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:39:48.960Z"
+    },
+    {
+      "hash": "703ac1f662fa468b",
+      "track": "Faasle",
+      "artist": "Aditya Rikhari",
+      "album": "Aditya Rikhari",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-05T03:16:44.049Z"
     }
   ]
 }
