@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-04T05:40:19.229Z",
+  "updated_at": "2026-06-06T11:38:00.881Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-04T05:40:17.107Z"
+    },
+    {
+      "hash": "7dab57c399658efb",
+      "track": "Raeth Ki Tarah",
+      "artist": "Rajat (RD)",
+      "album": "3 A.M.",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-06T11:38:00.023Z"
     }
   ]
 }
