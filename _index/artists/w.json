@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-06-06T11:44:40.191Z",
+  "updated_at": "2026-06-06T11:44:47.961Z",
   "entries": [
     {
       "hash": "056bd744bffe792b",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-06T11:44:39.396Z"
+    },
+    {
+      "hash": "fb6ea2860bdc7bba",
+      "track": "Tera Shukriya",
+      "artist": "Wajhi (Raeth Band)",
+      "album": "3 A.M.",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-06T11:44:47.125Z"
     }
   ]
 }
