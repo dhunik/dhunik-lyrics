@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-03-11T09:54:22.508Z",
+  "updated_at": "2026-06-06T11:44:40.191Z",
   "entries": [
     {
       "hash": "056bd744bffe792b",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-03-11T09:54:14.607Z"
+    },
+    {
+      "hash": "1fb26282837bab70",
+      "track": "Sab Bhulake",
+      "artist": "Wajhi (Raeth Band)",
+      "album": "3 A.M.",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-06T11:44:39.396Z"
     }
   ]
 }
