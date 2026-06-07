@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-06-06T11:44:40.195Z",
+  "updated_at": "2026-06-07T05:43:36.210Z",
   "entries": [
     {
       "hash": "28fd0eab393d84fc",
@@ -75,6 +75,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-06T11:44:39.396Z"
+    },
+    {
+      "hash": "0a2d7366f89e2dce",
+      "track": "Strobe (feat. Katie McConnell)",
+      "artist": "Vexento, Katie McConnell",
+      "album": "Strobe (feat. Katie McConnell)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-07T05:43:29.490Z"
     }
   ]
 }
