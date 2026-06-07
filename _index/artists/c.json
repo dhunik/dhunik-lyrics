@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-06-02T15:32:14.392Z",
+  "updated_at": "2026-06-07T05:46:10.912Z",
   "entries": [
     {
       "hash": "1a66c61f84815312",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-02T15:32:12.966Z"
+    },
+    {
+      "hash": "d17af344656482a1",
+      "track": "The Spectre",
+      "artist": "Alosa, Catching Sunrises, Deep Mage",
+      "album": "The Spectre",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-07T05:46:02.125Z"
     }
   ]
 }
