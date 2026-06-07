@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-05T03:16:41.098Z",
+  "updated_at": "2026-06-07T07:41:29.562Z",
   "entries": [
     {
       "hash": "5e712076ea7de3cf",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-05T03:16:38.933Z"
+    },
+    {
+      "hash": "5f2c8a3e78f2fca0",
+      "track": "295",
+      "artist": "Sidhu Moose Wala",
+      "album": "Moosetape",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-07T07:41:28.688Z"
     }
   ]
 }
