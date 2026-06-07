@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-06-06T11:44:47.965Z",
+  "updated_at": "2026-06-07T15:43:32.220Z",
   "entries": [
     {
-      "hash": "6bef083e7b4fe8b0",
-      "track": "Tunak Tunak Tun",
-      "artist": "Daler Mehndi",
-      "album": "Daler Mehndi",
+      "hash": "d26bb99daac4be2c",
+      "track": "Tere Bin Ho Na Sakega Gujara",
+      "artist": "KK",
+      "album": "Paranthe Wali Gali",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-19T05:55:50.731Z"
-    },
-    {
-      "hash": "094f2f65ae6ff04e",
-      "track": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-      "artist": "Thalapathy Vijay, Arivu, Anirudh Ravichander",
-      "album": "Thalapathy Kacheri (From \"Jana Nayagan\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T12:32:30.051Z"
-    },
-    {
-      "hash": "7e38b51a52134323",
-      "track": "Tujhe Dekha To",
-      "artist": "Lata Mangeshkar, Kumar Sanu",
-      "album": "Lata Mangeshkar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:35:46.609Z"
-    },
-    {
-      "hash": "46026ac5792c66f3",
-      "track": "Tere Naam (Sad)",
-      "artist": "Udit Narayan",
-      "album": "Tere Naam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:36:50.070Z"
-    },
-    {
-      "hash": "31e13a10576abcfe",
-      "track": "Tumse Milna",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Amaanat",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T05:07:40.280Z"
-    },
-    {
-      "hash": "0d34edabf3e7aa8a",
-      "track": "They Don't Care About Us (Remastered Version)",
-      "artist": "Michael Jackson",
-      "album": "Michael Jackson's This Is It",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-29T01:50:37.517Z"
-    },
-    {
-      "hash": "9a4eb3fe9e3eac1b",
-      "track": "Thalli Pogathey",
-      "artist": "Sid Sriram, Aaryan Dinesh Kanagaratnam (ADK), Aparna Narayanan, A.R. Rahman",
-      "album": "Sid Sriram",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:39:04.936Z"
-    },
-    {
-      "hash": "fb6ea2860bdc7bba",
-      "track": "Tera Shukriya",
-      "artist": "Wajhi (Raeth Band)",
-      "album": "3 A.M.",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-06T11:44:47.125Z"
+      "cached_at": "2026-06-07T15:40:25.178Z"
     }
   ]
 }
