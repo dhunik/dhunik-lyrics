@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-07T05:48:20.658Z",
+  "updated_at": "2026-06-07T07:46:16.829Z",
   "entries": [
     {
-      "hash": "96102fc1d51d46de",
-      "track": "Tremor (Sensation 2014 Anthem) [Radio Edit] (Sensation 2014 Anthem; Radio Edit)",
-      "artist": "Dimitri Vegas, Martin Garrix, Like Mike ft. Romy Dya, Jamie Scott & Romy Dya - Tremor (Sensation 2014 Anthem)",
-      "album": "Tremor (Sensation 2014 Anthem)",
+      "hash": "86acc52f8fd8467f",
+      "track": "G.O.A.T.",
+      "artist": "Diljit Dosanjh",
+      "album": "G.O.A.T.",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-07T05:47:51.930Z"
+      "has_plain": false,
+      "cached_at": "2026-06-07T07:46:00.854Z"
     }
   ]
 }
