@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-06-04T11:00:20.463Z",
+  "updated_at": "2026-06-07T05:43:27.377Z",
   "entries": [
     {
-      "hash": "6e3ca0a279b59cf9",
-      "track": "Aaj Bhi",
-      "artist": "Vishal Mishra",
-      "album": "Aaj Bhi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-03T09:53:19.579Z"
-    },
-    {
-      "hash": "5b590d26bdc54351",
-      "track": "Aura 10/10 (From \"Gaana Gang\")",
-      "artist": "Hiphop Tamizha, Rakendu Mouli",
-      "album": "Hiphop Tamizha, Rakendu Mouli",
-      "has_synced": true,
+      "hash": "f7bd09d536081663",
+      "track": "Adventure",
+      "artist": "Amadeus",
+      "album": "The Magic Flute",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-04T05:35:01.315Z"
-    },
-    {
-      "hash": "49fb3282950e76f3",
-      "track": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-      "artist": "Hiphop Tamizha, Thamizh Aadhavan",
-      "album": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:35:09.657Z"
-    },
-    {
-      "hash": "d486066ef99da1b1",
-      "track": "Arz Kiya Hai | Coke Studio Bharat",
-      "artist": "Anuv Jain",
-      "album": "Arz Kiya Hai | Coke Studio Bharat",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T11:00:19.302Z"
+      "cached_at": "2026-06-07T05:39:08.390Z"
     }
   ]
 }
