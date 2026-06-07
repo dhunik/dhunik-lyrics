@@ -2,142 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-06-04T05:40:19.133Z",
+  "updated_at": "2026-06-07T07:46:16.824Z",
   "entries": [
     {
-      "hash": "a87565d0406675a9",
-      "track": "Galliyan",
-      "artist": "Ankit Tiwari",
-      "album": "Ek Villain",
+      "hash": "86acc52f8fd8467f",
+      "track": "G.O.A.T.",
+      "artist": "Diljit Dosanjh",
+      "album": "G.O.A.T.",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-02-13T17:38:12.303Z"
-    },
-    {
-      "hash": "96249c3b8592b323",
-      "track": "Gehra Hua (From \"Dhurandhar\")",
-      "artist": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan - Gehra Hua (From \"Dhurandhar\")",
-      "album": "Gehra Hua (From \"Dhurandhar\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-11T09:45:00.816Z"
-    },
-    {
-      "hash": "59875883fb72928a",
-      "track": "Gehra Hua",
-      "artist": "Irshad Kamil, Arijit Singh, Shashwat Sachdev, Armaan Khan",
-      "album": "Dhurandhar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-11T15:36:57.297Z"
-    },
-    {
-      "hash": "eb3939604f8cfc2f",
-      "track": "Glock In My Lap",
-      "artist": "21 Savage, Metro Boomin",
-      "album": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-12T04:27:48.141Z"
-    },
-    {
-      "hash": "bfc9e16328127885",
-      "track": "Go Down Deh (feat. Sean Paul & Shaggy)",
-      "artist": "Spice",
-      "album": "Go Down Deh (feat. Sean Paul & Shaggy)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-25T21:39:25.927Z"
-    },
-    {
-      "hash": "d1548541739d50a1",
-      "track": "Gum Hai Kisi Ke Pyar Mein",
-      "artist": "Kishore Kumar, Lata Mangeshkar",
-      "album": "Golden Collection Lata Mangeshkar And Kishore Kumar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-15T17:52:35.077Z"
-    },
-    {
-      "hash": "e5923472a14564fa",
-      "track": "Gandi Baat",
-      "artist": "Pritam, Mika Singh, Kalpana Patowary",
-      "album": "R...Rajkumar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-19T22:18:17.166Z"
-    },
-    {
-      "hash": "5e2284f9810090b5",
-      "track": "GANI BHAI",
-      "artist": "Emiway Bantai",
-      "album": "Emiway Bantai",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-14T05:48:15.572Z"
-    },
-    {
-      "hash": "a3b3eb1fba95fc10",
-      "track": "GOAT",
-      "artist": "Sidhu Moose Wala, Wazir Patar",
-      "album": "Moosetape",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:58:00.566Z"
-    },
-    {
-      "hash": "7e25cfd7062088ae",
-      "track": "Galtiyan",
-      "artist": "Zack Knight - Galtiyan",
-      "album": "Galtiyan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-20T06:25:45.202Z"
-    },
-    {
-      "hash": "9a756cbe06754924",
-      "track": "God's Plan",
-      "artist": "Drake",
-      "album": "Scorpion",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-21T03:20:50.857Z"
-    },
-    {
-      "hash": "1475bc1ffb9edca0",
-      "track": "Galavar Khali",
-      "artist": "Swapnil Bandodkar - Bedhund",
-      "album": "Swapnil Bandodkar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T03:34:29.645Z"
-    },
-    {
-      "hash": "6e6d5a7cfb356267",
-      "track": "Goodbye Yellow Brick Road",
-      "artist": "Elton John",
-      "album": "Goodbye Yellow Brick Road (Newly Remastered)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T10:54:14.716Z"
-    },
-    {
-      "hash": "0c2ed78be4b8def2",
-      "track": "Gasoline",
-      "artist": "Halsey",
-      "album": "Badlands (Decade Edition Anthology)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-03T02:31:49.986Z"
-    },
-    {
-      "hash": "f7db18634b53f476",
-      "track": "Guli Mata",
-      "artist": "Saad Lamjarred, Shreya Ghoshal, Rajat Nagpal",
-      "album": "Guli Mata",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-04T05:40:17.107Z"
+      "cached_at": "2026-06-07T07:46:00.854Z"
     }
   ]
 }
