@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-06-04T05:35:06.565Z",
+  "updated_at": "2026-06-07T05:26:25.255Z",
   "entries": [
     {
       "hash": "a48e073b5f0cbc6b",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-04T05:35:01.315Z"
+    },
+    {
+      "hash": "cb3519745a62da27",
+      "track": "Rakaan",
+      "artist": "Harjot, Bhinda Aujla",
+      "album": "Heer Saleti",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-07T05:26:17.556Z"
     }
   ]
 }
