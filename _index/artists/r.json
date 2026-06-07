@@ -2,106 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-06T11:38:00.881Z",
+  "updated_at": "2026-06-07T05:48:20.666Z",
   "entries": [
     {
-      "hash": "37c77fab39120f80",
-      "track": "Brahamamurari",
-      "artist": "Hamsalekha, Ramesh Chandra, Nanditha",
-      "album": "Sri Manjunathaa",
+      "hash": "96102fc1d51d46de",
+      "track": "Tremor (Sensation 2014 Anthem) [Radio Edit] (Sensation 2014 Anthem; Radio Edit)",
+      "artist": "Dimitri Vegas, Martin Garrix, Like Mike ft. Romy Dya, Jamie Scott & Romy Dya - Tremor (Sensation 2014 Anthem)",
+      "album": "Tremor (Sensation 2014 Anthem)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-05-06T18:48:02.907Z"
-    },
-    {
-      "hash": "e70ad37c81d8f2bc",
-      "track": "Dhurandhar The Revenge - Aari Aari",
-      "artist": "Irshad Kamil, Bombay Rockers, Reble, Token, Shashwat Sachdev, Khan Saab, Jasmine Sandlas, Sudhir Yaduvanshi",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-14T10:38:26.157Z"
-    },
-    {
-      "hash": "bbf90596445f99fa",
-      "track": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "artist": "Raghav, Tanishk Bagchi, Asees Kaur - Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "album": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-17T21:50:34.521Z"
-    },
-    {
-      "hash": "e67c216f154e82aa",
-      "track": "Chuttamalle",
-      "artist": "Anirudh Ravichander, Shilpa Rao, Ramajogayya Sastry",
-      "album": "Devara Part 1 - Telugu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T12:36:04.817Z"
-    },
-    {
-      "hash": "4e939102df92226d",
-      "track": "Mashooqa (From “Cocktail 2”)",
-      "artist": "Pritam, Mahmood, Amitabh Bhattacharya, Raghav Chaitanya, Ruaa Kayy - Mashooqa (From “Cocktail 2”)",
-      "album": "Mashooqa (From “Cocktail 2”)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-25T12:39:51.624Z"
-    },
-    {
-      "hash": "b4b4fab2bd197b47",
-      "track": "Vaana Vaana",
-      "artist": "R P Patnaik",
-      "album": "Seenu Vasanthi Lakshmi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:35:43.938Z"
-    },
-    {
-      "hash": "c356e3e65a3c0a67",
-      "track": "Manasanta Nuvve",
-      "artist": "R.P. Patnaik, Sujatha Mohan, S.P. Charan",
-      "album": "Manasantha Nuvve",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:43:12.935Z"
-    },
-    {
-      "hash": "fef8dcb56f7b04e1",
-      "track": "Ishq Jalakar - Karvaan",
-      "artist": "Shashwat Sachdev, Irshad Kamil, Shahzad Ali, Sahir Ludhianvi, Subhadeep Das Chowdhury, Armaan Khan, Roshan - Dhurandhar",
-      "album": "Dhurandhar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-03T08:10:22.932Z"
-    },
-    {
-      "hash": "5b590d26bdc54351",
-      "track": "Aura 10/10 (From \"Gaana Gang\")",
-      "artist": "Hiphop Tamizha, Rakendu Mouli",
-      "album": "Hiphop Tamizha, Rakendu Mouli",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:35:01.315Z"
-    },
-    {
-      "hash": "f7db18634b53f476",
-      "track": "Guli Mata",
-      "artist": "Saad Lamjarred, Shreya Ghoshal, Rajat Nagpal",
-      "album": "Guli Mata",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-04T05:40:17.107Z"
-    },
-    {
-      "hash": "7dab57c399658efb",
-      "track": "Raeth Ki Tarah",
-      "artist": "Rajat (RD)",
-      "album": "3 A.M.",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-06T11:38:00.023Z"
+      "cached_at": "2026-06-07T05:47:51.930Z"
     }
   ]
 }
