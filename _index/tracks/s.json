@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-06-07T05:43:36.210Z",
+  "updated_at": "2026-06-08T02:46:38.848Z",
   "entries": [
     {
       "hash": "28fd0eab393d84fc",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-07T05:43:29.490Z"
+    },
+    {
+      "hash": "68e9b169ac359dee",
+      "track": "Sanand Manand Vane Vasantam (Kashi Vishvanath - Shiv Mantra)",
+      "artist": "Tanvi Senjaliya",
+      "album": "Sanand Manand Vane Vasantam (Kashi Vishvanath - Shiv Mantra)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-08T02:46:37.992Z"
     }
   ]
 }
