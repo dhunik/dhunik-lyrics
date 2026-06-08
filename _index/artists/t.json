@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-06-08T02:46:38.857Z",
+  "updated_at": "2026-06-08T07:57:20.204Z",
   "entries": [
     {
-      "hash": "5f0c14e1e078abe4",
-      "track": "Stay",
-      "artist": "Lost Soul, TH3 DARP, Lauren St James",
-      "album": "Lost Soul, TH3 DARP, Lauren St James",
+      "hash": "dcb1241953aa34e0",
+      "track": "Face Off",
+      "artist": "Tech N9ne, Joey Cool, King Iso, Dwayne Johnson",
+      "album": "ASIN9NE",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:29:44.703Z"
-    },
-    {
-      "hash": "50cd9168e9794f0b",
-      "track": "Saibo (Lofi Flip)",
-      "artist": "VIBIE, Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Lofi",
-      "album": "VIBIE, Sachin-Jigar, Shreya Ghoshal, Tochi Raina, Bollywood Lofi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T08:50:51.531Z"
-    },
-    {
-      "hash": "49fb3282950e76f3",
-      "track": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-      "artist": "Hiphop Tamizha, Thamizh Aadhavan",
-      "album": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:35:09.657Z"
-    },
-    {
-      "hash": "68e9b169ac359dee",
-      "track": "Sanand Manand Vane Vasantam (Kashi Vishvanath - Shiv Mantra)",
-      "artist": "Tanvi Senjaliya",
-      "album": "Sanand Manand Vane Vasantam (Kashi Vishvanath - Shiv Mantra)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-08T02:46:37.992Z"
+      "has_plain": false,
+      "cached_at": "2026-06-08T07:56:27.058Z"
     }
   ]
 }
