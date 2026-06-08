@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-08T08:00:31.480Z",
+  "updated_at": "2026-06-08T08:01:12.888Z",
   "entries": [
     {
-      "hash": "c4f7cc37ee31d82c",
-      "track": "BTS Cypher Pt.2: Triptych",
-      "artist": "BTS",
-      "album": "Skool Luv Affair",
+      "hash": "e571d5e0ec06b8e5",
+      "track": "Left and Right (Feat. Jung Kook of BTS)",
+      "artist": "Charlie Puth, Jung Kook, BTS",
+      "album": "CHARLIE",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-08T07:59:23.484Z"
+      "cached_at": "2026-06-08T08:00:50.625Z"
     }
   ]
 }
