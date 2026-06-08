@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-06-07T17:12:30.431Z",
+  "updated_at": "2026-06-08T07:56:20.074Z",
   "entries": [
     {
-      "hash": "6f076b80985054b2",
-      "track": "Tum Ho Mera Pyar",
-      "artist": "Chirantan Bhatt, Suzanne D'Mello, KK",
-      "album": "Haunted",
+      "hash": "1f95c7e709518b64",
+      "track": "Look At Me Now",
+      "artist": "Chris Brown",
+      "album": "F.A.M.E. (Expanded Edition)",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-07T17:11:48.972Z"
+      "has_plain": false,
+      "cached_at": "2026-06-08T07:54:30.942Z"
     }
   ]
 }
