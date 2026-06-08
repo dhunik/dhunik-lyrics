@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-07T07:46:16.829Z",
+  "updated_at": "2026-06-08T07:57:20.211Z",
   "entries": [
     {
-      "hash": "86acc52f8fd8467f",
-      "track": "G.O.A.T.",
-      "artist": "Diljit Dosanjh",
-      "album": "G.O.A.T.",
+      "hash": "dcb1241953aa34e0",
+      "track": "Face Off",
+      "artist": "Tech N9ne, Joey Cool, King Iso, Dwayne Johnson",
+      "album": "ASIN9NE",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-07T07:46:00.854Z"
+      "cached_at": "2026-06-08T07:56:27.058Z"
     }
   ]
 }
