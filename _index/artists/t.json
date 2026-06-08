@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-06-08T07:57:20.204Z",
+  "updated_at": "2026-06-08T14:22:53.752Z",
   "entries": [
     {
       "hash": "dcb1241953aa34e0",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-08T07:56:27.058Z"
+    },
+    {
+      "hash": "c2ce55ea3d452034",
+      "track": "Pal Pal (Talwiinder Verse)",
+      "artist": "Talwiinder",
+      "album": "Pal Pal (Talwiinder Verse)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-08T14:22:52.596Z"
     }
   ]
 }
