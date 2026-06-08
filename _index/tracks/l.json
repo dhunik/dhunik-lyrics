@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-05-26T07:24:34.659Z",
+  "updated_at": "2026-06-08T07:56:20.072Z",
   "entries": [
     {
-      "hash": "9a0a5d08fbd83f77",
-      "track": "Lamberghini",
-      "artist": "The Doorbeen",
-      "album": "Lamberghini",
+      "hash": "1f95c7e709518b64",
+      "track": "Look At Me Now",
+      "artist": "Chris Brown",
+      "album": "F.A.M.E. (Expanded Edition)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-31T13:38:48.987Z"
-    },
-    {
-      "hash": "7acd138124d269ef",
-      "track": "Lag Ja Gale Se Phir",
-      "artist": "Lata Mangeshkar",
-      "album": "Lata Mangeshkar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-05T19:23:55.205Z"
-    },
-    {
-      "hash": "1be209a117dfa33b",
-      "track": "Levitating",
-      "artist": "Dua Lipa",
-      "album": "Dua Lipa",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-06T14:26:28.062Z"
-    },
-    {
-      "hash": "4f9cb0bfe347f621",
-      "track": "Laung Laachi Title Track",
-      "artist": "Mannat Noor",
-      "album": "Punjabi Swag Hits",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:57:39.737Z"
-    },
-    {
-      "hash": "d0ebb8769cfe0f32",
-      "track": "Le Chakk Main Aa Gya",
-      "artist": "Parmish Verma",
-      "album": "Le Chakk Main Aa Gya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:59:09.831Z"
-    },
-    {
-      "hash": "f7cae74067afe13f",
-      "track": "Lost",
-      "artist": "Dino James - D",
-      "album": "D",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-20T05:05:13.479Z"
-    },
-    {
-      "hash": "adff37aa2daa6698",
-      "track": "Let Me Down Slowly",
-      "artist": "Alec Benjamin",
-      "album": "Alec Benjamin",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T04:11:25.677Z"
-    },
-    {
-      "hash": "ab883a3e6f7406e5",
-      "track": "Lag Ja Gale",
-      "artist": "Sanam",
-      "album": "In Love With Sanam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-05-26T07:24:33.617Z"
+      "cached_at": "2026-06-08T07:54:30.942Z"
     }
   ]
 }
