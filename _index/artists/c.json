@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-06-08T07:56:20.074Z",
+  "updated_at": "2026-06-08T08:01:12.881Z",
   "entries": [
     {
-      "hash": "1f95c7e709518b64",
-      "track": "Look At Me Now",
-      "artist": "Chris Brown",
-      "album": "F.A.M.E. (Expanded Edition)",
+      "hash": "e571d5e0ec06b8e5",
+      "track": "Left and Right (Feat. Jung Kook of BTS)",
+      "artist": "Charlie Puth, Jung Kook, BTS",
+      "album": "CHARLIE",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-08T07:54:30.942Z"
+      "cached_at": "2026-06-08T08:00:50.625Z"
     }
   ]
 }
