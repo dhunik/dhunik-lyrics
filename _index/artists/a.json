@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-07T05:46:10.917Z",
+  "updated_at": "2026-06-08T07:54:19.131Z",
   "entries": [
     {
       "hash": "f7bd09d536081663",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-07T05:46:02.125Z"
+    },
+    {
+      "hash": "30a7b698c1baa5a4",
+      "track": "Karma Police",
+      "artist": "Anchor + Bell",
+      "album": "Radiohead",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-08T07:54:09.685Z"
     }
   ]
 }
