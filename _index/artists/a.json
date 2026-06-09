@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-09T12:21:56.735Z",
+  "updated_at": "2026-06-09T13:38:42.593Z",
   "entries": [
     {
       "hash": "f7bd09d536081663",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-09T12:21:55.674Z"
+    },
+    {
+      "hash": "3076b209c2079d94",
+      "track": "Intaha Ho Gai Dialogue",
+      "artist": "Kishore Kumar, Amitabh Bachchan",
+      "album": "Sharaabi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:38:41.599Z"
     }
   ]
 }
