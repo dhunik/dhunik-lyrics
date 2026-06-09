@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-04T15:57:50.356Z",
+  "updated_at": "2026-06-09T01:41:06.827Z",
   "entries": [
     {
       "hash": "5e712076ea7de3cf",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-04T15:57:06.274Z"
+    },
+    {
+      "hash": "183eca88bcb7bfeb",
+      "track": "Way down We Go",
+      "artist": "Kaleo",
+      "album": "Way down We Go",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T01:41:05.877Z"
     }
   ]
 }
