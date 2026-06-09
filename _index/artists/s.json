@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-09T09:36:18.691Z",
+  "updated_at": "2026-06-09T13:38:51.793Z",
   "entries": [
     {
       "hash": "5e712076ea7de3cf",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T09:36:17.354Z"
+    },
+    {
+      "hash": "700d81808e82209c",
+      "track": "Ek Ladki Bheegi Bhagi Si",
+      "artist": "IP Singh, Majrooh Sultanpuri, Shashwat Singh, Akshay & IP, Kishore Kumar, S. D. Burman",
+      "album": "Kahan Shuru Kahan Khatam",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:38:48.211Z"
     }
   ]
 }
