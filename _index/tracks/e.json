@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "e",
   "type": "track",
-  "updated_at": "2026-06-09T13:38:51.691Z",
+  "updated_at": "2026-06-09T13:47:57.200Z",
   "entries": [
     {
-      "hash": "b50f185d9dd492f7",
-      "track": "Ek Din Teri Raahon",
-      "artist": "Javed Ali, Pritam - Naqaab",
-      "album": "Naqaab",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-30T17:25:58.876Z"
-    },
-    {
-      "hash": "067c00bcf633e5f3",
-      "track": "Enna Sona",
-      "artist": "A.R. Rahman, Arijit Singh",
-      "album": "OK Jaanu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:39:48.446Z"
-    },
-    {
-      "hash": "06c575a7c555fb2e",
-      "track": "Ehsaas",
-      "artist": "Sheera Jasvir",
-      "album": "Ehsaas",
-      "has_synced": true,
+      "hash": "7ea8ac9ee26100e8",
+      "track": "Ek Din Bik Jayega Mati Ke Mol (From \"Dharam Karam\")",
+      "artist": "Kishore Kumar, R.D. Burman",
+      "album": "Dharam Karam",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-27T09:29:08.276Z"
-    },
-    {
-      "hash": "68c552c806581a74",
-      "track": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "album": "Sabrina Carpenter",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:30:11.411Z"
-    },
-    {
-      "hash": "23330ee3206a00ea",
-      "track": "Enjoy Enjaami",
-      "artist": "Arivu, Santhosh Narayanan, Dhee",
-      "album": "Enjoy Enjaami",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-04T05:31:18.362Z"
-    },
-    {
-      "hash": "700d81808e82209c",
-      "track": "Ek Ladki Bheegi Bhagi Si",
-      "artist": "IP Singh, Majrooh Sultanpuri, Shashwat Singh, Akshay & IP, Kishore Kumar, S. D. Burman",
-      "album": "Kahan Shuru Kahan Khatam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:38:48.211Z"
+      "cached_at": "2026-06-09T13:46:49.218Z"
     }
   ]
 }
