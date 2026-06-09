@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-05T07:52:28.611Z",
+  "updated_at": "2026-06-09T13:45:38.447Z",
   "entries": [
     {
       "hash": "d2bac849d2fee7a8",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-05T07:52:27.695Z"
+    },
+    {
+      "hash": "b0c1b32637a90c41",
+      "track": "Chaudhvin Ka Chand Ho",
+      "artist": "Mohammed Rafi",
+      "album": "Magical Mohammed Rafi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:45:35.864Z"
     }
   ]
 }
