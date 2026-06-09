@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T14:21:46.262Z",
+  "updated_at": "2026-06-09T14:31:46.853Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T14:21:41.965Z"
+    },
+    {
+      "hash": "ca3be511d4eaa9c8",
+      "track": "Dard-E-Dil Dard-E-Jigar - Jhankar Beats",
+      "artist": "Mohammed Rafi",
+      "album": "Mohammed Rafi Romantic Hits - Jhankar Beats",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:31:44.862Z"
     }
   ]
 }
