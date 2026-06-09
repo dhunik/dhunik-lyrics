@@ -2,97 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "track",
-  "updated_at": "2026-06-09T13:51:26.738Z",
+  "updated_at": "2026-06-09T14:01:10.212Z",
   "entries": [
     {
-      "hash": "dea4ac4c9e8dadad",
-      "track": "Illegal Weapon 2.0",
-      "artist": "Tanishk Bagchi, Jasmine Sandlas, Garry Sandhu",
-      "album": "Street Dancer 3D",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-03-31T13:26:02.406Z"
-    },
-    {
-      "hash": "16f040da8dff36c6",
-      "track": "Ittefaq",
-      "artist": "OAFF, Savera, Siddhant Chaturvedi",
-      "album": "Ittefaq",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-10T17:43:09.365Z"
-    },
-    {
-      "hash": "e1753336300b4272",
-      "track": "In Dino",
-      "artist": "Pritam, Soham, Sayeed Quadri",
-      "album": "Life In A Metro",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:34:51.024Z"
-    },
-    {
-      "hash": "3a992224eda8429a",
-      "track": "Ishq Di Baajiyaan",
-      "artist": "Diljit Dosanjh, Shankar-Ehsaan-Loy",
-      "album": "Soorma",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:35:30.056Z"
-    },
-    {
-      "hash": "62b9287966aca41f",
-      "track": "Ilahi",
-      "artist": "Pritam, Arijit Singh",
-      "album": "Yeh Jawaani Hai Deewani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:42:50.383Z"
-    },
-    {
-      "hash": "2cfc08aa4f7fa14d",
-      "track": "If We Being Rëal",
-      "artist": "Yeat",
-      "album": "2093",
+      "hash": "d5d5c149d7fe8b9f",
+      "track": "Ik Rasta Hai Zindagi",
+      "artist": "Lata Mangeshkar, Kishore Kumar - Kaala Patthar",
+      "album": "Kaala Patthar",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-13T08:48:17.755Z"
-    },
-    {
-      "hash": "a3aedbe4ac8ca7a5",
-      "track": "I Ain't Worried",
-      "artist": "OneRepublic",
-      "album": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-13T00:30:36.754Z"
-    },
-    {
-      "hash": "907608ac21477c10",
-      "track": "Into You",
-      "artist": "Josh Heuston, After Hours - Off Campus: The Mixtape",
-      "album": "Off Campus: The Mixtape",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T08:57:01.335Z"
-    },
-    {
-      "hash": "3076b209c2079d94",
-      "track": "Intaha Ho Gai Dialogue",
-      "artist": "Kishore Kumar, Amitabh Bachchan",
-      "album": "Sharaabi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:38:41.599Z"
-    },
-    {
-      "hash": "cb3acbb6f884844f",
-      "track": "I Guess",
-      "artist": "KR$NA - I Guess",
-      "album": "KR$NA - I Guess",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:51:25.465Z"
+      "cached_at": "2026-06-09T14:00:41.382Z"
     }
   ]
 }
