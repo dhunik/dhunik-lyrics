@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-06-02T17:13:17.666Z",
+  "updated_at": "2026-06-09T14:05:12.573Z",
   "entries": [
     {
-      "hash": "e060fe765b623783",
-      "track": "Janice STFU",
-      "artist": "Drake",
-      "album": "ICEMAN",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T17:12:52.444Z"
+      "hash": "541ee61aaae77d57",
+      "track": "Jai Shri Ram (Jubin Nautiyal Version)",
+      "artist": "Ajay-Atul, Jubin Nautiyal, Manoj Muntashir",
+      "album": "Jai Shri Ram (Jubin Nautiyal Version)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:03:10.869Z"
     }
   ]
 }
