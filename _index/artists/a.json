@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-09T13:38:42.593Z",
+  "updated_at": "2026-06-09T14:03:09.267Z",
   "entries": [
     {
       "hash": "f7bd09d536081663",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T13:38:41.599Z"
+    },
+    {
+      "hash": "09c8dbcc6b00c301",
+      "track": "Tu Hi Hai",
+      "artist": "Amit Trivedi, Arijit Singh, Kausar Munir",
+      "album": "Dear Zindagi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:03:08.014Z"
     }
   ]
 }
