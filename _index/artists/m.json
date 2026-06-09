@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T13:53:54.847Z",
+  "updated_at": "2026-06-09T14:05:12.580Z",
   "entries": [
     {
-      "hash": "d2bac849d2fee7a8",
-      "track": "Nooru Janmaku",
-      "artist": "Mano Murthy",
-      "album": "Mano Murthy",
+      "hash": "541ee61aaae77d57",
+      "track": "Jai Shri Ram (Jubin Nautiyal Version)",
+      "artist": "Ajay-Atul, Jubin Nautiyal, Manoj Muntashir",
+      "album": "Jai Shri Ram (Jubin Nautiyal Version)",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-28T13:43:53.405Z"
-    },
-    {
-      "hash": "0d34edabf3e7aa8a",
-      "track": "They Don't Care About Us (Remastered Version)",
-      "artist": "Michael Jackson",
-      "album": "Michael Jackson's This Is It",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-29T01:50:37.517Z"
-    },
-    {
-      "hash": "a46bf4401c19230c",
-      "track": "Chak De India",
-      "artist": "Salim-Sulaiman, Sukhvinder Singh, Salim Merchant, Marianne D'Cruz-Aiman, Jaideep Sahni",
-      "album": "Cricket Party Mix",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-30T17:41:42.371Z"
-    },
-    {
-      "hash": "368e08dda0050ca5",
-      "track": "Vaathi Kabaddi (From \"Master\")",
-      "artist": "Vidyasagar, Anirudh Ravichander, Maran, Jayamoorthy, Pa. Vijay",
-      "album": "Vaathi Kabaddi (From \"Master\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T16:56:00.212Z"
-    },
-    {
-      "hash": "280cffbcfc47973f",
-      "track": "Time",
-      "artist": "Marin Hoxha, Vinsmoker",
-      "album": "No Time To Die",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-03T10:54:08.538Z"
-    },
-    {
-      "hash": "3f8a1027d1e32b4e",
-      "track": "Baby Doll",
-      "artist": "Meet Bros Anjjan, Kanika Kapoor",
-      "album": "Ragini MMS 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-04T15:43:01.624Z"
-    },
-    {
-      "hash": "09aac8b2f5e1c66d",
-      "track": "Chittiyaan Kalaiyaan",
-      "artist": "Meet Bros Anjjan",
-      "album": "Roy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-05T07:52:27.695Z"
-    },
-    {
-      "hash": "b0c1b32637a90c41",
-      "track": "Chaudhvin Ka Chand Ho",
-      "artist": "Mohammed Rafi",
-      "album": "Magical Mohammed Rafi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:45:35.864Z"
-    },
-    {
-      "hash": "e8eb7e17fbbaa7d9",
-      "track": "Kahin Door Jab Din Dhal Jaye",
-      "artist": "Mukesh",
-      "album": "Anand",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:53:53.838Z"
+      "cached_at": "2026-06-09T14:03:10.869Z"
     }
   ]
 }
