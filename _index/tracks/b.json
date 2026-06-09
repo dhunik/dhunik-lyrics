@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-06-08T08:00:31.477Z",
+  "updated_at": "2026-06-09T13:34:03.181Z",
   "entries": [
     {
-      "hash": "c4f7cc37ee31d82c",
-      "track": "BTS Cypher Pt.2: Triptych",
-      "artist": "BTS",
-      "album": "Skool Luv Affair",
+      "hash": "950b300237974898",
+      "track": "Bheegi Bheegi Raaton Mein",
+      "artist": "Lata Mangeshkar, Kishore Kumar",
+      "album": "Ajanabee",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-08T07:59:23.484Z"
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:32:01.824Z"
     }
   ]
 }
