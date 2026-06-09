@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-08T02:46:33.354Z",
+  "updated_at": "2026-06-09T09:42:28.488Z",
   "entries": [
     {
       "hash": "375551e2ee5cede7",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-08T02:46:13.139Z"
+    },
+    {
+      "hash": "6bff39d11820b4fc",
+      "track": "Ceasefire",
+      "artist": "Zack Merci, Requenze, Nieko X",
+      "album": "Ceasefire",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T09:42:23.506Z"
     }
   ]
 }
