@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-09T13:47:57.202Z",
+  "updated_at": "2026-06-09T13:51:26.871Z",
   "entries": [
     {
       "hash": "7ea8ac9ee26100e8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-09T13:46:49.218Z"
+    },
+    {
+      "hash": "cb3acbb6f884844f",
+      "track": "I Guess",
+      "artist": "KR$NA - I Guess",
+      "album": "KR$NA - I Guess",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:51:25.465Z"
     }
   ]
 }
