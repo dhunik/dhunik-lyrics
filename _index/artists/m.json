@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T14:21:40.103Z",
+  "updated_at": "2026-06-09T14:21:46.262Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T14:21:39.149Z"
+    },
+    {
+      "hash": "8ca5fa810dc46111",
+      "track": "Main Jat Yamla Pagla Diwana",
+      "artist": "Mohammed Rafi",
+      "album": "Pratiggya",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:21:41.965Z"
     }
   ]
 }
