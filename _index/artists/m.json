@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T13:45:38.447Z",
+  "updated_at": "2026-06-09T13:53:54.847Z",
   "entries": [
     {
       "hash": "d2bac849d2fee7a8",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T13:45:35.864Z"
+    },
+    {
+      "hash": "e8eb7e17fbbaa7d9",
+      "track": "Kahin Door Jab Din Dhal Jaye",
+      "artist": "Mukesh",
+      "album": "Anand",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:53:53.838Z"
     }
   ]
 }
