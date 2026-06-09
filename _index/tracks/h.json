@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-06-03T09:26:58.880Z",
+  "updated_at": "2026-06-09T14:09:32.217Z",
   "entries": [
     {
-      "hash": "ef65544abb4f8c68",
-      "track": "Husn",
-      "artist": "Anuv Jain",
-      "album": "Husn",
+      "hash": "adec0b98a372ceab",
+      "track": "Hola Amigo",
+      "artist": "Umair, KR$NA, Seedhe Maut - FAR FROM OVER",
+      "album": "Umair, KR$NA, Seedhe Maut - FAR FROM OVER",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-03T09:23:22.702Z"
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:06:36.118Z"
     }
   ]
 }
