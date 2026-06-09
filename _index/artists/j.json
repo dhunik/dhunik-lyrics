@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-05-30T12:30:50.993Z",
+  "updated_at": "2026-06-09T14:05:12.578Z",
   "entries": [
     {
-      "hash": "a7dd6c9792f04e9e",
-      "track": "Koi Fariyaad",
-      "artist": "Jagjit Singh - Tum Bin",
-      "album": "null",
-      "has_synced": true,
+      "hash": "541ee61aaae77d57",
+      "track": "Jai Shri Ram (Jubin Nautiyal Version)",
+      "artist": "Ajay-Atul, Jubin Nautiyal, Manoj Muntashir",
+      "album": "Jai Shri Ram (Jubin Nautiyal Version)",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-30T12:27:36.772Z"
+      "cached_at": "2026-06-09T14:03:10.869Z"
     }
   ]
 }
