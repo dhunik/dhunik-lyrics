@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-09T13:39:32.578Z",
+  "updated_at": "2026-06-09T13:47:57.202Z",
   "entries": [
     {
-      "hash": "990f7956ab70d836",
-      "track": "Kya Yahi Pyar Hai (From \"Rocky\")",
-      "artist": "Lata Mangeshkar, Kishore Kumar, R.D. Burman",
-      "album": "Lata Mangeshkar",
-      "has_synced": true,
+      "hash": "7ea8ac9ee26100e8",
+      "track": "Ek Din Bik Jayega Mati Ke Mol (From \"Dharam Karam\")",
+      "artist": "Kishore Kumar, R.D. Burman",
+      "album": "Dharam Karam",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-09T13:38:43.788Z"
+      "cached_at": "2026-06-09T13:46:49.218Z"
     }
   ]
 }
