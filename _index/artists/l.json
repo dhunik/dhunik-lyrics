@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-05-28T03:35:47.597Z",
+  "updated_at": "2026-06-09T13:34:29.898Z",
   "entries": [
     {
       "hash": "8646ea18f28514a9",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-28T03:35:46.609Z"
+    },
+    {
+      "hash": "d41dcd5ce4bd9368",
+      "track": "Tere Bina Zindagi Se",
+      "artist": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
+      "album": "Dil Vil Pyar Vyar - Vol - 2",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:34:24.705Z"
     }
   ]
 }
