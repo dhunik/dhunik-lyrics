@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-06-08T07:54:19.049Z",
+  "updated_at": "2026-06-09T09:36:22.223Z",
   "entries": [
     {
       "hash": "375551e2ee5cede7",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-08T07:54:09.685Z"
+    },
+    {
+      "hash": "c5c0d19f57e5c8bf",
+      "track": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+      "artist": "Jubin Nautiyal, Rochak Kohli, A.M. Turaz",
+      "album": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T09:36:21.102Z"
     }
   ]
 }
