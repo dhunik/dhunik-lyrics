@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-08T07:54:19.131Z",
+  "updated_at": "2026-06-09T12:21:56.735Z",
   "entries": [
     {
       "hash": "f7bd09d536081663",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-08T07:54:09.685Z"
+    },
+    {
+      "hash": "b54ad1b83a261f02",
+      "track": "505",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-09T12:21:55.674Z"
     }
   ]
 }
