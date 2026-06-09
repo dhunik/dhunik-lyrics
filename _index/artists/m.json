@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T14:21:35.410Z",
+  "updated_at": "2026-06-09T14:21:40.103Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T14:21:34.331Z"
+    },
+    {
+      "hash": "a555167cef3aecea",
+      "track": "Yeh Reshmi Zulfen",
+      "artist": "Mohammed Rafi",
+      "album": "Magical Mohammed Rafi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:21:39.149Z"
     }
   ]
 }
