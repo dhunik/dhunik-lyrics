@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-08T07:57:20.211Z",
+  "updated_at": "2026-06-09T13:49:10.408Z",
   "entries": [
     {
-      "hash": "dcb1241953aa34e0",
-      "track": "Face Off",
-      "artist": "Tech N9ne, Joey Cool, King Iso, Dwayne Johnson",
-      "album": "ASIN9NE",
+      "hash": "4164d0f5bb9aa217",
+      "track": "Boom Shaka",
+      "artist": "Dhanda Nyoliwala, KR$NA",
+      "album": "Boom Shaka",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-08T07:56:27.058Z"
+      "has_plain": true,
+      "cached_at": "2026-06-09T13:48:54.961Z"
     }
   ]
 }
