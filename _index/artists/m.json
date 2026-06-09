@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T14:21:27.420Z",
+  "updated_at": "2026-06-09T14:21:35.410Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T14:21:26.146Z"
+    },
+    {
+      "hash": "b2a2b65ee5b577e0",
+      "track": "Tumse Achchha Kaun Hai",
+      "artist": "Mohammed Rafi",
+      "album": "Janwar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-09T14:21:34.331Z"
     }
   ]
 }
