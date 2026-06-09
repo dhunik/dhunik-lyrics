@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-06-09T13:34:29.898Z",
+  "updated_at": "2026-06-09T14:01:10.226Z",
   "entries": [
     {
-      "hash": "8646ea18f28514a9",
-      "track": "Tujhse Naraz Nahin Zindagi",
-      "artist": "Lata Mangeshkar, Gulzar",
-      "album": "Masoom",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-12T09:43:08.861Z"
-    },
-    {
-      "hash": "f45d7594da2a85b6",
-      "track": "Tere Bina Zindagi Se",
-      "artist": "Lata Mangeshkar, Kishore Kumar",
-      "album": "Aandhi",
+      "hash": "d5d5c149d7fe8b9f",
+      "track": "Ik Rasta Hai Zindagi",
+      "artist": "Lata Mangeshkar, Kishore Kumar - Kaala Patthar",
+      "album": "Kaala Patthar",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-15T17:51:58.695Z"
-    },
-    {
-      "hash": "270cb32ed432d566",
-      "track": "London Thumakda",
-      "artist": "Amit Trivedi, Labh Janjua, Sonu Kakkar, Neha Kakkar",
-      "album": "Queen",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-19T08:55:51.523Z"
-    },
-    {
-      "hash": "d2ae619526fcc6d1",
-      "track": "Die With A Smile",
-      "artist": "Bruno Mars, Lady Gaga",
-      "album": "Bruno Mars, Lady Gaga",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T04:14:16.760Z"
-    },
-    {
-      "hash": "7e38b51a52134323",
-      "track": "Tujhe Dekha To",
-      "artist": "Lata Mangeshkar, Kumar Sanu",
-      "album": "Lata Mangeshkar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:35:46.609Z"
-    },
-    {
-      "hash": "d41dcd5ce4bd9368",
-      "track": "Tere Bina Zindagi Se",
-      "artist": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
-      "album": "Dil Vil Pyar Vyar - Vol - 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:34:24.705Z"
+      "cached_at": "2026-06-09T14:00:41.382Z"
     }
   ]
 }
