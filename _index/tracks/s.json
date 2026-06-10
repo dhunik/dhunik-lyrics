@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-06-08T02:46:38.848Z",
+  "updated_at": "2026-06-10T07:36:36.749Z",
   "entries": [
     {
       "hash": "28fd0eab393d84fc",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-08T02:46:37.992Z"
+    },
+    {
+      "hash": "a2d33a416d391bf4",
+      "track": "స్థిరపరచువాడవు (Sthiraparachuvaadavu)",
+      "artist": "Daniel Praneeth",
+      "album": "స్థిరపరచువాడవు (Sthiraparachuvaadavu)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:36:35.711Z"
     }
   ]
 }
