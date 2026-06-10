@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-10T02:30:57.985Z",
+  "updated_at": "2026-06-10T18:31:28.760Z",
   "entries": [
     {
-      "hash": "7ea8ac9ee26100e8",
-      "track": "Ek Din Bik Jayega Mati Ke Mol (From \"Dharam Karam\")",
-      "artist": "Kishore Kumar, R.D. Burman",
-      "album": "Dharam Karam",
+      "hash": "fb25e3c34b328cd2",
+      "track": "Buss Down",
+      "artist": "KR$NA, Raftaar, Phenom - Yours Truly",
+      "album": "KR$NA, Raftaar, Phenom - Yours Truly",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-09T13:46:49.218Z"
-    },
-    {
-      "hash": "cb3acbb6f884844f",
-      "track": "I Guess",
-      "artist": "KR$NA - I Guess",
-      "album": "KR$NA - I Guess",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:51:25.465Z"
-    },
-    {
-      "hash": "09c8dbcc6b00c301",
-      "track": "Tu Hi Hai",
-      "artist": "Amit Trivedi, Arijit Singh, Kausar Munir",
-      "album": "Dear Zindagi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:03:08.014Z"
-    },
-    {
-      "hash": "2d48ac89959371fe",
-      "track": "No Cap",
-      "artist": "KR$NA - No Cap",
-      "album": "KR$NA - No Cap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T02:30:56.846Z"
+      "cached_at": "2026-06-10T18:25:17.292Z"
     }
   ]
 }
