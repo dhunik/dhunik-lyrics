@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-06-10T07:38:27.636Z",
+  "updated_at": "2026-06-10T07:41:54.714Z",
   "entries": [
     {
       "hash": "a48e073b5f0cbc6b",
@@ -66,6 +66,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-10T07:38:26.667Z"
+    },
+    {
+      "hash": "3c5e83481da6f705",
+      "track": "Hosanna",
+      "artist": "Hillsong United, Brooke Ligertwood",
+      "album": "All of the Above",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:41:53.672Z"
     }
   ]
 }
