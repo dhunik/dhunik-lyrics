@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-09T13:38:39.101Z",
+  "updated_at": "2026-06-10T07:42:04.903Z",
   "entries": [
     {
       "hash": "e571d5e0ec06b8e5",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T13:38:38.037Z"
+    },
+    {
+      "hash": "9a6db2c8639570b7",
+      "track": "Hosanna",
+      "artist": "Hillsong Worship, Brooke Ligertwood",
+      "album": "Saviour King (Live)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:42:03.872Z"
     }
   ]
 }
