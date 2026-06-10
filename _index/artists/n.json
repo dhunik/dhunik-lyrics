@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-05-27T10:35:11.388Z",
+  "updated_at": "2026-06-10T07:56:18.861Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-05-27T10:35:10.326Z"
+    },
+    {
+      "hash": "a727ecad4f7f2c47",
+      "track": "Aasha Meri",
+      "artist": "Nations Of Worship",
+      "album": "Aasha Meri",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:56:17.812Z"
     }
   ]
 }
