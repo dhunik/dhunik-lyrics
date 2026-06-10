@@ -2,106 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-06-10T07:36:36.749Z",
+  "updated_at": "2026-06-10T18:58:07.146Z",
   "entries": [
     {
-      "hash": "28fd0eab393d84fc",
-      "track": "Singham",
-      "artist": "Ajay-Atul, Sukhwinder Singh",
-      "album": "Singham",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-30T17:42:24.043Z"
-    },
-    {
-      "hash": "e065fa4ae60eb471",
-      "track": "Shri Ganesh Aarti",
-      "artist": "Sadhana Sargam",
-      "album": "Shri Ganesh Aradhna",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-02T03:43:36.689Z"
-    },
-    {
-      "hash": "24ea591266d655c4",
-      "track": "Sahiba",
-      "artist": "Priya Saraiya, Aditya Sharma, Jasleen Royal, Stebin Ben, Vijay Deverakonda, Radhikka Madan - Sahiba",
-      "album": "Sahiba",
+      "hash": "e43d35a92a8979f7",
+      "track": "Someone To Stay",
+      "artist": "Vancouver Sleep Clinic",
+      "album": "Revival",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-02T11:37:41.178Z"
-    },
-    {
-      "hash": "079601b636e1a2b6",
-      "track": "Sahara",
-      "artist": "Bohemia",
-      "album": "4:39",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-03T10:53:58.081Z"
-    },
-    {
-      "hash": "9e17478beb53580b",
-      "track": "Smack That",
-      "artist": "Akon",
-      "album": "Smack That",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-03T11:30:46.003Z"
-    },
-    {
-      "hash": "b8aadcc5ab7a0f8b",
-      "track": "Sahiba",
-      "artist": "Aditya Rikhari",
-      "album": "Sahiba",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-04T05:39:40.099Z"
-    },
-    {
-      "hash": "12d59193c6158adf",
-      "track": "Sunn Mere Yaar Ve (From \"Param Sundari\")",
-      "artist": "Aditya Rikhari, Sachin-Jigar, Amitabh Bhattacharya",
-      "album": "Best of Aditya Rikhari",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-05T03:16:38.933Z"
-    },
-    {
-      "hash": "1fb26282837bab70",
-      "track": "Sab Bhulake",
-      "artist": "Wajhi (Raeth Band)",
-      "album": "3 A.M.",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-06T11:44:39.396Z"
-    },
-    {
-      "hash": "0a2d7366f89e2dce",
-      "track": "Strobe (feat. Katie McConnell)",
-      "artist": "Vexento, Katie McConnell",
-      "album": "Strobe (feat. Katie McConnell)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-07T05:43:29.490Z"
-    },
-    {
-      "hash": "68e9b169ac359dee",
-      "track": "Sanand Manand Vane Vasantam (Kashi Vishvanath - Shiv Mantra)",
-      "artist": "Tanvi Senjaliya",
-      "album": "Sanand Manand Vane Vasantam (Kashi Vishvanath - Shiv Mantra)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-08T02:46:37.992Z"
-    },
-    {
-      "hash": "a2d33a416d391bf4",
-      "track": "స్థిరపరచువాడవు (Sthiraparachuvaadavu)",
-      "artist": "Daniel Praneeth",
-      "album": "స్థిరపరచువాడవు (Sthiraparachuvaadavu)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:36:35.711Z"
+      "cached_at": "2026-06-10T18:54:03.535Z"
     }
   ]
 }
