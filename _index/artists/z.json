@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "z",
   "type": "artist",
-  "updated_at": "2026-05-20T06:25:46.205Z",
+  "updated_at": "2026-06-10T07:54:56.393Z",
   "entries": [
     {
-      "hash": "7e25cfd7062088ae",
-      "track": "Galtiyan",
-      "artist": "Zack Knight - Galtiyan",
-      "album": "Galtiyan",
+      "hash": "60c10edc0e5618a8",
+      "track": "Papa (feat. Prince Mulla, Zayvan & Sam Alex Pasula)",
+      "artist": "Bridge Music ft. Sam Alex Pasula, Prince Mulla, Zayvan - Papa (feat. Prince Mulla, Zayvan & Sam Alex Pasula)",
+      "album": "Bridge Music ft. Sam Alex Pasula, Prince Mulla, Zayvan - Papa (feat. Prince Mulla, Zayvan & Sam Alex Pasula)",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-20T06:25:45.202Z"
+      "cached_at": "2026-06-10T07:53:02.022Z"
     }
   ]
 }
