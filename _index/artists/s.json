@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-09T13:38:51.793Z",
+  "updated_at": "2026-06-10T01:27:30.120Z",
   "entries": [
     {
       "hash": "5e712076ea7de3cf",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T13:38:48.211Z"
+    },
+    {
+      "hash": "f8e5d1ffbd6d0798",
+      "track": "Ghaghari (From \"Ghaghari\")",
+      "artist": "Pawan Singh, Shilpi Raj",
+      "album": "Power Star Pawan Singh",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-10T01:27:29.216Z"
     }
   ]
 }
