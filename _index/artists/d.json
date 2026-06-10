@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-10T07:36:36.751Z",
+  "updated_at": "2026-06-10T07:38:05.797Z",
   "entries": [
     {
       "hash": "4164d0f5bb9aa217",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-10T07:36:35.711Z"
+    },
+    {
+      "hash": "31518037df968a08",
+      "track": "The Blessing",
+      "artist": "D2-Ronomy, B-Fresh",
+      "album": "Timeless",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:38:04.843Z"
     }
   ]
 }
