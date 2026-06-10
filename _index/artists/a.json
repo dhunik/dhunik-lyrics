@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-09T14:21:31.483Z",
+  "updated_at": "2026-06-10T07:56:12.911Z",
   "entries": [
     {
-      "hash": "f7bd09d536081663",
-      "track": "Adventure",
-      "artist": "Amadeus",
-      "album": "The Magic Flute",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-07T05:39:08.390Z"
-    },
-    {
-      "hash": "d17af344656482a1",
-      "track": "The Spectre",
-      "artist": "Alosa, Catching Sunrises, Deep Mage",
-      "album": "The Spectre",
+      "hash": "a5bfa75ca3641350",
+      "track": "Deva Raaja",
+      "artist": "Vijai Bulganin, Arya Dhayal",
+      "album": "Baby",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-07T05:46:02.125Z"
-    },
-    {
-      "hash": "30a7b698c1baa5a4",
-      "track": "Karma Police",
-      "artist": "Anchor + Bell",
-      "album": "Radiohead",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-08T07:54:09.685Z"
-    },
-    {
-      "hash": "b54ad1b83a261f02",
-      "track": "505",
-      "artist": "Arctic Monkeys",
-      "album": "Favourite Worst Nightmare",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-09T12:21:55.674Z"
-    },
-    {
-      "hash": "3076b209c2079d94",
-      "track": "Intaha Ho Gai Dialogue",
-      "artist": "Kishore Kumar, Amitabh Bachchan",
-      "album": "Sharaabi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:38:41.599Z"
-    },
-    {
-      "hash": "09c8dbcc6b00c301",
-      "track": "Tu Hi Hai",
-      "artist": "Amit Trivedi, Arijit Singh, Kausar Munir",
-      "album": "Dear Zindagi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:03:08.014Z"
-    },
-    {
-      "hash": "88f85a5ccd6667ba",
-      "track": "Mere Dil Men Aane Wale",
-      "artist": "Mohammed Rafi, Asha Bhosle",
-      "album": "Baap Bete",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:21:29.261Z"
+      "cached_at": "2026-06-10T07:55:14.076Z"
     }
   ]
 }
