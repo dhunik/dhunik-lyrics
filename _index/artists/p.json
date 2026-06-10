@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-06-03T09:23:19.947Z",
+  "updated_at": "2026-06-10T07:54:56.390Z",
   "entries": [
     {
-      "hash": "597c8ef38f457c7d",
-      "track": "Yahan Koi Nahi",
-      "artist": "Punit Singh",
-      "album": "Yahan Koi Nahi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-03T09:23:04.893Z"
+      "hash": "60c10edc0e5618a8",
+      "track": "Papa (feat. Prince Mulla, Zayvan & Sam Alex Pasula)",
+      "artist": "Bridge Music ft. Sam Alex Pasula, Prince Mulla, Zayvan - Papa (feat. Prince Mulla, Zayvan & Sam Alex Pasula)",
+      "album": "Bridge Music ft. Sam Alex Pasula, Prince Mulla, Zayvan - Papa (feat. Prince Mulla, Zayvan & Sam Alex Pasula)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:53:02.022Z"
     }
   ]
 }
