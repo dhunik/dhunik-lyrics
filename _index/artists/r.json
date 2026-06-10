@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-09T13:34:26.996Z",
+  "updated_at": "2026-06-10T18:31:28.763Z",
   "entries": [
     {
-      "hash": "375551e2ee5cede7",
-      "track": "Kashi Vishwanath Mantra",
-      "artist": "Rinky Vishwakarma",
-      "album": "Kashi Vishwanath Mantra",
+      "hash": "fb25e3c34b328cd2",
+      "track": "Buss Down",
+      "artist": "KR$NA, Raftaar, Phenom - Yours Truly",
+      "album": "KR$NA, Raftaar, Phenom - Yours Truly",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-08T02:46:13.139Z"
-    },
-    {
-      "hash": "6bff39d11820b4fc",
-      "track": "Ceasefire",
-      "artist": "Zack Merci, Requenze, Nieko X",
-      "album": "Ceasefire",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T09:42:23.506Z"
-    },
-    {
-      "hash": "d41dcd5ce4bd9368",
-      "track": "Tere Bina Zindagi Se",
-      "artist": "R.D. Burman, Kishore Kumar, Lata Mangeshkar",
-      "album": "Dil Vil Pyar Vyar - Vol - 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:34:24.705Z"
+      "cached_at": "2026-06-10T18:25:17.292Z"
     }
   ]
 }
