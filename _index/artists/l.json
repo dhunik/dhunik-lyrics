@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-06-09T14:01:10.226Z",
+  "updated_at": "2026-06-10T07:50:29.998Z",
   "entries": [
     {
-      "hash": "d5d5c149d7fe8b9f",
-      "track": "Ik Rasta Hai Zindagi",
-      "artist": "Lata Mangeshkar, Kishore Kumar - Kaala Patthar",
-      "album": "Kaala Patthar",
+      "hash": "a337f1b91330550d",
+      "track": "Way Maker",
+      "artist": "Leeland",
+      "album": "Way Maker",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-09T14:00:41.382Z"
+      "cached_at": "2026-06-10T07:46:59.722Z"
     }
   ]
 }
