@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-10T01:27:33.876Z",
+  "updated_at": "2026-06-10T07:37:38.379Z",
   "entries": [
     {
-      "hash": "5e712076ea7de3cf",
-      "track": "Didi (Sher-E-Baloch)",
-      "artist": "Sons of Yusuf, Khaled, Shashwat Sachdev, Nabil El Houri - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-04T15:57:06.274Z"
-    },
-    {
-      "hash": "12d59193c6158adf",
-      "track": "Sunn Mere Yaar Ve (From \"Param Sundari\")",
-      "artist": "Aditya Rikhari, Sachin-Jigar, Amitabh Bhattacharya",
-      "album": "Best of Aditya Rikhari",
+      "hash": "2764481977249520",
+      "track": "Madhuram Madhuram",
+      "artist": "Padma, Sridevi, Mickey J. Meyer",
+      "album": "Brahmotsavam",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-05T03:16:38.933Z"
-    },
-    {
-      "hash": "5f2c8a3e78f2fca0",
-      "track": "295",
-      "artist": "Sidhu Moose Wala",
-      "album": "Moosetape",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-07T07:41:28.688Z"
-    },
-    {
-      "hash": "c4eafcc2d4056b6e",
-      "track": "Chori Kiya Re Jiya",
-      "artist": "Sonu Nigam, Shreya Ghoshal",
-      "album": "Sonu Nigam | Shreya Ghoshal",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T09:36:17.354Z"
-    },
-    {
-      "hash": "700d81808e82209c",
-      "track": "Ek Ladki Bheegi Bhagi Si",
-      "artist": "IP Singh, Majrooh Sultanpuri, Shashwat Singh, Akshay & IP, Kishore Kumar, S. D. Burman",
-      "album": "Kahan Shuru Kahan Khatam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:38:48.211Z"
-    },
-    {
-      "hash": "f8e5d1ffbd6d0798",
-      "track": "Ghaghari (From \"Ghaghari\")",
-      "artist": "Pawan Singh, Shilpi Raj",
-      "album": "Power Star Pawan Singh",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T01:27:29.216Z"
-    },
-    {
-      "hash": "a40536b13b95186e",
-      "track": "Jab Tak Hai Jaan",
-      "artist": "A.R. Rahman, Javed Ali, Shakthi Sree Gopalan, Gulzar",
-      "album": "Jab Tak Hai Jaan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T01:27:33.070Z"
+      "cached_at": "2026-06-10T07:37:12.586Z"
     }
   ]
 }
