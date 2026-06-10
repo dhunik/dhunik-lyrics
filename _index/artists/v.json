@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-06-10T07:56:12.908Z",
+  "updated_at": "2026-06-10T18:58:07.149Z",
   "entries": [
     {
-      "hash": "a5bfa75ca3641350",
-      "track": "Deva Raaja",
-      "artist": "Vijai Bulganin, Arya Dhayal",
-      "album": "Baby",
+      "hash": "e43d35a92a8979f7",
+      "track": "Someone To Stay",
+      "artist": "Vancouver Sleep Clinic",
+      "album": "Revival",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:55:14.076Z"
+      "has_plain": false,
+      "cached_at": "2026-06-10T18:54:03.535Z"
     }
   ]
 }
