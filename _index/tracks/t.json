@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-06-10T08:00:19.361Z",
+  "updated_at": "2026-06-10T08:04:50.501Z",
   "entries": [
     {
       "hash": "6f076b80985054b2",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-10T08:00:18.349Z"
+    },
+    {
+      "hash": "e4b2ee00defd53fa",
+      "track": "Thy Will",
+      "artist": "Hillary Scott & The Scott Family",
+      "album": "Love Remains",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T08:04:49.579Z"
     }
   ]
 }
