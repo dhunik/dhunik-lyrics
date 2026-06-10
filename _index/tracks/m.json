@@ -2,124 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-06-09T14:21:31.480Z",
+  "updated_at": "2026-06-10T07:37:38.375Z",
   "entries": [
     {
-      "hash": "0e2d9cb9ac924c8e",
-      "track": "Mann Bharrya",
-      "artist": "B Praak",
-      "album": "Mann Bharrya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-13T06:01:27.100Z"
-    },
-    {
-      "hash": "5dae54747e25bd0f",
-      "track": "Main Hoon Saath Tere",
-      "artist": "Arijit Singh",
-      "album": "Arijit Singh",
+      "hash": "2764481977249520",
+      "track": "Madhuram Madhuram",
+      "artist": "Padma, Sridevi, Mickey J. Meyer",
+      "album": "Brahmotsavam",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-14T12:27:37.439Z"
-    },
-    {
-      "hash": "3f94fe46a32a5820",
-      "track": "Mere Sohneya",
-      "artist": "Sachet Tandon, Parampara Tandon",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-15T18:14:02.217Z"
-    },
-    {
-      "hash": "91ce46bdcf377759",
-      "track": "Mann Bharryaa 2.0",
-      "artist": "Jaani, B Praak",
-      "album": "B Praak",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-18T18:22:41.514Z"
-    },
-    {
-      "hash": "655bc9cdc24cc6eb",
-      "track": "Meri Madhubala",
-      "artist": "Avadhoot Gupte - Meri Madhubala",
-      "album": "Meri Madhubala",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-07T06:54:01.067Z"
-    },
-    {
-      "hash": "bcf9d5fe5f3fc2da",
-      "track": "Mundian To Bach Ke",
-      "artist": "Panjabi MC",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:55:33.271Z"
-    },
-    {
-      "hash": "fff775ab79a7286d",
-      "track": "Morya Morya",
-      "artist": "Ajay Gogavale",
-      "album": "Uladhaal",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:12:49.127Z"
-    },
-    {
-      "hash": "c356e3e65a3c0a67",
-      "track": "Manasanta Nuvve",
-      "artist": "R.P. Patnaik, Sujatha Mohan, S.P. Charan",
-      "album": "Manasantha Nuvve",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:43:12.935Z"
-    },
-    {
-      "hash": "acd6735c4a409b27",
-      "track": "Minchagi Neenu",
-      "artist": "Sonu Nigam, V. Harikrishna - Gaalipata",
-      "album": "V. Harikrishna Hits Vol -1",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T15:13:10.744Z"
-    },
-    {
-      "hash": "fbe177dec2e937bf",
-      "track": "Mujhko Yaad Sataye Teri",
-      "artist": "Himesh Reshammiya",
-      "album": "Himesh Reshammiya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-01T13:35:48.599Z"
-    },
-    {
-      "hash": "2c0bfbe1426d94f9",
-      "track": "Malhari",
-      "artist": "Vishal Dadlani",
-      "album": null,
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-02T12:52:39.304Z"
-    },
-    {
-      "hash": "204d309629e7ce11",
-      "track": "Main Tumhara",
-      "artist": "A.R. Rahman, Jonita Gandhi, Hriday Gattani",
-      "album": "Dil Bechara",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T09:36:14.446Z"
-    },
-    {
-      "hash": "88f85a5ccd6667ba",
-      "track": "Mere Dil Men Aane Wale",
-      "artist": "Mohammed Rafi, Asha Bhosle",
-      "album": "Baap Bete",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:21:29.261Z"
+      "cached_at": "2026-06-10T07:37:12.586Z"
     }
   ]
 }
