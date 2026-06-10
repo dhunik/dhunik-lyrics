@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-09T14:31:46.853Z",
+  "updated_at": "2026-06-10T07:44:12.004Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -57,6 +57,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-09T14:31:44.862Z"
+    },
+    {
+      "hash": "b3b80ac3c3daccaf",
+      "track": "I Surrender (Live)",
+      "artist": "Hillsong Worship, Matt Crocker",
+      "album": "Cornerstone (Live)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:44:11.040Z"
     }
   ]
 }
