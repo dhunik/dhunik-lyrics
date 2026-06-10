@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-06-10T07:38:05.818Z",
+  "updated_at": "2026-06-10T08:00:19.361Z",
   "entries": [
     {
       "hash": "6f076b80985054b2",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-10T07:38:04.843Z"
+    },
+    {
+      "hash": "86a55384d9c1e4c2",
+      "track": "Trust in You",
+      "artist": "Lauren Daigle",
+      "album": "How Can It Be",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T08:00:18.349Z"
     }
   ]
 }
