@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-10T01:27:30.120Z",
+  "updated_at": "2026-06-10T01:27:33.876Z",
   "entries": [
     {
       "hash": "5e712076ea7de3cf",
@@ -57,6 +57,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-10T01:27:29.216Z"
+    },
+    {
+      "hash": "a40536b13b95186e",
+      "track": "Jab Tak Hai Jaan",
+      "artist": "A.R. Rahman, Javed Ali, Shakthi Sree Gopalan, Gulzar",
+      "album": "Jab Tak Hai Jaan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T01:27:33.070Z"
     }
   ]
 }
