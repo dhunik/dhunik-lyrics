@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "track",
-  "updated_at": "2026-06-09T01:41:06.824Z",
+  "updated_at": "2026-06-10T07:47:05.714Z",
   "entries": [
     {
       "hash": "1260bf0a0c07f12f",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T01:41:05.877Z"
+    },
+    {
+      "hash": "a337f1b91330550d",
+      "track": "Way Maker",
+      "artist": "Leeland",
+      "album": "Way Maker",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:46:59.722Z"
     }
   ]
 }
