@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-06-09T14:09:32.217Z",
+  "updated_at": "2026-06-10T07:37:43.714Z",
   "entries": [
     {
       "hash": "adec0b98a372ceab",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-09T14:06:36.118Z"
+    },
+    {
+      "hash": "cfa0946887dcf181",
+      "track": "Hosanna (In The Highest)/We Cry Hosanna (Medley)",
+      "artist": "Words Of Worship",
+      "album": "Hosanna",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-10T07:37:42.790Z"
     }
   ]
 }
