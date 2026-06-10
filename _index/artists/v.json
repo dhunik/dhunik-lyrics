@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-06-07T05:43:36.212Z",
+  "updated_at": "2026-06-10T07:56:12.908Z",
   "entries": [
     {
-      "hash": "6e3ca0a279b59cf9",
-      "track": "Aaj Bhi",
-      "artist": "Vishal Mishra",
-      "album": "Aaj Bhi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-03T09:53:19.579Z"
-    },
-    {
-      "hash": "280cffbcfc47973f",
-      "track": "Time",
-      "artist": "Marin Hoxha, Vinsmoker",
-      "album": "No Time To Die",
+      "hash": "a5bfa75ca3641350",
+      "track": "Deva Raaja",
+      "artist": "Vijai Bulganin, Arya Dhayal",
+      "album": "Baby",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-03T10:54:08.538Z"
-    },
-    {
-      "hash": "0a2d7366f89e2dce",
-      "track": "Strobe (feat. Katie McConnell)",
-      "artist": "Vexento, Katie McConnell",
-      "album": "Strobe (feat. Katie McConnell)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-07T05:43:29.490Z"
+      "cached_at": "2026-06-10T07:55:14.076Z"
     }
   ]
 }
