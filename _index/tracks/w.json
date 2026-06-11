@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "w",
   "type": "track",
-  "updated_at": "2026-06-10T07:47:05.714Z",
+  "updated_at": "2026-06-11T13:39:19.786Z",
   "entries": [
     {
-      "hash": "1260bf0a0c07f12f",
-      "track": "Wild Ride",
-      "artist": "Shaswat Sachdev, Ellisar, Shashwat Sachdev - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
+      "hash": "effdfedb7585b70f",
+      "track": "Winning Speech",
+      "artist": "Karan Aujla, MXRCI",
+      "album": "Winning Speech",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-04-02T12:39:07.032Z"
-    },
-    {
-      "hash": "a2ac3e5c898ddc81",
-      "track": "Weightless",
-      "artist": "Martin Garrix, Arijit Singh",
-      "album": "Weightless",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-07T05:31:43.556Z"
-    },
-    {
-      "hash": "183eca88bcb7bfeb",
-      "track": "Way down We Go",
-      "artist": "Kaleo",
-      "album": "Way down We Go",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T01:41:05.877Z"
-    },
-    {
-      "hash": "a337f1b91330550d",
-      "track": "Way Maker",
-      "artist": "Leeland",
-      "album": "Way Maker",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:46:59.722Z"
+      "has_plain": false,
+      "cached_at": "2026-06-11T13:38:59.347Z"
     }
   ]
 }
