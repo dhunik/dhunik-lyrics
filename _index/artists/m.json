@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-10T07:44:12.004Z",
+  "updated_at": "2026-06-11T13:52:54.248Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-10T07:44:11.040Z"
+    },
+    {
+      "hash": "0e1de4eb38c7398f",
+      "track": "5-7",
+      "artist": "Karan Aujla, MXRCI",
+      "album": "5-7",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-11T13:52:45.156Z"
     }
   ]
 }
