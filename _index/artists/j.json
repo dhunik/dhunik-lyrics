@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-06-10T01:27:33.871Z",
+  "updated_at": "2026-06-12T15:47:54.335Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-10T01:27:33.070Z"
+    },
+    {
+      "hash": "79d3b9f74a5b8d25",
+      "track": "Backbone",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Backbone",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-12T15:47:49.174Z"
     }
   ]
 }
