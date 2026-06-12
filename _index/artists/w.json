@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-06-10T07:37:43.719Z",
+  "updated_at": "2026-06-12T04:06:32.262Z",
   "entries": [
     {
-      "hash": "056bd744bffe792b",
-      "track": "See You Again (feat. Charlie Puth)",
-      "artist": "Wiz Khalifa",
-      "album": "Nine Track Mind",
+      "hash": "824e84c742806c69",
+      "track": "Flares",
+      "artist": "The Script ft. Will.I.Am - No Sound Without Silence",
+      "album": "No Sound Without Silence",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-03-11T04:27:39.480Z"
-    },
-    {
-      "hash": "d0c0611e7543d116",
-      "track": "Sitaare (From \"Ikkis\")",
-      "artist": "Arijit Singh, White Noise Collectives, Amitabh Bhattacharya - Sitaare (From \"Ikkis\")",
-      "album": "Sitaare (From \"Ikkis\")",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-11T09:54:14.607Z"
-    },
-    {
-      "hash": "1fb26282837bab70",
-      "track": "Sab Bhulake",
-      "artist": "Wajhi (Raeth Band)",
-      "album": "3 A.M.",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-06T11:44:39.396Z"
-    },
-    {
-      "hash": "fb6ea2860bdc7bba",
-      "track": "Tera Shukriya",
-      "artist": "Wajhi (Raeth Band)",
-      "album": "3 A.M.",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-06T11:44:47.125Z"
-    },
-    {
-      "hash": "cfa0946887dcf181",
-      "track": "Hosanna (In The Highest)/We Cry Hosanna (Medley)",
-      "artist": "Words Of Worship",
-      "album": "Hosanna",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:37:42.790Z"
+      "cached_at": "2026-06-12T04:03:24.717Z"
     }
   ]
 }
