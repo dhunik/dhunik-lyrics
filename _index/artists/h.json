@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-06-10T07:42:04.888Z",
+  "updated_at": "2026-06-12T16:01:55.837Z",
   "entries": [
     {
-      "hash": "a48e073b5f0cbc6b",
-      "track": "Ee Paadha Punya Pada",
-      "artist": "Hamsalekha, S.P. Balasubrahmanyam - Sri Manjunathaa",
-      "album": "Sri Manjunathaa",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-06T18:12:50.025Z"
-    },
-    {
-      "hash": "fd1823fdc6d47e9f",
-      "track": "Hanuman Chalisa",
-      "artist": "Hari Om Sharan, Murli Manohar Swarup",
-      "album": "Shree Hanuman Chalisa",
+      "hash": "957bfd044108df08",
+      "track": "Teri Yaad",
+      "artist": "Faheem Abdullah, Hyder Dar, Zia",
+      "album": "Teri Yaad",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T03:04:41.189Z"
-    },
-    {
-      "hash": "fbe177dec2e937bf",
-      "track": "Mujhko Yaad Sataye Teri",
-      "artist": "Himesh Reshammiya",
-      "album": "Himesh Reshammiya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-01T13:35:48.599Z"
-    },
-    {
-      "hash": "0c2ed78be4b8def2",
-      "track": "Gasoline",
-      "artist": "Halsey",
-      "album": "Badlands (Decade Edition Anthology)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-03T02:31:49.986Z"
-    },
-    {
-      "hash": "5b590d26bdc54351",
-      "track": "Aura 10/10 (From \"Gaana Gang\")",
-      "artist": "Hiphop Tamizha, Rakendu Mouli",
-      "album": "Hiphop Tamizha, Rakendu Mouli",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:35:01.315Z"
-    },
-    {
-      "hash": "cb3519745a62da27",
-      "track": "Rakaan",
-      "artist": "Harjot, Bhinda Aujla",
-      "album": "Heer Saleti",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-07T05:26:17.556Z"
-    },
-    {
-      "hash": "ded5c31ad0a8173a",
-      "track": "Oceans (Where Feet May Fail)",
-      "artist": "Taya, Hillsong United",
-      "album": "Zion (Deluxe Edition)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:38:26.667Z"
-    },
-    {
-      "hash": "3c5e83481da6f705",
-      "track": "Hosanna",
-      "artist": "Hillsong United, Brooke Ligertwood",
-      "album": "All of the Above",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:41:53.672Z"
-    },
-    {
-      "hash": "9a6db2c8639570b7",
-      "track": "Hosanna",
-      "artist": "Hillsong Worship, Brooke Ligertwood",
-      "album": "Saviour King (Live)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:42:03.872Z"
+      "has_plain": false,
+      "cached_at": "2026-06-12T15:57:13.414Z"
     }
   ]
 }
