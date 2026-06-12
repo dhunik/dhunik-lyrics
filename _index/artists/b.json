@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-12T09:52:29.088Z",
+  "updated_at": "2026-06-12T09:52:35.272Z",
   "entries": [
     {
       "hash": "e571d5e0ec06b8e5",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-12T09:52:27.784Z"
+    },
+    {
+      "hash": "9465f41615d9cff8",
+      "track": "J Generation",
+      "artist": "Benny Joshua - J Generation",
+      "album": "J Generation",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-12T09:52:34.292Z"
     }
   ]
 }
