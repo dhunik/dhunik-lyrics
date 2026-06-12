@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-12T13:20:53.800Z",
+  "updated_at": "2026-06-12T16:03:02.053Z",
   "entries": [
     {
       "hash": "d57f28d289634ee8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-12T13:16:14.246Z"
+    },
+    {
+      "hash": "26ec22721976fc3c",
+      "track": "Tu Jo Hain",
+      "artist": "Ankit Tiwari",
+      "album": "Mr. X",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-12T16:03:00.949Z"
     }
   ]
 }
