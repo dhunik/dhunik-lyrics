@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-10T07:52:07.509Z",
+  "updated_at": "2026-06-12T09:44:10.557Z",
   "entries": [
     {
       "hash": "e571d5e0ec06b8e5",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-10T07:52:06.413Z"
+    },
+    {
+      "hash": "fda3876d10221da3",
+      "track": "Vandanam (Bonus Track) [Live] [feat. Sam Alex Pasula, Allen Ganta & John Erry]",
+      "artist": "Bridge Music",
+      "album": "Sang Tere",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-12T09:44:09.576Z"
     }
   ]
 }
