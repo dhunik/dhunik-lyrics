@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-12T09:52:35.272Z",
+  "updated_at": "2026-06-12T15:15:14.195Z",
   "entries": [
     {
-      "hash": "e571d5e0ec06b8e5",
-      "track": "Left and Right (Feat. Jung Kook of BTS)",
-      "artist": "Charlie Puth, Jung Kook, BTS",
-      "album": "CHARLIE",
+      "hash": "38bd1d0360b96593",
+      "track": "All Rise",
+      "artist": "Blue",
+      "album": "The Platinum Collection",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-08T08:00:50.625Z"
-    },
-    {
-      "hash": "bef711322555f388",
-      "track": "Dil Hoom Hoom Kare (Male Version)",
-      "artist": "Bhupen Hazarika",
-      "album": "Rudaali",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:38:38.037Z"
-    },
-    {
-      "hash": "9a6db2c8639570b7",
-      "track": "Hosanna",
-      "artist": "Hillsong Worship, Brooke Ligertwood",
-      "album": "Saviour King (Live)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:42:03.872Z"
-    },
-    {
-      "hash": "3d8de5ea68651962",
-      "track": "Chattan (Acoustic Demo) [feat. Prakruthi Angelina & Sam Alex Pasula]",
-      "artist": "Bridge Music",
-      "album": "Sang Tere",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:52:06.413Z"
-    },
-    {
-      "hash": "fda3876d10221da3",
-      "track": "Vandanam (Bonus Track) [Live] [feat. Sam Alex Pasula, Allen Ganta & John Erry]",
-      "artist": "Bridge Music",
-      "album": "Sang Tere",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-12T09:44:09.576Z"
-    },
-    {
-      "hash": "b6206600c07b28c9",
-      "track": "Aadharam",
-      "artist": "Benny Joshua - Aadharam",
-      "album": "Aadharam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-12T09:46:23.652Z"
-    },
-    {
-      "hash": "5ab434e62040a59f",
-      "track": "Unga Azhaippu",
-      "artist": "Benny Joshua",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-12T09:52:27.784Z"
-    },
-    {
-      "hash": "9465f41615d9cff8",
-      "track": "J Generation",
-      "artist": "Benny Joshua - J Generation",
-      "album": "J Generation",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-12T09:52:34.292Z"
+      "cached_at": "2026-06-12T15:14:12.280Z"
     }
   ]
 }
