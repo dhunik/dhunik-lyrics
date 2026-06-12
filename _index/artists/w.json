@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-06-12T04:06:32.262Z",
+  "updated_at": "2026-06-12T04:07:57.680Z",
   "entries": [
     {
       "hash": "824e84c742806c69",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-12T04:03:24.717Z"
+    },
+    {
+      "hash": "4cf448f791957543",
+      "track": "Superheroes",
+      "artist": "The Script ft. Will.I.Am - No Sound Without Silence",
+      "album": "No Sound Without Silence",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-12T04:07:56.534Z"
     }
   ]
 }
