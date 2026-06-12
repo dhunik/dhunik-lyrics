@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-10T07:56:12.911Z",
+  "updated_at": "2026-06-12T13:20:53.800Z",
   "entries": [
     {
-      "hash": "a5bfa75ca3641350",
-      "track": "Deva Raaja",
-      "artist": "Vijai Bulganin, Arya Dhayal",
-      "album": "Baby",
-      "has_synced": true,
+      "hash": "d57f28d289634ee8",
+      "track": "Alankarinchunu",
+      "artist": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Allen Ganta, John Erry, Enosh Kumar, Jonah Samuel, Anu Samuel, Sreshta Karmoji, Merlyn Salvadi",
+      "album": "Alankarinchunu",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-10T07:55:14.076Z"
+      "cached_at": "2026-06-12T13:16:14.246Z"
     }
   ]
 }
