@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-06-03T17:13:01.766Z",
+  "updated_at": "2026-06-12T16:01:55.826Z",
   "entries": [
     {
-      "hash": "b2751f6beb4f1875",
-      "track": "On My Way",
-      "artist": "Alan Walker, Sabrina Carpenter, Farruko",
-      "album": "On My Way",
+      "hash": "957bfd044108df08",
+      "track": "Teri Yaad",
+      "artist": "Faheem Abdullah, Hyder Dar, Zia",
+      "album": "Teri Yaad",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-03T17:10:26.297Z"
+      "has_plain": false,
+      "cached_at": "2026-06-12T15:57:13.414Z"
     }
   ]
 }
