@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-12T09:44:10.557Z",
+  "updated_at": "2026-06-12T09:46:24.532Z",
   "entries": [
     {
       "hash": "e571d5e0ec06b8e5",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-12T09:44:09.576Z"
+    },
+    {
+      "hash": "b6206600c07b28c9",
+      "track": "Aadharam",
+      "artist": "Benny Joshua - Aadharam",
+      "album": "Aadharam",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-12T09:46:23.652Z"
     }
   ]
 }
