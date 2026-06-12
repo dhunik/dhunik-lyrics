@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-06-05T02:38:27.269Z",
+  "updated_at": "2026-06-12T13:25:58.039Z",
   "entries": [
     {
-      "hash": "7d25d707b7857177",
-      "track": "Ban Ja Rani",
-      "artist": "Guru Randhawa",
-      "album": "Groove With Guru",
+      "hash": "d61f9b97a0312388",
+      "track": "Seerpaduthuvaar",
+      "artist": "Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchelle, Gersson Edinbaro, Benny Joshua, Zac Robert, Jasmin Faith",
+      "album": "Seerpaduthuvaar",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-25T07:40:48.725Z"
-    },
-    {
-      "hash": "7b8b34b83f7bd9f8",
-      "track": "Baarish - Yaariyan",
-      "artist": "Mohammed Irfan, Gajendra Verma",
-      "album": "Yaariyan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-18T10:22:44.496Z"
-    },
-    {
-      "hash": "fb9933d40d063df3",
-      "track": "Lahore",
-      "artist": "Guru Randhawa",
-      "album": "Street Dancer 3D (Tamil)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:57:33.013Z"
-    },
-    {
-      "hash": "925562a24e9b50b9",
-      "track": "Yaar Beli (feat. Deep Jandu)",
-      "artist": "Guri",
-      "album": "Yaar Beli (feat. Deep Jandu)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:59:19.373Z"
-    },
-    {
-      "hash": "530d9eae0e3a3e77",
-      "track": "Man Udhan Varyache",
-      "artist": "Shankar Mahadevan, Ajay-Atul, Guru Thakur - Aga Bai Arrecha!",
-      "album": "Mazi Gaani - Ajay-Atul",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T03:13:33.750Z"
-    },
-    {
-      "hash": "275a35c08b9effbe",
-      "track": "Suroor",
-      "artist": "Aditya Rikhari, Rochak Kohli, Gurpreet Saini, Lijo George",
-      "album": "Best of Aditya Rikhari",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-05T02:38:26.361Z"
+      "cached_at": "2026-06-12T13:24:00.870Z"
     }
   ]
 }
