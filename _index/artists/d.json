@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-13T06:04:39.081Z",
+  "updated_at": "2026-06-13T07:26:29.944Z",
   "entries": [
     {
       "hash": "4164d0f5bb9aa217",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-13T06:04:38.267Z"
+    },
+    {
+      "hash": "0c78918c3910b6b3",
+      "track": "Jungli Sher",
+      "artist": "DIVINE",
+      "album": "Unknown",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-13T07:26:20.967Z"
     }
   ]
 }
