@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-06-10T01:27:30.162Z",
+  "updated_at": "2026-06-13T05:21:36.156Z",
   "entries": [
     {
       "hash": "86acc52f8fd8467f",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-10T01:27:29.216Z"
+    },
+    {
+      "hash": "eb90244943cd97b4",
+      "track": "Ghost",
+      "artist": "Diljit Dosanjh, Thiarajxtt",
+      "album": "Ghost",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-13T05:21:35.343Z"
     }
   ]
 }
