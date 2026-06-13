@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-13T05:58:00.924Z",
+  "updated_at": "2026-06-13T06:02:45.415Z",
   "entries": [
     {
       "hash": "9bd533c0058d79dd",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-13T05:54:45.783Z"
+    },
+    {
+      "hash": "5a862737b10f686c",
+      "track": "It Ain't Me",
+      "artist": "Kygo, Selena Gomez",
+      "album": "Stargazing - EP",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-13T06:02:44.575Z"
     }
   ]
 }
