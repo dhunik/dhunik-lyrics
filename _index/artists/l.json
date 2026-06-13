@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-06-13T06:09:58.437Z",
+  "updated_at": "2026-06-13T06:22:25.259Z",
   "entries": [
     {
       "hash": "4ac2280a10d03e22",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-13T06:09:47.340Z"
+    },
+    {
+      "hash": "3964771bd68ca531",
+      "track": "Poker Face",
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-13T06:22:24.446Z"
     }
   ]
 }
