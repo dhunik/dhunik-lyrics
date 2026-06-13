@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-06-12T04:07:57.683Z",
+  "updated_at": "2026-06-13T06:59:05.037Z",
   "entries": [
     {
-      "hash": "dcb1241953aa34e0",
-      "track": "Face Off",
-      "artist": "Tech N9ne, Joey Cool, King Iso, Dwayne Johnson",
-      "album": "ASIN9NE",
+      "hash": "fc56c7e0f454cef6",
+      "track": "Breakeven",
+      "artist": "The Script",
+      "album": "The Script",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-08T07:56:27.058Z"
-    },
-    {
-      "hash": "c2ce55ea3d452034",
-      "track": "Pal Pal (Talwiinder Verse)",
-      "artist": "Talwiinder",
-      "album": "Pal Pal (Talwiinder Verse)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-08T14:22:52.596Z"
-    },
-    {
-      "hash": "e4b2ee00defd53fa",
-      "track": "Thy Will",
-      "artist": "Hillary Scott & The Scott Family",
-      "album": "Love Remains",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T08:04:49.579Z"
-    },
-    {
-      "hash": "4cf448f791957543",
-      "track": "Superheroes",
-      "artist": "The Script ft. Will.I.Am - No Sound Without Silence",
-      "album": "No Sound Without Silence",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-12T04:07:56.534Z"
+      "cached_at": "2026-06-13T06:55:59.800Z"
     }
   ]
 }
