@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "track",
-  "updated_at": "2026-06-06T11:38:00.869Z",
+  "updated_at": "2026-06-13T06:30:55.206Z",
   "entries": [
     {
       "hash": "4c59296c1caf8031",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-06T11:38:00.023Z"
+    },
+    {
+      "hash": "0f3d0498ce63cdcd",
+      "track": "Rasputin",
+      "artist": "Boney M.",
+      "album": "Les Essentiels",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-13T06:30:54.474Z"
     }
   ]
 }
