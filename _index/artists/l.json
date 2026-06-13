@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-06-13T04:53:54.636Z",
+  "updated_at": "2026-06-13T06:09:58.437Z",
   "entries": [
     {
-      "hash": "a337f1b91330550d",
-      "track": "Way Maker",
-      "artist": "Leeland",
-      "album": "Way Maker",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:46:59.722Z"
-    },
-    {
-      "hash": "86a55384d9c1e4c2",
-      "track": "Trust in You",
-      "artist": "Lauren Daigle",
-      "album": "How Can It Be",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T08:00:18.349Z"
-    },
-    {
-      "hash": "66ee4dcb959cfc9f",
-      "track": "Alejandro",
+      "hash": "4ac2280a10d03e22",
+      "track": "Judas",
       "artist": "Lady Gaga",
-      "album": "The Fame Monster",
+      "album": "Judas",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-13T04:53:53.793Z"
+      "cached_at": "2026-06-13T06:09:47.340Z"
     }
   ]
 }
