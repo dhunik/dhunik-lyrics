@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-13T05:21:36.160Z",
+  "updated_at": "2026-06-13T06:04:39.081Z",
   "entries": [
     {
       "hash": "4164d0f5bb9aa217",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-13T05:21:35.343Z"
+    },
+    {
+      "hash": "9a01d11ec43a7062",
+      "track": "Main Woh Chaand",
+      "artist": "Darshan Raval",
+      "album": "Teraa Surroor",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-13T06:04:38.267Z"
     }
   ]
 }
