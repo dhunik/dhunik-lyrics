@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-06-09T13:53:54.859Z",
+  "updated_at": "2026-06-13T07:24:52.812Z",
   "entries": [
     {
-      "hash": "375551e2ee5cede7",
-      "track": "Kashi Vishwanath Mantra",
-      "artist": "Rinky Vishwakarma",
-      "album": "Kashi Vishwanath Mantra",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-08T02:46:13.139Z"
-    },
-    {
-      "hash": "30a7b698c1baa5a4",
-      "track": "Karma Police",
-      "artist": "Anchor + Bell",
-      "album": "Radiohead",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-08T07:54:09.685Z"
-    },
-    {
-      "hash": "c5c0d19f57e5c8bf",
-      "track": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
-      "artist": "Jubin Nautiyal, Rochak Kohli, A.M. Turaz",
-      "album": "Khushi Jab Bhi Teri (Feat.Khushalii Kumar)",
+      "hash": "9210904a5f5b68d0",
+      "track": "KKBN",
+      "artist": "KR$NA, Lambo Drive - Yours Truly",
+      "album": "KR$NA, Lambo Drive - Yours Truly",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-09T09:36:21.102Z"
-    },
-    {
-      "hash": "e8eb7e17fbbaa7d9",
-      "track": "Kahin Door Jab Din Dhal Jaye",
-      "artist": "Mukesh",
-      "album": "Anand",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:53:53.838Z"
+      "cached_at": "2026-06-13T07:21:02.049Z"
     }
   ]
 }
