@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-13T06:02:45.415Z",
+  "updated_at": "2026-06-13T07:24:52.814Z",
   "entries": [
     {
-      "hash": "9bd533c0058d79dd",
-      "track": "Soniye",
-      "artist": "KK, Sunidhi Chauhan",
-      "album": "Aksar",
+      "hash": "9210904a5f5b68d0",
+      "track": "KKBN",
+      "artist": "KR$NA, Lambo Drive - Yours Truly",
+      "album": "KR$NA, Lambo Drive - Yours Truly",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T05:54:45.783Z"
-    },
-    {
-      "hash": "5a862737b10f686c",
-      "track": "It Ain't Me",
-      "artist": "Kygo, Selena Gomez",
-      "album": "Stargazing - EP",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T06:02:44.575Z"
+      "has_plain": true,
+      "cached_at": "2026-06-13T07:21:02.049Z"
     }
   ]
 }
