@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-06-12T15:47:54.335Z",
+  "updated_at": "2026-06-14T08:35:29.017Z",
   "entries": [
     {
-      "hash": "541ee61aaae77d57",
-      "track": "Jai Shri Ram (Jubin Nautiyal Version)",
-      "artist": "Ajay-Atul, Jubin Nautiyal, Manoj Muntashir",
-      "album": "Jai Shri Ram (Jubin Nautiyal Version)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:03:10.869Z"
-    },
-    {
-      "hash": "a40536b13b95186e",
-      "track": "Jab Tak Hai Jaan",
-      "artist": "A.R. Rahman, Javed Ali, Shakthi Sree Gopalan, Gulzar",
-      "album": "Jab Tak Hai Jaan",
+      "hash": "bc7156e6a1572b07",
+      "track": "Kamariya",
+      "artist": "Aastha Gill, Jigar Saraiya, Divya Kumar, Sachin Sanghvi",
+      "album": "Stree",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-10T01:27:33.070Z"
-    },
-    {
-      "hash": "79d3b9f74a5b8d25",
-      "track": "Backbone",
-      "artist": "Harrdy Sandhu, Jaani",
-      "album": "Backbone",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-12T15:47:49.174Z"
+      "cached_at": "2026-06-14T08:35:16.337Z"
     }
   ]
 }
