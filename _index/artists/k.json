@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-13T07:24:52.814Z",
+  "updated_at": "2026-06-14T08:05:14.576Z",
   "entries": [
     {
       "hash": "9210904a5f5b68d0",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-13T07:21:02.049Z"
+    },
+    {
+      "hash": "ea7dfbb9d59ac785",
+      "track": "Nathuniya",
+      "artist": "Khesari Lal Yadav, Priyanka Singh",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-14T08:05:11.597Z"
     }
   ]
 }
