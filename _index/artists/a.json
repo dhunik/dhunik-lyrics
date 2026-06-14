@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-12T16:03:02.053Z",
+  "updated_at": "2026-06-14T08:35:29.014Z",
   "entries": [
     {
-      "hash": "d57f28d289634ee8",
-      "track": "Alankarinchunu",
-      "artist": "Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, Allen Ganta, John Erry, Enosh Kumar, Jonah Samuel, Anu Samuel, Sreshta Karmoji, Merlyn Salvadi",
-      "album": "Alankarinchunu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-12T13:16:14.246Z"
-    },
-    {
-      "hash": "26ec22721976fc3c",
-      "track": "Tu Jo Hain",
-      "artist": "Ankit Tiwari",
-      "album": "Mr. X",
+      "hash": "bc7156e6a1572b07",
+      "track": "Kamariya",
+      "artist": "Aastha Gill, Jigar Saraiya, Divya Kumar, Sachin Sanghvi",
+      "album": "Stree",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-12T16:03:00.949Z"
+      "has_plain": true,
+      "cached_at": "2026-06-14T08:35:16.337Z"
     }
   ]
 }
