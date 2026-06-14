@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-06-14T08:26:13.789Z",
+  "updated_at": "2026-06-14T08:35:39.820Z",
   "entries": [
     {
       "hash": "1acc715fd6717dd0",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-14T08:26:12.971Z"
+    },
+    {
+      "hash": "a96e90b4d1a44d72",
+      "track": "Kho Gaye Hum Kahan",
+      "artist": "Jasleen Royal, Prateek Kuhad",
+      "album": "Jasleen Royal",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-14T08:35:38.702Z"
     }
   ]
 }
