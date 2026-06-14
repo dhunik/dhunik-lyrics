@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-10T07:37:38.379Z",
+  "updated_at": "2026-06-14T08:35:29.024Z",
   "entries": [
     {
-      "hash": "2764481977249520",
-      "track": "Madhuram Madhuram",
-      "artist": "Padma, Sridevi, Mickey J. Meyer",
-      "album": "Brahmotsavam",
+      "hash": "bc7156e6a1572b07",
+      "track": "Kamariya",
+      "artist": "Aastha Gill, Jigar Saraiya, Divya Kumar, Sachin Sanghvi",
+      "album": "Stree",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-10T07:37:12.586Z"
+      "cached_at": "2026-06-14T08:35:16.337Z"
     }
   ]
 }
