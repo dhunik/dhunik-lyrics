@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-13T06:30:55.208Z",
+  "updated_at": "2026-06-17T05:41:41.823Z",
   "entries": [
     {
-      "hash": "38bd1d0360b96593",
-      "track": "All Rise",
-      "artist": "Blue",
-      "album": "The Platinum Collection",
+      "hash": "f7767690f1843b58",
+      "track": "Mercy (DJ Chetas Remix)",
+      "artist": "Badshah, Dj Chetas",
+      "album": "Mercy (DJ Chetas Remix)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-12T15:14:12.280Z"
-    },
-    {
-      "hash": "0f3d0498ce63cdcd",
-      "track": "Rasputin",
-      "artist": "Boney M.",
-      "album": "Les Essentiels",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T06:30:54.474Z"
+      "cached_at": "2026-06-17T05:37:25.160Z"
     }
   ]
 }
