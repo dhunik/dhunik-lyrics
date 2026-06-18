@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-14T08:05:14.576Z",
+  "updated_at": "2026-06-18T19:18:50.713Z",
   "entries": [
     {
-      "hash": "9210904a5f5b68d0",
-      "track": "KKBN",
-      "artist": "KR$NA, Lambo Drive - Yours Truly",
-      "album": "KR$NA, Lambo Drive - Yours Truly",
+      "hash": "428a98567bda4385",
+      "track": "Teri Yaari",
+      "artist": "Millind Gaba, Aparshakti Khurana, King Kaazi",
+      "album": "Teri Yaari",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-13T07:21:02.049Z"
-    },
-    {
-      "hash": "ea7dfbb9d59ac785",
-      "track": "Nathuniya",
-      "artist": "Khesari Lal Yadav, Priyanka Singh",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-14T08:05:11.597Z"
+      "cached_at": "2026-06-18T19:18:00.132Z"
     }
   ]
 }
