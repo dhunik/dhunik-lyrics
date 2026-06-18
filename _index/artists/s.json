@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-14T08:35:29.024Z",
+  "updated_at": "2026-06-18T08:13:46.299Z",
   "entries": [
     {
-      "hash": "bc7156e6a1572b07",
-      "track": "Kamariya",
-      "artist": "Aastha Gill, Jigar Saraiya, Divya Kumar, Sachin Sanghvi",
-      "album": "Stree",
+      "hash": "17316aede5ef3445",
+      "track": "Oceans",
+      "artist": "Seafret",
+      "album": "Oceans - EP",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-14T08:35:16.337Z"
+      "cached_at": "2026-06-18T08:13:31.138Z"
     }
   ]
 }
