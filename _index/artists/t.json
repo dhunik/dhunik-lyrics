@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-06-13T06:59:05.037Z",
+  "updated_at": "2026-06-18T08:09:18.512Z",
   "entries": [
     {
-      "hash": "fc56c7e0f454cef6",
-      "track": "Breakeven",
-      "artist": "The Script",
+      "hash": "abcc34fe16d4387e",
+      "track": "Six Degrees of Separation",
+      "artist": "The Script - #3",
       "album": "The Script",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T06:55:59.800Z"
+      "has_plain": true,
+      "cached_at": "2026-06-18T08:08:47.709Z"
     }
   ]
 }
