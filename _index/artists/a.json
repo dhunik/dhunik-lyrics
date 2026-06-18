@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-14T08:35:29.014Z",
+  "updated_at": "2026-06-18T19:18:50.710Z",
   "entries": [
     {
-      "hash": "bc7156e6a1572b07",
-      "track": "Kamariya",
-      "artist": "Aastha Gill, Jigar Saraiya, Divya Kumar, Sachin Sanghvi",
-      "album": "Stree",
+      "hash": "428a98567bda4385",
+      "track": "Teri Yaari",
+      "artist": "Millind Gaba, Aparshakti Khurana, King Kaazi",
+      "album": "Teri Yaari",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-14T08:35:16.337Z"
+      "cached_at": "2026-06-18T19:18:00.132Z"
     }
   ]
 }
