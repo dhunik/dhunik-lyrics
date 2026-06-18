@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-10T18:31:28.763Z",
+  "updated_at": "2026-06-18T19:24:15.609Z",
   "entries": [
     {
       "hash": "fb25e3c34b328cd2",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-10T18:25:17.292Z"
+    },
+    {
+      "hash": "1ae19af90a014c8a",
+      "track": "Genda Phool (From \"Delhi-6\")",
+      "artist": "Rekha Bhardwaj",
+      "album": "Rekha Bhardwaj Song Collection",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-18T19:24:11.785Z"
     }
   ]
 }
