@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-05-20T05:04:21.834Z",
+  "updated_at": "2026-06-18T19:21:38.650Z",
   "entries": [
     {
       "hash": "0e597d9de4bf0848",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-05-20T05:03:51.701Z"
+    },
+    {
+      "hash": "7592aed62830d1ac",
+      "track": "Bekhayali (From \"Kabir Singh\")",
+      "artist": "Sachet Tandon, Sachet-Parampara, Irshad Kamil",
+      "album": "null",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-18T19:21:37.532Z"
     }
   ]
 }
