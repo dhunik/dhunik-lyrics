@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-06-13T06:22:25.249Z",
+  "updated_at": "2026-06-20T03:57:59.255Z",
   "entries": [
     {
-      "hash": "7e32a661c5adf8df",
-      "track": "Pal Pal Dil Ke Paas (From \"Blackmail\")",
-      "artist": "Kishore Kumar",
-      "album": "70s Special - Hindi",
+      "hash": "f47d53be4874f8c6",
+      "track": "Pala Satake",
+      "artist": "Pawan Singh",
+      "album": "Sarkar Raj",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-05-30T15:21:33.408Z"
-    },
-    {
-      "hash": "0a3a04c48a38b819",
-      "track": "Pathikichu",
-      "artist": "Anirudh Ravichander, Yogi Sekar, Amogh Balaji",
-      "album": "Anirudh Ravichander, Yogi Sekar, Amogh Balaji",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:37:40.389Z"
-    },
-    {
-      "hash": "4b699fb73025a8eb",
-      "track": "Paaro",
-      "artist": "Aditya Rikhari",
-      "album": "Jaana",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-04T05:40:02.382Z"
-    },
-    {
-      "hash": "c2ce55ea3d452034",
-      "track": "Pal Pal (Talwiinder Verse)",
-      "artist": "Talwiinder",
-      "album": "Pal Pal (Talwiinder Verse)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-08T14:22:52.596Z"
-    },
-    {
-      "hash": "3964771bd68ca531",
-      "track": "Poker Face",
-      "artist": "Lady Gaga",
-      "album": "The Fame",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T06:22:24.446Z"
+      "cached_at": "2026-06-20T03:51:47.255Z"
     }
   ]
 }
