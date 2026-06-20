@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-18T19:21:38.637Z",
+  "updated_at": "2026-06-20T03:34:05.078Z",
   "entries": [
     {
-      "hash": "17316aede5ef3445",
-      "track": "Oceans",
-      "artist": "Seafret",
-      "album": "Oceans - EP",
-      "has_synced": true,
+      "hash": "fdfe1b2ee183b963",
+      "track": "Swathi Reddy",
+      "artist": "Bheems Ceciroleo, Swathi Reddy UK",
+      "album": "Mad Square",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-18T08:13:31.138Z"
-    },
-    {
-      "hash": "7592aed62830d1ac",
-      "track": "Bekhayali (From \"Kabir Singh\")",
-      "artist": "Sachet Tandon, Sachet-Parampara, Irshad Kamil",
-      "album": "null",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-18T19:21:37.532Z"
+      "cached_at": "2026-06-20T03:33:06.626Z"
     }
   ]
 }
