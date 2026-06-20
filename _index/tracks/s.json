@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-06-18T08:09:18.509Z",
+  "updated_at": "2026-06-20T03:34:05.074Z",
   "entries": [
     {
-      "hash": "abcc34fe16d4387e",
-      "track": "Six Degrees of Separation",
-      "artist": "The Script - #3",
-      "album": "The Script",
-      "has_synced": true,
+      "hash": "fdfe1b2ee183b963",
+      "track": "Swathi Reddy",
+      "artist": "Bheems Ceciroleo, Swathi Reddy UK",
+      "album": "Mad Square",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-18T08:08:47.709Z"
+      "cached_at": "2026-06-20T03:33:06.626Z"
     }
   ]
 }
