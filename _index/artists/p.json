@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-06-14T08:35:39.820Z",
+  "updated_at": "2026-06-20T03:57:59.257Z",
   "entries": [
     {
-      "hash": "1acc715fd6717dd0",
-      "track": "Tu Hi Meri Shab Hai",
-      "artist": "Pritam, KK - Gangster",
-      "album": "Gangster",
+      "hash": "f47d53be4874f8c6",
+      "track": "Pala Satake",
+      "artist": "Pawan Singh",
+      "album": "Sarkar Raj",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-06-11T13:39:51.549Z"
-    },
-    {
-      "hash": "ea7dfbb9d59ac785",
-      "track": "Nathuniya",
-      "artist": "Khesari Lal Yadav, Priyanka Singh",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-14T08:05:11.597Z"
-    },
-    {
-      "hash": "092b308a5275d6f7",
-      "track": "Teri Laal Chunariya",
-      "artist": "Pawan Singh, Javed-Mohsin, Rashmi-Virag",
-      "album": "Teri Laal Chunariya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-14T08:26:12.971Z"
-    },
-    {
-      "hash": "a96e90b4d1a44d72",
-      "track": "Kho Gaye Hum Kahan",
-      "artist": "Jasleen Royal, Prateek Kuhad",
-      "album": "Jasleen Royal",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-14T08:35:38.702Z"
+      "cached_at": "2026-06-20T03:51:47.255Z"
     }
   ]
 }
