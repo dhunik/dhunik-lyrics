@@ -2,133 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "track",
-  "updated_at": "2026-06-13T06:30:55.206Z",
+  "updated_at": "2026-06-20T04:04:57.960Z",
   "entries": [
     {
-      "hash": "4c59296c1caf8031",
-      "track": "Raza",
-      "artist": "Tarsem Jassar",
-      "album": "Raza",
+      "hash": "b04b6fce7b67406d",
+      "track": "RajaJi Ke Dilwa",
+      "artist": "Pawan Singh, Shivani Singh",
+      "album": "Rajaji Ke Dilwa",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-04-22T13:42:39.362Z"
-    },
-    {
-      "hash": "3bfedc6ff43e191d",
-      "track": "Rafta Rafta Wo Meri Hasti Ka",
-      "artist": "Puthhay Pangay",
-      "album": "Rafta Rafta Wo Meri Hasti Ka",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-02T19:11:11.256Z"
-    },
-    {
-      "hash": "1a6ade32d159f3da",
-      "track": "Rihaayi",
-      "artist": "Paradox",
-      "album": "Mtv Hustle 2.0",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-14T05:48:17.934Z"
-    },
-    {
-      "hash": "6c0f33fd252f5e8d",
-      "track": "Radha Naam ( Unplugged )",
-      "artist": "Shri Hit Premanand Govind Sharan Ji Maharaj",
-      "album": "Radha Naam - Unplugged",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-15T13:18:17.416Z"
-    },
-    {
-      "hash": "525f838408084a7a",
-      "track": "Racks and Rounds (feat. Sikander Kahlon)",
-      "artist": "Sidhu Moose Wala, Sikander Kahlon",
-      "album": "Moosetape",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-19T05:58:49.532Z"
-    },
-    {
-      "hash": "e1785ab81311efa7",
-      "track": "Raja Aala",
-      "artist": "Avadhoot Gupte",
-      "album": "Pawankhind",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T04:54:16.604Z"
-    },
-    {
-      "hash": "ba9624d9483bc743",
-      "track": "Raga of Revenge (From \"DC\")",
-      "artist": "Anirudh Ravichander",
-      "album": "Raga of Revenge (From \"DC\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-22T12:28:22.143Z"
-    },
-    {
-      "hash": "7f5edf6a4e5d8f76",
-      "track": "Ragile Ragile",
-      "artist": "Anirudh Ravichander",
-      "album": "Kingdom",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-22T12:36:31.010Z"
-    },
-    {
-      "hash": "f0c3faf54b8993a8",
-      "track": "Ranjha (Lofi Flip)",
-      "artist": "VIBIE, Jasleen Royal, B Praak, Bollywood Lofi",
-      "album": "Ranjha",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T08:51:05.510Z"
-    },
-    {
-      "hash": "2ae00d43416e9a26",
-      "track": "Raja Shivaji Anthem 'Chhatrapati' (From \"Raja Shivaji\")",
-      "artist": "Ajay-Atul, Ajay Gogavale",
-      "album": "Raja Shivaji",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T14:03:35.019Z"
-    },
-    {
-      "hash": "21df4c59601530cb",
-      "track": "Radha Naam Jaap",
-      "artist": "Sanatan Bhakti Music",
-      "album": "Radha Naam Jaap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-30T07:30:05.889Z"
-    },
-    {
-      "hash": "dce7379d983d9b7b",
-      "track": "Raavana Mavandaa (From \"Jana Nayagan\")",
-      "artist": "Anirudh Ravichander, Vivek - Raavana Mavandaa (From \"Jana Nayagan\")",
-      "album": "Raavana Mavandaa",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:39:21.770Z"
-    },
-    {
-      "hash": "7dab57c399658efb",
-      "track": "Raeth Ki Tarah",
-      "artist": "Rajat (RD)",
-      "album": "3 A.M.",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-06T11:38:00.023Z"
-    },
-    {
-      "hash": "0f3d0498ce63cdcd",
-      "track": "Rasputin",
-      "artist": "Boney M.",
-      "album": "Les Essentiels",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T06:30:54.474Z"
+      "cached_at": "2026-06-20T03:58:59.059Z"
     }
   ]
 }
