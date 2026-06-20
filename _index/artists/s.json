@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-20T03:34:05.078Z",
+  "updated_at": "2026-06-20T04:04:57.962Z",
   "entries": [
     {
-      "hash": "fdfe1b2ee183b963",
-      "track": "Swathi Reddy",
-      "artist": "Bheems Ceciroleo, Swathi Reddy UK",
-      "album": "Mad Square",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-20T03:33:06.626Z"
+      "hash": "b04b6fce7b67406d",
+      "track": "RajaJi Ke Dilwa",
+      "artist": "Pawan Singh, Shivani Singh",
+      "album": "Rajaji Ke Dilwa",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-20T03:58:59.059Z"
     }
   ]
 }
