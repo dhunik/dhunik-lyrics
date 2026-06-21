@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-20T04:04:57.962Z",
+  "updated_at": "2026-06-21T03:42:26.324Z",
   "entries": [
     {
-      "hash": "b04b6fce7b67406d",
-      "track": "RajaJi Ke Dilwa",
-      "artist": "Pawan Singh, Shivani Singh",
-      "album": "Rajaji Ke Dilwa",
+      "hash": "85aefd1b021fe457",
+      "track": "Sapne Mein",
+      "artist": "Asha Bhosle, Suresh Wadkar",
+      "album": "Satya",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-20T03:58:59.059Z"
+      "has_plain": true,
+      "cached_at": "2026-06-21T03:42:13.506Z"
     }
   ]
 }
