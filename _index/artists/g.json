@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-06-21T03:42:33.445Z",
+  "updated_at": "2026-06-21T03:43:32.279Z",
   "entries": [
     {
       "hash": "d61f9b97a0312388",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-21T03:42:32.694Z"
+    },
+    {
+      "hash": "160a183610f3b30e",
+      "track": "Zindagi Se (Live)",
+      "artist": "Ghulam Ali  - Live in USA - Mehfil Series",
+      "album": "Ghulam Ali  - Live in USA - Mehfil Series",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-21T03:43:28.546Z"
     }
   ]
 }
