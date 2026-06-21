@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-18T19:18:50.710Z",
+  "updated_at": "2026-06-21T03:42:26.316Z",
   "entries": [
     {
       "hash": "428a98567bda4385",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-18T19:18:00.132Z"
+    },
+    {
+      "hash": "85aefd1b021fe457",
+      "track": "Sapne Mein",
+      "artist": "Asha Bhosle, Suresh Wadkar",
+      "album": "Satya",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-21T03:42:13.506Z"
     }
   ]
 }
