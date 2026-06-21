@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-05-28T03:39:30.244Z",
+  "updated_at": "2026-06-21T03:41:56.416Z",
   "entries": [
     {
-      "hash": "8db16fb5b2915c43",
-      "track": "Dil Ke Badle Sanam",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Kyon Ki - It's Fate",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-15T17:37:26.884Z"
-    },
-    {
-      "hash": "8bd2189fad442e8f",
-      "track": "Hawaon Ne Yeh Kaha (Aap Mujhe Achche Lagne Lage / Soundtrack Version)",
-      "artist": "Udit Narayan - Aap Mujhe Achche Lagne Lage",
-      "album": "Aap Mujhe Achche Lagne Lage",
+      "hash": "76f4286a3442dca7",
+      "track": "Chithi Na Koi Sandesh",
+      "artist": "Uttam Singh, Jagjit Singh",
+      "album": "Dushman",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-29T20:11:20.838Z"
-    },
-    {
-      "hash": "a0bedc847e33ec3f",
-      "track": "Falak Dekhun (Udit Narayan)",
-      "artist": "Udit Narayan",
-      "album": "Garam Masala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:35:30.528Z"
-    },
-    {
-      "hash": "46026ac5792c66f3",
-      "track": "Tere Naam (Sad)",
-      "artist": "Udit Narayan",
-      "album": "Tere Naam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:36:50.070Z"
-    },
-    {
-      "hash": "77cee069bc42b648",
-      "track": "O Jaana",
-      "artist": "Udit Narayan, Kamaal Khan, KK, Alka Yagnik",
-      "album": "Salman's Swag Anthems",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-05-28T03:39:21.874Z"
+      "cached_at": "2026-06-21T03:41:37.849Z"
     }
   ]
 }
