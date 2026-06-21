@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-06-12T13:25:58.039Z",
+  "updated_at": "2026-06-21T03:42:33.445Z",
   "entries": [
     {
       "hash": "d61f9b97a0312388",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-12T13:24:00.870Z"
+    },
+    {
+      "hash": "bd5ec0cf0c7f5f17",
+      "track": "Ye Dil Ye Pagal Dil Mera",
+      "artist": "Ghulam Ali ",
+      "album": "Maati Maangey Khoon",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-21T03:42:32.694Z"
     }
   ]
 }
