@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-06-13T07:26:29.876Z",
+  "updated_at": "2026-06-22T17:41:29.984Z",
   "entries": [
     {
-      "hash": "541ee61aaae77d57",
-      "track": "Jai Shri Ram (Jubin Nautiyal Version)",
-      "artist": "Ajay-Atul, Jubin Nautiyal, Manoj Muntashir",
-      "album": "Jai Shri Ram (Jubin Nautiyal Version)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:03:10.869Z"
-    },
-    {
-      "hash": "9465f41615d9cff8",
-      "track": "J Generation",
-      "artist": "Benny Joshua - J Generation",
-      "album": "J Generation",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-12T09:52:34.292Z"
-    },
-    {
-      "hash": "0c78918c3910b6b3",
-      "track": "Jungli Sher",
-      "artist": "DIVINE",
-      "album": "Unknown",
+      "hash": "ac76cb5ae6e795dd",
+      "track": "Jee Le Zaraa",
+      "artist": "Vishal Dadlani",
+      "album": "Talaash",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-13T07:26:20.967Z"
+      "has_plain": false,
+      "cached_at": "2026-06-22T17:39:41.986Z"
     }
   ]
 }
