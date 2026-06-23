@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-21T03:42:26.324Z",
+  "updated_at": "2026-06-23T09:14:56.845Z",
   "entries": [
     {
-      "hash": "85aefd1b021fe457",
-      "track": "Sapne Mein",
-      "artist": "Asha Bhosle, Suresh Wadkar",
-      "album": "Satya",
+      "hash": "978d20500f07afaa",
+      "track": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "artist": "Jawad Ahmad, Sharib Toshi, Alia Bhatt",
+      "album": "Alia Bhatt Bollywood Darling",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-21T03:42:13.506Z"
+      "cached_at": "2026-06-23T09:10:58.609Z"
     }
   ]
 }
