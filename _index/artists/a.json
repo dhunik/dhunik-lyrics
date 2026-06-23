@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-21T03:42:26.316Z",
+  "updated_at": "2026-06-23T02:40:55.750Z",
   "entries": [
     {
       "hash": "428a98567bda4385",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-21T03:42:13.506Z"
+    },
+    {
+      "hash": "9344db8c9e2dd69a",
+      "track": "Tamally ma-ak (Te voy a dejar) (Te voy a dejar)",
+      "artist": "Andrea Del Valle",
+      "album": "Mujer",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-23T02:40:54.895Z"
     }
   ]
 }
