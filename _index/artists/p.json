@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-06-20T03:57:59.257Z",
+  "updated_at": "2026-06-23T02:23:41.559Z",
   "entries": [
     {
       "hash": "f47d53be4874f8c6",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-20T03:51:47.255Z"
+    },
+    {
+      "hash": "265c8ac387d0ea04",
+      "track": "Chadhal Jawani Rasgulla",
+      "artist": "Neelkamal Singh, Shilpi Raj, Priyanshu Singh - Chadhal Jawani Rasgulla",
+      "album": "Chadhal Jawani Rasgulla",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-23T02:23:40.069Z"
     }
   ]
 }
