@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-06-14T08:35:29.017Z",
+  "updated_at": "2026-06-23T09:14:56.854Z",
   "entries": [
     {
-      "hash": "bc7156e6a1572b07",
-      "track": "Kamariya",
-      "artist": "Aastha Gill, Jigar Saraiya, Divya Kumar, Sachin Sanghvi",
-      "album": "Stree",
+      "hash": "978d20500f07afaa",
+      "track": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
+      "artist": "Jawad Ahmad, Sharib Toshi, Alia Bhatt",
+      "album": "Alia Bhatt Bollywood Darling",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-14T08:35:16.337Z"
+      "cached_at": "2026-06-23T09:10:58.609Z"
     }
   ]
 }
