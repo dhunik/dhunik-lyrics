@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-23T09:14:56.843Z",
+  "updated_at": "2026-06-24T09:13:59.673Z",
   "entries": [
     {
-      "hash": "978d20500f07afaa",
-      "track": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "artist": "Jawad Ahmad, Sharib Toshi, Alia Bhatt",
-      "album": "Alia Bhatt Bollywood Darling",
+      "hash": "e9121404cfbabfd4",
+      "track": "Maahi Ve",
+      "artist": "A.R. Rahman",
+      "album": "A. R. Rahman",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-23T09:10:58.609Z"
+      "cached_at": "2026-06-24T09:12:21.292Z"
     }
   ]
 }
