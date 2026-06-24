@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-24T13:25:19.633Z",
+  "updated_at": "2026-06-24T13:25:43.834Z",
   "entries": [
     {
       "hash": "3ab671e9790d54a1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-24T13:21:25.873Z"
+    },
+    {
+      "hash": "6d5d0063b7b55408",
+      "track": "Agar Tum Na Hote Kishore Kumar",
+      "artist": "Kishore Kumar",
+      "album": "Top 10 Teddy Day Special Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-24T13:25:35.827Z"
     }
   ]
 }
