@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-24T09:13:59.673Z",
+  "updated_at": "2026-06-24T13:16:23.518Z",
   "entries": [
     {
       "hash": "e9121404cfbabfd4",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-24T09:12:21.292Z"
+    },
+    {
+      "hash": "8bd9e3fa7137e16a",
+      "track": "Yeh Shaam Mastani",
+      "artist": "Abhijeet, Kishore Kumar",
+      "album": "Gems Of Kishore Kumar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-24T13:16:16.379Z"
     }
   ]
 }
