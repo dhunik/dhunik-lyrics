@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-06-08T08:01:12.881Z",
+  "updated_at": "2026-06-24T01:34:47.229Z",
   "entries": [
     {
       "hash": "e571d5e0ec06b8e5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-08T08:00:50.625Z"
+    },
+    {
+      "hash": "0d5ae9aec7842b4e",
+      "track": "Sairat Zaala Ji",
+      "artist": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
+      "album": "Sairat",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-24T01:34:37.588Z"
     }
   ]
 }
