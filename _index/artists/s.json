@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-23T09:14:56.845Z",
+  "updated_at": "2026-06-24T02:15:31.221Z",
   "entries": [
     {
       "hash": "978d20500f07afaa",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-23T09:10:58.609Z"
+    },
+    {
+      "hash": "95e6576da2668588",
+      "track": "Auliya",
+      "artist": "Salim-Sulaiman, Armaan Malik",
+      "album": "Ungli",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-24T02:15:30.309Z"
     }
   ]
 }
