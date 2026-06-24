@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-18T19:18:50.713Z",
+  "updated_at": "2026-06-24T13:21:26.141Z",
   "entries": [
     {
       "hash": "428a98567bda4385",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-18T19:18:00.132Z"
+    },
+    {
+      "hash": "024d8edefc9de0c0",
+      "track": "Chala Jata Hoon",
+      "artist": "Kishore Kumar",
+      "album": "Kishore Kumar",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-24T13:21:25.128Z"
     }
   ]
 }
