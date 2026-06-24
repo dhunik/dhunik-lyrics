@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "z",
   "type": "track",
-  "updated_at": "2026-06-21T03:43:32.193Z",
+  "updated_at": "2026-06-24T13:25:19.637Z",
   "entries": [
     {
-      "hash": "4921aa02afc53f24",
-      "track": "Zara Sa",
-      "artist": "Pritam, KK, Sayeed Quadri - Jannat",
-      "album": "Jannat",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-03-18T13:26:13.424Z"
-    },
-    {
-      "hash": "dd39481853b52a32",
-      "track": "Zaalima",
-      "artist": "Arijit Singh, Harshdeep Kaur",
-      "album": "Raees",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-04-10T19:40:12.139Z"
-    },
-    {
-      "hash": "913008726b513439",
-      "track": "Zara Sa",
-      "artist": "Sayeed Quadri, Pritam, KK",
-      "album": "Jannat (Original Motion Picture Soundtrack)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-04-20T05:22:31.495Z"
-    },
-    {
-      "hash": "5d3943143f48bc12",
-      "track": "Zinda",
-      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
-      "album": "Zinda",
+      "hash": "3ab671e9790d54a1",
+      "track": "Zindagi Ka Safar",
+      "artist": "Kishore Kumar",
+      "album": "Kishore Kumar",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-04-23T03:44:43.585Z"
-    },
-    {
-      "hash": "160a183610f3b30e",
-      "track": "Zindagi Se (Live)",
-      "artist": "Ghulam Ali  - Live in USA - Mehfil Series",
-      "album": "Ghulam Ali  - Live in USA - Mehfil Series",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-21T03:43:28.546Z"
+      "cached_at": "2026-06-24T13:21:25.873Z"
     }
   ]
 }
