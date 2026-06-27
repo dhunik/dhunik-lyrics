@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-06-11T13:52:54.248Z",
+  "updated_at": "2026-06-27T18:14:34.627Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-11T13:52:45.156Z"
+    },
+    {
+      "hash": "26a1fefa7113f707",
+      "track": "Jab Talak (From “Cocktail 2”)",
+      "artist": "Arijit Singh, Akasa, Madhubanti Bagchi, Amitabh Bhattacharya, Pritam - Tujhko (From “Cocktail 2”)",
+      "album": "Tujhko (From “Cocktail 2”)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-27T18:14:31.090Z"
     }
   ]
 }
