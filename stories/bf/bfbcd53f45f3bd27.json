@@ -1,0 +1,133 @@
+{
+  "v": 1,
+  "key": "tujhko from cocktail 2|arijit singh",
+  "track": "Tujhko (From “Cocktail 2”)",
+  "artist": "Arijit Singh, Sunidhi Chauhan, Amitabh Bhattacharya, Pritam",
+  "album": "Tujhko (From “Cocktail 2”)",
+  "language": "English",
+  "generated_at": "2026-06-27T18:09:41.671Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Tujhko' is a romantic ballad expressing the depth of one's love and dependence on another person. The lyrics convey that the reason for living is the beloved, and no one can love them as sincerely as the speaker does. The song takes the listener on an emotional journey of love, longing, and devotion.",
+  "background": {
+    "composition": "The song features a soulful melody composed by Pritam, with a blend of Indian classical and contemporary elements. The music structure complements the emotional intensity of the lyrics.",
+    "cultural_context": "The song is part of the soundtrack for the Bollywood film 'Cocktail 2'. It reflects the cultural theme of love and relationships often portrayed in Indian cinema.",
+    "fun_facts": [
+      "The song features a duet by Arijit Singh and Sunidhi Chauhan, blending their unique vocal styles.",
+      "[Unverified] The song was a chart-topper and received critical acclaim for its composition and lyrics."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "जीने की है तू ही वजह, जीना तेरे लिए",
+      "meaning": "You are the reason for my existence, and I live only for you.",
+      "literary_device": "metaphor",
+      "mood": "longing"
+    },
+    {
+      "original": "मैं क्या कहूँ कि, यार, तू है क्या मेरे लिए",
+      "meaning": "I don't know how to express how much you mean to me, my friend.",
+      "mood": "confusion"
+    },
+    {
+      "original": "ज़माने में कहीं मेरी तरह कभी चाहेगा ना कोई तुझको",
+      "meaning": "No one in the world will ever love you as I do.",
+      "literary_device": "hyperbole",
+      "mood": "devotion"
+    },
+    {
+      "original": "जैसे मैंने दिया, वैसे पूरी तरह दिल देगा ना कोई तुझको",
+      "meaning": "No one can give you their heart as completely as I have.",
+      "literary_device": "simile",
+      "mood": "sincerity"
+    },
+    {
+      "original": "तुझको, जब से मिला तुझको",
+      "meaning": "Since I met you",
+      "mood": "joy"
+    },
+    {
+      "original": "सुबह की सारी फुर्तियाँ, बेख़ुदी हर शाम की",
+      "meaning": "All the freshness of the morning and the intoxication of every evening",
+      "literary_device": "metaphor",
+      "mood": "romance"
+    },
+    {
+      "original": "ना हो तेरे साथ में तो मेरी किस काम की?",
+      "meaning": "If I don't have you with me, what's the use of my life?",
+      "literary_device": "rhetorical question",
+      "mood": "desperation"
+    },
+    {
+      "original": "उठे जो मेरा हर क़दम तेरे संग शुरुआत में",
+      "meaning": "Every step I take is with you by my side from the beginning",
+      "literary_device": "metaphor",
+      "mood": "togetherness"
+    },
+    {
+      "original": "हाथ डाले हाथ में, फ़िक्र क्या अंजाम की?",
+      "meaning": "If we hold hands, what worry is there for the outcome?",
+      "literary_device": "metaphor",
+      "mood": "hope"
+    },
+    {
+      "original": "मुझमें ज़्यादा अब तू ही है",
+      "meaning": "You are more in me now",
+      "mood": "intimacy"
+    },
+    {
+      "original": "जितना मैं हूँ, वो क्यूँ ही है?",
+      "meaning": "The more I am, the more I realize it's because of you",
+      "mood": "realization"
+    },
+    {
+      "original": "कुछ ऐसा कर, मैं ढूँढूँ भी तो पाऊँ ना ख़ुद को",
+      "meaning": "Do something that even if I search, I won't find myself without you",
+      "literary_device": "hyperbole",
+      "mood": "dependence"
+    },
+    {
+      "original": "तू ही तो आसमाँ, तू ही मेरी ज़मीं",
+      "meaning": "You are my sky and my earth",
+      "literary_device": "metaphor",
+      "mood": "adoration"
+    },
+    {
+      "original": "बिन माँगे हर दुआ पूरी हुई मेरी",
+      "meaning": "All my prayers have been answered without me even asking",
+      "literary_device": "metaphor",
+      "mood": "gratitude"
+    },
+    {
+      "original": "ग़लतियाँ भी तेरी मैं गवारा करूँ",
+      "meaning": "I am willing to make mistakes for you",
+      "mood": "devotion"
+    },
+    {
+      "original": "आँखों की है तू रोशनी, तू ही तो ख़्वाब है",
+      "meaning": "You are the light of my eyes, you are my dream",
+      "literary_device": "metaphor",
+      "mood": "romance"
+    },
+    {
+      "original": "मैं हूँ अगर सवाल तो तू ही जवाब है",
+      "meaning": "If I am a question, you are the answer",
+      "literary_device": "metaphor",
+      "mood": "completion"
+    }
+  ],
+  "themes": [
+    "love",
+    "devotion",
+    "longing",
+    "dependence",
+    "romance"
+  ],
+  "mood_arc": [
+    "longing",
+    "devotion",
+    "joy",
+    "desperation",
+    "intimacy",
+    "completion"
+  ]
+}
