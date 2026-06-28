@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-06-24T13:16:23.518Z",
+  "updated_at": "2026-06-28T04:26:35.372Z",
   "entries": [
     {
       "hash": "e9121404cfbabfd4",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-24T13:16:16.379Z"
+    },
+    {
+      "hash": "e89ec6c9c37a00d0",
+      "track": "Humare Saath Shri Raghunath",
+      "artist": "Agam Aggarwal",
+      "album": "Humare Saath Shri Raghunath",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-06-28T04:26:34.444Z"
     }
   ]
 }
