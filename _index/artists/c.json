@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-06-24T01:34:47.229Z",
+  "updated_at": "2026-06-28T11:43:10.425Z",
   "entries": [
     {
       "hash": "e571d5e0ec06b8e5",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-24T01:34:37.588Z"
+    },
+    {
+      "hash": "d1b10a4050d83ce7",
+      "track": "Wicked Game",
+      "artist": "Chris Isaak",
+      "album": "Baking in Autumn",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-06-28T11:43:06.138Z"
     }
   ]
 }
