@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-06-10T07:56:18.861Z",
+  "updated_at": "2026-06-29T11:31:40.069Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-10T07:56:17.812Z"
+    },
+    {
+      "hash": "1a893d4cf52a2852",
+      "track": "Kya",
+      "artist": "Pritam, Neeraj Shridhar",
+      "album": "Crook",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-06-29T11:31:38.990Z"
     }
   ]
 }
