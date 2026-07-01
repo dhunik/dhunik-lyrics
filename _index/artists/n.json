@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-06-29T11:31:40.069Z",
+  "updated_at": "2026-07-01T16:11:19.339Z",
   "entries": [
     {
       "hash": "37c77fab39120f80",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-29T11:31:38.990Z"
+    },
+    {
+      "hash": "3e56b7a489e5b6d2",
+      "track": "Kala Chashma",
+      "artist": "Kumaar, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem & Hardeep",
+      "album": "Holi Party Mix",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-01T16:11:18.072Z"
     }
   ]
 }
