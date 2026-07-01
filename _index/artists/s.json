@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-06-24T02:15:31.221Z",
+  "updated_at": "2026-07-01T16:15:10.001Z",
   "entries": [
     {
       "hash": "978d20500f07afaa",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-24T02:15:30.309Z"
+    },
+    {
+      "hash": "cacc3eb88ee61c64",
+      "track": "The Jawaani Song",
+      "artist": "Vishal & Shekhar, Vishal Dadlani, Payal Dev, Kishore Kumar",
+      "album": "Student of the Year 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-01T16:15:08.977Z"
     }
   ]
 }
