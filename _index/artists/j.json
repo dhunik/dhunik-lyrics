@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-06-23T09:14:56.854Z",
+  "updated_at": "2026-07-01T16:12:37.236Z",
   "entries": [
     {
-      "hash": "978d20500f07afaa",
-      "track": "Samjhawan (Unplugged by Alia Bhatt) [From \"Humpty Sharma Ki Dulhania\"]",
-      "artist": "Jawad Ahmad, Sharib Toshi, Alia Bhatt",
-      "album": "Alia Bhatt Bollywood Darling",
+      "hash": "d911237a604eeade",
+      "track": "Bom Diggy Diggy",
+      "artist": "Jasmin Walia, Zack Knight",
+      "album": "Sonu Ke Titu Ki Sweety",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-23T09:10:58.609Z"
+      "has_plain": false,
+      "cached_at": "2026-07-01T16:12:20.830Z"
     }
   ]
 }
