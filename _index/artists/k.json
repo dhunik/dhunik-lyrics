@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-06-24T13:25:43.834Z",
+  "updated_at": "2026-07-01T16:18:17.989Z",
   "entries": [
     {
       "hash": "3ab671e9790d54a1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-24T13:25:35.827Z"
+    },
+    {
+      "hash": "a52b5cbf9123646b",
+      "track": "Rangisari",
+      "artist": "Kanishk Seth, Kavita Seth",
+      "album": "Jugjugg Jeeyo",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-01T16:18:14.136Z"
     }
   ]
 }
