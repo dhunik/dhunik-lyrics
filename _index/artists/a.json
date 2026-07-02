@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-02T04:17:37.420Z",
+  "updated_at": "2026-07-02T12:03:52.911Z",
   "entries": [
     {
       "hash": "d02a9eff07f19c45",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-02T04:17:36.582Z"
+    },
+    {
+      "hash": "573c356dead94995",
+      "track": "Agar Tum Mil Jao (Lofi Flip)",
+      "artist": "Roopkumar Rathod, Anu Malik, Shreya Ghoshal, VIBIE",
+      "album": "Agar Tum Mil Jao (Lofi Flip)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-02T12:03:51.576Z"
     }
   ]
 }
