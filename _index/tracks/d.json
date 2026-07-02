@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-06-18T19:24:11.770Z",
+  "updated_at": "2026-07-02T04:18:10.311Z",
   "entries": [
     {
-      "hash": "4c2a845e85e52524",
-      "track": "Dheere Dheere (Chill Pop Mix)[Remix By Dj Rik]",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Yo Yo Honey Singh",
+      "hash": "ef8039240d2448e6",
+      "track": "Dil Mera Blast",
+      "artist": "Darshan Raval",
+      "album": "Dil Mera Blast",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-18T19:23:19.508Z"
+      "cached_at": "2026-07-02T04:17:57.438Z"
     }
   ]
 }
