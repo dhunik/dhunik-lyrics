@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-02T12:10:16.922Z",
+  "updated_at": "2026-07-02T12:25:34.803Z",
   "entries": [
     {
-      "hash": "2f96dc843a77751b",
-      "track": "Tujh Mein Rab Dikhta Hai - II",
-      "artist": "Salim-Sulaiman, Shreya Ghoshal, Jaideep Sahni",
-      "album": "Rab Ne Bana Di Jodi",
+      "hash": "dc8f6c337148f34b",
+      "track": "Yeh Raaten Yeh Mausam",
+      "artist": "Sanam Puri, Simran Sehgal",
+      "album": "Revisited Sanam",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-02T12:08:44.559Z"
+      "cached_at": "2026-07-02T12:25:22.454Z"
     }
   ]
 }
