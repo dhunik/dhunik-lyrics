@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-02T04:17:40.369Z",
+  "updated_at": "2026-07-02T04:18:10.313Z",
   "entries": [
     {
-      "hash": "4164d0f5bb9aa217",
-      "track": "Boom Shaka",
-      "artist": "Dhanda Nyoliwala, KR$NA",
-      "album": "Boom Shaka",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:48:54.961Z"
-    },
-    {
-      "hash": "a2d33a416d391bf4",
-      "track": "స్థిరపరచువాడవు (Sthiraparachuvaadavu)",
-      "artist": "Daniel Praneeth",
-      "album": "స్థిరపరచువాడవు (Sthiraparachuvaadavu)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:36:35.711Z"
-    },
-    {
-      "hash": "31518037df968a08",
-      "track": "The Blessing",
-      "artist": "D2-Ronomy, B-Fresh",
-      "album": "Timeless",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:38:04.843Z"
-    },
-    {
-      "hash": "eb90244943cd97b4",
-      "track": "Ghost",
-      "artist": "Diljit Dosanjh, Thiarajxtt",
-      "album": "Ghost",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T05:21:35.343Z"
-    },
-    {
-      "hash": "9a01d11ec43a7062",
-      "track": "Main Woh Chaand",
+      "hash": "ef8039240d2448e6",
+      "track": "Dil Mera Blast",
       "artist": "Darshan Raval",
-      "album": "Teraa Surroor",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T06:04:38.267Z"
-    },
-    {
-      "hash": "0c78918c3910b6b3",
-      "track": "Jungli Sher",
-      "artist": "DIVINE",
-      "album": "Unknown",
+      "album": "Dil Mera Blast",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-13T07:26:20.967Z"
-    },
-    {
-      "hash": "2b12403ede3107dd",
-      "track": "Tera Zikr",
-      "artist": "Darshan Raval",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-02T04:17:39.474Z"
+      "cached_at": "2026-07-02T04:17:57.438Z"
     }
   ]
 }
