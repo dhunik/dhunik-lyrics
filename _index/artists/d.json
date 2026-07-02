@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-06-13T07:26:29.944Z",
+  "updated_at": "2026-07-02T04:17:40.369Z",
   "entries": [
     {
       "hash": "4164d0f5bb9aa217",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-13T07:26:20.967Z"
+    },
+    {
+      "hash": "2b12403ede3107dd",
+      "track": "Tera Zikr",
+      "artist": "Darshan Raval",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-02T04:17:39.474Z"
     }
   ]
 }
