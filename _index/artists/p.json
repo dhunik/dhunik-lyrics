@@ -2,35 +2,8 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-06-29T11:31:40.080Z",
+  "updated_at": "2026-07-02T17:00:45.483Z",
   "entries": [
-    {
-      "hash": "f47d53be4874f8c6",
-      "track": "Pala Satake",
-      "artist": "Pawan Singh",
-      "album": "Sarkar Raj",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-20T03:51:47.255Z"
-    },
-    {
-      "hash": "265c8ac387d0ea04",
-      "track": "Chadhal Jawani Rasgulla",
-      "artist": "Neelkamal Singh, Shilpi Raj, Priyanshu Singh - Chadhal Jawani Rasgulla",
-      "album": "Chadhal Jawani Rasgulla",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-23T02:23:40.069Z"
-    },
-    {
-      "hash": "5a0edbba8ef60621",
-      "track": "All Eyes",
-      "artist": "Post War Years",
-      "album": "All Eyes",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-28T11:41:39.684Z"
-    },
     {
       "hash": "1a893d4cf52a2852",
       "track": "Kya",
@@ -38,7 +11,7 @@
       "album": "Crook",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-29T11:31:38.990Z"
+      "cached_at": "2026-07-02T16:59:41.001Z"
     }
   ]
 }
