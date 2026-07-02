@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-06-27T12:54:24.001Z",
+  "updated_at": "2026-07-02T04:17:46.769Z",
   "entries": [
     {
       "hash": "d0401ce99d20160e",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-06-27T12:53:50.795Z"
+    },
+    {
+      "hash": "7b97e3811f67830f",
+      "track": "O Sanam",
+      "artist": "Lucky Ali",
+      "album": "Lucky Ali",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-02T04:17:45.948Z"
     }
   ]
 }
