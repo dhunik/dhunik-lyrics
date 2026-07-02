@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-07-01T16:12:37.234Z",
+  "updated_at": "2026-07-02T04:17:37.430Z",
   "entries": [
     {
       "hash": "d911237a604eeade",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-01T16:12:20.830Z"
+    },
+    {
+      "hash": "c540518fe6bec724",
+      "track": "Baarishein",
+      "artist": "Anuv Jain",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-02T04:17:36.582Z"
     }
   ]
 }
