@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-01T16:15:09.994Z",
+  "updated_at": "2026-07-03T04:09:21.595Z",
   "entries": [
     {
-      "hash": "ac76cb5ae6e795dd",
-      "track": "Jee Le Zaraa",
-      "artist": "Vishal Dadlani",
-      "album": "Talaash",
+      "hash": "bda439b1e1eab1c3",
+      "track": "Pehle Bhi Main",
+      "artist": "Vishal Mishra, Raj Shekhar",
+      "album": "Vishal Mishra, Raj Shekhar",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-22T17:39:41.986Z"
-    },
-    {
-      "hash": "cacc3eb88ee61c64",
-      "track": "The Jawaani Song",
-      "artist": "Vishal & Shekhar, Vishal Dadlani, Payal Dev, Kishore Kumar",
-      "album": "Student of the Year 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-01T16:15:08.977Z"
+      "has_plain": true,
+      "cached_at": "2026-07-03T04:09:04.731Z"
     }
   ]
 }
