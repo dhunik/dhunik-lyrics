@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-06-21T03:43:32.279Z",
+  "updated_at": "2026-07-03T03:32:13.208Z",
   "entries": [
     {
-      "hash": "d61f9b97a0312388",
-      "track": "Seerpaduthuvaar",
-      "artist": "Paul Dhinakaran, Evangeline Paul Dhinakaran, Samuel Dhinakaran, Stella Ramola, John Jebaraj, Ps. Alwin Thomas, Cherie Mitchelle, Gersson Edinbaro, Benny Joshua, Zac Robert, Jasmin Faith",
-      "album": "Seerpaduthuvaar",
+      "hash": "809a467dda2fff63",
+      "track": "Brown Munde",
+      "artist": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+      "album": "Brown Munde",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-06-12T13:24:00.870Z"
-    },
-    {
-      "hash": "bd5ec0cf0c7f5f17",
-      "track": "Ye Dil Ye Pagal Dil Mera",
-      "artist": "Ghulam Ali ",
-      "album": "Maati Maangey Khoon",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-21T03:42:32.694Z"
-    },
-    {
-      "hash": "160a183610f3b30e",
-      "track": "Zindagi Se (Live)",
-      "artist": "Ghulam Ali  - Live in USA - Mehfil Series",
-      "album": "Ghulam Ali  - Live in USA - Mehfil Series",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-21T03:43:28.546Z"
+      "cached_at": "2026-07-03T03:29:08.475Z"
     }
   ]
 }
