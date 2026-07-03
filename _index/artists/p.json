@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-02T17:00:45.483Z",
+  "updated_at": "2026-07-03T16:23:30.022Z",
   "entries": [
     {
       "hash": "1a893d4cf52a2852",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-02T16:59:41.001Z"
+    },
+    {
+      "hash": "edfda1402561558d",
+      "track": "The Breakup Song",
+      "artist": "Pritam, Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",
+      "album": "Ae Dil Hai Mushkil",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-03T16:23:28.446Z"
     }
   ]
 }
