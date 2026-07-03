@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-06-18T19:21:38.650Z",
+  "updated_at": "2026-07-03T03:29:08.461Z",
   "entries": [
     {
       "hash": "0e597d9de4bf0848",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-06-18T19:21:37.532Z"
+    },
+    {
+      "hash": "b8ae6344d6245502",
+      "track": "Excuses",
+      "artist": "AP Dhillon, Gurinder Gill, Intense",
+      "album": "Intense",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-03T03:29:06.575Z"
     }
   ]
 }
