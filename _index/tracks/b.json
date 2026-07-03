@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-07-02T04:17:37.430Z",
+  "updated_at": "2026-07-03T03:32:13.204Z",
   "entries": [
     {
-      "hash": "d911237a604eeade",
-      "track": "Bom Diggy Diggy",
-      "artist": "Jasmin Walia, Zack Knight",
-      "album": "Sonu Ke Titu Ki Sweety",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-01T16:12:20.830Z"
-    },
-    {
-      "hash": "c540518fe6bec724",
-      "track": "Baarishein",
-      "artist": "Anuv Jain",
-      "album": null,
+      "hash": "809a467dda2fff63",
+      "track": "Brown Munde",
+      "artist": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+      "album": "Brown Munde",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-02T04:17:36.582Z"
+      "cached_at": "2026-07-03T03:29:08.475Z"
     }
   ]
 }
