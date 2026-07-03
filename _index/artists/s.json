@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-02T12:25:34.803Z",
+  "updated_at": "2026-07-03T16:48:10.427Z",
   "entries": [
     {
       "hash": "dc8f6c337148f34b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-02T12:25:22.454Z"
+    },
+    {
+      "hash": "604ec37522d9bfa6",
+      "track": "Dil Galti Kar Baitha Hai (Feat. Mouni Roy)",
+      "artist": "Jubin Nautiyal, Meet Bros, Shardul Rathod",
+      "album": "Dil Galti Kar Baitha Hai (Feat. Mouni Roy)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-03T16:48:09.490Z"
     }
   ]
 }
