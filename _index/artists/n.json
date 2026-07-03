@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-02T17:00:45.486Z",
+  "updated_at": "2026-07-03T03:33:03.967Z",
   "entries": [
     {
       "hash": "1a893d4cf52a2852",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-02T16:59:41.001Z"
+    },
+    {
+      "hash": "5c6da1f9f7db79c3",
+      "track": "Kalla Sohna Nai",
+      "artist": "Neha Kakkar",
+      "album": "Unknown",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-03T03:33:03.116Z"
     }
   ]
 }
