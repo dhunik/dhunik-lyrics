@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-01T16:12:37.236Z",
+  "updated_at": "2026-07-03T03:32:42.559Z",
   "entries": [
     {
       "hash": "d911237a604eeade",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-01T16:12:20.830Z"
+    },
+    {
+      "hash": "e3d49aa94b7cef3b",
+      "track": "Lehanga",
+      "artist": "Jass Manak",
+      "album": "Jass Manak",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-03T03:32:39.187Z"
     }
   ]
 }
