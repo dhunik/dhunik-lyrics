@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-07-05T06:47:48.116Z",
+  "updated_at": "2026-07-05T07:09:40.882Z",
   "entries": [
     {
       "hash": "c78658e43bfdacbf",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-05T06:47:46.486Z"
+    },
+    {
+      "hash": "d17dafa64cdcf670",
+      "track": "Main Hoon Hero Tera (Armaan Malik Version)",
+      "artist": "Armaan Malik, Amaal Mallik",
+      "album": "Hero",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-05T07:09:39.336Z"
     }
   ]
 }
