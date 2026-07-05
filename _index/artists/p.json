@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-03T16:23:30.022Z",
+  "updated_at": "2026-07-05T07:34:09.563Z",
   "entries": [
     {
       "hash": "1a893d4cf52a2852",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-03T16:23:28.446Z"
+    },
+    {
+      "hash": "1f7e3bebe494e033",
+      "track": "Bandhu 2.0 (From \"Cocktail 2\")",
+      "artist": "Pritam, Irshad Kamil - Bandhu 2.0 (From \"Cocktail 2\")",
+      "album": "null",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-05T07:34:07.996Z"
     }
   ]
 }
