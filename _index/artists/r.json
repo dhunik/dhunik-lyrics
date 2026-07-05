@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-06-26T07:15:54.991Z",
+  "updated_at": "2026-07-05T06:51:33.884Z",
   "entries": [
     {
       "hash": "fb25e3c34b328cd2",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-26T07:15:54.019Z"
+    },
+    {
+      "hash": "ff1602a2a47833e8",
+      "track": "Hamari Adhuri Kahani (Title Track) [From \"Hamari Adhuri Kahani\"]",
+      "artist": "Rashmi-Virag, Jeet Gannguli, Arijit Singh",
+      "album": "Emraan Hashmi Sad Love Hits",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-05T06:51:32.471Z"
     }
   ]
 }
