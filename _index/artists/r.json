@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-05T06:51:33.884Z",
+  "updated_at": "2026-07-05T06:51:36.564Z",
   "entries": [
     {
       "hash": "fb25e3c34b328cd2",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-05T06:51:32.471Z"
+    },
+    {
+      "hash": "f186a488d90fa117",
+      "track": "Woh Lamhe Woh Baatein",
+      "artist": "Roopkumar Rathod, Mithoon, Naresh Sharma - Emraan Hashmi Sad Love Hits",
+      "album": "Zeher",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-05T06:51:35.144Z"
     }
   ]
 }
