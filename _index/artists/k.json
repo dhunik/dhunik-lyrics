@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-05T06:23:51.436Z",
+  "updated_at": "2026-07-05T06:26:27.083Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-05T06:23:49.907Z"
+    },
+    {
+      "hash": "79d34d053c3602c2",
+      "track": "Kora Kagaz Tha Yeh Man Mera",
+      "artist": "Lata Mangeshkar, Kishore Kumar",
+      "album": "Aradhana",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-05T06:26:25.121Z"
     }
   ]
 }
