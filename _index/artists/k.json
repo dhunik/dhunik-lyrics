@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-03T15:06:54.665Z",
+  "updated_at": "2026-07-05T06:23:51.436Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-03T15:06:12.393Z"
+    },
+    {
+      "hash": "698870a96f604be4",
+      "track": "O Mere Dil Ke Chain",
+      "artist": "Kishore Kumar - Mere Jeevan Saathi",
+      "album": null,
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-05T06:23:49.907Z"
     }
   ]
 }
