@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-03T16:23:30.014Z",
+  "updated_at": "2026-07-05T07:09:24.829Z",
   "entries": [
     {
       "hash": "d911237a604eeade",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-03T16:23:28.446Z"
+    },
+    {
+      "hash": "175c5b36fa89f661",
+      "track": "Rim Jhim",
+      "artist": "Jubin Nautiyal, Ami Mishra",
+      "album": "Rim Jhim",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-05T07:09:23.248Z"
     }
   ]
 }
