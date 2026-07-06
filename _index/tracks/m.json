@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-07-06T02:52:51.289Z",
+  "updated_at": "2026-07-06T03:25:10.332Z",
   "entries": [
     {
       "hash": "c78658e43bfdacbf",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-06T02:52:50.346Z"
+    },
+    {
+      "hash": "373b536e9bbf6cb3",
+      "track": "Mockingbird",
+      "artist": "Eminem",
+      "album": "Mockingbird",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-06T03:25:09.413Z"
     }
   ]
 }
