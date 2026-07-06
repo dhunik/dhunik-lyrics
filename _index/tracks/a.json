@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-07-04T04:21:46.675Z",
+  "updated_at": "2026-07-06T02:44:32.387Z",
   "entries": [
     {
       "hash": "d3e6a3da1cc95c35",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-04T04:19:12.976Z"
+    },
+    {
+      "hash": "469f3d2b27d38656",
+      "track": "Anaadi Ananta",
+      "artist": "Kailash Kher",
+      "album": "Anaadi Ananta",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-06T02:44:30.741Z"
     }
   ]
 }
