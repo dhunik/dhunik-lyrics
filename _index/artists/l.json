@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-07-02T04:17:46.769Z",
+  "updated_at": "2026-07-06T03:23:54.463Z",
   "entries": [
     {
       "hash": "d0401ce99d20160e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-02T04:17:45.948Z"
+    },
+    {
+      "hash": "ccc196a3da051185",
+      "track": "Bigdi Meri Bana De",
+      "artist": "Lakhbir Singh Lakkha - Beta Bulaye",
+      "album": "Beta Bulaye",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-06T03:23:53.482Z"
     }
   ]
 }
