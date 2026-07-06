@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-06T02:44:32.485Z",
+  "updated_at": "2026-07-06T02:52:59.089Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-06T02:44:30.741Z"
+    },
+    {
+      "hash": "fca05da01470f60c",
+      "track": "Om Namah Shivay",
+      "artist": "Shankar Mahadevan, Kedar Pandit",
+      "album": "My Devotional Favourites - Shankar Mahadevan",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-06T02:52:54.949Z"
     }
   ]
 }
