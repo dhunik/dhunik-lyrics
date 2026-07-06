@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-05T06:47:48.102Z",
+  "updated_at": "2026-07-06T05:14:57.677Z",
   "entries": [
     {
-      "hash": "dc8f6c337148f34b",
-      "track": "Yeh Raaten Yeh Mausam",
-      "artist": "Sanam Puri, Simran Sehgal",
-      "album": "Revisited Sanam",
+      "hash": "b36acbc89ce7b512",
+      "track": "Kal Ho Naa Ho",
+      "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+      "album": "SonyMusicIndiaVEVO",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-02T12:25:22.454Z"
-    },
-    {
-      "hash": "604ec37522d9bfa6",
-      "track": "Dil Galti Kar Baitha Hai (Feat. Mouni Roy)",
-      "artist": "Jubin Nautiyal, Meet Bros, Shardul Rathod",
-      "album": "Dil Galti Kar Baitha Hai (Feat. Mouni Roy)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-03T16:48:09.490Z"
-    },
-    {
-      "hash": "403108db7184409b",
-      "track": "Main Aur Tu",
-      "artist": "Jasmine Sandlas, Reble, Shashwat Sachdev - Dhurandhar The Revenge",
-      "album": "Dhurandhar The Revenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T06:47:46.486Z"
+      "has_plain": true,
+      "cached_at": "2026-07-06T05:14:41.610Z"
     }
   ]
 }
