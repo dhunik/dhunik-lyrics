@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-08T04:35:57.005Z",
+  "updated_at": "2026-07-08T04:36:11.510Z",
   "entries": [
     {
       "hash": "750bcf1a5fb6847f",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-08T04:35:16.764Z"
+    },
+    {
+      "hash": "38e71d8aba7ed522",
+      "track": "Baby It's You",
+      "artist": "The Eden Bros.",
+      "album": "CHUM1962",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-08T04:36:10.584Z"
     }
   ]
 }
