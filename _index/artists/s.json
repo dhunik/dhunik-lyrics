@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-08T09:56:00.357Z",
+  "updated_at": "2026-07-08T09:56:22.029Z",
   "entries": [
     {
       "hash": "b36acbc89ce7b512",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-08T09:55:59.319Z"
+    },
+    {
+      "hash": "c31f7642330d186a",
+      "track": "Paravashanadenu",
+      "artist": "Sonu Nigam - Paramathma",
+      "album": "Paramathma",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-08T09:56:21.021Z"
     }
   ]
 }
