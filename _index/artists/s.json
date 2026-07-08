@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-07T12:48:01.048Z",
+  "updated_at": "2026-07-08T09:56:00.357Z",
   "entries": [
     {
       "hash": "b36acbc89ce7b512",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-07T12:47:53.731Z"
+    },
+    {
+      "hash": "e972f8b7e914afd1",
+      "track": "Mahiya (From \"Awarapan\")",
+      "artist": "Pritam, Annie, Suzanne D'Mello, Sayeed Quadri - Mahiya (From \"Awarapan\")",
+      "album": "Mahiya (From \"Awarapan\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-08T09:55:59.319Z"
     }
   ]
 }
