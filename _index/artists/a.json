@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-09T20:57:52.541Z",
+  "updated_at": "2026-07-09T22:02:33.429Z",
   "entries": [
     {
-      "hash": "c1038735d4cb9d13",
-      "track": "Mitwa",
-      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Srinivas",
-      "album": "Lagaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:55:31.678Z"
-    },
-    {
-      "hash": "7fec07275e391628",
-      "track": "Aaj Ki Raat",
-      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Madhubanti Bagchi, Divya Kumar",
-      "album": "Stree 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:57:51.290Z"
+      "hash": "fc7d3ec09876a30d",
+      "track": "Yeh Dil To Mila Hai",
+      "artist": "Sonu Nigam, Alka Yagnik",
+      "album": "Dil Ne Jise Apna Kaha",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T22:02:19.699Z"
     }
   ]
 }
