@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-09T19:54:52.490Z",
+  "updated_at": "2026-07-09T20:04:47.304Z",
   "entries": [
     {
       "hash": "65189794df094f9c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T19:54:41.373Z"
+    },
+    {
+      "hash": "b1806fb30199df1b",
+      "track": "Nikamma Kiya Is Dil Ne (Version, 1)",
+      "artist": "Himesh Reshammiya, Shaan, Sanjivani",
+      "album": "Kyaa Dil Ne Kahaa",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:04:36.442Z"
     }
   ]
 }
