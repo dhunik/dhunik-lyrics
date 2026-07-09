@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-09T20:20:05.416Z",
+  "updated_at": "2026-07-09T20:57:53.108Z",
   "entries": [
     {
       "hash": "65189794df094f9c",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:20:01.499Z"
+    },
+    {
+      "hash": "7fec07275e391628",
+      "track": "Aaj Ki Raat",
+      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Madhubanti Bagchi, Divya Kumar",
+      "album": "Stree 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:57:51.290Z"
     }
   ]
 }
