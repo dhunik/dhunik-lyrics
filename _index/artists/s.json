@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:34.672Z",
+  "updated_at": "2026-07-09T20:15:44.355Z",
   "entries": [
     {
       "hash": "65189794df094f9c",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:33.537Z"
+    },
+    {
+      "hash": "1ac4efdbc68e5436",
+      "track": "Dilliwaali Girlfriend",
+      "artist": "Pritam, Arijit Singh, Sunidhi Chauhan",
+      "album": "Yeh Jawaani Hai Deewani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:15:37.233Z"
     }
   ]
 }
