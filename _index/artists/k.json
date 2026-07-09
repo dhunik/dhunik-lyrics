@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:07:13.716Z",
+  "updated_at": "2026-07-09T20:15:31.461Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -66,6 +66,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:07:11.011Z"
+    },
+    {
+      "hash": "7be7cfa2ba2d4d3d",
+      "track": "Pallo Latke",
+      "artist": "Kumaar, Jyotica Tangri, Yasser Desai, Fazilpuria, Raees-Zain-Sam",
+      "album": "The Bollywood Wedding Collection",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:15:24.153Z"
     }
   ]
 }
