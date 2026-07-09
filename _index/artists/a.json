@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-05T07:09:40.886Z",
+  "updated_at": "2026-07-09T19:54:47.709Z",
   "entries": [
     {
       "hash": "d02a9eff07f19c45",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-05T07:09:39.336Z"
+    },
+    {
+      "hash": "65189794df094f9c",
+      "track": "Kya Hua Tujhe",
+      "artist": "Alka Yagnik, Sonu Nigam",
+      "album": "Tumko Na Bhool Paayenge",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T19:54:41.373Z"
     }
   ]
 }
