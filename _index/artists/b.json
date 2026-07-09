@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-06-17T05:41:41.823Z",
+  "updated_at": "2026-07-09T20:15:04.785Z",
   "entries": [
     {
       "hash": "f7767690f1843b58",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-17T05:37:25.160Z"
+    },
+    {
+      "hash": "9ccfe47d5b3dedfc",
+      "track": "The Humma Song",
+      "artist": "A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati, Jubin Nautiyal",
+      "album": "OK Jaanu",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:15:03.748Z"
     }
   ]
 }
