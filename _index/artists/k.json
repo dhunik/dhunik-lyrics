@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:24:35.839Z",
+  "updated_at": "2026-07-09T20:27:18.854Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -138,6 +138,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:24:34.518Z"
+    },
+    {
+      "hash": "3aa17cd485c6f382",
+      "track": "Kahan Ho Tum",
+      "artist": "Kumar Sanu, Udit Narayan",
+      "album": "No Entry",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:27:12.620Z"
     }
   ]
 }
