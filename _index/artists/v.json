@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-03T04:09:21.595Z",
+  "updated_at": "2026-07-09T19:56:39.512Z",
   "entries": [
     {
-      "hash": "bda439b1e1eab1c3",
-      "track": "Pehle Bhi Main",
-      "artist": "Vishal Mishra, Raj Shekhar",
-      "album": "Vishal Mishra, Raj Shekhar",
+      "hash": "f7c9670217e1d0fb",
+      "track": "Swag Se Swagat",
+      "artist": "Neha Bhasin, Vishal Dadlani",
+      "album": "Super Hits of Salman Khan",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-03T04:09:04.731Z"
+      "has_plain": false,
+      "cached_at": "2026-07-09T19:56:23.483Z"
     }
   ]
 }
