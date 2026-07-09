@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:25.203Z",
+  "updated_at": "2026-07-09T20:27:30.059Z",
   "entries": [
     {
       "hash": "2c2e0938aa9f33f6",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:24.153Z"
+    },
+    {
+      "hash": "eba5c8eca7f829e9",
+      "track": "Tere Bina Na Guzara E",
+      "artist": "Josh Brar",
+      "album": "Tere Bina Na Guzara E",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:27:25.933Z"
     }
   ]
 }
