@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-09T20:27:30.059Z",
+  "updated_at": "2026-07-09T20:58:24.869Z",
   "entries": [
     {
-      "hash": "2c2e0938aa9f33f6",
-      "track": "Judaai Judaai",
-      "artist": "Nadeem-Shravan, Hariharan, Alka Yagnik, Jaswinder Narula, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol.2- Judaai Judaai- With Shayeri",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T19:58:29.776Z"
-    },
-    {
-      "hash": "ecb9053a037a04c7",
-      "track": "Judaai Judaai, Pt. 1",
-      "artist": "Hariharan, Alka Yagnik, Jaspinder Narula",
-      "album": "Judaai (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:00:08.859Z"
-    },
-    {
-      "hash": "9ccfe47d5b3dedfc",
-      "track": "The Humma Song",
-      "artist": "A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati, Jubin Nautiyal",
-      "album": "OK Jaanu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:03.748Z"
-    },
-    {
-      "hash": "7be7cfa2ba2d4d3d",
-      "track": "Pallo Latke",
-      "artist": "Kumaar, Jyotica Tangri, Yasser Desai, Fazilpuria, Raees-Zain-Sam",
-      "album": "The Bollywood Wedding Collection",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:24.153Z"
-    },
-    {
-      "hash": "eba5c8eca7f829e9",
-      "track": "Tere Bina Na Guzara E",
-      "artist": "Josh Brar",
-      "album": "Tere Bina Na Guzara E",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:27:25.933Z"
+      "hash": "042e992303dc97dd",
+      "track": "O Meri Laila",
+      "artist": "Jyotica Tangri",
+      "album": "Dil Se Dance",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T20:58:11.737Z"
     }
   ]
 }
