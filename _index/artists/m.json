@@ -2,142 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-09T20:19:56.690Z",
+  "updated_at": "2026-07-09T20:32:42.903Z",
   "entries": [
     {
-      "hash": "541ee61aaae77d57",
-      "track": "Jai Shri Ram (Jubin Nautiyal Version)",
-      "artist": "Ajay-Atul, Jubin Nautiyal, Manoj Muntashir",
-      "album": "Jai Shri Ram (Jubin Nautiyal Version)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:03:10.869Z"
-    },
-    {
-      "hash": "5dc9d845a8d2cee2",
-      "track": "Dil Deke Dekho",
-      "artist": "Mohammed Rafi, Ameen Sayani",
-      "album": "Mohammed Rafi Suron Ka Anar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:21:26.146Z"
-    },
-    {
-      "hash": "b2a2b65ee5b577e0",
-      "track": "Tumse Achchha Kaun Hai",
-      "artist": "Mohammed Rafi",
-      "album": "Janwar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:21:34.331Z"
-    },
-    {
-      "hash": "a555167cef3aecea",
-      "track": "Yeh Reshmi Zulfen",
-      "artist": "Mohammed Rafi",
-      "album": "Magical Mohammed Rafi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:21:39.149Z"
-    },
-    {
-      "hash": "8ca5fa810dc46111",
-      "track": "Main Jat Yamla Pagla Diwana",
-      "artist": "Mohammed Rafi",
-      "album": "Pratiggya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:21:41.965Z"
-    },
-    {
-      "hash": "ca3be511d4eaa9c8",
-      "track": "Dard-E-Dil Dard-E-Jigar - Jhankar Beats",
-      "artist": "Mohammed Rafi",
-      "album": "Mohammed Rafi Romantic Hits - Jhankar Beats",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-09T14:31:44.862Z"
-    },
-    {
-      "hash": "b3b80ac3c3daccaf",
-      "track": "I Surrender (Live)",
-      "artist": "Hillsong Worship, Matt Crocker",
-      "album": "Cornerstone (Live)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:44:11.040Z"
-    },
-    {
-      "hash": "0e1de4eb38c7398f",
-      "track": "5-7",
-      "artist": "Karan Aujla, MXRCI",
-      "album": "5-7",
+      "hash": "eb001b2131aa2120",
+      "track": "Saiyaara",
+      "artist": "Sohail Sen, Mohit Chauhan, Tarannum Malik Jain, Kausar Munir",
+      "album": "Ek Tha Tiger",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-11T13:52:45.156Z"
-    },
-    {
-      "hash": "26a1fefa7113f707",
-      "track": "Jab Talak (From “Cocktail 2”)",
-      "artist": "Arijit Singh, Akasa, Madhubanti Bagchi, Amitabh Bhattacharya, Pritam - Tujhko (From “Cocktail 2”)",
-      "album": "Tujhko (From “Cocktail 2”)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-27T18:14:31.090Z"
-    },
-    {
-      "hash": "604ec37522d9bfa6",
-      "track": "Dil Galti Kar Baitha Hai (Feat. Mouni Roy)",
-      "artist": "Jubin Nautiyal, Meet Bros, Shardul Rathod",
-      "album": "Dil Galti Kar Baitha Hai (Feat. Mouni Roy)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-03T16:48:09.490Z"
-    },
-    {
-      "hash": "a3d922e8ab465db7",
-      "track": "Jab Tu Sajan - From \"Aap Jaisa Koi\"",
-      "artist": "Rochak Kohli, Mohit Chauhan, Gurpreet Saini",
-      "album": "Aap Jaisa Koi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T19:51:42.956Z"
-    },
-    {
-      "hash": "a83c16efcf3820b5",
-      "track": "Gallan Goodiyaan",
-      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
-      "album": "Dil Dhadakne Do",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:35.511Z"
-    },
-    {
-      "hash": "3ac8cec7faa353e3",
-      "track": "Munna Badnaam Hua",
-      "artist": "Badshah, Mamta Sharma, Kamaal Khan",
-      "album": "Dabangg 3",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:15:52.850Z"
-    },
-    {
-      "hash": "699153805c415a02",
-      "track": "Girls Like You (Cardi B Version)",
-      "artist": "Maroon 5",
-      "album": "Girls Like You",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:17:16.729Z"
-    },
-    {
-      "hash": "ff9ff315324071aa",
-      "track": "Aankh Marey",
-      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
-      "album": "Simmba",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:19:51.385Z"
+      "cached_at": "2026-07-09T20:32:15.728Z"
     }
   ]
 }
