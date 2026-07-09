@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-09T19:56:39.512Z",
+  "updated_at": "2026-07-09T20:16:24.027Z",
   "entries": [
     {
       "hash": "f7c9670217e1d0fb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T19:56:23.483Z"
+    },
+    {
+      "hash": "15d57e7ea03a28a5",
+      "track": "Tunak Tunak Tun (Lofi Flip)",
+      "artist": "VIBIE, Daler Mehndi",
+      "album": "Tunak Tunak Tun (Lofi Flip)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:16:22.873Z"
     }
   ]
 }
