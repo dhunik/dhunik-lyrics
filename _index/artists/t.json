@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-08T04:36:11.510Z",
+  "updated_at": "2026-07-09T20:24:08.840Z",
   "entries": [
     {
       "hash": "750bcf1a5fb6847f",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-08T04:36:10.584Z"
+    },
+    {
+      "hash": "c85cb168aff9ce67",
+      "track": "Humko Pyar Hua",
+      "artist": "Tulsi Kumar, KK",
+      "album": "Ready",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T20:24:02.259Z"
     }
   ]
 }
