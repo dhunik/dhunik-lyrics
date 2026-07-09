@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-07-01T16:11:19.336Z",
+  "updated_at": "2026-07-09T19:58:40.750Z",
   "entries": [
     {
-      "hash": "957bfd044108df08",
-      "track": "Teri Yaad",
-      "artist": "Faheem Abdullah, Hyder Dar, Zia",
-      "album": "Teri Yaad",
+      "hash": "2c2e0938aa9f33f6",
+      "track": "Judaai Judaai",
+      "artist": "Nadeem-Shravan, Hariharan, Alka Yagnik, Jaswinder Narula, Altaf Raja, Minalini Singh",
+      "album": "Dard- E- Dil- Vol.2- Judaai Judaai- With Shayeri",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-12T15:57:13.414Z"
-    },
-    {
-      "hash": "3e56b7a489e5b6d2",
-      "track": "Kala Chashma",
-      "artist": "Kumaar, Amar Arshi, Badshah, Neha Kakkar, Indeep Bakshi, Prem & Hardeep",
-      "album": "Holi Party Mix",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-01T16:11:18.072Z"
+      "cached_at": "2026-07-09T19:58:29.776Z"
     }
   ]
 }
