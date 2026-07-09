@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-03T16:48:10.423Z",
+  "updated_at": "2026-07-09T19:51:44.274Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-03T16:48:09.490Z"
+    },
+    {
+      "hash": "a3d922e8ab465db7",
+      "track": "Jab Tu Sajan - From \"Aap Jaisa Koi\"",
+      "artist": "Rochak Kohli, Mohit Chauhan, Gurpreet Saini",
+      "album": "Aap Jaisa Koi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T19:51:42.956Z"
     }
   ]
 }
