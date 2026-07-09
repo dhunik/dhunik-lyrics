@@ -2,106 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-09T19:54:47.709Z",
+  "updated_at": "2026-07-09T19:58:40.753Z",
   "entries": [
     {
-      "hash": "d02a9eff07f19c45",
-      "track": "Sab Tera",
-      "artist": "Armaan Malik, Shraddha Kapoor",
-      "album": "Baaghi",
+      "hash": "2c2e0938aa9f33f6",
+      "track": "Judaai Judaai",
+      "artist": "Nadeem-Shravan, Hariharan, Alka Yagnik, Jaswinder Narula, Altaf Raja, Minalini Singh",
+      "album": "Dard- E- Dil- Vol.2- Judaai Judaai- With Shayeri",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-01T16:19:55.154Z"
-    },
-    {
-      "hash": "c540518fe6bec724",
-      "track": "Baarishein",
-      "artist": "Anuv Jain",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-02T04:17:36.582Z"
-    },
-    {
-      "hash": "573c356dead94995",
-      "track": "Agar Tum Mil Jao (Lofi Flip)",
-      "artist": "Roopkumar Rathod, Anu Malik, Shreya Ghoshal, VIBIE",
-      "album": "Agar Tum Mil Jao (Lofi Flip)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-02T12:03:51.576Z"
-    },
-    {
-      "hash": "b8ae6344d6245502",
-      "track": "Excuses",
-      "artist": "AP Dhillon, Gurinder Gill, Intense",
-      "album": "Intense",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-03T03:29:06.575Z"
-    },
-    {
-      "hash": "023c55ef963880f0",
-      "track": "Tuzya Priticha Vinchu Chawla",
-      "artist": "Ajay Gogavle",
-      "album": "Marathi Hits of Ajay - Atul",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-03T04:08:57.540Z"
-    },
-    {
-      "hash": "a05287bffdefb4de",
-      "track": "Saad Shukrana",
-      "artist": "Ankit Tiwari",
-      "album": "Mr. X",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-04T03:32:30.631Z"
-    },
-    {
-      "hash": "f108d7718a1208ea",
-      "track": "Kaho Na Kaho",
-      "artist": "Anu Malik, Amir Jamal - Emraan Hashmi Sad Love Hits",
-      "album": "Murder",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T06:31:06.850Z"
-    },
-    {
-      "hash": "ff1602a2a47833e8",
-      "track": "Hamari Adhuri Kahani (Title Track) [From \"Hamari Adhuri Kahani\"]",
-      "artist": "Rashmi-Virag, Jeet Gannguli, Arijit Singh",
-      "album": "Emraan Hashmi Sad Love Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T06:51:32.471Z"
-    },
-    {
-      "hash": "175c5b36fa89f661",
-      "track": "Rim Jhim",
-      "artist": "Jubin Nautiyal, Ami Mishra",
-      "album": "Rim Jhim",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T07:09:23.248Z"
-    },
-    {
-      "hash": "d17dafa64cdcf670",
-      "track": "Main Hoon Hero Tera (Armaan Malik Version)",
-      "artist": "Armaan Malik, Amaal Mallik",
-      "album": "Hero",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T07:09:39.336Z"
-    },
-    {
-      "hash": "65189794df094f9c",
-      "track": "Kya Hua Tujhe",
-      "artist": "Alka Yagnik, Sonu Nigam",
-      "album": "Tumko Na Bhool Paayenge",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T19:54:41.373Z"
+      "cached_at": "2026-07-09T19:58:29.776Z"
     }
   ]
 }
