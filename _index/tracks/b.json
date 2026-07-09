@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-07-09T20:15:34.674Z",
+  "updated_at": "2026-07-09T20:20:02.518Z",
   "entries": [
     {
       "hash": "809a467dda2fff63",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:33.537Z"
+    },
+    {
+      "hash": "9996d85a892b874e",
+      "track": "Bang Bang",
+      "artist": "Vishal & Shekhar, Benny Dayal, Neeti Mohan",
+      "album": "Dance Vibes Only",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:20:01.499Z"
     }
   ]
 }
