@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:55.702Z",
+  "updated_at": "2026-07-09T20:17:18.572Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -120,6 +120,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:15:52.850Z"
+    },
+    {
+      "hash": "699153805c415a02",
+      "track": "Girls Like You (Cardi B Version)",
+      "artist": "Maroon 5",
+      "album": "Girls Like You",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:17:16.729Z"
     }
   ]
 }
