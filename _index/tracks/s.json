@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-07-09T20:19:39.033Z",
+  "updated_at": "2026-07-09T20:32:42.900Z",
   "entries": [
     {
-      "hash": "d02a9eff07f19c45",
-      "track": "Sab Tera",
-      "artist": "Armaan Malik, Shraddha Kapoor",
-      "album": "Baaghi",
+      "hash": "eb001b2131aa2120",
+      "track": "Saiyaara",
+      "artist": "Sohail Sen, Mohit Chauhan, Tarannum Malik Jain, Kausar Munir",
+      "album": "Ek Tha Tiger",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-01T16:19:55.154Z"
-    },
-    {
-      "hash": "a05287bffdefb4de",
-      "track": "Saad Shukrana",
-      "artist": "Ankit Tiwari",
-      "album": "Mr. X",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-04T03:32:30.631Z"
-    },
-    {
-      "hash": "91714ed2cb7ad573",
-      "track": "Saawli Saloni Teri",
-      "artist": "Alka Yagnik, Kumar Sanu",
-      "album": "Hum Sub Chor Hain",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:19:12.677Z"
-    },
-    {
-      "hash": "f1b2553d5df7e67f",
-      "track": "Saawli Saloni Teri",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Bappi Da Collection",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:19:35.111Z"
+      "cached_at": "2026-07-09T20:32:15.728Z"
     }
   ]
 }
