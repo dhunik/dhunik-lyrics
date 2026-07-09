@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-09T20:07:12.650Z",
+  "updated_at": "2026-07-09T20:07:20.161Z",
   "entries": [
     {
       "hash": "2c2e0938aa9f33f6",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:07:11.011Z"
+    },
+    {
+      "hash": "47fdc822ee0b6fa7",
+      "track": "Hum Yaar Hai Tumhare",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Haan Maine Bhi Pyaar Kiya",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T20:07:19.136Z"
     }
   ]
 }
