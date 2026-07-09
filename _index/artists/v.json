@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-09T20:16:24.027Z",
+  "updated_at": "2026-07-09T20:34:42.347Z",
   "entries": [
     {
       "hash": "f7c9670217e1d0fb",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:16:22.873Z"
+    },
+    {
+      "hash": "3ea96192b9c1005f",
+      "track": "To Brazil!",
+      "artist": "Vengaboys",
+      "album": "The Party Album!",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:34:39.931Z"
     }
   ]
 }
