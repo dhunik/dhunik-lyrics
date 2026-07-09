@@ -2,151 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:27:18.854Z",
+  "updated_at": "2026-07-09T20:43:28.115Z",
   "entries": [
     {
-      "hash": "2993f68bc1494008",
-      "track": "Hasi (Male Version)",
-      "artist": "Kunaal Vermaa, Ami Mishra - Emraan Hashmi Sad Love Hits",
-      "album": "Emraan Hashmi Sad Love Hits",
+      "hash": "bb09e1c173c615ca",
+      "track": "Aankhon Ki Gustakhiyan",
+      "artist": "Kumar Sanu, Kavita Krishnamurthy",
+      "album": "Hum Dil De Chuke Sanam",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-03T15:06:12.393Z"
-    },
-    {
-      "hash": "698870a96f604be4",
-      "track": "O Mere Dil Ke Chain",
-      "artist": "Kishore Kumar - Mere Jeevan Saathi",
-      "album": null,
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T06:23:49.907Z"
-    },
-    {
-      "hash": "79d34d053c3602c2",
-      "track": "Kora Kagaz Tha Yeh Man Mera",
-      "artist": "Lata Mangeshkar, Kishore Kumar",
-      "album": "Aradhana",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-05T06:26:25.121Z"
-    },
-    {
-      "hash": "469f3d2b27d38656",
-      "track": "Anaadi Ananta",
-      "artist": "Kailash Kher",
-      "album": "Anaadi Ananta",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-06T02:44:30.741Z"
-    },
-    {
-      "hash": "fca05da01470f60c",
-      "track": "Om Namah Shivay",
-      "artist": "Shankar Mahadevan, Kedar Pandit",
-      "album": "My Devotional Favourites - Shankar Mahadevan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-06T02:52:54.949Z"
-    },
-    {
-      "hash": "b6753c4c24957467",
-      "track": "Pardesi Pardesi (Kumar Sanu & Alka Yagnik Version)",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Raja Hindustani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:01:47.535Z"
-    },
-    {
-      "hash": "89c6db3016bbc8cb",
-      "track": "Hum Pyaar Hai Tumhare",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Haan Maine Bhi Pyaar Kiya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:07:11.011Z"
-    },
-    {
-      "hash": "7be7cfa2ba2d4d3d",
-      "track": "Pallo Latke",
-      "artist": "Kumaar, Jyotica Tangri, Yasser Desai, Fazilpuria, Raees-Zain-Sam",
-      "album": "The Bollywood Wedding Collection",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:24.153Z"
-    },
-    {
-      "hash": "3ac8cec7faa353e3",
-      "track": "Munna Badnaam Hua",
-      "artist": "Badshah, Mamta Sharma, Kamaal Khan",
-      "album": "Dabangg 3",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:15:52.850Z"
-    },
-    {
-      "hash": "91714ed2cb7ad573",
-      "track": "Saawli Saloni Teri",
-      "artist": "Alka Yagnik, Kumar Sanu",
-      "album": "Hum Sub Chor Hain",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:19:12.677Z"
-    },
-    {
-      "hash": "f1b2553d5df7e67f",
-      "track": "Saawli Saloni Teri",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Bappi Da Collection",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:19:35.111Z"
-    },
-    {
-      "hash": "ff9ff315324071aa",
-      "track": "Aankh Marey",
-      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
-      "album": "Simmba",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:19:51.385Z"
-    },
-    {
-      "hash": "792feb3668826eb1",
-      "track": "Kitne Bhi Tu Karle Sitam (From \"Sanam Teri Kasam\")",
-      "artist": "Kishore Kumar, R.D. Burman",
-      "album": "Sanam Teri Kasam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:22:58.575Z"
-    },
-    {
-      "hash": "c85cb168aff9ce67",
-      "track": "Humko Pyar Hua",
-      "artist": "Tulsi Kumar, KK",
-      "album": "Ready",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:24:02.259Z"
-    },
-    {
-      "hash": "9c4e09c284ff938c",
-      "track": "Zindagi Ki Yahi Reet Hai",
-      "artist": "Kishore Kumar",
-      "album": "Mr. India",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:24:34.518Z"
-    },
-    {
-      "hash": "3aa17cd485c6f382",
-      "track": "Kahan Ho Tum",
-      "artist": "Kumar Sanu, Udit Narayan",
-      "album": "No Entry",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:27:12.620Z"
+      "cached_at": "2026-07-09T20:43:08.005Z"
     }
   ]
 }
