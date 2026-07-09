@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-09T20:19:17.134Z",
+  "updated_at": "2026-07-09T20:19:46.011Z",
   "entries": [
     {
-      "hash": "2c2e0938aa9f33f6",
-      "track": "Judaai Judaai",
-      "artist": "Nadeem-Shravan, Hariharan, Alka Yagnik, Jaswinder Narula, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol.2- Judaai Judaai- With Shayeri",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T19:58:29.776Z"
-    },
-    {
-      "hash": "ff074d301baea87e",
-      "track": "Pardesi Pardesi",
-      "artist": "Udit Narayan, Alka Yagnik, Sapna Awasthi",
-      "album": "Raja Hindustani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:02:29.063Z"
-    },
-    {
-      "hash": "89c6db3016bbc8cb",
-      "track": "Hum Pyaar Hai Tumhare",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Haan Maine Bhi Pyaar Kiya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:07:11.011Z"
-    },
-    {
-      "hash": "47fdc822ee0b6fa7",
-      "track": "Hum Yaar Hai Tumhare",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Haan Maine Bhi Pyaar Kiya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:07:19.136Z"
-    },
-    {
-      "hash": "91714ed2cb7ad573",
+      "hash": "f1b2553d5df7e67f",
       "track": "Saawli Saloni Teri",
-      "artist": "Alka Yagnik, Kumar Sanu",
-      "album": "Hum Sub Chor Hain",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Bappi Da Collection",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-09T20:19:12.677Z"
+      "cached_at": "2026-07-09T20:19:35.111Z"
     }
   ]
 }
