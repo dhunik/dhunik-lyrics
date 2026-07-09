@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-09T20:19:46.011Z",
+  "updated_at": "2026-07-09T20:43:03.127Z",
   "entries": [
     {
       "hash": "f1b2553d5df7e67f",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:19:35.111Z"
+    },
+    {
+      "hash": "cf506c2d70c41ae3",
+      "track": "Chura Ke Dil Mera",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:42:53.065Z"
     }
   ]
 }
