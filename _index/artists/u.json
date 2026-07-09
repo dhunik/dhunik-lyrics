@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-09T20:27:22.840Z",
+  "updated_at": "2026-07-09T20:55:48.024Z",
   "entries": [
     {
-      "hash": "76f4286a3442dca7",
-      "track": "Chithi Na Koi Sandesh",
-      "artist": "Uttam Singh, Jagjit Singh",
-      "album": "Dushman",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-21T03:41:37.849Z"
-    },
-    {
-      "hash": "47fdc822ee0b6fa7",
-      "track": "Hum Yaar Hai Tumhare",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Haan Maine Bhi Pyaar Kiya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:07:19.136Z"
-    },
-    {
-      "hash": "3aa17cd485c6f382",
-      "track": "Kahan Ho Tum",
-      "artist": "Kumar Sanu, Udit Narayan",
-      "album": "No Entry",
+      "hash": "c1038735d4cb9d13",
+      "track": "Mitwa",
+      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Srinivas",
+      "album": "Lagaan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:27:12.620Z"
+      "cached_at": "2026-07-09T20:55:31.678Z"
     }
   ]
 }
