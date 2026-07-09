@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:19:56.197Z",
+  "updated_at": "2026-07-09T20:22:59.899Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:19:51.385Z"
+    },
+    {
+      "hash": "792feb3668826eb1",
+      "track": "Kitne Bhi Tu Karle Sitam (From \"Sanam Teri Kasam\")",
+      "artist": "Kishore Kumar, R.D. Burman",
+      "album": "Sanam Teri Kasam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:22:58.575Z"
     }
   ]
 }
