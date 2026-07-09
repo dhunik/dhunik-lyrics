@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-09T19:56:39.508Z",
+  "updated_at": "2026-07-09T20:19:56.203Z",
   "entries": [
     {
       "hash": "f7c9670217e1d0fb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T19:56:23.483Z"
+    },
+    {
+      "hash": "ff9ff315324071aa",
+      "track": "Aankh Marey",
+      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
+      "album": "Simmba",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:19:51.385Z"
     }
   ]
 }
