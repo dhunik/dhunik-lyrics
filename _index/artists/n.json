@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-05T06:51:36.567Z",
+  "updated_at": "2026-07-09T19:50:09.309Z",
   "entries": [
     {
       "hash": "1a893d4cf52a2852",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-05T06:51:35.144Z"
+    },
+    {
+      "hash": "f95da7a6e49a53dd",
+      "track": "Aate Jaate Hanste Gaate",
+      "artist": "Anushka Manchanda, Nikhil Dsouza",
+      "album": "Golmaal Again",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T19:50:06.861Z"
     }
   ]
 }
