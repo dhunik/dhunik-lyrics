@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-09T20:43:03.127Z",
+  "updated_at": "2026-07-09T20:55:48.022Z",
   "entries": [
     {
-      "hash": "f1b2553d5df7e67f",
-      "track": "Saawli Saloni Teri",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Bappi Da Collection",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:19:35.111Z"
-    },
-    {
-      "hash": "cf506c2d70c41ae3",
-      "track": "Chura Ke Dil Mera",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
+      "hash": "c1038735d4cb9d13",
+      "track": "Mitwa",
+      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Srinivas",
+      "album": "Lagaan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:42:53.065Z"
+      "cached_at": "2026-07-09T20:55:31.678Z"
     }
   ]
 }
