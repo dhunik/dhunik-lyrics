@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:24:08.844Z",
+  "updated_at": "2026-07-09T20:24:35.839Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -129,6 +129,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:24:02.259Z"
+    },
+    {
+      "hash": "9c4e09c284ff938c",
+      "track": "Zindagi Ki Yahi Reet Hai",
+      "artist": "Kishore Kumar",
+      "album": "Mr. India",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T20:24:34.518Z"
     }
   ]
 }
