@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:37.342Z",
+  "updated_at": "2026-07-09T20:15:55.702Z",
   "entries": [
     {
       "hash": "541ee61aaae77d57",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:35.511Z"
+    },
+    {
+      "hash": "3ac8cec7faa353e3",
+      "track": "Munna Badnaam Hua",
+      "artist": "Badshah, Mamta Sharma, Kamaal Khan",
+      "album": "Dabangg 3",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T20:15:52.850Z"
     }
   ]
 }
