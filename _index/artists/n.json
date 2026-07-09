@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-09T19:50:09.309Z",
+  "updated_at": "2026-07-09T19:56:39.508Z",
   "entries": [
     {
-      "hash": "1a893d4cf52a2852",
-      "track": "Kya",
-      "artist": "Pritam, Neeraj Shridhar",
-      "album": "Crook",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-02T16:59:41.001Z"
-    },
-    {
-      "hash": "5c6da1f9f7db79c3",
-      "track": "Kalla Sohna Nai",
-      "artist": "Neha Kakkar",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-03T03:33:03.116Z"
-    },
-    {
-      "hash": "f186a488d90fa117",
-      "track": "Woh Lamhe Woh Baatein",
-      "artist": "Roopkumar Rathod, Mithoon, Naresh Sharma - Emraan Hashmi Sad Love Hits",
-      "album": "Zeher",
+      "hash": "f7c9670217e1d0fb",
+      "track": "Swag Se Swagat",
+      "artist": "Neha Bhasin, Vishal Dadlani",
+      "album": "Super Hits of Salman Khan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-05T06:51:35.144Z"
-    },
-    {
-      "hash": "f95da7a6e49a53dd",
-      "track": "Aate Jaate Hanste Gaate",
-      "artist": "Anushka Manchanda, Nikhil Dsouza",
-      "album": "Golmaal Again",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T19:50:06.861Z"
+      "cached_at": "2026-07-09T19:56:23.483Z"
     }
   ]
 }
