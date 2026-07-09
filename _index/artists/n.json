@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-09T20:20:02.524Z",
+  "updated_at": "2026-07-09T20:24:31.444Z",
   "entries": [
     {
       "hash": "f7c9670217e1d0fb",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:20:01.499Z"
+    },
+    {
+      "hash": "00154bce5e010e20",
+      "track": "Zindagi Ki Na Toote Ladi",
+      "artist": "Lata Mangeshkar, Nitin Mukesh",
+      "album": "Kranti",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:24:30.475Z"
     }
   ]
 }
