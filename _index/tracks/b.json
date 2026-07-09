@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-07-06T03:23:54.445Z",
+  "updated_at": "2026-07-09T20:15:34.674Z",
   "entries": [
     {
       "hash": "809a467dda2fff63",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-06T03:23:53.482Z"
+    },
+    {
+      "hash": "21282347a4a6442a",
+      "track": "Badtameez Dil",
+      "artist": "Pritam, Benny Dayal, Shefali Alvares",
+      "album": "Yeh Jawaani Hai Deewani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:15:33.537Z"
     }
   ]
 }
