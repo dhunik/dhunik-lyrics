@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-09T19:58:40.759Z",
+  "updated_at": "2026-07-09T20:00:10.186Z",
   "entries": [
     {
       "hash": "2c2e0938aa9f33f6",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T19:58:29.776Z"
+    },
+    {
+      "hash": "ecb9053a037a04c7",
+      "track": "Judaai Judaai, Pt. 1",
+      "artist": "Hariharan, Alka Yagnik, Jaspinder Narula",
+      "album": "Judaai (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:00:08.859Z"
     }
   ]
 }
