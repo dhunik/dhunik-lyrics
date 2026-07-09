@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:29.911Z",
+  "updated_at": "2026-07-09T20:15:42.698Z",
   "entries": [
     {
       "hash": "54ddedffdd43d7c5",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:24.153Z"
+    },
+    {
+      "hash": "a83c16efcf3820b5",
+      "track": "Gallan Goodiyaan",
+      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
+      "album": "Dil Dhadakne Do",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:15:35.511Z"
     }
   ]
 }
