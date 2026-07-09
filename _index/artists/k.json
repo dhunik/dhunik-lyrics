@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:19:17.138Z",
+  "updated_at": "2026-07-09T20:19:39.142Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -93,6 +93,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-09T20:19:12.677Z"
+    },
+    {
+      "hash": "f1b2553d5df7e67f",
+      "track": "Saawli Saloni Teri",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Bappi Da Collection",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-09T20:19:35.111Z"
     }
   ]
 }
