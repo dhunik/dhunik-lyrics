@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-06T02:52:59.089Z",
+  "updated_at": "2026-07-09T20:01:48.610Z",
   "entries": [
     {
       "hash": "2993f68bc1494008",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-06T02:52:54.949Z"
+    },
+    {
+      "hash": "b6753c4c24957467",
+      "track": "Pardesi Pardesi (Kumar Sanu & Alka Yagnik Version)",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Raja Hindustani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-09T20:01:47.535Z"
     }
   ]
 }
