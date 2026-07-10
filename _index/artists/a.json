@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-10T10:02:39.161Z",
+  "updated_at": "2026-07-10T11:27:20.799Z",
   "entries": [
     {
-      "hash": "63f0f6de60e4f093",
-      "track": "O Rey Chhori",
-      "artist": "A.R. Rahman, Udit Narayan, Alka Yagnik, Vasundhara Das",
-      "album": "Lagaan",
+      "hash": "fbdb81ccbe17adad",
+      "track": "Baazigar O Baazigar",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Baazigar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-10T10:02:19.583Z"
+      "cached_at": "2026-07-10T11:26:51.321Z"
     }
   ]
 }
