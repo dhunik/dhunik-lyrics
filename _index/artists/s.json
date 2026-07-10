@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-10T23:38:18.513Z",
+  "updated_at": "2026-07-10T23:54:40.008Z",
   "entries": [
     {
-      "hash": "65189794df094f9c",
-      "track": "Kya Hua Tujhe",
-      "artist": "Alka Yagnik, Sonu Nigam",
-      "album": "Tumko Na Bhool Paayenge",
+      "hash": "631891b539763920",
+      "track": "Crazy Kiya Re",
+      "artist": "Pritam, Sunidhi Chauhan, Sameer",
+      "album": "Dhoom:2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T19:54:41.373Z"
-    },
-    {
-      "hash": "b1806fb30199df1b",
-      "track": "Nikamma Kiya Is Dil Ne (Version, 1)",
-      "artist": "Himesh Reshammiya, Shaan, Sanjivani",
-      "album": "Kyaa Dil Ne Kahaa",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:04:36.442Z"
-    },
-    {
-      "hash": "be8f9f2fcc980066",
-      "track": "Nikamma Kiya Is Dil Ne (Version, 2)",
-      "artist": "Himesh Reshammiya, Sanjivani, Jaspinder Narula, Shaan",
-      "album": "Kyaa Dil Ne Kahaa",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:05:35.420Z"
-    },
-    {
-      "hash": "5dc3301246783c04",
-      "track": "Dil Chori",
-      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
-      "album": "Sonu Ke Titu Ki Sweety",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:13.169Z"
-    },
-    {
-      "hash": "21282347a4a6442a",
-      "track": "Badtameez Dil",
-      "artist": "Pritam, Benny Dayal, Shefali Alvares",
-      "album": "Yeh Jawaani Hai Deewani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:33.537Z"
-    },
-    {
-      "hash": "1ac4efdbc68e5436",
-      "track": "Dilliwaali Girlfriend",
-      "artist": "Pritam, Arijit Singh, Sunidhi Chauhan",
-      "album": "Yeh Jawaani Hai Deewani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:37.233Z"
-    },
-    {
-      "hash": "9996d85a892b874e",
-      "track": "Bang Bang",
-      "artist": "Vishal & Shekhar, Benny Dayal, Neeti Mohan",
-      "album": "Dance Vibes Only",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:20:01.499Z"
-    },
-    {
-      "hash": "7fec07275e391628",
-      "track": "Aaj Ki Raat",
-      "artist": "Amitabh Bhattacharya, Sachin-Jigar, Madhubanti Bagchi, Divya Kumar",
-      "album": "Stree 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:57:51.290Z"
-    },
-    {
-      "hash": "b9299bf5feaeb703",
-      "track": "Aate Jaate Jo Milta Hai",
-      "artist": "Sonu Nigam, Alka Yagnik",
-      "album": "Har Dil Jo Pyar Karega",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-10T23:38:17.390Z"
+      "cached_at": "2026-07-10T23:49:53.946Z"
     }
   ]
 }
