@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-09T20:57:53.108Z",
+  "updated_at": "2026-07-10T23:38:18.513Z",
   "entries": [
     {
       "hash": "65189794df094f9c",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:57:51.290Z"
+    },
+    {
+      "hash": "b9299bf5feaeb703",
+      "track": "Aate Jaate Jo Milta Hai",
+      "artist": "Sonu Nigam, Alka Yagnik",
+      "album": "Har Dil Jo Pyar Karega",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-10T23:38:17.390Z"
     }
   ]
 }
