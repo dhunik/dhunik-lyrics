@@ -2,115 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-07-09T20:42:56.878Z",
+  "updated_at": "2026-07-10T23:54:40.005Z",
   "entries": [
     {
-      "hash": "0d7a549eaa6fdd8d",
-      "track": "Chirugaali Veechena",
-      "artist": "R P Patnaik",
-      "album": "Shiva Putrudu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-28T15:02:13.349Z"
-    },
-    {
-      "hash": "a46bf4401c19230c",
-      "track": "Chak De India",
-      "artist": "Salim-Sulaiman, Sukhvinder Singh, Salim Merchant, Marianne D'Cruz-Aiman, Jaideep Sahni",
-      "album": "Cricket Party Mix",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-05-30T17:41:42.371Z"
-    },
-    {
-      "hash": "95471fd16c987ffe",
-      "track": "Chikiri Chikiri",
-      "artist": "Raqueeb Alam, A.R. Rahman, Mohit Chauhan - Peddi - Hindi",
-      "album": "Peddi - Hindi",
+      "hash": "631891b539763920",
+      "track": "Crazy Kiya Re",
+      "artist": "Pritam, Sunidhi Chauhan, Sameer",
+      "album": "Dhoom:2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-02T11:10:52.373Z"
-    },
-    {
-      "hash": "09aac8b2f5e1c66d",
-      "track": "Chittiyaan Kalaiyaan",
-      "artist": "Meet Bros Anjjan",
-      "album": "Roy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-05T07:52:27.695Z"
-    },
-    {
-      "hash": "c4eafcc2d4056b6e",
-      "track": "Chori Kiya Re Jiya",
-      "artist": "Sonu Nigam, Shreya Ghoshal",
-      "album": "Sonu Nigam | Shreya Ghoshal",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T09:36:17.354Z"
-    },
-    {
-      "hash": "6bff39d11820b4fc",
-      "track": "Ceasefire",
-      "artist": "Zack Merci, Requenze, Nieko X",
-      "album": "Ceasefire",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T09:42:23.506Z"
-    },
-    {
-      "hash": "b0c1b32637a90c41",
-      "track": "Chaudhvin Ka Chand Ho",
-      "artist": "Mohammed Rafi",
-      "album": "Magical Mohammed Rafi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-09T13:45:35.864Z"
-    },
-    {
-      "hash": "3d8de5ea68651962",
-      "track": "Chattan (Acoustic Demo) [feat. Prakruthi Angelina & Sam Alex Pasula]",
-      "artist": "Bridge Music",
-      "album": "Sang Tere",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-10T07:52:06.413Z"
-    },
-    {
-      "hash": "76f4286a3442dca7",
-      "track": "Chithi Na Koi Sandesh",
-      "artist": "Uttam Singh, Jagjit Singh",
-      "album": "Dushman",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-21T03:41:37.849Z"
-    },
-    {
-      "hash": "265c8ac387d0ea04",
-      "track": "Chadhal Jawani Rasgulla",
-      "artist": "Neelkamal Singh, Shilpi Raj, Priyanshu Singh - Chadhal Jawani Rasgulla",
-      "album": "Chadhal Jawani Rasgulla",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-23T02:23:40.069Z"
-    },
-    {
-      "hash": "a8f539968eeb4cfb",
-      "track": "Channa",
-      "artist": "Satinder Sartaaj",
-      "album": "The Black Prince",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-07T12:47:53.731Z"
-    },
-    {
-      "hash": "cf506c2d70c41ae3",
-      "track": "Chura Ke Dil Mera",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:42:53.065Z"
+      "cached_at": "2026-07-10T23:49:53.946Z"
     }
   ]
 }
