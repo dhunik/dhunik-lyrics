@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-09T20:34:42.347Z",
+  "updated_at": "2026-07-10T10:02:39.167Z",
   "entries": [
     {
-      "hash": "f7c9670217e1d0fb",
-      "track": "Swag Se Swagat",
-      "artist": "Neha Bhasin, Vishal Dadlani",
-      "album": "Super Hits of Salman Khan",
+      "hash": "63f0f6de60e4f093",
+      "track": "O Rey Chhori",
+      "artist": "A.R. Rahman, Udit Narayan, Alka Yagnik, Vasundhara Das",
+      "album": "Lagaan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T19:56:23.483Z"
-    },
-    {
-      "hash": "15d57e7ea03a28a5",
-      "track": "Tunak Tunak Tun (Lofi Flip)",
-      "artist": "VIBIE, Daler Mehndi",
-      "album": "Tunak Tunak Tun (Lofi Flip)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:16:22.873Z"
-    },
-    {
-      "hash": "3ea96192b9c1005f",
-      "track": "To Brazil!",
-      "artist": "Vengaboys",
-      "album": "The Party Album!",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:34:39.931Z"
+      "cached_at": "2026-07-10T10:02:19.583Z"
     }
   ]
 }
