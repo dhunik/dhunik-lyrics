@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-09T20:43:28.115Z",
+  "updated_at": "2026-07-10T23:49:10.969Z",
   "entries": [
     {
-      "hash": "bb09e1c173c615ca",
-      "track": "Aankhon Ki Gustakhiyan",
-      "artist": "Kumar Sanu, Kavita Krishnamurthy",
-      "album": "Hum Dil De Chuke Sanam",
+      "hash": "f6ab8bfa58ee80e9",
+      "track": "Aaj Kahin Na Ja",
+      "artist": "Lata Mangeshkar, Kishore Kumar",
+      "album": "Bade Dil Wala",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:43:08.005Z"
+      "cached_at": "2026-07-10T23:45:22.824Z"
     }
   ]
 }
