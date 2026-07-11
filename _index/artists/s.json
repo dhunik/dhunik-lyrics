@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-11T00:36:44.427Z",
+  "updated_at": "2026-07-11T02:04:56.886Z",
   "entries": [
     {
       "hash": "5e75ad45aaacf63e",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-11T00:33:55.506Z"
+    },
+    {
+      "hash": "96440ac0d7bb8270",
+      "track": "Maine Chun Liya",
+      "artist": "Udit Narayan, Shreya Ghoshal",
+      "album": "Dil Maange More",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T02:04:55.729Z"
     }
   ]
 }
