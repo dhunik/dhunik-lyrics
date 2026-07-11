@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-07-11T00:07:00.242Z",
+  "updated_at": "2026-07-11T00:14:33.162Z",
   "entries": [
     {
-      "hash": "792feb3668826eb1",
-      "track": "Kitne Bhi Tu Karle Sitam (From \"Sanam Teri Kasam\")",
-      "artist": "Kishore Kumar, R.D. Burman",
-      "album": "Sanam Teri Kasam",
+      "hash": "ef12128eaa17f11c",
+      "track": "Kuch Kuch Hota Hai",
+      "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:22:58.575Z"
-    },
-    {
-      "hash": "3aa17cd485c6f382",
-      "track": "Kahan Ho Tum",
-      "artist": "Kumar Sanu, Udit Narayan",
-      "album": "No Entry",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:27:12.620Z"
-    },
-    {
-      "hash": "1156be42cc6af483",
-      "track": "Kya Hua (Loveria)",
-      "artist": "Alka Yagnik, Jolly Mukherjee, Kumar Sanu",
-      "album": "Raju Ban Gaya Gentleman",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-10T23:38:23.163Z"
-    },
-    {
-      "hash": "ec9947ad637df3f2",
-      "track": "Khaalipan",
-      "artist": "Niladri Kumar, Abhay Jodhpurkar, Meenal Jain",
-      "album": "Dr. Arora (Original Series Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:59.131Z"
+      "cached_at": "2026-07-11T00:13:13.220Z"
     }
   ]
 }
