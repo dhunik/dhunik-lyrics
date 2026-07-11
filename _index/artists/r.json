@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:25.258Z",
+  "updated_at": "2026-07-11T00:24:09.040Z",
   "entries": [
     {
       "hash": "fb25e3c34b328cd2",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:24.153Z"
+    },
+    {
+      "hash": "6a4f67e075718b9c",
+      "track": "Samundar Mein Nahake (From \"Pukar\")",
+      "artist": "R.D. Burman",
+      "album": "Pukar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:24:08.161Z"
     }
   ]
 }
