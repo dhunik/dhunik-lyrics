@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-11T00:24:13.656Z",
+  "updated_at": "2026-07-11T00:41:29.206Z",
   "entries": [
     {
-      "hash": "ef12128eaa17f11c",
-      "track": "Kuch Kuch Hota Hai",
-      "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
-      "album": "Kuch Kuch Hota Hai",
+      "hash": "1b5a9c9adfa63616",
+      "track": "Jhanjharia (Male Version)",
+      "artist": "Anand Raaj Anand, Anu Malik, Abhijeet",
+      "album": "Krishna",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-11T00:13:13.220Z"
-    },
-    {
-      "hash": "7dd177ad186b96be",
-      "track": "Chal Pyar Karegi",
-      "artist": "Alka Yagnik, Sonu Nigam",
-      "album": "Jab Pyaar Kisise Hota Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:23:52.506Z"
-    },
-    {
-      "hash": "4b4f504e43abec4f",
-      "track": "Aa Ab Laut Chalen",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Aa Ab Laut Chalen",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:24:12.781Z"
+      "cached_at": "2026-07-11T00:37:00.928Z"
     }
   ]
 }
