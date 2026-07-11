@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-11T00:06:52.023Z",
+  "updated_at": "2026-07-11T00:23:43.943Z",
   "entries": [
     {
-      "hash": "631891b539763920",
-      "track": "Crazy Kiya Re",
-      "artist": "Pritam, Sunidhi Chauhan, Sameer",
-      "album": "Dhoom:2",
+      "hash": "7d4e23ce637bb944",
+      "track": "Dil Tote Tote Ho Gaya",
+      "artist": "Shweta Shetty, Hans Raj Hans",
+      "album": "Bichhoo",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-10T23:49:53.946Z"
-    },
-    {
-      "hash": "1be5bb25ce366566",
-      "track": "Chalak Chalak (From \"Devdas\")",
-      "artist": "Udit Narayan, Vinod Rathod, Shreya Ghosal",
-      "album": "Devdas",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:49.199Z"
+      "cached_at": "2026-07-11T00:18:23.167Z"
     }
   ]
 }
