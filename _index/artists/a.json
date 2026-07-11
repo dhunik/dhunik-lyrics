@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-11T00:14:33.169Z",
+  "updated_at": "2026-07-11T00:23:53.737Z",
   "entries": [
     {
       "hash": "ef12128eaa17f11c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-11T00:13:13.220Z"
+    },
+    {
+      "hash": "7dd177ad186b96be",
+      "track": "Chal Pyar Karegi",
+      "artist": "Alka Yagnik, Sonu Nigam",
+      "album": "Jab Pyaar Kisise Hota Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:23:52.506Z"
     }
   ]
 }
