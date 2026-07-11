@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-11T00:23:43.943Z",
+  "updated_at": "2026-07-11T00:36:44.427Z",
   "entries": [
     {
-      "hash": "7d4e23ce637bb944",
-      "track": "Dil Tote Tote Ho Gaya",
-      "artist": "Shweta Shetty, Hans Raj Hans",
-      "album": "Bichhoo",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:18:23.167Z"
+      "hash": "5e75ad45aaacf63e",
+      "track": "BurjKhalifa",
+      "artist": "Madhubanti, Nikhita Gandhi, Shashi, Dj Khushi",
+      "album": "Laxmii",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-11T00:33:55.506Z"
     }
   ]
 }
