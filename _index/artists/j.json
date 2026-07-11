@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-09T20:58:24.869Z",
+  "updated_at": "2026-07-11T00:14:33.163Z",
   "entries": [
     {
-      "hash": "042e992303dc97dd",
-      "track": "O Meri Laila",
-      "artist": "Jyotica Tangri",
-      "album": "Dil Se Dance",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:58:11.737Z"
+      "hash": "ef12128eaa17f11c",
+      "track": "Kuch Kuch Hota Hai",
+      "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:13:13.220Z"
     }
   ]
 }
