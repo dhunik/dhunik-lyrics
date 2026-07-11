@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-10T23:54:40.008Z",
+  "updated_at": "2026-07-11T00:06:52.023Z",
   "entries": [
     {
       "hash": "631891b539763920",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-10T23:49:53.946Z"
+    },
+    {
+      "hash": "1be5bb25ce366566",
+      "track": "Chalak Chalak (From \"Devdas\")",
+      "artist": "Udit Narayan, Vinod Rathod, Shreya Ghosal",
+      "album": "Devdas",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:06:49.199Z"
     }
   ]
 }
