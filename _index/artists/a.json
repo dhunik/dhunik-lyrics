@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-10T23:38:32.992Z",
+  "updated_at": "2026-07-11T00:06:58.700Z",
   "entries": [
     {
       "hash": "fbdb81ccbe17adad",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-10T23:38:23.163Z"
+    },
+    {
+      "hash": "923b377f5c62d5db",
+      "track": "Lafzon Mein",
+      "artist": "Abhijeet Sawant, Biddu",
+      "album": "Aapka... Abhijeet Sawant",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-11T00:06:55.008Z"
     }
   ]
 }
