@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-11T00:06:56.965Z",
+  "updated_at": "2026-07-11T00:07:06.774Z",
   "entries": [
     {
       "hash": "f7767690f1843b58",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-11T00:06:55.008Z"
+    },
+    {
+      "hash": "4edec73171226a4c",
+      "track": "Dil Ne Dil Ko Pukara-Babul Supriyo And Chorus",
+      "artist": "Babul Supriyo",
+      "album": "Kaho Naa Pyar Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:07:04.583Z"
     }
   ]
 }
