@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-07-10T23:38:32.991Z",
+  "updated_at": "2026-07-11T00:07:00.242Z",
   "entries": [
     {
       "hash": "792feb3668826eb1",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-10T23:38:23.163Z"
+    },
+    {
+      "hash": "ec9947ad637df3f2",
+      "track": "Khaalipan",
+      "artist": "Niladri Kumar, Abhay Jodhpurkar, Meenal Jain",
+      "album": "Dr. Arora (Original Series Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:06:59.131Z"
     }
   ]
 }
