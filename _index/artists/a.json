@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-11T00:23:53.737Z",
+  "updated_at": "2026-07-11T00:24:13.656Z",
   "entries": [
     {
       "hash": "ef12128eaa17f11c",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-11T00:23:52.506Z"
+    },
+    {
+      "hash": "4b4f504e43abec4f",
+      "track": "Aa Ab Laut Chalen",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Aa Ab Laut Chalen",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-11T00:24:12.781Z"
     }
   ]
 }
