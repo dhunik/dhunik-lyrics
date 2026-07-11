@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-11T00:07:00.180Z",
+  "updated_at": "2026-07-11T00:14:33.169Z",
   "entries": [
     {
-      "hash": "fbdb81ccbe17adad",
-      "track": "Baazigar O Baazigar",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Baazigar",
+      "hash": "ef12128eaa17f11c",
+      "track": "Kuch Kuch Hota Hai",
+      "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-10T11:26:51.321Z"
-    },
-    {
-      "hash": "b9299bf5feaeb703",
-      "track": "Aate Jaate Jo Milta Hai",
-      "artist": "Sonu Nigam, Alka Yagnik",
-      "album": "Har Dil Jo Pyar Karega",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-10T23:38:17.390Z"
-    },
-    {
-      "hash": "1156be42cc6af483",
-      "track": "Kya Hua (Loveria)",
-      "artist": "Alka Yagnik, Jolly Mukherjee, Kumar Sanu",
-      "album": "Raju Ban Gaya Gentleman",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-10T23:38:23.163Z"
-    },
-    {
-      "hash": "923b377f5c62d5db",
-      "track": "Lafzon Mein",
-      "artist": "Abhijeet Sawant, Biddu",
-      "album": "Aapka... Abhijeet Sawant",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-11T00:06:55.008Z"
-    },
-    {
-      "hash": "ec9947ad637df3f2",
-      "track": "Khaalipan",
-      "artist": "Niladri Kumar, Abhay Jodhpurkar, Meenal Jain",
-      "album": "Dr. Arora (Original Series Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:59.131Z"
+      "cached_at": "2026-07-11T00:13:13.220Z"
     }
   ]
 }
