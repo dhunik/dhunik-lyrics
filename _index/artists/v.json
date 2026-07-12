@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-12T21:59:35.078Z",
+  "updated_at": "2026-07-12T23:17:50.571Z",
   "entries": [
     {
       "hash": "b0d0fe5b3def3a95",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T21:55:02.395Z"
+    },
+    {
+      "hash": "b5a13b4bb60d3a75",
+      "track": "Dard - E - Disco",
+      "artist": "Vishal & Shekhar, Marianne, Nisha, Caralisa, Sukhwinder Singh",
+      "album": "Om Shanti Om",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-12T23:17:43.355Z"
     }
   ]
 }
