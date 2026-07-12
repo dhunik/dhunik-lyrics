@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-12T23:17:42.435Z",
+  "updated_at": "2026-07-12T23:36:16.837Z",
   "entries": [
     {
-      "hash": "3fc4e667586bdc64",
-      "track": "Munni Badnaam",
-      "artist": "Mamta Sharma, Aishwarya",
-      "album": "Dabangg",
+      "hash": "cdf63b0fa85646e1",
+      "track": "O Baby Dont Break My Heart",
+      "artist": "Abhijeet, K. Krishnamoorthy",
+      "album": "Mohabbat",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T22:29:40.910Z"
-    },
-    {
-      "hash": "c4546844be8b1e80",
-      "track": "Ding Dang",
-      "artist": "Javed-Mohsin, Antara Mitra, Amit Mishra",
-      "album": "Munna Michael",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:17:41.387Z"
+      "cached_at": "2026-07-12T23:33:41.500Z"
     }
   ]
 }
