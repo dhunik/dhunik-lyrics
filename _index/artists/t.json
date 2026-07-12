@@ -2,26 +2,8 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-09T20:24:08.840Z",
+  "updated_at": "2026-07-12T21:18:17.963Z",
   "entries": [
-    {
-      "hash": "750bcf1a5fb6847f",
-      "track": "All For You",
-      "artist": "The PropheC, Ezu",
-      "album": "Lost",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-08T04:35:16.764Z"
-    },
-    {
-      "hash": "38e71d8aba7ed522",
-      "track": "Baby It's You",
-      "artist": "The Eden Bros.",
-      "album": "CHUM1962",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-08T04:36:10.584Z"
-    },
     {
       "hash": "c85cb168aff9ce67",
       "track": "Humko Pyar Hua",
@@ -29,7 +11,7 @@
       "album": "Ready",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-09T20:24:02.259Z"
+      "cached_at": "2026-07-12T21:18:07.149Z"
     }
   ]
 }
