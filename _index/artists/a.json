@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-11T00:41:29.206Z",
+  "updated_at": "2026-07-12T22:31:43.647Z",
   "entries": [
     {
-      "hash": "1b5a9c9adfa63616",
-      "track": "Jhanjharia (Male Version)",
-      "artist": "Anand Raaj Anand, Anu Malik, Abhijeet",
-      "album": "Krishna",
+      "hash": "3fc4e667586bdc64",
+      "track": "Munni Badnaam",
+      "artist": "Mamta Sharma, Aishwarya",
+      "album": "Dabangg",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-11T00:37:00.928Z"
+      "cached_at": "2026-07-12T22:29:40.910Z"
     }
   ]
 }
