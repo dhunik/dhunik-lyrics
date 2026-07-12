@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-11T00:24:03.322Z",
+  "updated_at": "2026-07-12T21:18:17.968Z",
   "entries": [
     {
-      "hash": "f6ab8bfa58ee80e9",
-      "track": "Aaj Kahin Na Ja",
-      "artist": "Lata Mangeshkar, Kishore Kumar",
-      "album": "Bade Dil Wala",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-10T23:45:22.824Z"
-    },
-    {
-      "hash": "8f9803c0d4b81370",
-      "track": "Deewana Hai Dekho",
-      "artist": "Kareena Kapoor Khan, Sandesh Shandilya, Alka Yagnik, Sonu Nigam",
-      "album": "Kabhi Khushi Kabhie Gham",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:24:02.362Z"
+      "hash": "c85cb168aff9ce67",
+      "track": "Humko Pyar Hua",
+      "artist": "Tulsi Kumar, KK",
+      "album": "Ready",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-12T21:18:07.149Z"
     }
   ]
 }
