@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-11T00:07:06.774Z",
+  "updated_at": "2026-07-12T23:18:00.681Z",
   "entries": [
     {
       "hash": "f7767690f1843b58",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-11T00:07:04.583Z"
+    },
+    {
+      "hash": "1da24a596a95c40c",
+      "track": "In the Name of Love",
+      "artist": "マーティンギャリックス, Bebe Rexha",
+      "album": "In the Name of Love",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-12T23:17:59.537Z"
     }
   ]
 }
