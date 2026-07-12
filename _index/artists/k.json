@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-12T23:21:13.059Z",
+  "updated_at": "2026-07-12T23:29:34.303Z",
   "entries": [
     {
       "hash": "1298b8390d6793de",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T23:18:16.007Z"
+    },
+    {
+      "hash": "e66dbdd6102db7f0",
+      "track": "Saathiya Tune Kya Kiya",
+      "artist": "K. S. Chithra, S. P. Balasubrahmanyam",
+      "album": "Love",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-12T23:29:33.215Z"
     }
   ]
 }
