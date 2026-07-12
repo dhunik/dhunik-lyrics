@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-11T00:07:01.588Z",
+  "updated_at": "2026-07-12T22:31:43.644Z",
   "entries": [
     {
-      "hash": "eb001b2131aa2120",
-      "track": "Saiyaara",
-      "artist": "Sohail Sen, Mohit Chauhan, Tarannum Malik Jain, Kausar Munir",
-      "album": "Ek Tha Tiger",
+      "hash": "3fc4e667586bdc64",
+      "track": "Munni Badnaam",
+      "artist": "Mamta Sharma, Aishwarya",
+      "album": "Dabangg",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:32:15.728Z"
-    },
-    {
-      "hash": "ec9947ad637df3f2",
-      "track": "Khaalipan",
-      "artist": "Niladri Kumar, Abhay Jodhpurkar, Meenal Jain",
-      "album": "Dr. Arora (Original Series Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:59.131Z"
+      "cached_at": "2026-07-12T22:29:40.910Z"
     }
   ]
 }
