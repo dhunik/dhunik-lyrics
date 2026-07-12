@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-11T00:06:50.216Z",
+  "updated_at": "2026-07-12T21:59:35.078Z",
   "entries": [
     {
-      "hash": "63f0f6de60e4f093",
-      "track": "O Rey Chhori",
-      "artist": "A.R. Rahman, Udit Narayan, Alka Yagnik, Vasundhara Das",
-      "album": "Lagaan",
+      "hash": "b0d0fe5b3def3a95",
+      "track": "Sultan",
+      "artist": "Vishal & Shekhar, Sukhwinder Singh, Shadab Faridi, Irshad Kamil",
+      "album": "Sultan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-10T10:02:19.583Z"
-    },
-    {
-      "hash": "1be5bb25ce366566",
-      "track": "Chalak Chalak (From \"Devdas\")",
-      "artist": "Udit Narayan, Vinod Rathod, Shreya Ghosal",
-      "album": "Devdas",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:49.199Z"
+      "cached_at": "2026-07-12T21:55:02.395Z"
     }
   ]
 }
