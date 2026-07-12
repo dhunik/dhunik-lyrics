@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-12T23:29:36.373Z",
+  "updated_at": "2026-07-12T23:30:01.341Z",
   "entries": [
     {
       "hash": "cb612c0908b18f85",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T23:29:34.727Z"
+    },
+    {
+      "hash": "b5fb5117c1e1880d",
+      "track": "Aage Peeche",
+      "artist": "Vishal & Shekhar, Shekhar, Sneha Pant",
+      "album": "Golmaal Returns",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-12T23:30:00.459Z"
     }
   ]
 }
