@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-12T23:17:48.591Z",
+  "updated_at": "2026-07-12T23:29:36.373Z",
   "entries": [
     {
       "hash": "cb612c0908b18f85",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T23:17:43.483Z"
+    },
+    {
+      "hash": "a41436ae87e4f865",
+      "track": "Hello Brother",
+      "artist": "Sonu Nigam, Jaspinder Narula, Kamaal Khan",
+      "album": "Hello Brother",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-12T23:29:34.727Z"
     }
   ]
 }
