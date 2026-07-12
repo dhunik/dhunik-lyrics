@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-11T00:14:33.163Z",
+  "updated_at": "2026-07-12T23:17:42.433Z",
   "entries": [
     {
       "hash": "ef12128eaa17f11c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-11T00:13:13.220Z"
+    },
+    {
+      "hash": "c4546844be8b1e80",
+      "track": "Ding Dang",
+      "artist": "Javed-Mohsin, Antara Mitra, Amit Mishra",
+      "album": "Munna Michael",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-12T23:17:41.387Z"
     }
   ]
 }
