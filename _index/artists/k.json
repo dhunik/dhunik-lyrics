@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-12T23:29:36.475Z",
+  "updated_at": "2026-07-12T23:36:16.840Z",
   "entries": [
     {
-      "hash": "1298b8390d6793de",
-      "track": "Dus Bahane",
-      "artist": "Sunidhi Chauhan, Sonu Nigam, KK, Shaan, Babul Supriyo",
-      "album": "Dus",
+      "hash": "cdf63b0fa85646e1",
+      "track": "O Baby Dont Break My Heart",
+      "artist": "Abhijeet, K. Krishnamoorthy",
+      "album": "Mohabbat",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T23:18:16.007Z"
-    },
-    {
-      "hash": "e66dbdd6102db7f0",
-      "track": "Saathiya Tune Kya Kiya",
-      "artist": "K. S. Chithra, S. P. Balasubrahmanyam",
-      "album": "Love",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:29:33.215Z"
-    },
-    {
-      "hash": "a41436ae87e4f865",
-      "track": "Hello Brother",
-      "artist": "Sonu Nigam, Jaspinder Narula, Kamaal Khan",
-      "album": "Hello Brother",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:29:34.727Z"
+      "cached_at": "2026-07-12T23:33:41.500Z"
     }
   ]
 }
