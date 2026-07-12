@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-12T23:17:47.767Z",
+  "updated_at": "2026-07-12T23:17:48.591Z",
   "entries": [
     {
       "hash": "cb612c0908b18f85",
@@ -14,13 +14,13 @@
       "cached_at": "2026-07-12T22:47:16.476Z"
     },
     {
-      "hash": "b5a13b4bb60d3a75",
-      "track": "Dard - E - Disco",
-      "artist": "Vishal & Shekhar, Marianne, Nisha, Caralisa, Sukhwinder Singh",
-      "album": "Om Shanti Om",
+      "hash": "72a49fceb65d338a",
+      "track": "Lagan Lagi",
+      "artist": "Sukhwinder Singh",
+      "album": "Tere Naam",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T23:17:43.355Z"
+      "cached_at": "2026-07-12T23:17:43.483Z"
     }
   ]
 }
