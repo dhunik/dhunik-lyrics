@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-12T23:18:00.681Z",
+  "updated_at": "2026-07-12T23:21:13.062Z",
   "entries": [
     {
-      "hash": "f7767690f1843b58",
-      "track": "Mercy (DJ Chetas Remix)",
-      "artist": "Badshah, Dj Chetas",
-      "album": "Mercy (DJ Chetas Remix)",
+      "hash": "1298b8390d6793de",
+      "track": "Dus Bahane",
+      "artist": "Sunidhi Chauhan, Sonu Nigam, KK, Shaan, Babul Supriyo",
+      "album": "Dus",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-17T05:37:25.160Z"
-    },
-    {
-      "hash": "9ccfe47d5b3dedfc",
-      "track": "The Humma Song",
-      "artist": "A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati, Jubin Nautiyal",
-      "album": "OK Jaanu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:03.748Z"
-    },
-    {
-      "hash": "3ac8cec7faa353e3",
-      "track": "Munna Badnaam Hua",
-      "artist": "Badshah, Mamta Sharma, Kamaal Khan",
-      "album": "Dabangg 3",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:15:52.850Z"
-    },
-    {
-      "hash": "923b377f5c62d5db",
-      "track": "Lafzon Mein",
-      "artist": "Abhijeet Sawant, Biddu",
-      "album": "Aapka... Abhijeet Sawant",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-11T00:06:55.008Z"
-    },
-    {
-      "hash": "4edec73171226a4c",
-      "track": "Dil Ne Dil Ko Pukara-Babul Supriyo And Chorus",
-      "artist": "Babul Supriyo",
-      "album": "Kaho Naa Pyar Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:07:04.583Z"
-    },
-    {
-      "hash": "1da24a596a95c40c",
-      "track": "In the Name of Love",
-      "artist": "マーティンギャリックス, Bebe Rexha",
-      "album": "In the Name of Love",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:17:59.537Z"
+      "cached_at": "2026-07-12T23:18:16.007Z"
     }
   ]
 }
