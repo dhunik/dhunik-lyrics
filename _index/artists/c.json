@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-12T23:17:47.751Z",
+  "updated_at": "2026-07-13T23:50:09.363Z",
   "entries": [
     {
-      "hash": "e571d5e0ec06b8e5",
-      "track": "Left and Right (Feat. Jung Kook of BTS)",
-      "artist": "Charlie Puth, Jung Kook, BTS",
-      "album": "CHARLIE",
+      "hash": "30fe6c7ccc9a9b18",
+      "track": "My Love Is Gone",
+      "artist": "Devi Sri Prasad, K.G. Ranjith, Chandra Bose",
+      "album": "Aarya - 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-08T08:00:50.625Z"
-    },
-    {
-      "hash": "0d5ae9aec7842b4e",
-      "track": "Sairat Zaala Ji",
-      "artist": "Chinmayi Sripada, Ajay Gogavale, Ajay-Atul",
-      "album": "Sairat",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-24T01:34:37.588Z"
-    },
-    {
-      "hash": "d1b10a4050d83ce7",
-      "track": "Wicked Game",
-      "artist": "Chris Isaak",
-      "album": "Baking in Autumn",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-28T11:43:06.138Z"
-    },
-    {
-      "hash": "b5a13b4bb60d3a75",
-      "track": "Dard - E - Disco",
-      "artist": "Vishal & Shekhar, Marianne, Nisha, Caralisa, Sukhwinder Singh",
-      "album": "Om Shanti Om",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:17:43.355Z"
+      "cached_at": "2026-07-13T23:45:35.317Z"
     }
   ]
 }
