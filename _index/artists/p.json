@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:44.330Z",
+  "updated_at": "2026-07-13T17:26:05.880Z",
   "entries": [
     {
-      "hash": "1a893d4cf52a2852",
-      "track": "Kya",
-      "artist": "Pritam, Neeraj Shridhar",
-      "album": "Crook",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-02T16:59:41.001Z"
-    },
-    {
-      "hash": "edfda1402561558d",
-      "track": "The Breakup Song",
-      "artist": "Pritam, Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",
-      "album": "Ae Dil Hai Mushkil",
+      "hash": "91bdacb44aa20f9a",
+      "track": "Dil Chahte Ho",
+      "artist": "Jubin Nautiyal, Payal Dev",
+      "album": "Dil Chahte Ho",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-03T16:23:28.446Z"
-    },
-    {
-      "hash": "1f7e3bebe494e033",
-      "track": "Bandhu 2.0 (From \"Cocktail 2\")",
-      "artist": "Pritam, Irshad Kamil - Bandhu 2.0 (From \"Cocktail 2\")",
-      "album": "null",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T07:34:07.996Z"
-    },
-    {
-      "hash": "21282347a4a6442a",
-      "track": "Badtameez Dil",
-      "artist": "Pritam, Benny Dayal, Shefali Alvares",
-      "album": "Yeh Jawaani Hai Deewani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:33.537Z"
-    },
-    {
-      "hash": "1ac4efdbc68e5436",
-      "track": "Dilliwaali Girlfriend",
-      "artist": "Pritam, Arijit Singh, Sunidhi Chauhan",
-      "album": "Yeh Jawaani Hai Deewani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:37.233Z"
+      "cached_at": "2026-07-13T17:22:03.779Z"
     }
   ]
 }
