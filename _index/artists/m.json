@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-12T22:31:43.644Z",
+  "updated_at": "2026-07-13T16:27:48.092Z",
   "entries": [
     {
       "hash": "3fc4e667586bdc64",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T22:29:40.910Z"
+    },
+    {
+      "hash": "12dcd538da3d3e43",
+      "track": "Ve Junoon (From \"Awarapan 2\")",
+      "artist": "Mithoon, Sayeed Quadri, Subodhh Sharma - Ve Junoon (From \"Awarapan 2\")",
+      "album": "Ve Junoon (From \"Awarapan 2\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-13T16:27:46.819Z"
     }
   ]
 }
