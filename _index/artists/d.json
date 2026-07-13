@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-11T00:36:44.429Z",
+  "updated_at": "2026-07-13T23:50:09.355Z",
   "entries": [
     {
-      "hash": "5e75ad45aaacf63e",
-      "track": "BurjKhalifa",
-      "artist": "Madhubanti, Nikhita Gandhi, Shashi, Dj Khushi",
-      "album": "Laxmii",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-11T00:33:55.506Z"
+      "hash": "30fe6c7ccc9a9b18",
+      "track": "My Love Is Gone",
+      "artist": "Devi Sri Prasad, K.G. Ranjith, Chandra Bose",
+      "album": "Aarya - 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-13T23:45:35.317Z"
     }
   ]
 }
