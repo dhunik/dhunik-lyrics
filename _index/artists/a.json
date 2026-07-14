@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-14T06:39:03.695Z",
+  "updated_at": "2026-07-14T06:43:20.757Z",
   "entries": [
     {
-      "hash": "07f7da3e42619bad",
-      "track": "Are Re Are",
+      "hash": "7586167b4fa6585f",
+      "track": "Bholi Si Surat",
       "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
       "album": "Dil To Pagal Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T06:33:33.020Z"
+      "cached_at": "2026-07-14T06:39:10.644Z"
     }
   ]
 }
