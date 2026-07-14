@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-07-14T06:58:47.822Z",
+  "updated_at": "2026-07-14T07:13:39.926Z",
   "entries": [
     {
       "hash": "0bd02366e4ceaa77",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-14T06:52:03.817Z"
+    },
+    {
+      "hash": "8809fc33cad9daec",
+      "track": "Are Re Are (Part 2)",
+      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
+      "album": "Dil To Pagal Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-14T07:13:38.932Z"
     }
   ]
 }
