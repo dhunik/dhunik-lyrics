@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-13T16:48:24.242Z",
+  "updated_at": "2026-07-14T00:34:37.687Z",
   "entries": [
     {
-      "hash": "c85c2010bdedcd0e",
-      "track": "Tere Bina",
-      "artist": "Asad Khan, Arijit Singh, Aakanksha Sharma",
-      "album": "Arijit Singh Bollywood Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-13T16:44:32.071Z"
+      "hash": "856f0c5bae38fc06",
+      "track": "Kiya Kiya",
+      "artist": "Anand Raaj Anand, Shweta Pandit",
+      "album": "Welcome",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-14T00:31:45.741Z"
     }
   ]
 }
