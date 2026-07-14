@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-14T06:43:20.757Z",
+  "updated_at": "2026-07-14T07:04:21.328Z",
   "entries": [
     {
-      "hash": "7586167b4fa6585f",
-      "track": "Bholi Si Surat",
+      "hash": "49e1d05e8c1ed83a",
+      "track": "Koi Ladki Hai",
       "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
       "album": "Dil To Pagal Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T06:39:10.644Z"
+      "cached_at": "2026-07-14T06:58:53.297Z"
     }
   ]
 }
