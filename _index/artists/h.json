@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-07-14T00:15:54.467Z",
+  "updated_at": "2026-07-14T07:07:50.444Z",
   "entries": [
     {
-      "hash": "2c2e0938aa9f33f6",
-      "track": "Judaai Judaai",
-      "artist": "Nadeem-Shravan, Hariharan, Alka Yagnik, Jaswinder Narula, Altaf Raja, Minalini Singh",
-      "album": "Dard- E- Dil- Vol.2- Judaai Judaai- With Shayeri",
+      "hash": "00934deeecb67644",
+      "track": "Ek Duje Ke Vaaste",
+      "artist": "Uttam Singh, Lata Mangeshkar, Hariharan, Anand Bakshi - Dil To Pagal Hai",
+      "album": "Dil To Pagal Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T19:58:29.776Z"
-    },
-    {
-      "hash": "ecb9053a037a04c7",
-      "track": "Judaai Judaai, Pt. 1",
-      "artist": "Hariharan, Alka Yagnik, Jaspinder Narula",
-      "album": "Judaai (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:00:08.859Z"
-    },
-    {
-      "hash": "be8f9f2fcc980066",
-      "track": "Nikamma Kiya Is Dil Ne (Version, 2)",
-      "artist": "Himesh Reshammiya, Sanjivani, Jaspinder Narula, Shaan",
-      "album": "Kyaa Dil Ne Kahaa",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-09T20:05:35.420Z"
-    },
-    {
-      "hash": "86e2d767650de28b",
-      "track": "Sajana Tere Pyar Mein",
-      "artist": "Himesh Reshammiya, Udit Narayan, Alka Yagnik",
-      "album": "Kyaa Dil Ne Kahaa",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-14T00:15:53.581Z"
+      "cached_at": "2026-07-14T07:04:34.489Z"
     }
   ]
 }
