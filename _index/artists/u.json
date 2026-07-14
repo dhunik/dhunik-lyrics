@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-11T00:24:13.676Z",
+  "updated_at": "2026-07-14T00:15:54.465Z",
   "entries": [
     {
       "hash": "c1038735d4cb9d13",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-11T00:24:12.781Z"
+    },
+    {
+      "hash": "86e2d767650de28b",
+      "track": "Sajana Tere Pyar Mein",
+      "artist": "Himesh Reshammiya, Udit Narayan, Alka Yagnik",
+      "album": "Kyaa Dil Ne Kahaa",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-14T00:15:53.581Z"
     }
   ]
 }
