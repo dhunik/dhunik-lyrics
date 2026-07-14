@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-12T23:30:01.658Z",
+  "updated_at": "2026-07-14T00:44:33.056Z",
   "entries": [
     {
       "hash": "b0d0fe5b3def3a95",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T23:30:00.459Z"
+    },
+    {
+      "hash": "bfaa338208aa2091",
+      "track": "Dholi Taro Dhol Baaje",
+      "artist": "Kavita Krishnamurthy, Vinod Rathod, Karsan Sargathia",
+      "album": "Hum Dil De Chuke Sanam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-14T00:44:26.213Z"
     }
   ]
 }
