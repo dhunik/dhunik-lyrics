@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-14T00:34:37.690Z",
+  "updated_at": "2026-07-14T07:53:14.728Z",
   "entries": [
     {
-      "hash": "856f0c5bae38fc06",
-      "track": "Kiya Kiya",
-      "artist": "Anand Raaj Anand, Shweta Pandit",
-      "album": "Welcome",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-14T00:31:45.741Z"
+      "hash": "f3fe962af7991fd5",
+      "track": "Dhire Dhire Aap Mere (From \"Baazi\")",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "album": "Udit Narayan - Romantic Hits",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-14T07:52:55.650Z"
     }
   ]
 }
