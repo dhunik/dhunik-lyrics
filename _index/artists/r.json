@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-11T00:24:09.040Z",
+  "updated_at": "2026-07-14T00:14:33.229Z",
   "entries": [
     {
-      "hash": "fb25e3c34b328cd2",
-      "track": "Buss Down",
-      "artist": "KR$NA, Raftaar, Phenom - Yours Truly",
-      "album": "KR$NA, Raftaar, Phenom - Yours Truly",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T18:25:17.292Z"
-    },
-    {
-      "hash": "1ae19af90a014c8a",
-      "track": "Genda Phool (From \"Delhi-6\")",
-      "artist": "Rekha Bhardwaj",
-      "album": "Rekha Bhardwaj Song Collection",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-18T19:24:11.785Z"
-    },
-    {
-      "hash": "c444ffb7ccf7926f",
-      "track": "To Chalun",
-      "artist": "Roopkumar Rathod",
-      "album": "Border (Original Motion Picture Soundtrack)",
+      "hash": "7a1cda934b4cc026",
+      "track": "Gunche Lage Hain Kahne",
+      "artist": "Shailender Singh, Raamlaxman",
+      "album": "Taraana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-06-26T07:15:54.019Z"
-    },
-    {
-      "hash": "ff1602a2a47833e8",
-      "track": "Hamari Adhuri Kahani (Title Track) [From \"Hamari Adhuri Kahani\"]",
-      "artist": "Rashmi-Virag, Jeet Gannguli, Arijit Singh",
-      "album": "Emraan Hashmi Sad Love Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T06:51:32.471Z"
-    },
-    {
-      "hash": "f186a488d90fa117",
-      "track": "Woh Lamhe Woh Baatein",
-      "artist": "Roopkumar Rathod, Mithoon, Naresh Sharma - Emraan Hashmi Sad Love Hits",
-      "album": "Zeher",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-05T06:51:35.144Z"
-    },
-    {
-      "hash": "7be7cfa2ba2d4d3d",
-      "track": "Pallo Latke",
-      "artist": "Kumaar, Jyotica Tangri, Yasser Desai, Fazilpuria, Raees-Zain-Sam",
-      "album": "The Bollywood Wedding Collection",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:24.153Z"
-    },
-    {
-      "hash": "6a4f67e075718b9c",
-      "track": "Samundar Mein Nahake (From \"Pukar\")",
-      "artist": "R.D. Burman",
-      "album": "Pukar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:24:08.161Z"
+      "cached_at": "2026-07-14T00:12:44.738Z"
     }
   ]
 }
