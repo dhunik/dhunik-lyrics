@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-13T17:26:05.880Z",
+  "updated_at": "2026-07-14T00:44:14.103Z",
   "entries": [
     {
-      "hash": "91bdacb44aa20f9a",
-      "track": "Dil Chahte Ho",
-      "artist": "Jubin Nautiyal, Payal Dev",
-      "album": "Dil Chahte Ho",
+      "hash": "016d6cc76f693025",
+      "track": "Zohra Jabeen",
+      "artist": "Pritam, Nakash Aziz, Dev Negi, Sameer Anjaan, Danish Sabri, Mellow D",
+      "album": "Sikandar (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-13T17:22:03.779Z"
+      "cached_at": "2026-07-14T00:40:56.006Z"
     }
   ]
 }
