@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-07-10T23:49:10.954Z",
+  "updated_at": "2026-07-14T06:39:03.700Z",
   "entries": [
     {
-      "hash": "f6ab8bfa58ee80e9",
-      "track": "Aaj Kahin Na Ja",
-      "artist": "Lata Mangeshkar, Kishore Kumar",
-      "album": "Bade Dil Wala",
+      "hash": "07f7da3e42619bad",
+      "track": "Are Re Are",
+      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
+      "album": "Dil To Pagal Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-10T23:45:22.824Z"
+      "cached_at": "2026-07-14T06:33:33.020Z"
     }
   ]
 }
