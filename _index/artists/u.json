@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-14T00:15:54.465Z",
+  "updated_at": "2026-07-14T06:43:20.749Z",
   "entries": [
     {
-      "hash": "c1038735d4cb9d13",
-      "track": "Mitwa",
-      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Srinivas",
-      "album": "Lagaan",
+      "hash": "7586167b4fa6585f",
+      "track": "Bholi Si Surat",
+      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
+      "album": "Dil To Pagal Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:55:31.678Z"
-    },
-    {
-      "hash": "1be5bb25ce366566",
-      "track": "Chalak Chalak (From \"Devdas\")",
-      "artist": "Udit Narayan, Vinod Rathod, Shreya Ghosal",
-      "album": "Devdas",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:49.199Z"
-    },
-    {
-      "hash": "4b4f504e43abec4f",
-      "track": "Aa Ab Laut Chalen",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Aa Ab Laut Chalen",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:24:12.781Z"
-    },
-    {
-      "hash": "86e2d767650de28b",
-      "track": "Sajana Tere Pyar Mein",
-      "artist": "Himesh Reshammiya, Udit Narayan, Alka Yagnik",
-      "album": "Kyaa Dil Ne Kahaa",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-14T00:15:53.581Z"
+      "cached_at": "2026-07-14T06:39:10.644Z"
     }
   ]
 }
