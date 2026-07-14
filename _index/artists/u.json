@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-14T07:04:21.323Z",
+  "updated_at": "2026-07-14T07:13:34.434Z",
   "entries": [
     {
-      "hash": "49e1d05e8c1ed83a",
-      "track": "Koi Ladki Hai",
-      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
+      "hash": "3ca7920e4e93c3aa",
+      "track": "Le Gayi",
+      "artist": "Uttam Singh, Asha Bhosle, Anand Bakshi - Dil To Pagal Hai",
+      "album": "Timeless Asha Bhosle",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T06:58:53.297Z"
+      "cached_at": "2026-07-14T07:07:57.149Z"
     }
   ]
 }
