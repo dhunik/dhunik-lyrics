@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-07-12T23:21:13.054Z",
+  "updated_at": "2026-07-14T00:20:55.413Z",
   "entries": [
     {
-      "hash": "1298b8390d6793de",
-      "track": "Dus Bahane",
-      "artist": "Sunidhi Chauhan, Sonu Nigam, KK, Shaan, Babul Supriyo",
-      "album": "Dus",
+      "hash": "1822af83279fa5e0",
+      "track": "Dupatta Tera Nau Rang Da",
+      "artist": "Sonu Nigam, Kunal Ganjawala, Shreya Ghoshal, Suzi Q",
+      "album": "Partner",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T23:18:16.007Z"
+      "cached_at": "2026-07-14T00:16:04.403Z"
     }
   ]
 }
