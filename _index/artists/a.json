@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-14T00:34:37.687Z",
+  "updated_at": "2026-07-14T06:39:03.695Z",
   "entries": [
     {
-      "hash": "856f0c5bae38fc06",
-      "track": "Kiya Kiya",
-      "artist": "Anand Raaj Anand, Shweta Pandit",
-      "album": "Welcome",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-14T00:31:45.741Z"
+      "hash": "07f7da3e42619bad",
+      "track": "Are Re Are",
+      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
+      "album": "Dil To Pagal Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-14T06:33:33.020Z"
     }
   ]
 }
