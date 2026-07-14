@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-13T16:27:48.090Z",
+  "updated_at": "2026-07-14T00:14:33.235Z",
   "entries": [
     {
-      "hash": "cb612c0908b18f85",
-      "track": "Ankhiyon Se Goli Maare",
-      "artist": "Sonu Nigam, Jaspinder Narula",
-      "album": "Dulhe Raja",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-12T22:47:16.476Z"
-    },
-    {
-      "hash": "72a49fceb65d338a",
-      "track": "Lagan Lagi",
-      "artist": "Sukhwinder Singh",
-      "album": "Tere Naam",
+      "hash": "7a1cda934b4cc026",
+      "track": "Gunche Lage Hain Kahne",
+      "artist": "Shailender Singh, Raamlaxman",
+      "album": "Taraana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T23:17:43.483Z"
-    },
-    {
-      "hash": "a41436ae87e4f865",
-      "track": "Hello Brother",
-      "artist": "Sonu Nigam, Jaspinder Narula, Kamaal Khan",
-      "album": "Hello Brother",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:29:34.727Z"
-    },
-    {
-      "hash": "b5fb5117c1e1880d",
-      "track": "Aage Peeche",
-      "artist": "Vishal & Shekhar, Shekhar, Sneha Pant",
-      "album": "Golmaal Returns",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:30:00.459Z"
-    },
-    {
-      "hash": "12dcd538da3d3e43",
-      "track": "Ve Junoon (From \"Awarapan 2\")",
-      "artist": "Mithoon, Sayeed Quadri, Subodhh Sharma - Ve Junoon (From \"Awarapan 2\")",
-      "album": "Ve Junoon (From \"Awarapan 2\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-13T16:27:46.819Z"
+      "cached_at": "2026-07-14T00:12:44.738Z"
     }
   ]
 }
