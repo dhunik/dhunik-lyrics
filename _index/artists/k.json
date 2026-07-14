@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-12T23:36:16.840Z",
+  "updated_at": "2026-07-14T00:20:55.417Z",
   "entries": [
     {
-      "hash": "cdf63b0fa85646e1",
-      "track": "O Baby Dont Break My Heart",
-      "artist": "Abhijeet, K. Krishnamoorthy",
-      "album": "Mohabbat",
+      "hash": "1822af83279fa5e0",
+      "track": "Dupatta Tera Nau Rang Da",
+      "artist": "Sonu Nigam, Kunal Ganjawala, Shreya Ghoshal, Suzi Q",
+      "album": "Partner",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T23:33:41.500Z"
+      "cached_at": "2026-07-14T00:16:04.403Z"
     }
   ]
 }
