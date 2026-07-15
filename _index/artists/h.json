@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-07-14T07:07:50.444Z",
+  "updated_at": "2026-07-15T23:33:25.216Z",
   "entries": [
     {
-      "hash": "00934deeecb67644",
-      "track": "Ek Duje Ke Vaaste",
-      "artist": "Uttam Singh, Lata Mangeshkar, Hariharan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
+      "hash": "58e124e3b72ee04a",
+      "track": "Yun Hi Chala Chal",
+      "artist": "Udit Narayan, Hariharan, Kailash Kher",
+      "album": "Swades",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T07:04:34.489Z"
+      "cached_at": "2026-07-15T23:30:18.729Z"
     }
   ]
 }
