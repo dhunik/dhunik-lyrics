@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-13T23:50:09.363Z",
+  "updated_at": "2026-07-15T11:12:29.614Z",
   "entries": [
     {
       "hash": "30fe6c7ccc9a9b18",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-13T23:45:35.317Z"
+    },
+    {
+      "hash": "3a6639006e0b7020",
+      "track": "Dancing On My Own (Acoustic)",
+      "artist": "Calum Scott - Dancing On My Own (Acoustic)",
+      "album": "Heartstrings",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:12:28.645Z"
     }
   ]
 }
