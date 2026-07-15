@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-07-15T22:01:25.047Z",
+  "updated_at": "2026-07-15T23:55:34.119Z",
   "entries": [
     {
-      "hash": "1b0c0eea49d269a7",
-      "track": "Tu Hi Hai Aashiqui (Solo)",
-      "artist": "Palash Muchhal, Arijit Singh",
-      "album": "Dishkiyaoon",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-13T16:48:32.139Z"
-    },
-    {
-      "hash": "85c63812380cd205",
-      "track": "Tera Yaar Hoon Main",
-      "artist": "Arijit Singh",
-      "album": "Unknown",
-      "has_synced": true,
+      "hash": "d622beab5b82eaa9",
+      "track": "Tharki Chokro",
+      "artist": "Ajay-Atul, Shantanu Moitra, Swaroop Khan",
+      "album": "PK",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-15T10:45:39.178Z"
-    },
-    {
-      "hash": "1e644ff466ef4b58",
-      "track": "Thinking out Loud",
-      "artist": "Ed Sheeran - x",
-      "album": "×",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:09:22.244Z"
-    },
-    {
-      "hash": "22ee43fde5af74a5",
-      "track": "Tied Down",
-      "artist": "Jaymes Young - Feel Something",
-      "album": "Feel Something",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:11:55.223Z"
-    },
-    {
-      "hash": "b399e608404ff615",
-      "track": "Tujhe Yaad Na Meri Aayee",
-      "artist": "Jatin-Lalit, Udit Narayan, Manpreet Akhtar",
-      "album": "Kuch Kuch Hota Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-15T22:01:21.143Z"
+      "cached_at": "2026-07-15T23:50:59.592Z"
     }
   ]
 }
