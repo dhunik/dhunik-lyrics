@@ -1,0 +1,87 @@
+{
+  "v": 1,
+  "key": "kurradu baboyee|m m keeravani",
+  "track": "Kurradu Baboyee",
+  "artist": "M. M. Keeravani, K. S. Chithra, S.P. Balasubrahmanyam",
+  "album": "Chinna Alludu",
+  "language": "English",
+  "generated_at": "2026-07-15T16:39:39.133Z",
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "summary": "The song 'Kurradu Baboyee' appears to be a romantic and poetic expression of love and longing. The lyrics weave a narrative of affection and admiration, likely between two lovers. The song's core message revolves around the beauty of love and the emotional connection between two people. The emotional journey takes the listener through a path of serenity and passion.",
+  "background": {
+    "composition": "The song features a blend of traditional Telugu music elements with contemporary orchestration, characteristic of M.M. Keeravani's composition style. The melody is soothing, with a focus on vocal harmonies.",
+    "cultural_context": "The song is part of the album 'Chinna Alludu', which suggests it might be from a Telugu film or a cultural project celebrating Telugu cinema or folklore. Information about specific cultural significance beyond this is not available.",
+    "fun_facts": [
+      "The song features renowned artists M.M. Keeravani, K.S. Chithra, and S.P. Balasubrahmanyam, known for their contributions to Telugu cinema.",
+      "[Unverified] The song might be a popular track from the 90s or early 2000s, given the artists involved."
+    ]
+  },
+  "line_meanings": [
+    {
+      "original": "rajashekaraa Aagalenuraa",
+      "meaning": "This line seems to invoke a royal or divine presence, setting a majestic tone for the song.",
+      "mood": "reverence"
+    },
+    {
+      "original": "paitalo Swaraalane Meeti chudaraa",
+      "meaning": "The line continues the poetic invocation, possibly referring to meeting or uniting with a beloved through music or melody.",
+      "mood": "longing"
+    },
+    {
+      "original": "O Sakhi cheli Thene Jaabili",
+      "meaning": "Addressing a friend or companion, expressing a sentiment of love or yearning.",
+      "mood": "intimacy"
+    },
+    {
+      "original": "teerani Sukhaalalo theepi aakali",
+      "meaning": "This line continues the poetic expression, possibly describing the joy or bliss of love.",
+      "mood": "joy"
+    },
+    {
+      "original": "Chaatugaa Tera Chaatugaa Kasi Kaatulo Pedave",
+      "meaning": "The lyrics seem to celebrate the beauty of the beloved, comparing them to divine or natural wonders.",
+      "literary_device": "metaphor",
+      "mood": "admiration"
+    },
+    {
+      "original": "gaatugaa Alavaatugaa Odi Paathame Chadive",
+      "meaning": "Continuing the poetic admiration, possibly describing the act of singing or praising the beloved.",
+      "mood": "devotion"
+    },
+    {
+      "original": "chiru chitralatho... Naluge Perige cheralo",
+      "meaning": "Referring to a beautiful picture or scene, possibly metaphorically describing the beloved.",
+      "literary_device": "simile",
+      "mood": "serenity"
+    },
+    {
+      "original": "madhu Patraalatho... Naluge Perige cheralo",
+      "meaning": "This line continues the serene and poetic description, possibly invoking sweetness or beauty.",
+      "mood": "peace"
+    },
+    {
+      "original": "shrungaara Ganga Pongeti Vela Ruchule Marige Matthulo",
+      "meaning": "The lyrics seem to blend poetic imagery with cultural or mythological references, enhancing the romantic and serene mood.",
+      "mood": "elegance"
+    },
+    {
+      "original": "Kontegaa Tholi Raatiri Chali Mantale Pudithe",
+      "meaning": "This line and the following ones continue the poetic and possibly mythological or natural imagery, weaving a complex emotional narrative.",
+      "mood": "contemplation"
+    }
+  ],
+  "themes": [
+    "love",
+    "longing",
+    "admiration",
+    "serenity",
+    "poetry"
+  ],
+  "mood_arc": [
+    "reverence",
+    "longing",
+    "intimacy",
+    "joy",
+    "serenity"
+  ]
+}
