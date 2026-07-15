@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-15T10:44:37.640Z",
+  "updated_at": "2026-07-15T11:11:48.783Z",
   "entries": [
     {
       "hash": "9d29569580eec961",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T10:44:18.723Z"
+    },
+    {
+      "hash": "28c20580677f1329",
+      "track": "Sweetest Pie",
+      "artist": "Megan Thee Stallion, Dua Lipa - Sweetest Pie",
+      "album": "Megan Thee Stallion",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:11:47.818Z"
     }
   ]
 }
