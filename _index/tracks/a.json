@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-07-14T07:13:39.909Z",
+  "updated_at": "2026-07-15T10:44:37.637Z",
   "entries": [
     {
-      "hash": "07f7da3e42619bad",
-      "track": "Are Re Are",
-      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
+      "hash": "9d29569580eec961",
+      "track": "Apna Time Aayega",
+      "artist": "Ranveer Singh, DIVINE, Dub Sharma",
+      "album": "Unknown",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T06:33:33.020Z"
-    },
-    {
-      "hash": "8809fc33cad9daec",
-      "track": "Are Re Are (Part 2)",
-      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T07:13:38.932Z"
+      "has_plain": true,
+      "cached_at": "2026-07-15T10:44:18.723Z"
     }
   ]
 }
