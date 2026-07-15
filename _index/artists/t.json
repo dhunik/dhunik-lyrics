@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-12T21:18:17.963Z",
+  "updated_at": "2026-07-15T11:10:37.366Z",
   "entries": [
     {
-      "hash": "c85cb168aff9ce67",
-      "track": "Humko Pyar Hua",
-      "artist": "Tulsi Kumar, KK",
-      "album": "Ready",
-      "has_synced": false,
+      "hash": "c85ea3695bed2e24",
+      "track": "Someone Like You",
+      "artist": "Twin, Britt, Deep Mage",
+      "album": "Someone Like You",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-12T21:18:07.149Z"
+      "cached_at": "2026-07-15T11:10:11.428Z"
     }
   ]
 }
