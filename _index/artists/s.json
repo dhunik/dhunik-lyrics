@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-15T11:04:31.779Z",
+  "updated_at": "2026-07-15T11:09:51.720Z",
   "entries": [
     {
-      "hash": "9e70fb75ee4fb4ee",
-      "track": "Bholenath (Slowed and Reverb)",
-      "artist": "Sumit Goswami",
-      "album": "Bholenath (Slowed and Reverb)",
+      "hash": "5ad1e3116c8ee92a",
+      "track": "Perfect",
+      "artist": "Sweet Strings",
+      "album": "Perfect Time",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T11:04:18.093Z"
+      "cached_at": "2026-07-15T11:09:40.368Z"
     }
   ]
 }
