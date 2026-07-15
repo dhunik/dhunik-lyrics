@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-15T11:12:08.589Z",
+  "updated_at": "2026-07-15T11:12:13.260Z",
   "entries": [
     {
       "hash": "1822af83279fa5e0",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-15T11:12:07.540Z"
+    },
+    {
+      "hash": "c281bb45407011ac",
+      "track": "Slow",
+      "artist": "Kylie Minogue - Body Language",
+      "album": "Kylie Minogue",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:12:12.314Z"
     }
   ]
 }
