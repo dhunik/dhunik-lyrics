@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-14T00:44:14.103Z",
+  "updated_at": "2026-07-15T10:45:18.112Z",
   "entries": [
     {
       "hash": "016d6cc76f693025",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-14T00:40:56.006Z"
+    },
+    {
+      "hash": "ce8bcacdab53edcf",
+      "track": "Aabaad Barbaad",
+      "artist": "Pritam, Arijit Singh",
+      "album": "LUDO",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T10:45:15.656Z"
     }
   ]
 }
