@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-15T22:01:25.167Z",
+  "updated_at": "2026-07-15T23:27:48.124Z",
   "entries": [
     {
-      "hash": "f3fe962af7991fd5",
-      "track": "Dhire Dhire Aap Mere (From \"Baazi\")",
-      "artist": "Udit Narayan, Sadhana Sargam",
-      "album": "Udit Narayan - Romantic Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T07:52:55.650Z"
-    },
-    {
-      "hash": "b399e608404ff615",
-      "track": "Tujhe Yaad Na Meri Aayee",
-      "artist": "Jatin-Lalit, Udit Narayan, Manpreet Akhtar",
+      "hash": "11f3f78428545701",
+      "track": "Koi Mil Gaya",
+      "artist": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
       "album": "Kuch Kuch Hota Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-15T22:01:21.143Z"
+      "cached_at": "2026-07-15T23:22:43.122Z"
     }
   ]
 }
