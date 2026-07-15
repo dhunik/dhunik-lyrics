@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-14T00:44:33.056Z",
+  "updated_at": "2026-07-15T11:04:17.042Z",
   "entries": [
     {
       "hash": "b0d0fe5b3def3a95",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-14T00:44:26.213Z"
+    },
+    {
+      "hash": "14828f78cb722409",
+      "track": "Gajban",
+      "artist": "Vishvajeet Choudhary",
+      "album": "Gajban",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:04:15.582Z"
     }
   ]
 }
