@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-15T10:45:43.770Z",
+  "updated_at": "2026-07-15T11:04:48.798Z",
   "entries": [
     {
       "hash": "49e1d05e8c1ed83a",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T10:45:39.178Z"
+    },
+    {
+      "hash": "93e3b6f1d867724a",
+      "track": "Bandook Meri Laila",
+      "artist": "Sachin-Jigar, Jigar Saraiya, Sidharth Malhotra, Ash King",
+      "album": "Bandook Meri Laila (From \"A Gentleman\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:04:47.983Z"
     }
   ]
 }
