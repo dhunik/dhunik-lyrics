@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-15T11:10:37.366Z",
+  "updated_at": "2026-07-15T11:13:19.270Z",
   "entries": [
     {
-      "hash": "c85ea3695bed2e24",
-      "track": "Someone Like You",
-      "artist": "Twin, Britt, Deep Mage",
-      "album": "Someone Like You",
+      "hash": "0bb02af38c1fc19b",
+      "track": "No Good in Goodbye",
+      "artist": "The Script - No Sound Without Silence",
+      "album": "The Script",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T11:10:11.428Z"
+      "cached_at": "2026-07-15T11:13:08.314Z"
     }
   ]
 }
