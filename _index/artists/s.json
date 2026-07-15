@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-15T11:04:14.863Z",
+  "updated_at": "2026-07-15T11:04:31.779Z",
   "entries": [
     {
-      "hash": "f3fe962af7991fd5",
-      "track": "Dhire Dhire Aap Mere (From \"Baazi\")",
-      "artist": "Udit Narayan, Sadhana Sargam",
-      "album": "Udit Narayan - Romantic Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T07:52:55.650Z"
-    },
-    {
-      "hash": "1e9d92726470d932",
-      "track": "Aahista Aahista",
-      "artist": "Saaj Bhatt",
-      "album": "Aahista Aahista",
+      "hash": "9e70fb75ee4fb4ee",
+      "track": "Bholenath (Slowed and Reverb)",
+      "artist": "Sumit Goswami",
+      "album": "Bholenath (Slowed and Reverb)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T11:03:54.908Z"
-    },
-    {
-      "hash": "f18897cd8bb7a3e4",
-      "track": "Sunn Raha Hai (Female)",
-      "artist": "Shreya Ghoshal",
-      "album": "Aashiqui 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:04:08.068Z"
+      "cached_at": "2026-07-15T11:04:18.093Z"
     }
   ]
 }
