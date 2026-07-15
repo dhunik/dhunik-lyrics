@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-15T11:12:13.260Z",
+  "updated_at": "2026-07-15T23:10:36.878Z",
   "entries": [
     {
-      "hash": "1822af83279fa5e0",
-      "track": "Dupatta Tera Nau Rang Da",
-      "artist": "Sonu Nigam, Kunal Ganjawala, Shreya Ghoshal, Suzi Q",
-      "album": "Partner",
+      "hash": "2e71a4dd71801541",
+      "track": "Guzaara",
+      "artist": "Josh Brar, Parampara Tandon, Kumaar, Jagdeep Warring, Salamat Ali Matoi, Agaazz",
+      "album": "Baaghi 4",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T00:16:04.403Z"
-    },
-    {
-      "hash": "f9954551ad7fb4a1",
-      "track": "My Neck, My Back (Lick It) (Radio Version)",
-      "artist": "Khia - My Neck, My Back (Lick It)",
-      "album": "150 Best of Ladies songs",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:12:07.540Z"
-    },
-    {
-      "hash": "c281bb45407011ac",
-      "track": "Slow",
-      "artist": "Kylie Minogue - Body Language",
-      "album": "Kylie Minogue",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:12:12.314Z"
+      "cached_at": "2026-07-15T23:06:38.663Z"
     }
   ]
 }
