@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-15T10:45:17.313Z",
+  "updated_at": "2026-07-15T10:45:43.770Z",
   "entries": [
     {
       "hash": "49e1d05e8c1ed83a",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T10:45:15.656Z"
+    },
+    {
+      "hash": "85c63812380cd205",
+      "track": "Tera Yaar Hoon Main",
+      "artist": "Arijit Singh",
+      "album": "Unknown",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T10:45:39.178Z"
     }
   ]
 }
