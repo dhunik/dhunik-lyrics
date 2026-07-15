@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-14T07:53:14.728Z",
+  "updated_at": "2026-07-15T11:04:00.424Z",
   "entries": [
     {
       "hash": "f3fe962af7991fd5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-14T07:52:55.650Z"
+    },
+    {
+      "hash": "1e9d92726470d932",
+      "track": "Aahista Aahista",
+      "artist": "Saaj Bhatt",
+      "album": "Aahista Aahista",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:03:54.908Z"
     }
   ]
 }
