@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-14T07:53:14.725Z",
+  "updated_at": "2026-07-15T22:01:25.167Z",
   "entries": [
     {
       "hash": "f3fe962af7991fd5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-14T07:52:55.650Z"
+    },
+    {
+      "hash": "b399e608404ff615",
+      "track": "Tujhe Yaad Na Meri Aayee",
+      "artist": "Jatin-Lalit, Udit Narayan, Manpreet Akhtar",
+      "album": "Kuch Kuch Hota Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-15T22:01:21.143Z"
     }
   ]
 }
