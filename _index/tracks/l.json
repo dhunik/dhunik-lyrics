@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-07-12T23:17:45.045Z",
+  "updated_at": "2026-07-15T11:12:45.385Z",
   "entries": [
     {
       "hash": "1f95c7e709518b64",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-12T23:17:43.483Z"
+    },
+    {
+      "hash": "42a15dd193c1c7bb",
+      "track": "Love You Goodbye",
+      "artist": "One Direction - Made In The A.M. (Deluxe Edition)",
+      "album": "One Direction",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-15T11:12:42.972Z"
     }
   ]
 }
