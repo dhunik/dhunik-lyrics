@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-15T11:04:48.798Z",
+  "updated_at": "2026-07-15T23:27:48.126Z",
   "entries": [
     {
-      "hash": "49e1d05e8c1ed83a",
-      "track": "Koi Ladki Hai",
-      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
+      "hash": "11f3f78428545701",
+      "track": "Koi Mil Gaya",
+      "artist": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T06:58:53.297Z"
-    },
-    {
-      "hash": "ce8bcacdab53edcf",
-      "track": "Aabaad Barbaad",
-      "artist": "Pritam, Arijit Singh",
-      "album": "LUDO",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T10:45:15.656Z"
-    },
-    {
-      "hash": "85c63812380cd205",
-      "track": "Tera Yaar Hoon Main",
-      "artist": "Arijit Singh",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T10:45:39.178Z"
-    },
-    {
-      "hash": "93e3b6f1d867724a",
-      "track": "Bandook Meri Laila",
-      "artist": "Sachin-Jigar, Jigar Saraiya, Sidharth Malhotra, Ash King",
-      "album": "Bandook Meri Laila (From \"A Gentleman\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:04:47.983Z"
+      "cached_at": "2026-07-15T23:22:43.122Z"
     }
   ]
 }
