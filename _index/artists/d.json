@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-13T23:50:09.355Z",
+  "updated_at": "2026-07-15T10:44:37.640Z",
   "entries": [
     {
-      "hash": "30fe6c7ccc9a9b18",
-      "track": "My Love Is Gone",
-      "artist": "Devi Sri Prasad, K.G. Ranjith, Chandra Bose",
-      "album": "Aarya - 2",
+      "hash": "9d29569580eec961",
+      "track": "Apna Time Aayega",
+      "artist": "Ranveer Singh, DIVINE, Dub Sharma",
+      "album": "Unknown",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-13T23:45:35.317Z"
+      "has_plain": true,
+      "cached_at": "2026-07-15T10:44:18.723Z"
     }
   ]
 }
