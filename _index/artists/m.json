@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-15T11:13:00.175Z",
+  "updated_at": "2026-07-16T00:43:01.180Z",
   "entries": [
     {
       "hash": "3fc4e667586bdc64",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T11:12:58.787Z"
+    },
+    {
+      "hash": "e8f62dd7ebfed719",
+      "track": "Ijazat",
+      "artist": "Meet Bros., Arijit Singh",
+      "album": "Love Forever With Arijit Singh",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T00:43:00.280Z"
     }
   ]
 }
