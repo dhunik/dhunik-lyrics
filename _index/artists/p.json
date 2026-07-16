@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-15T23:10:36.875Z",
+  "updated_at": "2026-07-16T00:14:33.194Z",
   "entries": [
     {
-      "hash": "2e71a4dd71801541",
-      "track": "Guzaara",
-      "artist": "Josh Brar, Parampara Tandon, Kumaar, Jagdeep Warring, Salamat Ali Matoi, Agaazz",
-      "album": "Baaghi 4",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-15T23:06:38.663Z"
+      "hash": "384440c28376f5bf",
+      "track": "Hum To Aise Hain",
+      "artist": "Shantanu Moitra, Shreya Ghoshal, Sunidhi Chauhan, Pranab Biswas, Swanand Kirkire",
+      "album": "Laaga Chunari Mein Daag - Journey Of A Woman",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-16T00:09:34.681Z"
     }
   ]
 }
