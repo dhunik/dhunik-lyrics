@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-16T00:43:01.176Z",
+  "updated_at": "2026-07-16T21:30:23.055Z",
   "entries": [
     {
       "hash": "11f3f78428545701",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-16T00:43:00.280Z"
+    },
+    {
+      "hash": "d0074ac5fe85d451",
+      "track": "Khwaja Mere Khwaja",
+      "artist": "A.R. Rahman",
+      "album": "Jodhaa Akbar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T21:30:22.221Z"
     }
   ]
 }
