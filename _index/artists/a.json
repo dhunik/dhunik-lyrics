@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-15T23:27:48.126Z",
+  "updated_at": "2026-07-16T00:42:23.131Z",
   "entries": [
     {
       "hash": "11f3f78428545701",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-15T23:22:43.122Z"
+    },
+    {
+      "hash": "a9b1848b06a37378",
+      "track": "Naina",
+      "artist": "Pritam, Arijit Singh",
+      "album": "Dangal",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T00:42:22.262Z"
     }
   ]
 }
