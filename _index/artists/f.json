@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:30.225Z",
+  "updated_at": "2026-07-16T00:42:25.637Z",
   "entries": [
     {
       "hash": "957bfd044108df08",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-09T20:15:24.153Z"
+    },
+    {
+      "hash": "13ee869e7d71a10f",
+      "track": "Aayat",
+      "artist": "Sanjay Leela Bhansali, Shreyas Puranik, Arijit Singh, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri",
+      "album": "Bajirao Mastani",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T00:42:24.788Z"
     }
   ]
 }
