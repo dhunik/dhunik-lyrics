@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-16T00:42:25.626Z",
+  "updated_at": "2026-07-16T00:42:56.385Z",
   "entries": [
     {
       "hash": "4e9f73024e5cdfad",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-16T00:42:24.788Z"
+    },
+    {
+      "hash": "6f4f789794d7cc9c",
+      "track": "Manwa Laage",
+      "artist": "Vishal & Shekhar, Arijit Singh, Shreya Ghoshal",
+      "album": "Happy New Year",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T00:42:55.493Z"
     }
   ]
 }
