@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-12T23:21:13.062Z",
+  "updated_at": "2026-07-16T00:36:49.840Z",
   "entries": [
     {
-      "hash": "1298b8390d6793de",
-      "track": "Dus Bahane",
-      "artist": "Sunidhi Chauhan, Sonu Nigam, KK, Shaan, Babul Supriyo",
-      "album": "Dus",
+      "hash": "03807ac929f0c8f6",
+      "track": "Kaise Mujhe",
+      "artist": "Benny Dayal, Shreya Ghoshal",
+      "album": "Ghajini",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T23:18:16.007Z"
+      "cached_at": "2026-07-16T00:36:28.414Z"
     }
   ]
 }
