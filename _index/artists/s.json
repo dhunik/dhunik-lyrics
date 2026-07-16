@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-15T16:38:35.691Z",
+  "updated_at": "2026-07-16T00:42:09.610Z",
   "entries": [
     {
       "hash": "4e9f73024e5cdfad",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-15T16:38:17.866Z"
+    },
+    {
+      "hash": "7f142dded40b9c42",
+      "track": "Tujhe Bhi Chand",
+      "artist": "Sanjay Leela Bhansali, Shreya Ghoshal",
+      "album": "Sukoon",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T00:42:08.762Z"
     }
   ]
 }
