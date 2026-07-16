@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-15T23:10:36.878Z",
+  "updated_at": "2026-07-16T21:30:13.938Z",
   "entries": [
     {
       "hash": "2e71a4dd71801541",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-15T23:06:38.663Z"
+    },
+    {
+      "hash": "7a196587e1ea7802",
+      "track": "Teri Deewani",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "album": "A Decade of Love",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-16T21:30:12.937Z"
     }
   ]
 }
