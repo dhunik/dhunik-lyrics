@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "track",
-  "updated_at": "2026-07-16T00:42:23.111Z",
+  "updated_at": "2026-07-17T15:13:13.750Z",
   "entries": [
     {
-      "hash": "0bb02af38c1fc19b",
-      "track": "No Good in Goodbye",
-      "artist": "The Script - No Sound Without Silence",
-      "album": "The Script",
+      "hash": "744b4f29c919c249",
+      "track": "Namo Namo",
+      "artist": "Amit Trivedi",
+      "album": null,
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T11:13:08.314Z"
-    },
-    {
-      "hash": "a9b1848b06a37378",
-      "track": "Naina",
-      "artist": "Pritam, Arijit Singh",
-      "album": "Dangal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:22.262Z"
+      "cached_at": "2026-07-17T15:12:26.019Z"
     }
   ]
 }
