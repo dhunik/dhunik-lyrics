@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-17T08:25:36.445Z",
+  "updated_at": "2026-07-17T15:46:12.139Z",
   "entries": [
     {
-      "hash": "4e9f73024e5cdfad",
-      "track": "Kurradu Baboyee",
-      "artist": "M. M. Keeravani, K. S. Chithra, S.P. Balasubrahmanyam",
-      "album": "Chinna Alludu",
-      "has_synced": false,
+      "hash": "9386ecb4ddcbf88c",
+      "track": "Peelings",
+      "artist": "Devi Sri Prasad, Javed Ali, Madhubanti Bagchi, Raqueeb Alam, Siju Thuravoor - Pushpa 2 The Rule",
+      "album": "Pushpa 2 The Rule",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T16:38:17.866Z"
-    },
-    {
-      "hash": "7f142dded40b9c42",
-      "track": "Tujhe Bhi Chand",
-      "artist": "Sanjay Leela Bhansali, Shreya Ghoshal",
-      "album": "Sukoon",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:08.762Z"
-    },
-    {
-      "hash": "13ee869e7d71a10f",
-      "track": "Aayat",
-      "artist": "Sanjay Leela Bhansali, Shreyas Puranik, Arijit Singh, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri",
-      "album": "Bajirao Mastani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:24.788Z"
-    },
-    {
-      "hash": "6f4f789794d7cc9c",
-      "track": "Manwa Laage",
-      "artist": "Vishal & Shekhar, Arijit Singh, Shreya Ghoshal",
-      "album": "Happy New Year",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:55.493Z"
-    },
-    {
-      "hash": "6ca5031d7609dc2e",
-      "track": "Maheroo Maheroo",
-      "artist": "Shreya Ghoshal, Darshan Rathod",
-      "album": "Shreya Ghoshal Romantic Hits",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-17T08:25:34.725Z"
+      "cached_at": "2026-07-17T15:44:06.441Z"
     }
   ]
 }
