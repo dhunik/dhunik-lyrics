@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-15T11:11:57.223Z",
+  "updated_at": "2026-07-17T15:46:12.132Z",
   "entries": [
     {
-      "hash": "ef12128eaa17f11c",
-      "track": "Kuch Kuch Hota Hai",
-      "artist": "Jatin-Lalit, Udit Narayan, Alka Yagnik",
-      "album": "Kuch Kuch Hota Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:13:13.220Z"
-    },
-    {
-      "hash": "c4546844be8b1e80",
-      "track": "Ding Dang",
-      "artist": "Javed-Mohsin, Antara Mitra, Amit Mishra",
-      "album": "Munna Michael",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:17:41.387Z"
-    },
-    {
-      "hash": "93e3b6f1d867724a",
-      "track": "Bandook Meri Laila",
-      "artist": "Sachin-Jigar, Jigar Saraiya, Sidharth Malhotra, Ash King",
-      "album": "Bandook Meri Laila (From \"A Gentleman\")",
+      "hash": "9386ecb4ddcbf88c",
+      "track": "Peelings",
+      "artist": "Devi Sri Prasad, Javed Ali, Madhubanti Bagchi, Raqueeb Alam, Siju Thuravoor - Pushpa 2 The Rule",
+      "album": "Pushpa 2 The Rule",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T11:04:47.983Z"
-    },
-    {
-      "hash": "22ee43fde5af74a5",
-      "track": "Tied Down",
-      "artist": "Jaymes Young - Feel Something",
-      "album": "Feel Something",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:11:55.223Z"
+      "cached_at": "2026-07-17T15:44:06.441Z"
     }
   ]
 }
