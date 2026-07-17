@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-16T21:30:23.055Z",
+  "updated_at": "2026-07-17T14:46:16.746Z",
   "entries": [
     {
-      "hash": "11f3f78428545701",
-      "track": "Koi Mil Gaya",
-      "artist": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
-      "album": "Kuch Kuch Hota Hai",
+      "hash": "ce7910b3de190da5",
+      "track": "Tu Hai Ki Nahi",
+      "artist": "Ankit Tiwari",
+      "album": "Roy",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-15T23:22:43.122Z"
-    },
-    {
-      "hash": "a9b1848b06a37378",
-      "track": "Naina",
-      "artist": "Pritam, Arijit Singh",
-      "album": "Dangal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:22.262Z"
-    },
-    {
-      "hash": "6f4f789794d7cc9c",
-      "track": "Manwa Laage",
-      "artist": "Vishal & Shekhar, Arijit Singh, Shreya Ghoshal",
-      "album": "Happy New Year",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:55.493Z"
-    },
-    {
-      "hash": "e8f62dd7ebfed719",
-      "track": "Ijazat",
-      "artist": "Meet Bros., Arijit Singh",
-      "album": "Love Forever With Arijit Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:43:00.280Z"
-    },
-    {
-      "hash": "d0074ac5fe85d451",
-      "track": "Khwaja Mere Khwaja",
-      "artist": "A.R. Rahman",
-      "album": "Jodhaa Akbar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T21:30:22.221Z"
+      "has_plain": true,
+      "cached_at": "2026-07-17T14:45:42.015Z"
     }
   ]
 }
