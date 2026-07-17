@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-16T00:42:56.385Z",
+  "updated_at": "2026-07-17T08:25:36.445Z",
   "entries": [
     {
       "hash": "4e9f73024e5cdfad",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-16T00:42:55.493Z"
+    },
+    {
+      "hash": "6ca5031d7609dc2e",
+      "track": "Maheroo Maheroo",
+      "artist": "Shreya Ghoshal, Darshan Rathod",
+      "album": "Shreya Ghoshal Romantic Hits",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-17T08:25:34.725Z"
     }
   ]
 }
