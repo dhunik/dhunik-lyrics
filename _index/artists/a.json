@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-17T14:46:16.746Z",
+  "updated_at": "2026-07-17T15:13:13.754Z",
   "entries": [
     {
-      "hash": "ce7910b3de190da5",
-      "track": "Tu Hai Ki Nahi",
-      "artist": "Ankit Tiwari",
-      "album": "Roy",
+      "hash": "744b4f29c919c249",
+      "track": "Namo Namo",
+      "artist": "Amit Trivedi",
+      "album": null,
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-17T14:45:42.015Z"
+      "cached_at": "2026-07-17T15:12:26.019Z"
     }
   ]
 }
