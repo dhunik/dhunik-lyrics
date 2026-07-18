@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-16T00:43:01.180Z",
+  "updated_at": "2026-07-18T06:25:59.441Z",
   "entries": [
     {
-      "hash": "3fc4e667586bdc64",
-      "track": "Munni Badnaam",
-      "artist": "Mamta Sharma, Aishwarya",
-      "album": "Dabangg",
+      "hash": "9cbad71a9cfe77ab",
+      "track": "Sawan Mein Lag Gayi Aag",
+      "artist": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
+      "album": "Ginny Weds Sunny",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T22:29:40.910Z"
-    },
-    {
-      "hash": "12dcd538da3d3e43",
-      "track": "Ve Junoon (From \"Awarapan 2\")",
-      "artist": "Mithoon, Sayeed Quadri, Subodhh Sharma - Ve Junoon (From \"Awarapan 2\")",
-      "album": "Ve Junoon (From \"Awarapan 2\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-13T16:27:46.819Z"
-    },
-    {
-      "hash": "6c304bc5cfbdda0f",
-      "track": "Om Shanti",
-      "artist": "MC Insane",
-      "album": "Om Shanti",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-14T00:52:25.025Z"
-    },
-    {
-      "hash": "11d5ca94d875f7cc",
-      "track": "Out Of Goodbyes",
-      "artist": "Maroon 5 ft. Lady Antebellum - Hands All Over (Revised Asia Standard Version)",
-      "album": "Hands All Over",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:12:58.787Z"
-    },
-    {
-      "hash": "e8f62dd7ebfed719",
-      "track": "Ijazat",
-      "artist": "Meet Bros., Arijit Singh",
-      "album": "Love Forever With Arijit Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:43:00.280Z"
+      "cached_at": "2026-07-18T06:22:19.339Z"
     }
   ]
 }
