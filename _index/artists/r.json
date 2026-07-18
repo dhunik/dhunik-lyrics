@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-18T06:22:07.061Z",
+  "updated_at": "2026-07-18T09:06:49.829Z",
   "entries": [
     {
-      "hash": "650bece04c6859a7",
-      "track": "Dil Bechara",
-      "artist": "Neha Kakkar, Rohanpreet Singh",
-      "album": "Dil Bechara",
+      "hash": "d94864352c016956",
+      "track": "Vaari Jaavan",
+      "artist": "Jasmine Sandlas, Reble, Shashwat Sachdev, Jyoti Nooran",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T06:19:21.934Z"
+      "cached_at": "2026-07-18T09:02:51.895Z"
     }
   ]
 }
