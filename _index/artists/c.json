@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-15T11:12:29.614Z",
+  "updated_at": "2026-07-18T21:34:52.046Z",
   "entries": [
     {
       "hash": "30fe6c7ccc9a9b18",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T11:12:28.645Z"
+    },
+    {
+      "hash": "914e87d5a6b3b4c8",
+      "track": "The Scientist (Acoustic Cover)",
+      "artist": "Coldplay",
+      "album": "A Rush of Blood to the Head",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:34:50.322Z"
     }
   ]
 }
