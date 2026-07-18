@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-11T00:07:00.176Z",
+  "updated_at": "2026-07-18T06:07:49.661Z",
   "entries": [
     {
-      "hash": "f7c9670217e1d0fb",
-      "track": "Swag Se Swagat",
-      "artist": "Neha Bhasin, Vishal Dadlani",
-      "album": "Super Hits of Salman Khan",
+      "hash": "8ab89ebc6be770f3",
+      "track": "Chatni",
+      "artist": "Aditya Dev, Neelkamal Singh, Mamta Sharma, Dhiraj Babuaan - Dhamaal 4",
+      "album": "Dhamaal 4",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T19:56:23.483Z"
-    },
-    {
-      "hash": "ff9ff315324071aa",
-      "track": "Aankh Marey",
-      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu",
-      "album": "Simmba",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:19:51.385Z"
-    },
-    {
-      "hash": "9996d85a892b874e",
-      "track": "Bang Bang",
-      "artist": "Vishal & Shekhar, Benny Dayal, Neeti Mohan",
-      "album": "Dance Vibes Only",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:20:01.499Z"
-    },
-    {
-      "hash": "00154bce5e010e20",
-      "track": "Zindagi Ki Na Toote Ladi",
-      "artist": "Lata Mangeshkar, Nitin Mukesh",
-      "album": "Kranti",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:24:30.475Z"
-    },
-    {
-      "hash": "ec9947ad637df3f2",
-      "track": "Khaalipan",
-      "artist": "Niladri Kumar, Abhay Jodhpurkar, Meenal Jain",
-      "album": "Dr. Arora (Original Series Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:06:59.131Z"
+      "cached_at": "2026-07-18T06:07:33.127Z"
     }
   ]
 }
