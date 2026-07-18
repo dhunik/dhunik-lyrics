@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-07-18T06:08:13.506Z",
+  "updated_at": "2026-07-18T06:25:59.440Z",
   "entries": [
     {
-      "hash": "eb001b2131aa2120",
-      "track": "Saiyaara",
-      "artist": "Sohail Sen, Mohit Chauhan, Tarannum Malik Jain, Kausar Munir",
-      "album": "Ek Tha Tiger",
+      "hash": "9cbad71a9cfe77ab",
+      "track": "Sawan Mein Lag Gayi Aag",
+      "artist": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
+      "album": "Ginny Weds Sunny",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:32:15.728Z"
-    },
-    {
-      "hash": "6a4f67e075718b9c",
-      "track": "Samundar Mein Nahake (From \"Pukar\")",
-      "artist": "R.D. Burman",
-      "album": "Pukar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-11T00:24:08.161Z"
-    },
-    {
-      "hash": "e66dbdd6102db7f0",
-      "track": "Saathiya Tune Kya Kiya",
-      "artist": "K. S. Chithra, S. P. Balasubrahmanyam",
-      "album": "Love",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:29:33.215Z"
-    },
-    {
-      "hash": "f18897cd8bb7a3e4",
-      "track": "Sunn Raha Hai (Female)",
-      "artist": "Shreya Ghoshal",
-      "album": "Aashiqui 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:04:08.068Z"
-    },
-    {
-      "hash": "28c20580677f1329",
-      "track": "Sweetest Pie",
-      "artist": "Megan Thee Stallion, Dua Lipa - Sweetest Pie",
-      "album": "Megan Thee Stallion",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:11:47.818Z"
-    },
-    {
-      "hash": "c281bb45407011ac",
-      "track": "Slow",
-      "artist": "Kylie Minogue - Body Language",
-      "album": "Kylie Minogue",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:12:12.314Z"
-    },
-    {
-      "hash": "fbcdbaf7cd72f139",
-      "track": "Saree",
-      "artist": "Tanishk Bagchi, Sanju Rathod, G-SPXRK, Rashmi-Virag - Dhamaal 4",
-      "album": "Dhamaal 4",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T06:08:12.559Z"
+      "cached_at": "2026-07-18T06:22:19.339Z"
     }
   ]
 }
