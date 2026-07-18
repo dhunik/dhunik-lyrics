@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-18T21:32:03.842Z",
+  "updated_at": "2026-07-18T21:32:32.721Z",
   "entries": [
     {
       "hash": "744b4f29c919c249",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T21:32:02.858Z"
+    },
+    {
+      "hash": "fd4effddfb7abe34",
+      "track": "Ae Mere Humsafar",
+      "artist": "Alka Yagnik, Udit Narayan",
+      "album": "Qayamat Se Qayamat Tak",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:32:30.890Z"
     }
   ]
 }
