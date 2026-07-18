@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-18T21:34:52.046Z",
+  "updated_at": "2026-07-18T21:35:39.982Z",
   "entries": [
     {
-      "hash": "30fe6c7ccc9a9b18",
-      "track": "My Love Is Gone",
-      "artist": "Devi Sri Prasad, K.G. Ranjith, Chandra Bose",
-      "album": "Aarya - 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-13T23:45:35.317Z"
-    },
-    {
-      "hash": "3a6639006e0b7020",
-      "track": "Dancing On My Own (Acoustic)",
-      "artist": "Calum Scott - Dancing On My Own (Acoustic)",
-      "album": "Heartstrings",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:12:28.645Z"
-    },
-    {
-      "hash": "914e87d5a6b3b4c8",
-      "track": "The Scientist (Acoustic Cover)",
+      "hash": "d17b654d5dc9e8ea",
+      "track": "Fix You",
       "artist": "Coldplay",
-      "album": "A Rush of Blood to the Head",
+      "album": "The Singles 1999 - 2006",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T21:34:50.322Z"
+      "cached_at": "2026-07-18T21:35:10.140Z"
     }
   ]
 }
