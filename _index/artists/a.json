@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-18T21:31:50.519Z",
+  "updated_at": "2026-07-18T21:32:01.532Z",
   "entries": [
     {
       "hash": "744b4f29c919c249",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T21:31:49.419Z"
+    },
+    {
+      "hash": "c8b88cb38f942dbc",
+      "track": "Saari Baaten Hoti Hai",
+      "artist": "Kumar Sanu, Poornima, Anand, Milind",
+      "album": "Pehla Pehla Pyar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:31:51.547Z"
     }
   ]
 }
