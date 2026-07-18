@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-07-16T00:14:33.179Z",
+  "updated_at": "2026-07-18T08:32:18.921Z",
   "entries": [
     {
       "hash": "384440c28376f5bf",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-16T00:09:34.681Z"
+    },
+    {
+      "hash": "519f09960752f90b",
+      "track": "Hot Launde (feat. Fotty Seven, Bali)",
+      "artist": "Badshah, Fotty Seven, Bali",
+      "album": "The Power of Dreams of a Kid",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T08:32:18.011Z"
     }
   ]
 }
