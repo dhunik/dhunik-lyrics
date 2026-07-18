@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-15T23:33:25.213Z",
+  "updated_at": "2026-07-18T21:31:06.397Z",
   "entries": [
     {
       "hash": "58e124e3b72ee04a",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-15T23:30:18.729Z"
+    },
+    {
+      "hash": "e5cf17ff540536b3",
+      "track": "Dil Ne Yeh Kaha Hain Dil Se",
+      "artist": "Udit Narayan, Alka Yagnik, Kumar Sanu",
+      "album": "Dhadkan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:31:05.521Z"
     }
   ]
 }
