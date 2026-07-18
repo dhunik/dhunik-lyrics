@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-17T15:46:12.132Z",
+  "updated_at": "2026-07-18T09:06:49.827Z",
   "entries": [
     {
-      "hash": "9386ecb4ddcbf88c",
-      "track": "Peelings",
-      "artist": "Devi Sri Prasad, Javed Ali, Madhubanti Bagchi, Raqueeb Alam, Siju Thuravoor - Pushpa 2 The Rule",
-      "album": "Pushpa 2 The Rule",
+      "hash": "d94864352c016956",
+      "track": "Vaari Jaavan",
+      "artist": "Jasmine Sandlas, Reble, Shashwat Sachdev, Jyoti Nooran",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-17T15:44:06.441Z"
+      "has_plain": false,
+      "cached_at": "2026-07-18T09:02:51.895Z"
     }
   ]
 }
