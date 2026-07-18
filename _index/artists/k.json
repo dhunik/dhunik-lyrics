@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-16T21:30:25.273Z",
+  "updated_at": "2026-07-18T21:31:41.849Z",
   "entries": [
     {
       "hash": "2e71a4dd71801541",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-16T21:30:24.354Z"
+    },
+    {
+      "hash": "d49679fd8db9ff39",
+      "track": "Ek Ladki Ko Dekha",
+      "artist": "Kumar Sanu",
+      "album": "1942 A Love Story",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:31:40.962Z"
     }
   ]
 }
