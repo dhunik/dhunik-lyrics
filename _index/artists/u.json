@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-18T21:31:06.397Z",
+  "updated_at": "2026-07-18T21:32:59.385Z",
   "entries": [
     {
-      "hash": "58e124e3b72ee04a",
-      "track": "Yun Hi Chala Chal",
-      "artist": "Udit Narayan, Hariharan, Kailash Kher",
-      "album": "Swades",
+      "hash": "92fc3e3d18c9bcd1",
+      "track": "Pyaar Diwana Hota Hai (Pyaar Diwana Hota Hai / Soundtrack Version)",
+      "artist": "Udit Narayan, Kavita Krishnamurthy",
+      "album": "Pyar Diwana Hota Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-15T23:30:18.729Z"
-    },
-    {
-      "hash": "e5cf17ff540536b3",
-      "track": "Dil Ne Yeh Kaha Hain Dil Se",
-      "artist": "Udit Narayan, Alka Yagnik, Kumar Sanu",
-      "album": "Dhadkan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:31:05.521Z"
+      "cached_at": "2026-07-18T21:32:45.332Z"
     }
   ]
 }
