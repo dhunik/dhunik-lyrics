@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-15T11:04:17.042Z",
+  "updated_at": "2026-07-18T21:32:28.435Z",
   "entries": [
     {
       "hash": "b0d0fe5b3def3a95",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-15T11:04:15.582Z"
+    },
+    {
+      "hash": "22ac4d980efdd33c",
+      "track": "Tu (From \"Dum Laga Ke Haisha\")",
+      "artist": "Anu Malik, Kumar Sanu, Varun Grover",
+      "album": "YRF Top 10 - Meter Down",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:32:23.999Z"
     }
   ]
 }
