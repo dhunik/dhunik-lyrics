@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-07-15T11:12:29.600Z",
+  "updated_at": "2026-07-18T06:22:07.057Z",
   "entries": [
     {
-      "hash": "1822af83279fa5e0",
-      "track": "Dupatta Tera Nau Rang Da",
-      "artist": "Sonu Nigam, Kunal Ganjawala, Shreya Ghoshal, Suzi Q",
-      "album": "Partner",
+      "hash": "650bece04c6859a7",
+      "track": "Dil Bechara",
+      "artist": "Neha Kakkar, Rohanpreet Singh",
+      "album": "Dil Bechara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T00:16:04.403Z"
-    },
-    {
-      "hash": "bfaa338208aa2091",
-      "track": "Dholi Taro Dhol Baaje",
-      "artist": "Kavita Krishnamurthy, Vinod Rathod, Karsan Sargathia",
-      "album": "Hum Dil De Chuke Sanam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T00:44:26.213Z"
-    },
-    {
-      "hash": "3a6639006e0b7020",
-      "track": "Dancing On My Own (Acoustic)",
-      "artist": "Calum Scott - Dancing On My Own (Acoustic)",
-      "album": "Heartstrings",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:12:28.645Z"
+      "cached_at": "2026-07-18T06:19:21.934Z"
     }
   ]
 }
