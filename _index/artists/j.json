@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-18T09:06:49.827Z",
+  "updated_at": "2026-07-18T21:21:58.421Z",
   "entries": [
     {
       "hash": "d94864352c016956",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T09:02:51.895Z"
+    },
+    {
+      "hash": "23d025a110481532",
+      "track": "Kuch Kuch Hota Hai (Sad)",
+      "artist": "Jatin-Lalit, Alka Yagnik",
+      "album": "Kuch Kuch Hota Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:21:57.451Z"
     }
   ]
 }
