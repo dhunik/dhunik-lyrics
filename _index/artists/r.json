@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-18T06:08:13.526Z",
+  "updated_at": "2026-07-18T06:22:07.061Z",
   "entries": [
     {
-      "hash": "7a1cda934b4cc026",
-      "track": "Gunche Lage Hain Kahne",
-      "artist": "Shailender Singh, Raamlaxman",
-      "album": "Taraana",
+      "hash": "650bece04c6859a7",
+      "track": "Dil Bechara",
+      "artist": "Neha Kakkar, Rohanpreet Singh",
+      "album": "Dil Bechara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T00:12:44.738Z"
-    },
-    {
-      "hash": "fbcdbaf7cd72f139",
-      "track": "Saree",
-      "artist": "Tanishk Bagchi, Sanju Rathod, G-SPXRK, Rashmi-Virag - Dhamaal 4",
-      "album": "Dhamaal 4",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T06:08:12.559Z"
+      "cached_at": "2026-07-18T06:19:21.934Z"
     }
   ]
 }
