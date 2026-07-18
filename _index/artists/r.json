@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-14T00:14:33.229Z",
+  "updated_at": "2026-07-18T06:08:13.526Z",
   "entries": [
     {
       "hash": "7a1cda934b4cc026",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-14T00:12:44.738Z"
+    },
+    {
+      "hash": "fbcdbaf7cd72f139",
+      "track": "Saree",
+      "artist": "Tanishk Bagchi, Sanju Rathod, G-SPXRK, Rashmi-Virag - Dhamaal 4",
+      "album": "Dhamaal 4",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T06:08:12.559Z"
     }
   ]
 }
