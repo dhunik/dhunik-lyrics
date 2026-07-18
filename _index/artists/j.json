@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-18T21:21:58.421Z",
+  "updated_at": "2026-07-18T21:33:13.909Z",
   "entries": [
     {
       "hash": "d94864352c016956",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T21:21:57.451Z"
+    },
+    {
+      "hash": "97570aceca9a7725",
+      "track": "Ek Ladki",
+      "artist": "Jeet-Pritam, Udit Narayan, Alka Yagnik, Javed Akhtar",
+      "album": "Mere Yaar Ki Shaadi Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-18T21:33:12.417Z"
     }
   ]
 }
