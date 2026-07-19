@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-17T08:25:36.459Z",
+  "updated_at": "2026-07-19T04:11:48.757Z",
   "entries": [
     {
       "hash": "9d29569580eec961",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-17T08:25:34.725Z"
+    },
+    {
+      "hash": "43ef9b3ef32a3d6e",
+      "track": "Saathiya",
+      "artist": "Darshan Raval",
+      "album": "Saathiya",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-19T04:11:44.995Z"
     }
   ]
 }
