@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-19T04:11:48.757Z",
+  "updated_at": "2026-07-19T13:30:52.239Z",
   "entries": [
     {
-      "hash": "9d29569580eec961",
-      "track": "Apna Time Aayega",
-      "artist": "Ranveer Singh, DIVINE, Dub Sharma",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T10:44:18.723Z"
-    },
-    {
-      "hash": "28c20580677f1329",
-      "track": "Sweetest Pie",
-      "artist": "Megan Thee Stallion, Dua Lipa - Sweetest Pie",
-      "album": "Megan Thee Stallion",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:11:47.818Z"
-    },
-    {
-      "hash": "6ca5031d7609dc2e",
-      "track": "Maheroo Maheroo",
-      "artist": "Shreya Ghoshal, Darshan Rathod",
-      "album": "Shreya Ghoshal Romantic Hits",
+      "hash": "26edc085228605da",
+      "track": "Azadi",
+      "artist": "DIVINE, Dub Sharma",
+      "album": "Rap Mixtape",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-17T08:25:34.725Z"
-    },
-    {
-      "hash": "43ef9b3ef32a3d6e",
-      "track": "Saathiya",
-      "artist": "Darshan Raval",
-      "album": "Saathiya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-19T04:11:44.995Z"
+      "cached_at": "2026-07-19T13:21:45.099Z"
     }
   ]
 }
