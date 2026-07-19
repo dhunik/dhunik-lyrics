@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-18T09:06:49.829Z",
+  "updated_at": "2026-07-19T13:17:01.284Z",
   "entries": [
     {
-      "hash": "d94864352c016956",
-      "track": "Vaari Jaavan",
-      "artist": "Jasmine Sandlas, Reble, Shashwat Sachdev, Jyoti Nooran",
-      "album": "Dhurandhar The Revenge",
+      "hash": "271dae6ce3774dca",
+      "track": "Fame Us",
+      "artist": "Rai Harrie, 7Bantai'Z - Rap Mixtape",
+      "album": "Rap Mixtape",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T09:02:51.895Z"
+      "cached_at": "2026-07-19T13:16:34.442Z"
     }
   ]
 }
