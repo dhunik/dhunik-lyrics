@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-18T09:06:57.553Z",
+  "updated_at": "2026-07-19T05:38:16.543Z",
   "entries": [
     {
-      "hash": "9386ecb4ddcbf88c",
-      "track": "Peelings",
-      "artist": "Devi Sri Prasad, Javed Ali, Madhubanti Bagchi, Raqueeb Alam, Siju Thuravoor - Pushpa 2 The Rule",
-      "album": "Pushpa 2 The Rule",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-17T15:44:06.441Z"
-    },
-    {
-      "hash": "949a42d1376ce978",
-      "track": "Shararat",
-      "artist": "Jasmine Sandlas, Madhubanti Bagchi, Shashwat Sachdev",
-      "album": "Dhurandhar",
+      "hash": "0771ae374931acd6",
+      "track": "Kuch Naa Kaho",
+      "artist": "Shankar-Ehsaan-Loy, Shaan, Sadhana Sargam",
+      "album": "Kuch Naa Kaho",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T09:06:56.634Z"
+      "cached_at": "2026-07-19T05:37:59.377Z"
     }
   ]
 }
