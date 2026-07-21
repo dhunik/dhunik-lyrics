@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-18T21:33:11.997Z",
+  "updated_at": "2026-07-21T03:18:21.580Z",
   "entries": [
     {
-      "hash": "744b4f29c919c249",
-      "track": "Namo Namo",
-      "artist": "Amit Trivedi",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-17T15:12:26.019Z"
-    },
-    {
-      "hash": "23d025a110481532",
-      "track": "Kuch Kuch Hota Hai (Sad)",
-      "artist": "Jatin-Lalit, Alka Yagnik",
-      "album": "Kuch Kuch Hota Hai",
+      "hash": "91700787df6b496d",
+      "track": "Teri Chunnariya",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Hello Brother",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T21:21:57.451Z"
-    },
-    {
-      "hash": "a489154e44bdfdcb",
-      "track": "Saajanji Ghar Aaye",
-      "artist": "Jatin-Lalit, Kumar Sanu, Alka Yagnik, Kavita Krishnamurthy",
-      "album": "Kuch Kuch Hota Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:31:49.419Z"
-    },
-    {
-      "hash": "c8b88cb38f942dbc",
-      "track": "Saari Baaten Hoti Hai",
-      "artist": "Kumar Sanu, Poornima, Anand, Milind",
-      "album": "Pehla Pehla Pyar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:31:51.547Z"
-    },
-    {
-      "hash": "7e16f8791cbb8caa",
-      "track": "Ye Kaali Kaali Aankhen",
-      "artist": "Kumar Sanu, Anu Malik",
-      "album": "Baazigar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:32:02.858Z"
-    },
-    {
-      "hash": "fd4effddfb7abe34",
-      "track": "Ae Mere Humsafar",
-      "artist": "Alka Yagnik, Udit Narayan",
-      "album": "Qayamat Se Qayamat Tak",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:32:30.890Z"
-    },
-    {
-      "hash": "c435bd3965ca63f1",
-      "track": "Tu Meri Zindagi Hai",
-      "artist": "Anuradha Paudwal, Kumar Sanu",
-      "album": "Aashiqui",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-18T21:33:10.685Z"
+      "cached_at": "2026-07-21T03:12:25.589Z"
     }
   ]
 }
