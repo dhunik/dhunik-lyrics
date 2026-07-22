@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-19T05:38:16.543Z",
+  "updated_at": "2026-07-22T05:25:37.567Z",
   "entries": [
     {
-      "hash": "0771ae374931acd6",
-      "track": "Kuch Naa Kaho",
-      "artist": "Shankar-Ehsaan-Loy, Shaan, Sadhana Sargam",
-      "album": "Kuch Naa Kaho",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-19T05:37:59.377Z"
+      "hash": "825e119485d2ad1d",
+      "track": "Pal Pal Soch Mein",
+      "artist": "Udit Narayan, Sadhana Sargam",
+      "album": "Tujhe Meri Kasam",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-22T05:20:01.928Z"
     }
   ]
 }
