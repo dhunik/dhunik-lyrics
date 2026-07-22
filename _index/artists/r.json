@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-19T13:17:01.284Z",
+  "updated_at": "2026-07-22T06:13:00.357Z",
   "entries": [
     {
-      "hash": "271dae6ce3774dca",
-      "track": "Fame Us",
-      "artist": "Rai Harrie, 7Bantai'Z - Rap Mixtape",
-      "album": "Rap Mixtape",
+      "hash": "6e7ca9d67f4affa9",
+      "track": "Khabar Nahi",
+      "artist": "Vishal Dadlani, Vishal & Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
+      "album": "Dostana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-19T13:16:34.442Z"
+      "cached_at": "2026-07-22T06:08:41.047Z"
     }
   ]
 }
