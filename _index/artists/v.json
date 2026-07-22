@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-18T21:32:28.435Z",
+  "updated_at": "2026-07-22T06:13:00.352Z",
   "entries": [
     {
-      "hash": "b0d0fe5b3def3a95",
-      "track": "Sultan",
-      "artist": "Vishal & Shekhar, Sukhwinder Singh, Shadab Faridi, Irshad Kamil",
-      "album": "Sultan",
+      "hash": "6e7ca9d67f4affa9",
+      "track": "Khabar Nahi",
+      "artist": "Vishal Dadlani, Vishal & Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
+      "album": "Dostana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-12T21:55:02.395Z"
-    },
-    {
-      "hash": "b5a13b4bb60d3a75",
-      "track": "Dard - E - Disco",
-      "artist": "Vishal & Shekhar, Marianne, Nisha, Caralisa, Sukhwinder Singh",
-      "album": "Om Shanti Om",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:17:43.355Z"
-    },
-    {
-      "hash": "b5fb5117c1e1880d",
-      "track": "Aage Peeche",
-      "artist": "Vishal & Shekhar, Shekhar, Sneha Pant",
-      "album": "Golmaal Returns",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-12T23:30:00.459Z"
-    },
-    {
-      "hash": "bfaa338208aa2091",
-      "track": "Dholi Taro Dhol Baaje",
-      "artist": "Kavita Krishnamurthy, Vinod Rathod, Karsan Sargathia",
-      "album": "Hum Dil De Chuke Sanam",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T00:44:26.213Z"
-    },
-    {
-      "hash": "14828f78cb722409",
-      "track": "Gajban",
-      "artist": "Vishvajeet Choudhary",
-      "album": "Gajban",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:04:15.582Z"
-    },
-    {
-      "hash": "22ac4d980efdd33c",
-      "track": "Tu (From \"Dum Laga Ke Haisha\")",
-      "artist": "Anu Malik, Kumar Sanu, Varun Grover",
-      "album": "YRF Top 10 - Meter Down",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:32:23.999Z"
+      "cached_at": "2026-07-22T06:08:41.047Z"
     }
   ]
 }
