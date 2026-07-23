@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-18T21:31:41.849Z",
+  "updated_at": "2026-07-23T17:51:41.908Z",
   "entries": [
     {
       "hash": "2e71a4dd71801541",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T21:31:40.962Z"
+    },
+    {
+      "hash": "f0bca8138f36fa49",
+      "track": "Knock Knock",
+      "artist": "KR$NA, Phenom - Yours Truly",
+      "album": "Yours Truly",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:51:40.752Z"
     }
   ]
 }
