@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "z",
   "type": "track",
-  "updated_at": "2026-07-15T10:43:46.502Z",
+  "updated_at": "2026-07-23T17:24:32.655Z",
   "entries": [
     {
       "hash": "181d0aa77ef75a5e",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T10:40:51.108Z"
+    },
+    {
+      "hash": "5671ea0e4ff0cdf6",
+      "track": "Zinda Hai",
+      "artist": "Vishal & Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
+      "album": "Tiger Zinda Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:24:31.683Z"
     }
   ]
 }
