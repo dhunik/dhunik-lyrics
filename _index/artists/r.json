@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-23T17:26:00.520Z",
+  "updated_at": "2026-07-23T17:35:46.057Z",
   "entries": [
     {
       "hash": "d604db78288e829e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-23T17:25:59.533Z"
+    },
+    {
+      "hash": "19da779aadc1d88f",
+      "track": "Drama",
+      "artist": "Raftaar",
+      "album": "Mr. Nair",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:35:44.980Z"
     }
   ]
 }
