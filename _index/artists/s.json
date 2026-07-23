@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-23T17:25:19.927Z",
+  "updated_at": "2026-07-23T18:54:27.210Z",
   "entries": [
     {
       "hash": "825e119485d2ad1d",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-23T17:25:18.970Z"
+    },
+    {
+      "hash": "c525262c517094a7",
+      "track": "Khatta Flow",
+      "artist": "Seedhe Maut, KR$NA - Lunch Break",
+      "album": "Lunch Break",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T18:54:26.231Z"
     }
   ]
 }
