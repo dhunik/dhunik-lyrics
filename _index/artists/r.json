@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-23T17:23:07.385Z",
+  "updated_at": "2026-07-23T17:24:27.104Z",
   "entries": [
     {
-      "hash": "6e7ca9d67f4affa9",
-      "track": "Khabar Nahi",
-      "artist": "Vishal Dadlani, Vishal & Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
-      "album": "Dostana",
+      "hash": "d604db78288e829e",
+      "track": "Swag Mera Desi",
+      "artist": "Manj Musik, Raftaar",
+      "album": "Spoken Word",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-22T06:08:41.047Z"
-    },
-    {
-      "hash": "c7c1c18896f95840",
-      "track": "Dilli Waali Baatcheet",
-      "artist": "Raftaar",
-      "album": "Mr Nair",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:23:06.449Z"
+      "cached_at": "2026-07-23T17:23:08.782Z"
     }
   ]
 }
