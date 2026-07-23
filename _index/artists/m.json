@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-18T06:25:59.441Z",
+  "updated_at": "2026-07-23T17:26:00.538Z",
   "entries": [
     {
       "hash": "9cbad71a9cfe77ab",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T06:22:19.339Z"
+    },
+    {
+      "hash": "d325e3d59ace9936",
+      "track": "Move",
+      "artist": "Raftaar ft. Maninder Buttar - Mr. Nair",
+      "album": "Mr. Nair",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:25:59.533Z"
     }
   ]
 }
