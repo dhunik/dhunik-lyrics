@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-22T05:25:37.567Z",
+  "updated_at": "2026-07-23T17:25:06.526Z",
   "entries": [
     {
       "hash": "825e119485d2ad1d",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-22T05:20:01.928Z"
+    },
+    {
+      "hash": "3e3ddfef2c875ce0",
+      "track": "Kar Har Maidaan Fateh",
+      "artist": "Shreya Ghoshal, Sukhwinder Singh",
+      "album": "Sanju",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:25:05.448Z"
     }
   ]
 }
