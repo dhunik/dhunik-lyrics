@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-06-12T04:07:57.680Z",
+  "updated_at": "2026-07-23T17:25:11.992Z",
   "entries": [
     {
       "hash": "824e84c742806c69",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-06-12T04:07:56.534Z"
+    },
+    {
+      "hash": "798e0608bec9a1a1",
+      "track": "Aala Re Aala Ganesha",
+      "artist": "Wajid Khan, Dr. Ganesh Chandanshive",
+      "album": "Ganesh Chaturthi Special",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-23T17:25:08.066Z"
     }
   ]
 }
