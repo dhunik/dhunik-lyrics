@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-15T11:13:19.270Z",
+  "updated_at": "2026-07-23T17:23:02.828Z",
   "entries": [
     {
       "hash": "0bb02af38c1fc19b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-15T11:13:08.314Z"
+    },
+    {
+      "hash": "3bac4a40ecd3d09b",
+      "track": "Aafat",
+      "artist": "Tanishk Bagchi, Rashmi-Virag, Zahrah S Khan",
+      "album": "Liger",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:23:01.597Z"
     }
   ]
 }
