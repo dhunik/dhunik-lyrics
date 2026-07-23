@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-07-18T21:31:06.400Z",
+  "updated_at": "2026-07-23T17:23:07.370Z",
   "entries": [
     {
       "hash": "650bece04c6859a7",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T21:31:05.521Z"
+    },
+    {
+      "hash": "c7c1c18896f95840",
+      "track": "Dilli Waali Baatcheet",
+      "artist": "Raftaar",
+      "album": "Mr Nair",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:23:06.449Z"
     }
   ]
 }
