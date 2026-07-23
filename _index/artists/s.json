@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-23T17:25:06.526Z",
+  "updated_at": "2026-07-23T17:25:19.927Z",
   "entries": [
     {
       "hash": "825e119485d2ad1d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-23T17:25:05.448Z"
+    },
+    {
+      "hash": "cef624089368105c",
+      "track": "Dhoom Machale",
+      "artist": "Pritam, Sunidhi Chauhan, Sameer",
+      "album": "Dhoom",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-23T17:25:18.970Z"
     }
   ]
 }
