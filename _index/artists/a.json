@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-21T03:18:21.580Z",
+  "updated_at": "2026-07-24T11:51:47.778Z",
   "entries": [
     {
       "hash": "91700787df6b496d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-21T03:12:25.589Z"
+    },
+    {
+      "hash": "afb644917bb57433",
+      "track": "Sooraj Dooba Hain",
+      "artist": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+      "album": "Roy",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-24T11:51:46.804Z"
     }
   ]
 }
