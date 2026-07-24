@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-23T18:54:27.210Z",
+  "updated_at": "2026-07-24T11:57:03.674Z",
   "entries": [
     {
-      "hash": "825e119485d2ad1d",
-      "track": "Pal Pal Soch Mein",
-      "artist": "Udit Narayan, Sadhana Sargam",
-      "album": "Tujhe Meri Kasam",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-22T05:20:01.928Z"
-    },
-    {
-      "hash": "3e3ddfef2c875ce0",
-      "track": "Kar Har Maidaan Fateh",
-      "artist": "Shreya Ghoshal, Sukhwinder Singh",
-      "album": "Sanju",
+      "hash": "9b5a4bb2a3854a5d",
+      "track": "Raat Bhar",
+      "artist": "Sajid-Wajid, Arijit Singh, Shreya Ghoshal",
+      "album": "Heropanti",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-23T17:25:05.448Z"
-    },
-    {
-      "hash": "cef624089368105c",
-      "track": "Dhoom Machale",
-      "artist": "Pritam, Sunidhi Chauhan, Sameer",
-      "album": "Dhoom",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:25:18.970Z"
-    },
-    {
-      "hash": "c525262c517094a7",
-      "track": "Khatta Flow",
-      "artist": "Seedhe Maut, KR$NA - Lunch Break",
-      "album": "Lunch Break",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T18:54:26.231Z"
+      "cached_at": "2026-07-24T11:56:12.430Z"
     }
   ]
 }
