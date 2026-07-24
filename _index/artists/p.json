@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-23T17:51:41.916Z",
+  "updated_at": "2026-07-24T11:16:12.148Z",
   "entries": [
     {
-      "hash": "384440c28376f5bf",
-      "track": "Hum To Aise Hain",
-      "artist": "Shantanu Moitra, Shreya Ghoshal, Sunidhi Chauhan, Pranab Biswas, Swanand Kirkire",
-      "album": "Laaga Chunari Mein Daag - Journey Of A Woman",
+      "hash": "87872924edaad465",
+      "track": "Phir Aur Kya Chahiye - Lofi",
+      "artist": "Paras Jayantilal Gandhi, Arijit Singh",
+      "album": "Open Stage Sessions - Vol 21",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-16T00:09:34.681Z"
-    },
-    {
-      "hash": "c8b88cb38f942dbc",
-      "track": "Saari Baaten Hoti Hai",
-      "artist": "Kumar Sanu, Poornima, Anand, Milind",
-      "album": "Pehla Pehla Pyar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:31:51.547Z"
-    },
-    {
-      "hash": "cef624089368105c",
-      "track": "Dhoom Machale",
-      "artist": "Pritam, Sunidhi Chauhan, Sameer",
-      "album": "Dhoom",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:25:18.970Z"
-    },
-    {
-      "hash": "f0bca8138f36fa49",
-      "track": "Knock Knock",
-      "artist": "KR$NA, Phenom - Yours Truly",
-      "album": "Yours Truly",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:51:40.752Z"
+      "cached_at": "2026-07-24T11:12:01.653Z"
     }
   ]
 }
