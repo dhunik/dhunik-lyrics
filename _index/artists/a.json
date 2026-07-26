@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-24T11:51:47.778Z",
+  "updated_at": "2026-07-26T03:18:01.947Z",
   "entries": [
     {
       "hash": "91700787df6b496d",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-24T11:51:46.804Z"
+    },
+    {
+      "hash": "2d638c9a5636e5a9",
+      "track": "Samjho Na",
+      "artist": "Aditya Rikhari - Samjho Na",
+      "album": "Samjho Na",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-26T03:18:00.909Z"
     }
   ]
 }
