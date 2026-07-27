@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-27T03:52:16.696Z",
+  "updated_at": "2026-07-27T03:53:13.096Z",
   "entries": [
     {
       "hash": "a28b292f3eda0614",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-27T03:52:15.388Z"
+    },
+    {
+      "hash": "2f4ee5c3e909c8af",
+      "track": "Galvanize (Extended Version)",
+      "artist": "The Chemical Brothers",
+      "album": "Galvanize",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-27T03:53:06.427Z"
     }
   ]
 }
