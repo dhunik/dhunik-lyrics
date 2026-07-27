@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-07-24T03:52:28.659Z",
+  "updated_at": "2026-07-27T03:52:16.696Z",
   "entries": [
     {
       "hash": "a28b292f3eda0614",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-24T03:52:14.700Z"
+    },
+    {
+      "hash": "e18615f58c899efd",
+      "track": "Galvanize (Edit)",
+      "artist": "The Chemical Brothers",
+      "album": "Galvanize",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-27T03:52:15.388Z"
     }
   ]
 }
