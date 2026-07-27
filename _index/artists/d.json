@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-19T13:30:52.239Z",
+  "updated_at": "2026-07-27T14:18:49.033Z",
   "entries": [
     {
       "hash": "26edc085228605da",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-19T13:21:45.099Z"
+    },
+    {
+      "hash": "797a4d0baf0f52f0",
+      "track": "Azadi",
+      "artist": "Dub Sharma, DIVINE",
+      "album": "Gully Boy",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-27T14:18:47.628Z"
     }
   ]
 }
