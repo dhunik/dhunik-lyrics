@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-07-28T14:07:07.661Z",
+  "updated_at": "2026-07-28T14:11:33.556Z",
   "entries": [
     {
-      "hash": "d8a1fd1f1a21a136",
-      "track": "KALYANI",
-      "artist": "ARJN, KDS, FIFTY4, Ronn",
-      "album": "KALYANI",
+      "hash": "4743291b42ce932b",
+      "track": "KALYANI (Remix)",
+      "artist": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
+      "album": "KALYANI (Remix)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-28T14:06:34.836Z"
+      "cached_at": "2026-07-28T14:07:21.146Z"
     }
   ]
 }
