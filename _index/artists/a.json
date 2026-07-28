@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-28T14:18:11.114Z",
+  "updated_at": "2026-07-28T14:32:23.569Z",
   "entries": [
     {
-      "hash": "4743291b42ce932b",
-      "track": "KALYANI (Remix)",
-      "artist": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
-      "album": "KALYANI (Remix)",
+      "hash": "a3ff5ba479f5f5de",
+      "track": "Chandra",
+      "artist": "Shreya Ghoshal, Ajay-Atul, Guru Thakur",
+      "album": "Chandramukhi",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-28T14:07:21.146Z"
-    },
-    {
-      "hash": "cf779726fa94f906",
-      "track": "Phullwanti - Title Track",
-      "artist": "Aarya Ambekar, Avinash-Vishwajeet",
-      "album": "Phullwanti",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T14:18:10.003Z"
+      "cached_at": "2026-07-28T14:26:05.758Z"
     }
   ]
 }
