@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-07-27T14:18:49.030Z",
+  "updated_at": "2026-07-28T03:40:08.891Z",
   "entries": [
     {
-      "hash": "84e84474a745be03",
-      "track": "Achchi Lagti Ho",
-      "artist": "Shankar-Ehsaan-Loy, Udit Narayan, Kavita Krishnamurthy",
-      "album": "Kuch Naa Kaho",
+      "hash": "b084a26ebb158f63",
+      "track": "Attention",
+      "artist": "Charlie Puth",
+      "album": "Attention",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-19T05:53:32.809Z"
-    },
-    {
-      "hash": "3bac4a40ecd3d09b",
-      "track": "Aafat",
-      "artist": "Tanishk Bagchi, Rashmi-Virag, Zahrah S Khan",
-      "album": "Liger",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:23:01.597Z"
-    },
-    {
-      "hash": "798e0608bec9a1a1",
-      "track": "Aala Re Aala Ganesha",
-      "artist": "Wajid Khan, Dr. Ganesh Chandanshive",
-      "album": "Ganesh Chaturthi Special",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-23T17:25:08.066Z"
-    },
-    {
-      "hash": "797a4d0baf0f52f0",
-      "track": "Azadi",
-      "artist": "Dub Sharma, DIVINE",
-      "album": "Gully Boy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-27T14:18:47.628Z"
+      "cached_at": "2026-07-28T03:39:54.403Z"
     }
   ]
 }
