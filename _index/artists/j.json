@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-23T17:24:32.652Z",
+  "updated_at": "2026-07-28T03:52:28.220Z",
   "entries": [
     {
       "hash": "d94864352c016956",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-23T17:24:31.683Z"
+    },
+    {
+      "hash": "dc72c84a3f6b1291",
+      "track": "Tum Hi Aana",
+      "artist": "Payal Dev, Jubin Nautiyal",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-28T03:52:25.931Z"
     }
   ]
 }
