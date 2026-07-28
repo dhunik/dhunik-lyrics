@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-18T21:35:39.982Z",
+  "updated_at": "2026-07-28T14:36:28.826Z",
   "entries": [
     {
       "hash": "d17b654d5dc9e8ea",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-18T21:35:10.140Z"
+    },
+    {
+      "hash": "e35fa6ae05a79cbb",
+      "track": "Cheap Thrills",
+      "artist": "Cour, PACANI, Veronica Bravo",
+      "album": "Cheap Thrills",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-28T14:36:27.740Z"
     }
   ]
 }
