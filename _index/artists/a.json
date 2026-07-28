@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-28T14:11:33.545Z",
+  "updated_at": "2026-07-28T14:18:11.114Z",
   "entries": [
     {
       "hash": "4743291b42ce932b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-28T14:07:21.146Z"
+    },
+    {
+      "hash": "cf779726fa94f906",
+      "track": "Phullwanti - Title Track",
+      "artist": "Aarya Ambekar, Avinash-Vishwajeet",
+      "album": "Phullwanti",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-28T14:18:10.003Z"
     }
   ]
 }
