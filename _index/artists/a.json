@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-28T02:07:27.037Z",
+  "updated_at": "2026-07-28T04:14:28.774Z",
   "entries": [
     {
       "hash": "91700787df6b496d",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-28T02:07:20.447Z"
+    },
+    {
+      "hash": "19a94a4b70000e90",
+      "track": "Tu Hi Yaar Mera",
+      "artist": "Neha Kakkar, Rochak, Arijit Singh",
+      "album": "Pati Patni Aur Woh",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-28T04:14:27.672Z"
     }
   ]
 }
