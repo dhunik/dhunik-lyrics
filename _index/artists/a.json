@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-28T13:32:08.543Z",
+  "updated_at": "2026-07-28T14:11:33.545Z",
   "entries": [
     {
-      "hash": "1575d43b3e08ca2d",
-      "track": "Apsara Aali",
-      "artist": "Bela Shende, Ajay Gogavale, Atul Gogavale",
-      "album": "null",
+      "hash": "4743291b42ce932b",
+      "track": "KALYANI (Remix)",
+      "artist": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
+      "album": "KALYANI (Remix)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-28T13:31:17.103Z"
+      "cached_at": "2026-07-28T14:07:21.146Z"
     }
   ]
 }
