@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-26T03:18:01.947Z",
+  "updated_at": "2026-07-28T02:07:27.037Z",
   "entries": [
     {
       "hash": "91700787df6b496d",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-26T03:18:00.909Z"
+    },
+    {
+      "hash": "8b98a755b89c6486",
+      "track": "Yeh Awarapan (From \"Awarapan 2\")",
+      "artist": "Amaal Mallik, Rashmi-Virag, Arijit Singh - Yeh Awarapan (From \"Awarapan 2\")",
+      "album": "Yeh Awarapan (From \"Awarapan 2\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-28T02:07:20.447Z"
     }
   ]
 }
