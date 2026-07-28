@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-28T04:14:28.777Z",
+  "updated_at": "2026-07-28T04:14:33.608Z",
   "entries": [
     {
       "hash": "8ab89ebc6be770f3",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-28T04:14:27.672Z"
+    },
+    {
+      "hash": "ebdcf94af85c93d7",
+      "track": "Patakha Guddi (Female Version)",
+      "artist": "Nooran Sisters",
+      "album": "Highway (Original Motion Picture Soundtrack)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-28T04:14:32.693Z"
     }
   ]
 }
