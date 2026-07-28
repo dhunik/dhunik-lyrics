@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-07-03T03:32:55.071Z",
+  "updated_at": "2026-07-28T14:32:23.572Z",
   "entries": [
     {
-      "hash": "809a467dda2fff63",
-      "track": "Brown Munde",
-      "artist": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
-      "album": "Brown Munde",
+      "hash": "a3ff5ba479f5f5de",
+      "track": "Chandra",
+      "artist": "Shreya Ghoshal, Ajay-Atul, Guru Thakur",
+      "album": "Chandramukhi",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-03T03:29:08.475Z"
-    },
-    {
-      "hash": "473e37bc76148b11",
-      "track": "Nira Ishq",
-      "artist": "Guri",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-03T03:32:54.262Z"
+      "cached_at": "2026-07-28T14:26:05.758Z"
     }
   ]
 }
