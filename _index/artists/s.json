@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-28T13:36:09.558Z",
+  "updated_at": "2026-07-28T14:36:36.088Z",
   "entries": [
     {
       "hash": "021d34b1d77f1c1e",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-28T13:32:26.684Z"
+    },
+    {
+      "hash": "bd8536c3a7870eb2",
+      "track": "New Rules",
+      "artist": "MARSTEREON, Sup I'm Bianca, Afro Queen",
+      "album": "New Rules",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-28T14:36:31.276Z"
     }
   ]
 }
