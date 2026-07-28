@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-28T13:49:21.864Z",
+  "updated_at": "2026-07-28T14:16:27.240Z",
   "entries": [
     {
       "hash": "6e7ca9d67f4affa9",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-28T13:49:21.001Z"
+    },
+    {
+      "hash": "12a382e0fc31cb50",
+      "track": "Poomuthole",
+      "artist": "Vijay Yesudas",
+      "album": "Joseph (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-28T14:16:26.166Z"
     }
   ]
 }
