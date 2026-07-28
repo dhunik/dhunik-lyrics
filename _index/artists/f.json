@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-07-18T08:32:18.942Z",
+  "updated_at": "2026-07-28T14:07:07.661Z",
   "entries": [
     {
-      "hash": "957bfd044108df08",
-      "track": "Teri Yaad",
-      "artist": "Faheem Abdullah, Hyder Dar, Zia",
-      "album": "Teri Yaad",
+      "hash": "d8a1fd1f1a21a136",
+      "track": "KALYANI",
+      "artist": "ARJN, KDS, FIFTY4, Ronn",
+      "album": "KALYANI",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-12T15:57:13.414Z"
-    },
-    {
-      "hash": "7be7cfa2ba2d4d3d",
-      "track": "Pallo Latke",
-      "artist": "Kumaar, Jyotica Tangri, Yasser Desai, Fazilpuria, Raees-Zain-Sam",
-      "album": "The Bollywood Wedding Collection",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:24.153Z"
-    },
-    {
-      "hash": "13ee869e7d71a10f",
-      "track": "Aayat",
-      "artist": "Sanjay Leela Bhansali, Shreyas Puranik, Arijit Singh, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri",
-      "album": "Bajirao Mastani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:42:24.788Z"
-    },
-    {
-      "hash": "519f09960752f90b",
-      "track": "Hot Launde (feat. Fotty Seven, Bali)",
-      "artist": "Badshah, Fotty Seven, Bali",
-      "album": "The Power of Dreams of a Kid",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T08:32:18.011Z"
+      "has_plain": true,
+      "cached_at": "2026-07-28T14:06:34.836Z"
     }
   ]
 }
