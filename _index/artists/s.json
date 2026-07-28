@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-24T11:57:03.674Z",
+  "updated_at": "2026-07-28T13:36:09.558Z",
   "entries": [
     {
-      "hash": "9b5a4bb2a3854a5d",
-      "track": "Raat Bhar",
-      "artist": "Sajid-Wajid, Arijit Singh, Shreya Ghoshal",
-      "album": "Heropanti",
+      "hash": "021d34b1d77f1c1e",
+      "track": "Mala Ved Laagale (Duet)",
+      "artist": "Ketakee Mateygaonkar, Swapnil Bandodkar",
+      "album": "Marathi Romantic Hits",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-24T11:56:12.430Z"
+      "has_plain": true,
+      "cached_at": "2026-07-28T13:32:26.684Z"
     }
   ]
 }
