@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:43.091Z",
+  "updated_at": "2026-07-29T15:36:17.992Z",
   "entries": [
     {
-      "hash": "58e124e3b72ee04a",
-      "track": "Yun Hi Chala Chal",
-      "artist": "Udit Narayan, Hariharan, Kailash Kher",
-      "album": "Swades",
+      "hash": "13ec5d3da1ece61b",
+      "track": "Bum Baa Diga Diga (From \"DC\")",
+      "artist": "Anirudh Ravichander, Vedan, Heisenberg",
+      "album": "Bum Baa Diga Diga (From \"DC\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-15T23:30:18.729Z"
-    },
-    {
-      "hash": "336e4da8bec3913e",
-      "track": "One Name (From \"Jailer 2\")",
-      "artist": "Anirudh Ravichander, Heisenberg",
-      "album": "One Name (From \"Jailer 2\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:41.944Z"
+      "cached_at": "2026-07-29T15:32:52.724Z"
     }
   ]
 }
