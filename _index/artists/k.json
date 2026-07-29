@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-29T12:08:09.272Z",
+  "updated_at": "2026-07-29T15:37:33.262Z",
   "entries": [
     {
       "hash": "021d34b1d77f1c1e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T12:08:08.266Z"
+    },
+    {
+      "hash": "92c38b768624211a",
+      "track": "Pink Lips",
+      "artist": "Meet Bros Anjjan, Khushboo Grewal",
+      "album": "Hate Story 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:37:32.258Z"
     }
   ]
 }
