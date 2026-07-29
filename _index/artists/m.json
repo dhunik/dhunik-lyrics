@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-29T12:08:09.265Z",
+  "updated_at": "2026-07-29T15:29:24.059Z",
   "entries": [
     {
       "hash": "9cbad71a9cfe77ab",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T12:08:08.266Z"
+    },
+    {
+      "hash": "e5921c624ab48d85",
+      "track": "LAAVAN",
+      "artist": "Jasmine Sandlas, Mofusion",
+      "album": "LAAVAN",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:29:21.760Z"
     }
   ]
 }
