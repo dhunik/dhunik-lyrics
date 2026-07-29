@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-29T12:34:21.463Z",
+  "updated_at": "2026-07-29T15:28:15.547Z",
   "entries": [
     {
       "hash": "a3ff5ba479f5f5de",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T12:34:13.287Z"
+    },
+    {
+      "hash": "2f09e7b13672660e",
+      "track": "Rang De Basanti",
+      "artist": "A.R. Rahman, Daler Mehndi, K. S. Chithra",
+      "album": "Rang De Basanti",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:28:13.817Z"
     }
   ]
 }
