@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:07.391Z",
+  "updated_at": "2026-07-29T15:37:13.439Z",
   "entries": [
     {
       "hash": "97b782cf237f8dda",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:28:22.358Z"
+    },
+    {
+      "hash": "34ccc2edd1bef9ed",
+      "track": "Amsham - അംശം",
+      "artist": "Aksomaniac, M.H.R, Bhumi, Circle Tone",
+      "album": "Amsham - അംശം",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:37:11.592Z"
     }
   ]
 }
