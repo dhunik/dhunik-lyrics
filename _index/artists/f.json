@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-07-28T14:11:33.556Z",
+  "updated_at": "2026-07-29T15:28:10.947Z",
   "entries": [
     {
-      "hash": "4743291b42ce932b",
-      "track": "KALYANI (Remix)",
-      "artist": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
-      "album": "KALYANI (Remix)",
-      "has_synced": true,
+      "hash": "b70b4feeb6e14915",
+      "track": "FREAKED OUT",
+      "artist": "Fat Papi, prodshushy - FREAKED OUT",
+      "album": "FREAKED OUT",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-28T14:07:21.146Z"
+      "cached_at": "2026-07-29T15:27:58.105Z"
     }
   ]
 }
