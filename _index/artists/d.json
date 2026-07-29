@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:13.801Z",
+  "updated_at": "2026-07-29T15:29:20.915Z",
   "entries": [
     {
       "hash": "9b669c0f7213598a",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:29:09.023Z"
+    },
+    {
+      "hash": "4d12fe482b898413",
+      "track": "Aane Wala Star",
+      "artist": "Dholu bholu, Sai Abhyankkar",
+      "album": "Aane Wala Star",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:29:18.163Z"
     }
   ]
 }
