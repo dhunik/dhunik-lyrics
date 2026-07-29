@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-29T08:00:27.821Z",
+  "updated_at": "2026-07-29T12:34:21.463Z",
   "entries": [
     {
       "hash": "a3ff5ba479f5f5de",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-29T08:00:26.801Z"
+    },
+    {
+      "hash": "0ec00298bd88bf4d",
+      "track": "Kombadi Palali",
+      "artist": "Vaishali Samant, Anand Shinde, Ajay-Atul",
+      "album": "Jatra",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-29T12:34:13.287Z"
     }
   ]
 }
