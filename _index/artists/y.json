@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-07-09T20:15:42.698Z",
+  "updated_at": "2026-07-29T14:58:03.691Z",
   "entries": [
     {
-      "hash": "54ddedffdd43d7c5",
-      "track": "Mungaru Maleye",
-      "artist": "Yogaraj Bhat, Sonu Nigam",
-      "album": "Mungaru Male (Original Motion Picture SoundtracK)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-02T11:33:37.674Z"
-    },
-    {
-      "hash": "b065b2e880b302ee",
-      "track": "Manasu Maree",
-      "artist": "Amit Trivedi, Shashaa Tirupati, Yazin Nizar",
-      "album": "V",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-04T05:39:08.375Z"
-    },
-    {
-      "hash": "5dc3301246783c04",
-      "track": "Dil Chori",
-      "artist": "Yo Yo Honey Singh, Simar Kaur, Ishers",
-      "album": "Sonu Ke Titu Ki Sweety",
+      "hash": "f15b5ba5007fb923",
+      "track": "Hitman",
+      "artist": "Leo Grewal, Paradox, Yo Yo Honey Singh",
+      "album": "Rap Mixtape",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-09T20:15:13.169Z"
-    },
-    {
-      "hash": "7be7cfa2ba2d4d3d",
-      "track": "Pallo Latke",
-      "artist": "Kumaar, Jyotica Tangri, Yasser Desai, Fazilpuria, Raees-Zain-Sam",
-      "album": "The Bollywood Wedding Collection",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:24.153Z"
-    },
-    {
-      "hash": "a83c16efcf3820b5",
-      "track": "Gallan Goodiyaan",
-      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
-      "album": "Dil Dhadakne Do",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:35.511Z"
+      "cached_at": "2026-07-29T14:55:20.816Z"
     }
   ]
 }
