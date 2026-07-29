@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-27T14:18:49.033Z",
+  "updated_at": "2026-07-29T12:16:05.816Z",
   "entries": [
     {
-      "hash": "26edc085228605da",
-      "track": "Azadi",
-      "artist": "DIVINE, Dub Sharma",
-      "album": "Rap Mixtape",
+      "hash": "9b669c0f7213598a",
+      "track": "You Broke Me First",
+      "artist": "DJ Alex Man, Britt, Deep Mage",
+      "album": "You Broke Me First",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-19T13:21:45.099Z"
-    },
-    {
-      "hash": "797a4d0baf0f52f0",
-      "track": "Azadi",
-      "artist": "Dub Sharma, DIVINE",
-      "album": "Gully Boy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-27T14:18:47.628Z"
+      "has_plain": true,
+      "cached_at": "2026-07-29T12:14:46.421Z"
     }
   ]
 }
