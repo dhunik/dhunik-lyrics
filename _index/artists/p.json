@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-07-28T03:52:28.217Z",
+  "updated_at": "2026-07-29T14:55:28.425Z",
   "entries": [
     {
       "hash": "87872924edaad465",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-28T03:52:25.931Z"
+    },
+    {
+      "hash": "f15b5ba5007fb923",
+      "track": "Hitman",
+      "artist": "Leo Grewal, Paradox, Yo Yo Honey Singh",
+      "album": "Rap Mixtape",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T14:55:20.816Z"
     }
   ]
 }
