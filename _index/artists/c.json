@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-28T14:36:28.826Z",
+  "updated_at": "2026-07-29T15:29:07.391Z",
   "entries": [
     {
-      "hash": "d17b654d5dc9e8ea",
-      "track": "Fix You",
-      "artist": "Coldplay",
-      "album": "The Singles 1999 - 2006",
+      "hash": "97b782cf237f8dda",
+      "track": "Saadda Haq (Featuring Orianthi Panagaris On Guitars)",
+      "artist": "A.R. Rahman, Clinton Cerejo, Mohit Chauhan",
+      "album": "Rockstar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T21:35:10.140Z"
-    },
-    {
-      "hash": "e35fa6ae05a79cbb",
-      "track": "Cheap Thrills",
-      "artist": "Cour, PACANI, Veronica Bravo",
-      "album": "Cheap Thrills",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T14:36:27.740Z"
+      "cached_at": "2026-07-29T15:28:22.358Z"
     }
   ]
 }
