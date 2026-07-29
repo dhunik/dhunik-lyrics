@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-29T04:28:04.503Z",
+  "updated_at": "2026-07-29T07:53:56.645Z",
   "entries": [
     {
       "hash": "a3ff5ba479f5f5de",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T04:24:18.200Z"
+    },
+    {
+      "hash": "904e960c404aed84",
+      "track": "Tu Hai",
+      "artist": "A.R. Rahman, Sanah Moidutty",
+      "album": "Mohenjo Daro",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-29T07:53:46.314Z"
     }
   ]
 }
