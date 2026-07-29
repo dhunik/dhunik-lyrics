@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-07-28T04:14:33.608Z",
+  "updated_at": "2026-07-29T08:00:27.797Z",
   "entries": [
     {
       "hash": "8ab89ebc6be770f3",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-28T04:14:32.693Z"
+    },
+    {
+      "hash": "7b7911100e73aeff",
+      "track": "Sorry",
+      "artist": "March And June, Notscandal, Afro Queen",
+      "album": "Ultra-Lounge: Christmas Cocktails, Part 3",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-29T08:00:26.801Z"
     }
   ]
 }
