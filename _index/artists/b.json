@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-29T12:16:05.819Z",
+  "updated_at": "2026-07-29T15:29:34.489Z",
   "entries": [
     {
       "hash": "9b669c0f7213598a",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T12:14:46.421Z"
+    },
+    {
+      "hash": "708d5b36f3048189",
+      "track": "Dai Dai",
+      "artist": "Shakira, Burna Boy",
+      "album": "Dai Dai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:29:24.805Z"
     }
   ]
 }
