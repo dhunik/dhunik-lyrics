@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-29T12:16:05.816Z",
+  "updated_at": "2026-07-29T14:55:07.600Z",
   "entries": [
     {
       "hash": "9b669c0f7213598a",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T12:14:46.421Z"
+    },
+    {
+      "hash": "df0f085af1b3deeb",
+      "track": "Todun Taak",
+      "artist": "D’EVIL",
+      "album": "Rap Mixtape",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T14:55:05.989Z"
     }
   ]
 }
