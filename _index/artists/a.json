@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:07.387Z",
+  "updated_at": "2026-07-29T15:29:38.922Z",
   "entries": [
     {
       "hash": "97b782cf237f8dda",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:28:22.358Z"
+    },
+    {
+      "hash": "7452b497f5212bd3",
+      "track": "Hangova (From \"DC\")",
+      "artist": "Anirudh Ravichander, Heisenberg",
+      "album": "Hangova (From \"DC\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:29:37.512Z"
     }
   ]
 }
