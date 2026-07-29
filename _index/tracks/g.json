@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-07-27T03:53:13.094Z",
+  "updated_at": "2026-07-29T11:58:56.646Z",
   "entries": [
     {
-      "hash": "86acc52f8fd8467f",
-      "track": "G.O.A.T.",
-      "artist": "Diljit Dosanjh",
-      "album": "G.O.A.T.",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-07T07:46:00.854Z"
-    },
-    {
-      "hash": "f8e5d1ffbd6d0798",
-      "track": "Ghaghari (From \"Ghaghari\")",
-      "artist": "Pawan Singh, Shilpi Raj",
-      "album": "Power Star Pawan Singh",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-06-10T01:27:29.216Z"
-    },
-    {
-      "hash": "eb90244943cd97b4",
-      "track": "Ghost",
-      "artist": "Diljit Dosanjh, Thiarajxtt",
-      "album": "Ghost",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-06-13T05:21:35.343Z"
-    },
-    {
-      "hash": "1ae19af90a014c8a",
-      "track": "Genda Phool (From \"Delhi-6\")",
-      "artist": "Rekha Bhardwaj",
-      "album": "Rekha Bhardwaj Song Collection",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-06-18T19:24:11.785Z"
-    },
-    {
-      "hash": "a83c16efcf3820b5",
-      "track": "Gallan Goodiyaan",
-      "artist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Shankar-Ehsaan-Loy",
-      "album": "Dil Dhadakne Do",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:15:35.511Z"
-    },
-    {
-      "hash": "699153805c415a02",
-      "track": "Girls Like You (Cardi B Version)",
+      "hash": "efc5dc1275d149d8",
+      "track": "Girls Like You",
       "artist": "Maroon 5",
-      "album": "Girls Like You",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-09T20:17:16.729Z"
-    },
-    {
-      "hash": "14828f78cb722409",
-      "track": "Gajban",
-      "artist": "Vishvajeet Choudhary",
-      "album": "Gajban",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-15T11:04:15.582Z"
-    },
-    {
-      "hash": "2f4ee5c3e909c8af",
-      "track": "Galvanize (Extended Version)",
-      "artist": "The Chemical Brothers",
-      "album": "Galvanize",
+      "album": "Maroon 5",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-27T03:53:06.427Z"
-    },
-    {
-      "hash": "e18615f58c899efd",
-      "track": "Galvanize (Edit)",
-      "artist": "The Chemical Brothers",
-      "album": "Galvanize",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-27T03:52:15.388Z"
+      "cached_at": "2026-07-29T11:55:06.089Z"
     }
   ]
 }
