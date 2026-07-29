@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:34.489Z",
+  "updated_at": "2026-07-29T15:37:05.072Z",
   "entries": [
     {
       "hash": "9b669c0f7213598a",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:29:24.805Z"
+    },
+    {
+      "hash": "4f34c45b5be51cef",
+      "track": "Bairan",
+      "artist": "Banjaare",
+      "album": "Bairan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-29T15:37:02.703Z"
     }
   ]
 }
