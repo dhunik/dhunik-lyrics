@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-29T15:28:15.547Z",
+  "updated_at": "2026-07-29T15:29:07.387Z",
   "entries": [
     {
-      "hash": "a3ff5ba479f5f5de",
-      "track": "Chandra",
-      "artist": "Shreya Ghoshal, Ajay-Atul, Guru Thakur",
-      "album": "Chandramukhi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T04:24:18.200Z"
-    },
-    {
-      "hash": "904e960c404aed84",
-      "track": "Tu Hai",
-      "artist": "A.R. Rahman, Sanah Moidutty",
-      "album": "Mohenjo Daro",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T07:53:46.314Z"
-    },
-    {
-      "hash": "7b7911100e73aeff",
-      "track": "Sorry",
-      "artist": "March And June, Notscandal, Afro Queen",
-      "album": "Ultra-Lounge: Christmas Cocktails, Part 3",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-29T08:00:26.801Z"
-    },
-    {
-      "hash": "0ec00298bd88bf4d",
-      "track": "Kombadi Palali",
-      "artist": "Vaishali Samant, Anand Shinde, Ajay-Atul",
-      "album": "Jatra",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T12:34:13.287Z"
-    },
-    {
-      "hash": "2f09e7b13672660e",
-      "track": "Rang De Basanti",
-      "artist": "A.R. Rahman, Daler Mehndi, K. S. Chithra",
-      "album": "Rang De Basanti",
+      "hash": "97b782cf237f8dda",
+      "track": "Saadda Haq (Featuring Orianthi Panagaris On Guitars)",
+      "artist": "A.R. Rahman, Clinton Cerejo, Mohit Chauhan",
+      "album": "Rockstar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-29T15:28:13.817Z"
+      "cached_at": "2026-07-29T15:28:22.358Z"
     }
   ]
 }
