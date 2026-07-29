@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-07-16T00:36:49.840Z",
+  "updated_at": "2026-07-29T12:16:05.819Z",
   "entries": [
     {
-      "hash": "03807ac929f0c8f6",
-      "track": "Kaise Mujhe",
-      "artist": "Benny Dayal, Shreya Ghoshal",
-      "album": "Ghajini",
+      "hash": "9b669c0f7213598a",
+      "track": "You Broke Me First",
+      "artist": "DJ Alex Man, Britt, Deep Mage",
+      "album": "You Broke Me First",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T00:36:28.414Z"
+      "has_plain": true,
+      "cached_at": "2026-07-29T12:14:46.421Z"
     }
   ]
 }
