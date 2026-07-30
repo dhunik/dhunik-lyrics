@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-07-29T04:28:04.510Z",
+  "updated_at": "2026-07-30T03:20:33.872Z",
   "entries": [
     {
       "hash": "a3ff5ba479f5f5de",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T04:24:18.200Z"
+    },
+    {
+      "hash": "df85cae554d664b5",
+      "track": "Bai Ga",
+      "artist": "Aarya Ambekar, Ajay - Atul, Guru Thakur",
+      "album": "Chandramukhi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-30T03:20:32.878Z"
     }
   ]
 }
