@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-29T15:37:33.262Z",
+  "updated_at": "2026-07-30T09:13:25.574Z",
   "entries": [
     {
-      "hash": "021d34b1d77f1c1e",
-      "track": "Mala Ved Laagale (Duet)",
-      "artist": "Ketakee Mateygaonkar, Swapnil Bandodkar",
-      "album": "Marathi Romantic Hits",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T13:32:26.684Z"
-    },
-    {
-      "hash": "0f85d0427cdebacf",
-      "track": "Say You Won't Let Go",
-      "artist": "Mari, KRIK.",
-      "album": "Mashups (Remixes of Hits)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T12:08:08.266Z"
-    },
-    {
-      "hash": "92c38b768624211a",
-      "track": "Pink Lips",
-      "artist": "Meet Bros Anjjan, Khushboo Grewal",
-      "album": "Hate Story 2",
+      "hash": "35855575cb76822d",
+      "track": "Kamar Me Dagi",
+      "artist": "Khesari Lal Yadav, Shilpi Raj",
+      "album": "Kamar Me Dagi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-29T15:37:32.258Z"
+      "cached_at": "2026-07-30T09:11:14.516Z"
     }
   ]
 }
