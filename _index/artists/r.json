@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-28T14:07:07.663Z",
+  "updated_at": "2026-07-30T09:02:27.793Z",
   "entries": [
     {
-      "hash": "d8a1fd1f1a21a136",
-      "track": "KALYANI",
-      "artist": "ARJN, KDS, FIFTY4, Ronn",
-      "album": "KALYANI",
-      "has_synced": true,
+      "hash": "02d592592c79b160",
+      "track": "Pistaul",
+      "artist": "Ritik Singh, Srishti Bharti",
+      "album": "Pistaul",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-28T14:06:34.836Z"
+      "cached_at": "2026-07-30T09:02:16.812Z"
     }
   ]
 }
