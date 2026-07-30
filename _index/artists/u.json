@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-07-19T05:57:57.829Z",
+  "updated_at": "2026-07-30T12:31:49.197Z",
   "entries": [
     {
-      "hash": "84e84474a745be03",
-      "track": "Achchi Lagti Ho",
-      "artist": "Shankar-Ehsaan-Loy, Udit Narayan, Kavita Krishnamurthy",
-      "album": "Kuch Naa Kaho",
+      "hash": "5045edc2996fd63c",
+      "track": "Akeli Na Bazar Jaya Karo",
+      "artist": "Udit Narayan",
+      "album": "Major Saab",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-19T05:53:32.809Z"
+      "cached_at": "2026-07-30T12:26:06.105Z"
     }
   ]
 }
