@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-29T15:37:30.055Z",
+  "updated_at": "2026-07-30T13:05:12.967Z",
   "entries": [
     {
-      "hash": "6e7ca9d67f4affa9",
-      "track": "Khabar Nahi",
-      "artist": "Vishal Dadlani, Vishal & Shekhar, Shreya Ghoshal, Amanat Ali, Raja Hasan",
-      "album": "Dostana",
+      "hash": "d9cbfadbdcc825fa",
+      "track": "Dard Karaara",
+      "artist": "Anu Malik, Kumar Sanu, Sadhana Sargam, Ayushmann Khurrana, Varun Grover",
+      "album": "Dum Laga Ke Haisha",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-22T06:08:41.047Z"
-    },
-    {
-      "hash": "396c9ea68098ceeb",
-      "track": "Vatevari Mogra",
-      "artist": "Swapnil Bandodkar, Vaishali Samant",
-      "album": "Vatevari Mogra",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-28T13:49:21.001Z"
-    },
-    {
-      "hash": "12a382e0fc31cb50",
-      "track": "Poomuthole",
-      "artist": "Vijay Yesudas",
-      "album": "Joseph (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T14:16:26.166Z"
-    },
-    {
-      "hash": "0c5a95ee1d1eb753",
-      "track": "Pavazha Malli (From \"Think Indie\")",
-      "artist": "Vivek, Sai Abhyankkar, Shruti Haasan",
-      "album": "Pavazha Malli (From \"Think Indie\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:37:27.018Z"
+      "cached_at": "2026-07-30T13:01:00.714Z"
     }
   ]
 }
