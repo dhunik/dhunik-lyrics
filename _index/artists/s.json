@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-29T15:50:06.563Z",
+  "updated_at": "2026-07-30T10:12:08.409Z",
   "entries": [
     {
       "hash": "15eb13ff383155a1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:47:51.550Z"
+    },
+    {
+      "hash": "629257ab578ea416",
+      "track": "Shiv Tandav Stotram (Har Har Shiv Shankar)",
+      "artist": "Sachet Tandon, Parampara Tandon",
+      "album": "Shiv Tandav Stotram (Har Har Shiv Shankar)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-30T10:12:07.276Z"
     }
   ]
 }
