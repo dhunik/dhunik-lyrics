@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-07-30T10:12:08.409Z",
+  "updated_at": "2026-07-30T12:42:51.655Z",
   "entries": [
     {
-      "hash": "15eb13ff383155a1",
-      "track": "Aankhon Se Tune 2.0 (From \"Bhai Tera Star Hai\")",
-      "artist": "Lijo George, Dev Negi, Palak Muchhal, Jatin-Lalit, Kumar Sanu, Alka Yagnik, Sameer Anjaan, Mohsin Shaikh - Aankhon Se Tune 2.0 (From \"Bhai Tera Star Hai\")",
-      "album": "Aankhon Se Tune 2.0 (From \"Bhai Tera Star Hai\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:47:51.550Z"
-    },
-    {
-      "hash": "629257ab578ea416",
-      "track": "Shiv Tandav Stotram (Har Har Shiv Shankar)",
-      "artist": "Sachet Tandon, Parampara Tandon",
-      "album": "Shiv Tandav Stotram (Har Har Shiv Shankar)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-30T10:12:07.276Z"
+      "hash": "4a0649abe134d4bd",
+      "track": "Maria Maria",
+      "artist": "Sonu Nigam, Sajid, Sunidhi Chauhan, Naresh",
+      "album": "Partner",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-07-30T12:38:17.251Z"
     }
   ]
 }
