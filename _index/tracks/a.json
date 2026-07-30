@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-07-29T15:37:13.322Z",
+  "updated_at": "2026-07-30T12:31:49.195Z",
   "entries": [
     {
-      "hash": "9fca3d87a5a18d9d",
-      "track": "Attention",
-      "artist": "Alosa, Michelle Ray, Deep Mage",
-      "album": "Attention",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T07:57:32.418Z"
-    },
-    {
-      "hash": "4d12fe482b898413",
-      "track": "Aane Wala Star",
-      "artist": "Dholu bholu, Sai Abhyankkar",
-      "album": "Aane Wala Star",
+      "hash": "5045edc2996fd63c",
+      "track": "Akeli Na Bazar Jaya Karo",
+      "artist": "Udit Narayan",
+      "album": "Major Saab",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-29T15:29:18.163Z"
-    },
-    {
-      "hash": "34ccc2edd1bef9ed",
-      "track": "Amsham - അംശം",
-      "artist": "Aksomaniac, M.H.R, Bhumi, Circle Tone",
-      "album": "Amsham - അംശം",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:37:11.592Z"
+      "cached_at": "2026-07-30T12:26:06.105Z"
     }
   ]
 }
