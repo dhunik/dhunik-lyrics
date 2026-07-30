@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-07-29T15:37:25.008Z",
+  "updated_at": "2026-07-30T13:05:12.955Z",
   "entries": [
     {
-      "hash": "650bece04c6859a7",
-      "track": "Dil Bechara",
-      "artist": "Neha Kakkar, Rohanpreet Singh",
-      "album": "Dil Bechara",
+      "hash": "d9cbfadbdcc825fa",
+      "track": "Dard Karaara",
+      "artist": "Anu Malik, Kumar Sanu, Sadhana Sargam, Ayushmann Khurrana, Varun Grover",
+      "album": "Dum Laga Ke Haisha",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T06:19:21.934Z"
-    },
-    {
-      "hash": "e5cf17ff540536b3",
-      "track": "Dil Ne Yeh Kaha Hain Dil Se",
-      "artist": "Udit Narayan, Alka Yagnik, Kumar Sanu",
-      "album": "Dhadkan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:31:05.521Z"
-    },
-    {
-      "hash": "c7c1c18896f95840",
-      "track": "Dilli Waali Baatcheet",
-      "artist": "Raftaar",
-      "album": "Mr Nair",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:23:06.449Z"
-    },
-    {
-      "hash": "19da779aadc1d88f",
-      "track": "Drama",
-      "artist": "Raftaar",
-      "album": "Mr. Nair",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:35:44.980Z"
-    },
-    {
-      "hash": "708d5b36f3048189",
-      "track": "Dai Dai",
-      "artist": "Shakira, Burna Boy",
-      "album": "Dai Dai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:24.805Z"
-    },
-    {
-      "hash": "bf238c4771e29da3",
-      "track": "Dracula (JENNIE Remix)",
-      "artist": "Tame Impala, Jennie",
-      "album": "Dracula (Remix)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:37:23.719Z"
+      "cached_at": "2026-07-30T13:01:00.714Z"
     }
   ]
 }
