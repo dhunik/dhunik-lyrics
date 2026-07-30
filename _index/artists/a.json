@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-29T15:36:57.724Z",
+  "updated_at": "2026-07-30T03:53:25.374Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:36:52.737Z"
+    },
+    {
+      "hash": "b53bef8357c70633",
+      "track": "Fairytale",
+      "artist": "Alexander Rybak",
+      "album": "Fairytales",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-07-30T03:53:22.536Z"
     }
   ]
 }
