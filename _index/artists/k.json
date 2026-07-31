@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-07-30T09:13:25.574Z",
+  "updated_at": "2026-07-31T02:30:08.900Z",
   "entries": [
     {
       "hash": "35855575cb76822d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-30T09:11:14.516Z"
+    },
+    {
+      "hash": "0434866ee4c4dd49",
+      "track": "Dil Lagana Mana Tha",
+      "artist": "Devv Sadaana, Kunaal Vermaa, Krish Mondal, Kishore Mondal - Dil Lagana Mana Tha",
+      "album": "Dil Lagana Mana Tha",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-07-31T02:30:07.576Z"
     }
   ]
 }
