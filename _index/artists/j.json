@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-07-29T15:37:25.005Z",
+  "updated_at": "2026-08-01T18:40:30.760Z",
   "entries": [
     {
       "hash": "d94864352c016956",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:37:23.719Z"
+    },
+    {
+      "hash": "9d68088923b125e9",
+      "track": "Naah (Lofi Flip)",
+      "artist": "KSW, Harrdy Sandhu, Jaani",
+      "album": "Naah (Lofi Flip)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:40:26.903Z"
     }
   ]
 }
