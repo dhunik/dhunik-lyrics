@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-07-30T03:20:33.872Z",
+  "updated_at": "2026-08-01T18:40:25.730Z",
   "entries": [
     {
       "hash": "a3ff5ba479f5f5de",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-30T03:20:32.878Z"
+    },
+    {
+      "hash": "15e56e53cc7b5d24",
+      "track": "Suit",
+      "artist": "Guru Randhawa, Arjun",
+      "album": "Hindi Medium",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:40:19.753Z"
     }
   ]
 }
