@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-01T18:41:02.443Z",
+  "updated_at": "2026-08-01T18:41:10.739Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:40:56.525Z"
+    },
+    {
+      "hash": "dea59d1282dc7cce",
+      "track": "Titliaan Warga",
+      "artist": "Harrdy Sandhu",
+      "album": "Titliaan Warga",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:41:09.355Z"
     }
   ]
 }
