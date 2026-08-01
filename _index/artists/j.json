@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-01T18:48:34.079Z",
+  "updated_at": "2026-08-01T18:48:30.608Z",
   "entries": [
     {
       "hash": "d94864352c016956",
@@ -95,13 +95,13 @@
       "cached_at": "2026-08-01T18:48:02.490Z"
     },
     {
-      "hash": "b50cd8dd9b2a944c",
+      "hash": "458530e2db2dc7ce",
       "track": "Dance Like",
-      "artist": "Jaani, Harrdy Sandhu",
-      "album": "Unknown",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Dance Like",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-01T18:48:33.140Z"
+      "cached_at": "2026-08-01T18:48:26.660Z"
     }
   ]
 }
