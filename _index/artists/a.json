@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-07-30T03:53:25.374Z",
+  "updated_at": "2026-08-01T09:31:10.964Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-30T03:53:22.536Z"
+    },
+    {
+      "hash": "ec5746bc63a5ae3d",
+      "track": "Ghana Kasoota",
+      "artist": "Raftaar, Avvy Sra, Rashmeet Kaur ft. Surbhi Jyoti - Ghana Kasoota",
+      "album": "Ghana Kasoota",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-01T09:31:09.948Z"
     }
   ]
 }
