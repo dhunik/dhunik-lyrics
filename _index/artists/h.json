@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-01T18:41:10.739Z",
+  "updated_at": "2026-08-01T18:48:07.620Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:41:09.355Z"
+    },
+    {
+      "hash": "86d2c1c36b271d40",
+      "track": "Kyaa Baat Haii 2.0",
+      "artist": "Harrdy Sandhu, Tanishk Bagchi, Nikhita Gandhi, Jaani",
+      "album": "Tanishk Bagchi (All Time Hits)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:48:02.490Z"
     }
   ]
 }
