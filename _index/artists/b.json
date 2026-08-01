@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-08-01T09:46:51.079Z",
+  "updated_at": "2026-08-01T18:41:19.146Z",
   "entries": [
     {
-      "hash": "9b669c0f7213598a",
-      "track": "You Broke Me First",
-      "artist": "DJ Alex Man, Britt, Deep Mage",
-      "album": "You Broke Me First",
+      "hash": "9b36aea114b8b406",
+      "track": "Kali Denali",
+      "artist": "Bohemia",
+      "album": "Pesa Nasha Pyar",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-29T12:14:46.421Z"
-    },
-    {
-      "hash": "708d5b36f3048189",
-      "track": "Dai Dai",
-      "artist": "Shakira, Burna Boy",
-      "album": "Dai Dai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:24.805Z"
-    },
-    {
-      "hash": "4f34c45b5be51cef",
-      "track": "Bairan",
-      "artist": "Banjaare",
-      "album": "Bairan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:37:02.703Z"
-    },
-    {
-      "hash": "36362cdee132cd74",
-      "track": "Bad Boy",
-      "artist": "Badshah, Neeti Mohan",
-      "album": "Saaho",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-01T09:43:53.106Z"
+      "cached_at": "2026-08-01T18:40:39.473Z"
     }
   ]
 }
