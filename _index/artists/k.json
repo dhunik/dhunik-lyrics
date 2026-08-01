@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-01T18:17:14.479Z",
+  "updated_at": "2026-08-01T18:48:38.306Z",
   "entries": [
     {
       "hash": "0448cc783b478cf8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-01T18:11:07.192Z"
+    },
+    {
+      "hash": "234ca0f43eb400ee",
+      "track": "Chitta Kurta",
+      "artist": "Karan Aujla",
+      "album": "KARAN AUJLA SINGLES",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:48:37.375Z"
     }
   ]
 }
