@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-07-29T15:36:57.721Z",
+  "updated_at": "2026-08-01T18:40:33.006Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:36:52.737Z"
+    },
+    {
+      "hash": "8367326a473bc396",
+      "track": "Kya Baat Ay",
+      "artist": "Harrdy Sandhu, Jaani",
+      "album": "Jaani X Harrdy Sandhu - Mega Hits",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:40:32.144Z"
     }
   ]
 }
