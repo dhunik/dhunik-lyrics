@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-01T18:40:25.726Z",
+  "updated_at": "2026-08-01T18:45:02.229Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:40:19.753Z"
+    },
+    {
+      "hash": "e445a070e8234653",
+      "track": "Qismat",
+      "artist": "Ammy Virk",
+      "album": "Jul 17, 2017",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:44:53.190Z"
     }
   ]
 }
