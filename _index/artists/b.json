@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-08-01T18:44:47.416Z",
+  "updated_at": "2026-08-01T18:44:54.868Z",
   "entries": [
     {
       "hash": "9b36aea114b8b406",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:44:44.128Z"
+    },
+    {
+      "hash": "3d25e96ae3f0cda7",
+      "track": "Mera Yaar",
+      "artist": "B Praak, Jaani",
+      "album": "Lekh (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:44:48.471Z"
     }
   ]
 }
