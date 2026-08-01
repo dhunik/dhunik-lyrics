@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-08-01T18:41:19.146Z",
+  "updated_at": "2026-08-01T18:44:47.416Z",
   "entries": [
     {
       "hash": "9b36aea114b8b406",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:40:39.473Z"
+    },
+    {
+      "hash": "aad25bc801ad64fd",
+      "track": "Filhall Ft. Akshay Kumar & Nupur Sanon",
+      "artist": "B Praak",
+      "album": "Filhall",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-01T18:44:44.128Z"
     }
   ]
 }
