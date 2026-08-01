@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-07-30T12:42:51.651Z",
+  "updated_at": "2026-08-01T09:41:06.956Z",
   "entries": [
     {
-      "hash": "4a0649abe134d4bd",
-      "track": "Maria Maria",
-      "artist": "Sonu Nigam, Sajid, Sunidhi Chauhan, Naresh",
-      "album": "Partner",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-30T12:38:17.251Z"
+      "hash": "76ff88d26cc701bb",
+      "track": "Mantoiyat",
+      "artist": "Raftaar, Nawazuddin Siddiqui",
+      "album": "Manto",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-01T09:38:08.995Z"
     }
   ]
 }
