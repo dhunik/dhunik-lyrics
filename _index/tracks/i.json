@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "track",
-  "updated_at": "2026-07-29T12:14:43.193Z",
+  "updated_at": "2026-08-02T19:17:05.046Z",
   "entries": [
     {
       "hash": "d5d5c149d7fe8b9f",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-07-29T12:14:37.652Z"
+    },
+    {
+      "hash": "dcd92d69a72a58ad",
+      "track": "Instant Crush (feat. Julian Casablancas)",
+      "artist": "Daft Punk, Julian Casablancas",
+      "album": "Random Access Memories",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-02T19:17:00.515Z"
     }
   ]
 }
