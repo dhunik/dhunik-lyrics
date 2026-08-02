@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-01T09:31:10.955Z",
+  "updated_at": "2026-08-02T19:41:32.073Z",
   "entries": [
     {
-      "hash": "d9cbfadbdcc825fa",
-      "track": "Dard Karaara",
-      "artist": "Anu Malik, Kumar Sanu, Sadhana Sargam, Ayushmann Khurrana, Varun Grover",
-      "album": "Dum Laga Ke Haisha",
+      "hash": "f92cdc1277211cf9",
+      "track": "Jee Le",
+      "artist": "Shruti Pathak, Naresh Kamath",
+      "album": "Luck",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-30T13:01:00.714Z"
-    },
-    {
-      "hash": "ec5746bc63a5ae3d",
-      "track": "Ghana Kasoota",
-      "artist": "Raftaar, Avvy Sra, Rashmeet Kaur ft. Surbhi Jyoti - Ghana Kasoota",
-      "album": "Ghana Kasoota",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-01T09:31:09.948Z"
+      "cached_at": "2026-08-02T19:38:44.547Z"
     }
   ]
 }
