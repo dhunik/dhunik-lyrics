@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "z",
   "type": "track",
-  "updated_at": "2026-07-23T17:24:32.655Z",
+  "updated_at": "2026-08-03T12:40:06.587Z",
   "entries": [
     {
-      "hash": "181d0aa77ef75a5e",
-      "track": "Zimmedaar",
-      "artist": "Paradox, A.O.D.",
-      "album": "Overthink",
+      "hash": "5d3943143f48bc12",
+      "track": "Zinda",
+      "artist": "Shankar-Ehsaan-Loy, Siddharth Mahadevan",
+      "album": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-15T10:40:51.108Z"
-    },
-    {
-      "hash": "5671ea0e4ff0cdf6",
-      "track": "Zinda Hai",
-      "artist": "Vishal & Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
-      "album": "Tiger Zinda Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:24:31.683Z"
+      "cached_at": "2026-08-03T12:32:19.832Z"
     }
   ]
 }
