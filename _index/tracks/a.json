@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-07-30T12:31:49.195Z",
+  "updated_at": "2026-08-04T09:24:34.421Z",
   "entries": [
     {
       "hash": "5045edc2996fd63c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-30T12:26:06.105Z"
+    },
+    {
+      "hash": "b3e2f35b09b6d533",
+      "track": "Arjan Vailly",
+      "artist": "Bhupinder Babbal, Manan Bhardwaj - ANIMAL",
+      "album": "ANIMAL",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-04T09:24:33.150Z"
     }
   ]
 }
