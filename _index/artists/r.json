@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-07-30T09:02:27.793Z",
+  "updated_at": "2026-08-04T10:03:13.915Z",
   "entries": [
     {
-      "hash": "02d592592c79b160",
-      "track": "Pistaul",
-      "artist": "Ritik Singh, Srishti Bharti",
-      "album": "Pistaul",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-30T09:02:16.812Z"
+      "hash": "15cbb79b86cb79cc",
+      "track": "Move - Yeh Ishq Ishq",
+      "artist": "Reble, Sahir Ludhianvi, Shashwat Sachdev, Sonu Nigam, Roshan",
+      "album": "Dhurandhar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-04T09:59:45.129Z"
     }
   ]
 }
