@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-07-14T07:13:39.926Z",
+  "updated_at": "2026-08-04T10:04:23.419Z",
   "entries": [
     {
-      "hash": "0bd02366e4ceaa77",
-      "track": "Pyar Kar",
-      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
+      "hash": "d42c2e3deab8ec3d",
+      "track": "4.10",
+      "artist": "DIVINE, Lal Chand Yamlajatt",
+      "album": "4.10",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-14T06:52:03.817Z"
-    },
-    {
-      "hash": "8809fc33cad9daec",
-      "track": "Are Re Are (Part 2)",
-      "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi - Dil To Pagal Hai",
-      "album": "Dil To Pagal Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-14T07:13:38.932Z"
+      "cached_at": "2026-08-04T10:03:16.736Z"
     }
   ]
 }
