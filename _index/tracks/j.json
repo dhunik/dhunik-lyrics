@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-08-02T19:41:32.076Z",
+  "updated_at": "2026-08-04T09:59:43.746Z",
   "entries": [
     {
-      "hash": "f92cdc1277211cf9",
-      "track": "Jee Le",
-      "artist": "Shruti Pathak, Naresh Kamath",
-      "album": "Luck",
+      "hash": "4c66b32608973702",
+      "track": "Joota Japani",
+      "artist": "KR$NA, Mukesh",
+      "album": "Joota Japani",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-02T19:38:44.547Z"
+      "has_plain": false,
+      "cached_at": "2026-08-04T09:57:08.889Z"
     }
   ]
 }
