@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-08-01T18:17:14.483Z",
+  "updated_at": "2026-08-04T03:29:11.074Z",
   "entries": [
     {
       "hash": "0448cc783b478cf8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-01T18:11:07.192Z"
+    },
+    {
+      "hash": "2a1d3d08c1c9ecdd",
+      "track": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "album": "heard this on my fyp",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-04T03:29:10.090Z"
     }
   ]
 }
