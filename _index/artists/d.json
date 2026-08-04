@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:20.915Z",
+  "updated_at": "2026-08-04T10:04:23.416Z",
   "entries": [
     {
-      "hash": "9b669c0f7213598a",
-      "track": "You Broke Me First",
-      "artist": "DJ Alex Man, Britt, Deep Mage",
-      "album": "You Broke Me First",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T12:14:46.421Z"
-    },
-    {
-      "hash": "df0f085af1b3deeb",
-      "track": "Todun Taak",
-      "artist": "D’EVIL",
-      "album": "Rap Mixtape",
+      "hash": "d42c2e3deab8ec3d",
+      "track": "4.10",
+      "artist": "DIVINE, Lal Chand Yamlajatt",
+      "album": "4.10",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-29T14:55:05.989Z"
-    },
-    {
-      "hash": "2f09e7b13672660e",
-      "track": "Rang De Basanti",
-      "artist": "A.R. Rahman, Daler Mehndi, K. S. Chithra",
-      "album": "Rang De Basanti",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:28:13.817Z"
-    },
-    {
-      "hash": "b5d86e95216a9e8e",
-      "track": "Y Que Fue?",
-      "artist": "Don Miguelo",
-      "album": "Y Que Fue?",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:09.023Z"
-    },
-    {
-      "hash": "4d12fe482b898413",
-      "track": "Aane Wala Star",
-      "artist": "Dholu bholu, Sai Abhyankkar",
-      "album": "Aane Wala Star",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:18.163Z"
+      "cached_at": "2026-08-04T10:03:16.736Z"
     }
   ]
 }
