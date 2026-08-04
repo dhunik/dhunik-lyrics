@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-02T19:41:32.073Z",
+  "updated_at": "2026-08-04T10:03:13.918Z",
   "entries": [
     {
-      "hash": "f92cdc1277211cf9",
-      "track": "Jee Le",
-      "artist": "Shruti Pathak, Naresh Kamath",
-      "album": "Luck",
+      "hash": "15cbb79b86cb79cc",
+      "track": "Move - Yeh Ishq Ishq",
+      "artist": "Reble, Sahir Ludhianvi, Shashwat Sachdev, Sonu Nigam, Roshan",
+      "album": "Dhurandhar",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-02T19:38:44.547Z"
+      "has_plain": false,
+      "cached_at": "2026-08-04T09:59:45.129Z"
     }
   ]
 }
