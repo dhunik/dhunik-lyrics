@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-07-30T13:05:12.967Z",
+  "updated_at": "2026-08-04T04:13:33.110Z",
   "entries": [
     {
       "hash": "d9cbfadbdcc825fa",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-30T13:01:00.714Z"
+    },
+    {
+      "hash": "ac76cb5ae6e795dd",
+      "track": "Jee Le Zaraa",
+      "artist": "Vishal Dadlani - Talaash",
+      "album": "Talaash",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-04T04:13:32.120Z"
     }
   ]
 }
