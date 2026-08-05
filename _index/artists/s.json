@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-04T10:03:13.918Z",
+  "updated_at": "2026-08-05T11:28:56.172Z",
   "entries": [
     {
-      "hash": "15cbb79b86cb79cc",
-      "track": "Move - Yeh Ishq Ishq",
-      "artist": "Reble, Sahir Ludhianvi, Shashwat Sachdev, Sonu Nigam, Roshan",
-      "album": "Dhurandhar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-04T09:59:45.129Z"
+      "hash": "e8b20c55cd8048ce",
+      "track": "Gayatri Mantra (Lounge Mix)",
+      "artist": "Shankar Mahadevan",
+      "album": "Shankar Mahadevan Devotional Songs",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-05T11:23:31.056Z"
     }
   ]
 }
