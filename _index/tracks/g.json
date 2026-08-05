@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-07-29T11:58:56.646Z",
+  "updated_at": "2026-08-05T11:28:56.170Z",
   "entries": [
     {
-      "hash": "efc5dc1275d149d8",
-      "track": "Girls Like You",
-      "artist": "Maroon 5",
-      "album": "Maroon 5",
-      "has_synced": true,
+      "hash": "e8b20c55cd8048ce",
+      "track": "Gayatri Mantra (Lounge Mix)",
+      "artist": "Shankar Mahadevan",
+      "album": "Shankar Mahadevan Devotional Songs",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-07-29T11:55:06.089Z"
+      "cached_at": "2026-08-05T11:23:31.056Z"
     }
   ]
 }
