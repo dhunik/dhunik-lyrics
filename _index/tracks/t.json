@@ -2,133 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-08-06T11:49:48.524Z",
+  "updated_at": "2026-08-06T13:47:10.045Z",
   "entries": [
     {
-      "hash": "d622beab5b82eaa9",
-      "track": "Tharki Chokro",
-      "artist": "Ajay-Atul, Shantanu Moitra, Swaroop Khan",
-      "album": "PK",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-15T23:50:59.592Z"
-    },
-    {
-      "hash": "7f142dded40b9c42",
-      "track": "Tujhe Bhi Chand",
-      "artist": "Sanjay Leela Bhansali, Shreya Ghoshal",
-      "album": "Sukoon",
+      "hash": "56ddee3081a3c99f",
+      "track": "Tension",
+      "artist": "Dhanda Nyoliwala",
+      "album": "Tension",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-16T00:42:08.762Z"
-    },
-    {
-      "hash": "7a196587e1ea7802",
-      "track": "Teri Deewani",
-      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
-      "album": "A Decade of Love",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-16T21:30:12.937Z"
-    },
-    {
-      "hash": "ce7910b3de190da5",
-      "track": "Tu Hai Ki Nahi",
-      "artist": "Ankit Tiwari",
-      "album": "Roy",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-17T14:45:42.015Z"
-    },
-    {
-      "hash": "22ac4d980efdd33c",
-      "track": "Tu (From \"Dum Laga Ke Haisha\")",
-      "artist": "Anu Malik, Kumar Sanu, Varun Grover",
-      "album": "YRF Top 10 - Meter Down",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:32:23.999Z"
-    },
-    {
-      "hash": "c435bd3965ca63f1",
-      "track": "Tu Meri Zindagi Hai",
-      "artist": "Anuradha Paudwal, Kumar Sanu",
-      "album": "Aashiqui",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-18T21:33:10.685Z"
-    },
-    {
-      "hash": "914e87d5a6b3b4c8",
-      "track": "The Scientist (Acoustic Cover)",
-      "artist": "Coldplay",
-      "album": "A Rush of Blood to the Head",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:34:50.322Z"
-    },
-    {
-      "hash": "dc72c84a3f6b1291",
-      "track": "Tum Hi Aana",
-      "artist": "Payal Dev, Jubin Nautiyal",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T03:52:25.931Z"
-    },
-    {
-      "hash": "19a94a4b70000e90",
-      "track": "Tu Hi Yaar Mera",
-      "artist": "Neha Kakkar, Rochak, Arijit Singh",
-      "album": "Pati Patni Aur Woh",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T04:14:27.672Z"
-    },
-    {
-      "hash": "904e960c404aed84",
-      "track": "Tu Hai",
-      "artist": "A.R. Rahman, Sanah Moidutty",
-      "album": "Mohenjo Daro",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T07:53:46.314Z"
-    },
-    {
-      "hash": "df0f085af1b3deeb",
-      "track": "Todun Taak",
-      "artist": "D’EVIL",
-      "album": "Rap Mixtape",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T14:55:05.989Z"
-    },
-    {
-      "hash": "38cb37b3363df682",
-      "track": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
-      "artist": "Dhanush, Sai Abhyankkar",
-      "album": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:36:58.687Z"
-    },
-    {
-      "hash": "dea59d1282dc7cce",
-      "track": "Titliaan Warga",
-      "artist": "Harrdy Sandhu",
-      "album": "Titliaan Warga",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:41:09.355Z"
-    },
-    {
-      "hash": "40f523d7f973d28b",
-      "track": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
-      "artist": "Kunaal Vermaa, Payal Dev, Aditya Dev, Jubin Nautiyal",
-      "album": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-06T11:49:47.454Z"
+      "cached_at": "2026-08-06T13:44:49.113Z"
     }
   ]
 }
