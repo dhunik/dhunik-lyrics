@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-04T12:47:13.561Z",
+  "updated_at": "2026-08-06T09:54:12.622Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-04T12:47:12.057Z"
+    },
+    {
+      "hash": "c12f5fe63ae2d89f",
+      "track": "Mere Khuda",
+      "artist": "Arnab Datta",
+      "album": "Maaya (Original Motion Picture Soundtrack)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-06T09:54:11.428Z"
     }
   ]
 }
