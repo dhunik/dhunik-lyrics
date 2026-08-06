@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-08-04T12:47:13.425Z",
+  "updated_at": "2026-08-06T13:24:06.791Z",
   "entries": [
     {
-      "hash": "d9cbfadbdcc825fa",
-      "track": "Dard Karaara",
-      "artist": "Anu Malik, Kumar Sanu, Sadhana Sargam, Ayushmann Khurrana, Varun Grover",
-      "album": "Dum Laga Ke Haisha",
+      "hash": "bc392268ac7025c3",
+      "track": "Dubai Company",
+      "artist": "Emiway Bantai",
+      "album": "Dubai Company",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-30T13:01:00.714Z"
-    },
-    {
-      "hash": "0434866ee4c4dd49",
-      "track": "Dil Lagana Mana Tha",
-      "artist": "Devv Sadaana, Kunaal Vermaa, Krish Mondal, Kishore Mondal - Dil Lagana Mana Tha",
-      "album": "Dil Lagana Mana Tha",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-31T02:30:07.576Z"
-    },
-    {
-      "hash": "b50cd8dd9b2a944c",
-      "track": "Dance Like",
-      "artist": "Jaani, Harrdy Sandhu",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:48:33.140Z"
-    },
-    {
-      "hash": "5c7ec7c4408cb218",
-      "track": "Dhak Dhak Karne Laga",
-      "artist": "Anuradha Paudwal, Udit Narayan",
-      "album": "Beta",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-04T12:47:12.057Z"
+      "cached_at": "2026-08-06T13:20:58.220Z"
     }
   ]
 }
