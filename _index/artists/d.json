@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-04T10:04:23.416Z",
+  "updated_at": "2026-08-06T13:47:10.047Z",
   "entries": [
     {
-      "hash": "d42c2e3deab8ec3d",
-      "track": "4.10",
-      "artist": "DIVINE, Lal Chand Yamlajatt",
-      "album": "4.10",
+      "hash": "56ddee3081a3c99f",
+      "track": "Tension",
+      "artist": "Dhanda Nyoliwala",
+      "album": "Tension",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-04T10:03:16.736Z"
+      "cached_at": "2026-08-06T13:44:49.113Z"
     }
   ]
 }
