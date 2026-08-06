@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-06T13:47:10.047Z",
+  "updated_at": "2026-08-06T13:50:12.064Z",
   "entries": [
     {
-      "hash": "56ddee3081a3c99f",
-      "track": "Tension",
+      "hash": "259e4aa76616057b",
+      "track": "Not Guilty",
       "artist": "Dhanda Nyoliwala",
-      "album": "Tension",
+      "album": "Not Guilty",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-06T13:44:49.113Z"
+      "cached_at": "2026-08-06T13:47:11.166Z"
     }
   ]
 }
