@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "track",
-  "updated_at": "2026-08-01T18:40:29.203Z",
+  "updated_at": "2026-08-06T13:50:12.063Z",
   "entries": [
     {
-      "hash": "744b4f29c919c249",
-      "track": "Namo Namo",
-      "artist": "Amit Trivedi",
-      "album": null,
+      "hash": "259e4aa76616057b",
+      "track": "Not Guilty",
+      "artist": "Dhanda Nyoliwala",
+      "album": "Not Guilty",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-17T15:12:26.019Z"
-    },
-    {
-      "hash": "9d68088923b125e9",
-      "track": "Naah (Lofi Flip)",
-      "artist": "KSW, Harrdy Sandhu, Jaani",
-      "album": "Naah (Lofi Flip)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:40:26.903Z"
+      "has_plain": false,
+      "cached_at": "2026-08-06T13:47:11.166Z"
     }
   ]
 }
