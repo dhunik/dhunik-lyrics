@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-04T12:59:32.949Z",
+  "updated_at": "2026-08-06T11:49:48.554Z",
   "entries": [
     {
       "hash": "4c66b32608973702",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-04T12:59:31.967Z"
+    },
+    {
+      "hash": "40f523d7f973d28b",
+      "track": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
+      "artist": "Kunaal Vermaa, Payal Dev, Aditya Dev, Jubin Nautiyal",
+      "album": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-06T11:49:47.454Z"
     }
   ]
 }
