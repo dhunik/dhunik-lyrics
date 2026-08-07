@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-06T09:54:12.622Z",
+  "updated_at": "2026-08-07T03:12:15.785Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -84,6 +84,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-06T09:54:11.428Z"
+    },
+    {
+      "hash": "e01cc8d2b3802ba2",
+      "track": "Chale Chalo",
+      "artist": "A.R. Rahman, Srinivas",
+      "album": "Lagaan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-07T03:12:14.791Z"
     }
   ]
 }
