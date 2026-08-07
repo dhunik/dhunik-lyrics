@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-07-29T15:29:24.059Z",
+  "updated_at": "2026-08-07T09:26:28.334Z",
   "entries": [
     {
       "hash": "9cbad71a9cfe77ab",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:29:21.760Z"
+    },
+    {
+      "hash": "62a10c3ffa029f46",
+      "track": "Sher Khul Gaye",
+      "artist": "Benny Dayal, Shilpa Rao, Vishal & Shekhar, Mellow D, Kumaar",
+      "album": "Benny Dayal, Shilpa Rao, Vishal & Shekhar, Mellow D, Kumaar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-07T09:26:27.166Z"
     }
   ]
 }
