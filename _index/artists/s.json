@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-05T11:28:56.172Z",
+  "updated_at": "2026-08-07T03:12:11.303Z",
   "entries": [
     {
       "hash": "e8b20c55cd8048ce",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-05T11:23:31.056Z"
+    },
+    {
+      "hash": "1a4bfe329be578aa",
+      "track": "Ghanan Ghanan",
+      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Shankar Mahadevan, Shaan, Sehar",
+      "album": "Lagaan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-07T03:12:04.217Z"
     }
   ]
 }
