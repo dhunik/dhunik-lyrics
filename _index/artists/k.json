@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-06T11:49:48.554Z",
+  "updated_at": "2026-08-07T03:24:19.805Z",
   "entries": [
     {
-      "hash": "4c66b32608973702",
-      "track": "Joota Japani",
-      "artist": "KR$NA, Mukesh",
-      "album": "Joota Japani",
+      "hash": "4ca4e9c40c502056",
+      "track": "Arziyan",
+      "artist": "Javed Ali, Kailash Kher",
+      "album": "Delhi 6",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-04T09:57:08.889Z"
-    },
-    {
-      "hash": "d05f1c3cba76fc18",
-      "track": "Baazigar O Baazigar (From \"Baazigar\")",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Bollywood Music - Kumar Sanu At His Best, Vol. 1",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-04T12:59:31.967Z"
-    },
-    {
-      "hash": "40f523d7f973d28b",
-      "track": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
-      "artist": "Kunaal Vermaa, Payal Dev, Aditya Dev, Jubin Nautiyal",
-      "album": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-06T11:49:47.454Z"
+      "cached_at": "2026-08-07T03:24:08.270Z"
     }
   ]
 }
