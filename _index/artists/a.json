@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-07T03:12:15.785Z",
+  "updated_at": "2026-08-07T03:18:13.628Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-07T03:12:14.791Z"
+    },
+    {
+      "hash": "661b49d11ba05ebd",
+      "track": "Radha Kaise Na Jale",
+      "artist": "Asha Bhosle, Udit Narayan, Vaishali Samant",
+      "album": "Lagaan",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-07T03:18:12.680Z"
     }
   ]
 }
