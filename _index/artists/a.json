@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-07T03:24:22.478Z",
+  "updated_at": "2026-08-07T03:24:27.125Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -111,6 +111,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-07T03:24:21.624Z"
+    },
+    {
+      "hash": "91e8bbdcb7eddadc",
+      "track": "Dil Se Re",
+      "artist": "A.R. Rahman, Anuradha, Anupama",
+      "album": "Dil Se",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-07T03:24:25.494Z"
     }
   ]
 }
