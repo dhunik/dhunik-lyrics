@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-01T18:48:30.609Z",
+  "updated_at": "2026-08-07T03:24:43.773Z",
   "entries": [
     {
       "hash": "13ec5d3da1ece61b",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:48:26.660Z"
+    },
+    {
+      "hash": "1d6740a77bac8749",
+      "track": "Tu Hi Re (From \"Bombay\")",
+      "artist": "Hariharan, Kavita Krishnamurthy",
+      "album": "Bombay (Original Motion Picture Soundtrack / Remastered)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-07T03:24:42.433Z"
     }
   ]
 }
