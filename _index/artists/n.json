@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-02T19:41:32.079Z",
+  "updated_at": "2026-08-07T03:24:22.477Z",
   "entries": [
     {
       "hash": "f92cdc1277211cf9",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-02T19:38:44.547Z"
+    },
+    {
+      "hash": "f387f4c5bb2fcc7a",
+      "track": "Tu Bin Bataye",
+      "artist": "A.R. Rahman, Madhushree, Naresh Iyer",
+      "album": "Perfect 10: AR Rahman - The Spirit of Music",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-07T03:24:21.624Z"
     }
   ]
 }
