@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-08-04T10:03:13.915Z",
+  "updated_at": "2026-08-07T08:35:03.532Z",
   "entries": [
     {
       "hash": "15cbb79b86cb79cc",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-04T09:59:45.129Z"
+    },
+    {
+      "hash": "db016c44633b6e5f",
+      "track": "QEHER (From \"Dhamaal 4\")",
+      "artist": "Guru Randhawa, Gill Machhrai, Rony Ajnali - QEHER (From \"Dhamaal 4\")",
+      "album": "QEHER (From \"Dhamaal 4\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-07T08:35:01.516Z"
     }
   ]
 }
