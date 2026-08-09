@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-08-04T03:29:11.074Z",
+  "updated_at": "2026-08-09T18:31:21.861Z",
   "entries": [
     {
       "hash": "0448cc783b478cf8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-04T03:29:10.090Z"
+    },
+    {
+      "hash": "8142d59fd66510d0",
+      "track": "LET ME BE",
+      "artist": "The Second Voice",
+      "album": "LET ME BE",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-09T18:31:20.925Z"
     }
   ]
 }
