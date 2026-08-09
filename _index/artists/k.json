@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-07T03:24:19.805Z",
+  "updated_at": "2026-08-09T16:07:51.807Z",
   "entries": [
     {
       "hash": "4ca4e9c40c502056",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-07T03:24:08.270Z"
+    },
+    {
+      "hash": "44978264c750d5ba",
+      "track": "Khuda Jaane",
+      "artist": "Vishal & Shekhar, KK, Shilpa Rao, Anvita Dutt Guptan",
+      "album": "Bachna Ae Haseeno",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-09T16:07:50.649Z"
     }
   ]
 }
