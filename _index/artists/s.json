@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-07T03:12:15.805Z",
+  "updated_at": "2026-08-10T03:01:32.171Z",
   "entries": [
     {
       "hash": "e8b20c55cd8048ce",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-07T03:12:14.791Z"
+    },
+    {
+      "hash": "7826740fce4e76e7",
+      "track": "Tere Naina",
+      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Shreya Ghoshal",
+      "album": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Shreya Ghoshal",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-10T03:01:31.181Z"
     }
   ]
 }
