@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-09T16:07:51.807Z",
+  "updated_at": "2026-08-10T05:45:41.027Z",
   "entries": [
     {
-      "hash": "4ca4e9c40c502056",
-      "track": "Arziyan",
-      "artist": "Javed Ali, Kailash Kher",
-      "album": "Delhi 6",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:08.270Z"
-    },
-    {
-      "hash": "44978264c750d5ba",
-      "track": "Khuda Jaane",
-      "artist": "Vishal & Shekhar, KK, Shilpa Rao, Anvita Dutt Guptan",
-      "album": "Bachna Ae Haseeno",
-      "has_synced": true,
+      "hash": "c3690bfca69fdc00",
+      "track": "Google Pay",
+      "artist": "Karma, Deep Kalsi",
+      "album": "Google Pay",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-09T16:07:50.649Z"
+      "cached_at": "2026-08-10T05:41:51.748Z"
     }
   ]
 }
