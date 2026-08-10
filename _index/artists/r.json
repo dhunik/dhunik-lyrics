@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-08-10T06:17:45.415Z",
+  "updated_at": "2026-08-10T06:30:08.553Z",
   "entries": [
     {
       "hash": "286408bdef29d941",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-10T06:17:15.152Z"
+    },
+    {
+      "hash": "8b577900b8057cef",
+      "track": "Black Sheep",
+      "artist": "Raftaar - Black Sheep",
+      "album": "Black Sheep",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-10T06:30:07.284Z"
     }
   ]
 }
