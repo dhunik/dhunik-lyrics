@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-08-05T11:28:56.170Z",
+  "updated_at": "2026-08-10T05:45:41.026Z",
   "entries": [
     {
-      "hash": "e8b20c55cd8048ce",
-      "track": "Gayatri Mantra (Lounge Mix)",
-      "artist": "Shankar Mahadevan",
-      "album": "Shankar Mahadevan Devotional Songs",
+      "hash": "c3690bfca69fdc00",
+      "track": "Google Pay",
+      "artist": "Karma, Deep Kalsi",
+      "album": "Google Pay",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-05T11:23:31.056Z"
+      "cached_at": "2026-08-10T05:41:51.748Z"
     }
   ]
 }
