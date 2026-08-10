@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-08-04T10:04:23.419Z",
+  "updated_at": "2026-08-10T05:49:08.826Z",
   "entries": [
     {
-      "hash": "d42c2e3deab8ec3d",
-      "track": "4.10",
-      "artist": "DIVINE, Lal Chand Yamlajatt",
-      "album": "4.10",
+      "hash": "e8a6c72977ef6f58",
+      "track": "Bansi",
+      "artist": "MC Altaf, Lambo Drive",
+      "album": "Bansi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-04T10:03:16.736Z"
+      "cached_at": "2026-08-10T05:45:42.360Z"
     }
   ]
 }
