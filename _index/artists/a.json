@@ -2,124 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-07T03:24:27.125Z",
+  "updated_at": "2026-08-11T12:27:04.645Z",
   "entries": [
     {
-      "hash": "13ec5d3da1ece61b",
-      "track": "Bum Baa Diga Diga (From \"DC\")",
-      "artist": "Anirudh Ravichander, Vedan, Heisenberg",
-      "album": "Bum Baa Diga Diga (From \"DC\")",
+      "hash": "f6107f0e575badf6",
+      "track": "Kaafi Hai Na",
+      "artist": "Garvit-Priyansh, Priyansh Srivastava, Jonita Gandhi, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
+      "album": "Musafir Cafe (Songs from the Netflix Series)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-29T15:32:52.724Z"
-    },
-    {
-      "hash": "49249f5cfd665b35",
-      "track": "Udi Udi",
-      "artist": "Sarkar, Hruday, Aneesh",
-      "album": "Udi Udi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:36:52.737Z"
-    },
-    {
-      "hash": "b53bef8357c70633",
-      "track": "Fairytale",
-      "artist": "Alexander Rybak",
-      "album": "Fairytales",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-30T03:53:22.536Z"
-    },
-    {
-      "hash": "ec5746bc63a5ae3d",
-      "track": "Ghana Kasoota",
-      "artist": "Raftaar, Avvy Sra, Rashmeet Kaur ft. Surbhi Jyoti - Ghana Kasoota",
-      "album": "Ghana Kasoota",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-01T09:31:09.948Z"
-    },
-    {
-      "hash": "15e56e53cc7b5d24",
-      "track": "Suit",
-      "artist": "Guru Randhawa, Arjun",
-      "album": "Hindi Medium",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:40:19.753Z"
-    },
-    {
-      "hash": "e445a070e8234653",
-      "track": "Qismat",
-      "artist": "Ammy Virk",
-      "album": "Jul 17, 2017",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:44:53.190Z"
-    },
-    {
-      "hash": "d04b783be1907abb",
-      "track": "Yeh Dharti Chand Sitare",
-      "artist": "Anuradha Paudwal, Udit Narayan",
-      "album": "Kurbaan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-04T12:47:04.737Z"
-    },
-    {
-      "hash": "5c7ec7c4408cb218",
-      "track": "Dhak Dhak Karne Laga",
-      "artist": "Anuradha Paudwal, Udit Narayan",
-      "album": "Beta",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-04T12:47:12.057Z"
-    },
-    {
-      "hash": "c12f5fe63ae2d89f",
-      "track": "Mere Khuda",
-      "artist": "Arnab Datta",
-      "album": "Maaya (Original Motion Picture Soundtrack)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-06T09:54:11.428Z"
-    },
-    {
-      "hash": "e01cc8d2b3802ba2",
-      "track": "Chale Chalo",
-      "artist": "A.R. Rahman, Srinivas",
-      "album": "Lagaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:12:14.791Z"
-    },
-    {
-      "hash": "661b49d11ba05ebd",
-      "track": "Radha Kaise Na Jale",
-      "artist": "Asha Bhosle, Udit Narayan, Vaishali Samant",
-      "album": "Lagaan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-07T03:18:12.680Z"
-    },
-    {
-      "hash": "f387f4c5bb2fcc7a",
-      "track": "Tu Bin Bataye",
-      "artist": "A.R. Rahman, Madhushree, Naresh Iyer",
-      "album": "Perfect 10: AR Rahman - The Spirit of Music",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:21.624Z"
-    },
-    {
-      "hash": "91e8bbdcb7eddadc",
-      "track": "Dil Se Re",
-      "artist": "A.R. Rahman, Anuradha, Anupama",
-      "album": "Dil Se",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:25.494Z"
+      "cached_at": "2026-08-11T12:26:52.965Z"
     }
   ]
 }
