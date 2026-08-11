@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-08-10T10:37:33.625Z",
+  "updated_at": "2026-08-11T14:34:15.352Z",
   "entries": [
     {
       "hash": "9cbad71a9cfe77ab",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-10T10:37:32.513Z"
+    },
+    {
+      "hash": "72472a6c3f1da5f7",
+      "track": "Tera Mera Rishta Continues (Film Ballad)",
+      "artist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma - Awarapan 2",
+      "album": "Awarapan 2",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-11T14:34:13.236Z"
     }
   ]
 }
