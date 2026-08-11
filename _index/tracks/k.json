@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-08-09T16:07:51.792Z",
+  "updated_at": "2026-08-11T12:27:04.634Z",
   "entries": [
     {
-      "hash": "9b36aea114b8b406",
-      "track": "Kali Denali",
-      "artist": "Bohemia",
-      "album": "Pesa Nasha Pyar",
+      "hash": "f6107f0e575badf6",
+      "track": "Kaafi Hai Na",
+      "artist": "Garvit-Priyansh, Priyansh Srivastava, Jonita Gandhi, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
+      "album": "Musafir Cafe (Songs from the Netflix Series)",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:40:39.473Z"
-    },
-    {
-      "hash": "44978264c750d5ba",
-      "track": "Khuda Jaane",
-      "artist": "Vishal & Shekhar, KK, Shilpa Rao, Anvita Dutt Guptan",
-      "album": "Bachna Ae Haseeno",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-09T16:07:50.649Z"
+      "has_plain": false,
+      "cached_at": "2026-08-11T12:26:52.965Z"
     }
   ]
 }
