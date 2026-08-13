@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-08-07T09:26:28.323Z",
+  "updated_at": "2026-08-13T10:16:16.716Z",
   "entries": [
     {
       "hash": "9b36aea114b8b406",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-07T09:26:27.166Z"
+    },
+    {
+      "hash": "56220867831b8177",
+      "track": "Batore Hekhote",
+      "artist": "Zubeen Garg, Jayanta Kakati, Bijit",
+      "album": "Zubeen Garg, Jayanta Kakati, Bijit",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-13T10:16:13.572Z"
     }
   ]
 }
