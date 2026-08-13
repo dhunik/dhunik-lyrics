@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-06T13:50:12.064Z",
+  "updated_at": "2026-08-13T19:21:35.898Z",
   "entries": [
     {
       "hash": "259e4aa76616057b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-06T13:47:11.166Z"
+    },
+    {
+      "hash": "a37903d9462946ae",
+      "track": "Say It Right",
+      "artist": "Elise Lieberth, Le Bober, Deep Mage",
+      "album": "Say It Right",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-13T19:21:34.583Z"
     }
   ]
 }
