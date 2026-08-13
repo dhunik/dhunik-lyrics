@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-07-23T17:25:11.992Z",
+  "updated_at": "2026-08-13T13:44:09.194Z",
   "entries": [
     {
       "hash": "824e84c742806c69",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-07-23T17:25:08.066Z"
+    },
+    {
+      "hash": "965570a1d2d22e43",
+      "track": "Miss You",
+      "artist": "Westlife - Westlife",
+      "album": "Westlife",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-13T13:44:07.902Z"
     }
   ]
 }
