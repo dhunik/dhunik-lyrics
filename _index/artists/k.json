@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-14T06:13:22.562Z",
+  "updated_at": "2026-08-14T19:15:11.110Z",
   "entries": [
     {
       "hash": "ca5ebca24eb48b20",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-14T06:10:08.241Z"
+    },
+    {
+      "hash": "3f653db82bdc1752",
+      "track": "Behka",
+      "artist": "Karthik",
+      "album": "Ghajini",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-14T19:15:09.717Z"
     }
   ]
 }
