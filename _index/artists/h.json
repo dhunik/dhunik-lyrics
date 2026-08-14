@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-07T03:24:43.773Z",
+  "updated_at": "2026-08-14T06:38:21.570Z",
   "entries": [
     {
-      "hash": "13ec5d3da1ece61b",
-      "track": "Bum Baa Diga Diga (From \"DC\")",
-      "artist": "Anirudh Ravichander, Vedan, Heisenberg",
-      "album": "Bum Baa Diga Diga (From \"DC\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:32:52.724Z"
-    },
-    {
-      "hash": "49249f5cfd665b35",
-      "track": "Udi Udi",
-      "artist": "Sarkar, Hruday, Aneesh",
-      "album": "Udi Udi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:36:52.737Z"
-    },
-    {
-      "hash": "8367326a473bc396",
-      "track": "Kya Baat Ay",
-      "artist": "Harrdy Sandhu, Jaani",
-      "album": "Jaani X Harrdy Sandhu - Mega Hits",
+      "hash": "347bd692625f6584",
+      "track": "Rayini Maatram",
+      "artist": "Himesh Reshammiya, Hariharan - Dhasavathaaram (Telugu)",
+      "album": "Dhasavathaaram (Telugu)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-01T18:40:32.144Z"
-    },
-    {
-      "hash": "7bc3316814c4a95c",
-      "track": "Bijlee Bijlee",
-      "artist": "Harrdy Sandhu",
-      "album": "Bijlee Bijlee - Single",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:40:56.525Z"
-    },
-    {
-      "hash": "dea59d1282dc7cce",
-      "track": "Titliaan Warga",
-      "artist": "Harrdy Sandhu",
-      "album": "Titliaan Warga",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:41:09.355Z"
-    },
-    {
-      "hash": "86d2c1c36b271d40",
-      "track": "Kyaa Baat Haii 2.0",
-      "artist": "Harrdy Sandhu, Tanishk Bagchi, Nikhita Gandhi, Jaani",
-      "album": "Tanishk Bagchi (All Time Hits)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:48:02.490Z"
-    },
-    {
-      "hash": "458530e2db2dc7ce",
-      "track": "Dance Like",
-      "artist": "Harrdy Sandhu, Jaani",
-      "album": "Dance Like",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:48:26.660Z"
-    },
-    {
-      "hash": "1d6740a77bac8749",
-      "track": "Tu Hi Re (From \"Bombay\")",
-      "artist": "Hariharan, Kavita Krishnamurthy",
-      "album": "Bombay (Original Motion Picture Soundtrack / Remastered)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:42.433Z"
+      "cached_at": "2026-08-14T06:37:00.144Z"
     }
   ]
 }
