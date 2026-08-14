@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-08-14T06:58:01.876Z",
+  "updated_at": "2026-08-14T14:10:20.302Z",
   "entries": [
     {
-      "hash": "670f78640bec5f79",
-      "track": "Merre Liye",
-      "artist": "Mohammad Faiz, Himesh Reshammiya - Merre Liye",
-      "album": "Merre Liye",
+      "hash": "64b2ad4f818a4ba0",
+      "track": "Ve Junoon",
+      "artist": "Mithoon, Sayeed Quadri, Subodhh Sharma - Awarapan 2",
+      "album": "Ve Junoon (From \"Awarapan 2\")",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-14T06:57:32.168Z"
+      "has_plain": false,
+      "cached_at": "2026-08-14T14:09:51.411Z"
     }
   ]
 }
