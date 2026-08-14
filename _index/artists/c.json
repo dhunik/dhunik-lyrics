@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-07-29T15:37:13.439Z",
+  "updated_at": "2026-08-14T08:43:09.411Z",
   "entries": [
     {
       "hash": "97b782cf237f8dda",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-07-29T15:37:11.592Z"
+    },
+    {
+      "hash": "ec379799e70028a3",
+      "track": "love nwantiti (feat. ElGrande Toto) [North African Remix] (North African Remix)",
+      "artist": "Ckay",
+      "album": "love nwantiti (feat. ElGrande Toto) (North African Remix)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-14T08:43:08.409Z"
     }
   ]
 }
