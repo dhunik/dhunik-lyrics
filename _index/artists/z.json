@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "z",
   "type": "artist",
-  "updated_at": "2026-08-14T05:57:33.903Z",
+  "updated_at": "2026-08-14T06:06:17.074Z",
   "entries": [
     {
       "hash": "318e98aed8070995",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-14T05:56:47.481Z"
+    },
+    {
+      "hash": "dae4e0eda8af151b",
+      "track": "Piya Rey Piya Rey",
+      "artist": "Zubeen Garg",
+      "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-14T06:06:16.007Z"
     }
   ]
 }
