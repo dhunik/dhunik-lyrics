@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-08-14T08:43:09.411Z",
+  "updated_at": "2026-08-14T08:47:10.577Z",
   "entries": [
     {
       "hash": "97b782cf237f8dda",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-14T08:43:08.409Z"
+    },
+    {
+      "hash": "5cc65bc8d8169af1",
+      "track": "Papaoutai (Afro Soul)",
+      "artist": "Unjaps, Mikeeysmind, Chill77",
+      "album": "Sommer Party 2026",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-14T08:47:09.585Z"
     }
   ]
 }
