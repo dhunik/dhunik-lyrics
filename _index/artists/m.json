@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-08-11T14:34:15.352Z",
+  "updated_at": "2026-08-14T06:58:01.876Z",
   "entries": [
     {
-      "hash": "9cbad71a9cfe77ab",
-      "track": "Sawan Mein Lag Gayi Aag",
-      "artist": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
-      "album": "Ginny Weds Sunny",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T06:22:19.339Z"
-    },
-    {
-      "hash": "d325e3d59ace9936",
-      "track": "Move",
-      "artist": "Raftaar ft. Maninder Buttar - Mr. Nair",
-      "album": "Mr. Nair",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:25:59.533Z"
-    },
-    {
-      "hash": "bd8536c3a7870eb2",
-      "track": "New Rules",
-      "artist": "MARSTEREON, Sup I'm Bianca, Afro Queen",
-      "album": "New Rules",
+      "hash": "670f78640bec5f79",
+      "track": "Merre Liye",
+      "artist": "Mohammad Faiz, Himesh Reshammiya - Merre Liye",
+      "album": "Merre Liye",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-28T14:36:31.276Z"
-    },
-    {
-      "hash": "0f85d0427cdebacf",
-      "track": "Say You Won't Let Go",
-      "artist": "Mari, KRIK.",
-      "album": "Mashups (Remixes of Hits)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-29T12:08:08.266Z"
-    },
-    {
-      "hash": "e5921c624ab48d85",
-      "track": "LAAVAN",
-      "artist": "Jasmine Sandlas, Mofusion",
-      "album": "LAAVAN",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:21.760Z"
-    },
-    {
-      "hash": "62a10c3ffa029f46",
-      "track": "Sher Khul Gaye",
-      "artist": "Benny Dayal, Shilpa Rao, Vishal & Shekhar, Mellow D, Kumaar",
-      "album": "Benny Dayal, Shilpa Rao, Vishal & Shekhar, Mellow D, Kumaar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-07T09:26:27.166Z"
-    },
-    {
-      "hash": "81a2267c37e46ac8",
-      "track": "Tera Mera Rishta Continues (Film Ballad) [From \"Awarapan 2\"]",
-      "artist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma - Tera Mera Rishta Continues (Film Ballad) (From \"Awarapan 2\")",
-      "album": "Tera Mera Rishta Continues (Film Ballad) (From \"Awarapan 2\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-10T10:37:32.513Z"
-    },
-    {
-      "hash": "72472a6c3f1da5f7",
-      "track": "Tera Mera Rishta Continues (Film Ballad)",
-      "artist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma - Awarapan 2",
-      "album": "Awarapan 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-11T14:34:13.236Z"
+      "cached_at": "2026-08-14T06:57:32.168Z"
     }
   ]
 }
