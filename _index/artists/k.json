@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-10T05:45:41.027Z",
+  "updated_at": "2026-08-14T06:13:22.562Z",
   "entries": [
     {
-      "hash": "c3690bfca69fdc00",
-      "track": "Google Pay",
-      "artist": "Karma, Deep Kalsi",
-      "album": "Google Pay",
+      "hash": "ca5ebca24eb48b20",
+      "track": "Tomake Chai",
+      "artist": "Kabir Suman",
+      "album": "Kabir Suman-Er Obhibadon",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-10T05:41:51.748Z"
+      "cached_at": "2026-08-14T06:10:08.241Z"
     }
   ]
 }
