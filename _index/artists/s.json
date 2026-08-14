@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-13T19:25:29.632Z",
+  "updated_at": "2026-08-14T06:06:52.193Z",
   "entries": [
     {
       "hash": "e8b20c55cd8048ce",
@@ -57,6 +57,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-13T19:25:27.154Z"
+    },
+    {
+      "hash": "cf1c7ca6f68b7b77",
+      "track": "Pyar Dilon Ka Mela Hai",
+      "artist": "Alka Yagnik, Sonu Nigam - Dulhan Hum Le Jayenge",
+      "album": "Dulhan Hum Le Jayenge",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-14T06:06:51.079Z"
     }
   ]
 }
