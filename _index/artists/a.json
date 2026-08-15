@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-11T12:27:04.645Z",
+  "updated_at": "2026-08-15T08:26:48.257Z",
   "entries": [
     {
       "hash": "f6107f0e575badf6",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-11T12:26:52.965Z"
+    },
+    {
+      "hash": "ed8d6ce4604f3d31",
+      "track": "Tainu Khabar Nahi",
+      "artist": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya - Munjya (Original Motion Picture Soundtrack)",
+      "album": "Munjya (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-15T08:26:47.327Z"
     }
   ]
 }
