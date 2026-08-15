@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-15T17:01:54.282Z",
+  "updated_at": "2026-08-15T17:02:28.244Z",
   "entries": [
     {
       "hash": "ee07e6e0592880d8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-15T17:01:19.485Z"
+    },
+    {
+      "hash": "f632e29296e1b087",
+      "track": "Shree Krishna Govind Hare Murari",
+      "artist": "Anup Jalota",
+      "album": "Top 10 Krishna Bhajans of 2018",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-15T17:02:16.908Z"
     }
   ]
 }
