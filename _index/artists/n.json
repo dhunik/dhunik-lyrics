@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-15T07:10:03.212Z",
+  "updated_at": "2026-08-15T07:10:20.770Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-15T07:09:35.320Z"
+    },
+    {
+      "hash": "368f93a3f3e68b87",
+      "track": "Oh Kyu Ni Jaan Ske",
+      "artist": "Ninja",
+      "album": "Oh Kyu Ni Jaan Ske",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-15T07:10:13.503Z"
     }
   ]
 }
