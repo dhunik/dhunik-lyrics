@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-08-15T08:43:01.284Z",
+  "updated_at": "2026-08-15T08:59:37.488Z",
   "entries": [
     {
-      "hash": "12914848ec3bb40b",
-      "track": "Waqt",
-      "artist": "Vishal Mishra, Kaushal Kishore",
-      "album": "Toxic (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T08:38:08.470Z"
+      "hash": "e44a702f83d32007",
+      "track": "Hungama",
+      "artist": "Danny Pandit, Varma Malik, Year Down, Laxmikant - Pyarelal, Asha Bhosle",
+      "album": "Hungama",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-15T08:56:19.950Z"
     }
   ]
 }
