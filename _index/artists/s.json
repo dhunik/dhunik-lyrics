@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-15T17:01:54.285Z",
+  "updated_at": "2026-08-15T17:03:45.702Z",
   "entries": [
     {
       "hash": "ee07e6e0592880d8",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-15T17:01:19.485Z"
+    },
+    {
+      "hash": "8406c57ca1e7bf3a",
+      "track": "Mera Joota Hai Japani",
+      "artist": "Shankar-Jaikishan, Mukesh",
+      "album": "Shree 420",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-15T17:03:44.407Z"
     }
   ]
 }
