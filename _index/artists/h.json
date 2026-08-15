@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-14T06:38:21.570Z",
+  "updated_at": "2026-08-15T09:00:54.356Z",
   "entries": [
     {
-      "hash": "347bd692625f6584",
-      "track": "Rayini Maatram",
-      "artist": "Himesh Reshammiya, Hariharan - Dhasavathaaram (Telugu)",
-      "album": "Dhasavathaaram (Telugu)",
+      "hash": "184baea6bd3fbd40",
+      "track": "Morni",
+      "artist": "Badshah, Sharvi Yadav, Hiten",
+      "album": "Morni",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-14T06:37:00.144Z"
+      "has_plain": false,
+      "cached_at": "2026-08-15T08:59:59.542Z"
     }
   ]
 }
