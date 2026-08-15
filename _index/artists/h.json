@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-15T16:56:30.204Z",
+  "updated_at": "2026-08-15T16:59:46.924Z",
   "entries": [
     {
       "hash": "184baea6bd3fbd40",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-15T16:56:28.877Z"
+    },
+    {
+      "hash": "8c7a4cf8b8e70d50",
+      "track": "Shree Hanuman Stavan",
+      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
+      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-15T16:59:38.291Z"
     }
   ]
 }
