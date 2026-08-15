@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-08-13T10:16:16.716Z",
+  "updated_at": "2026-08-15T09:00:54.353Z",
   "entries": [
     {
-      "hash": "9b36aea114b8b406",
-      "track": "Kali Denali",
-      "artist": "Bohemia",
-      "album": "Pesa Nasha Pyar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:40:39.473Z"
-    },
-    {
-      "hash": "aad25bc801ad64fd",
-      "track": "Filhall Ft. Akshay Kumar & Nupur Sanon",
-      "artist": "B Praak",
-      "album": "Filhall",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:44:44.128Z"
-    },
-    {
-      "hash": "3d25e96ae3f0cda7",
-      "track": "Mera Yaar",
-      "artist": "B Praak, Jaani",
-      "album": "Lekh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:44:48.471Z"
-    },
-    {
-      "hash": "b3e2f35b09b6d533",
-      "track": "Arjan Vailly",
-      "artist": "Bhupinder Babbal, Manan Bhardwaj - ANIMAL",
-      "album": "ANIMAL",
+      "hash": "184baea6bd3fbd40",
+      "track": "Morni",
+      "artist": "Badshah, Sharvi Yadav, Hiten",
+      "album": "Morni",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-04T09:24:33.150Z"
-    },
-    {
-      "hash": "62a10c3ffa029f46",
-      "track": "Sher Khul Gaye",
-      "artist": "Benny Dayal, Shilpa Rao, Vishal & Shekhar, Mellow D, Kumaar",
-      "album": "Benny Dayal, Shilpa Rao, Vishal & Shekhar, Mellow D, Kumaar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-07T09:26:27.166Z"
-    },
-    {
-      "hash": "56220867831b8177",
-      "track": "Batore Hekhote",
-      "artist": "Zubeen Garg, Jayanta Kakati, Bijit",
-      "album": "Zubeen Garg, Jayanta Kakati, Bijit",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-13T10:16:13.572Z"
+      "cached_at": "2026-08-15T08:59:59.542Z"
     }
   ]
 }
