@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-08-14T19:15:11.108Z",
+  "updated_at": "2026-08-15T17:00:17.741Z",
   "entries": [
     {
-      "hash": "e8a6c72977ef6f58",
-      "track": "Bansi",
-      "artist": "MC Altaf, Lambo Drive",
-      "album": "Bansi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-10T05:45:42.360Z"
-    },
-    {
-      "hash": "8b577900b8057cef",
-      "track": "Black Sheep",
-      "artist": "Raftaar - Black Sheep",
-      "album": "Black Sheep",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-10T06:30:07.284Z"
-    },
-    {
-      "hash": "56220867831b8177",
-      "track": "Batore Hekhote",
-      "artist": "Zubeen Garg, Jayanta Kakati, Bijit",
-      "album": "Zubeen Garg, Jayanta Kakati, Bijit",
+      "hash": "d1c24307b6344ba9",
+      "track": "Bajrang Baan",
+      "artist": "Lata Mangeshkar",
+      "album": "Morning Hanuman Bhajans",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-13T10:16:13.572Z"
-    },
-    {
-      "hash": "3f653db82bdc1752",
-      "track": "Behka",
-      "artist": "Karthik",
-      "album": "Ghajini",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-14T19:15:09.717Z"
+      "cached_at": "2026-08-15T17:00:05.330Z"
     }
   ]
 }
