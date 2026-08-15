@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-13T19:21:35.898Z",
+  "updated_at": "2026-08-15T16:56:30.200Z",
   "entries": [
     {
       "hash": "259e4aa76616057b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-13T19:21:34.583Z"
+    },
+    {
+      "hash": "237d0db21d7b154b",
+      "track": "Midnight Desires",
+      "artist": "Diljit Dosanjh, Thiarajxtt, Hrmnn",
+      "album": "Ghost",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-15T16:56:28.877Z"
     }
   ]
 }
