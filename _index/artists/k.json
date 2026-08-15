@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-14T19:15:11.110Z",
+  "updated_at": "2026-08-15T08:43:01.291Z",
   "entries": [
     {
-      "hash": "ca5ebca24eb48b20",
-      "track": "Tomake Chai",
-      "artist": "Kabir Suman",
-      "album": "Kabir Suman-Er Obhibadon",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-14T06:10:08.241Z"
-    },
-    {
-      "hash": "3f653db82bdc1752",
-      "track": "Behka",
-      "artist": "Karthik",
-      "album": "Ghajini",
+      "hash": "12914848ec3bb40b",
+      "track": "Waqt",
+      "artist": "Vishal Mishra, Kaushal Kishore",
+      "album": "Toxic (Original Motion Picture Soundtrack)",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-14T19:15:09.717Z"
+      "has_plain": false,
+      "cached_at": "2026-08-15T08:38:08.470Z"
     }
   ]
 }
