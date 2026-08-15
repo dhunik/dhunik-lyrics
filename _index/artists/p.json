@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-08-15T08:56:17.743Z",
+  "updated_at": "2026-08-15T09:04:22.278Z",
   "entries": [
     {
-      "hash": "a446c468627edc0c",
-      "track": "Bade Dino Baad",
-      "artist": "Paradox, Ishh",
-      "album": "Bade Dino Baad",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T08:53:29.659Z"
+      "hash": "bd111a3a95d893e9",
+      "track": "Mashooqa",
+      "artist": "Pho, Leo Grewal, Yo Yo Honey Singh",
+      "album": "Mashooqa",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-15T09:00:55.958Z"
     }
   ]
 }
