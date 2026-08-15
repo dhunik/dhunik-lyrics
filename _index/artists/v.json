@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-08-15T08:29:28.311Z",
+  "updated_at": "2026-08-15T08:43:01.284Z",
   "entries": [
     {
-      "hash": "d9cbfadbdcc825fa",
-      "track": "Dard Karaara",
-      "artist": "Anu Malik, Kumar Sanu, Sadhana Sargam, Ayushmann Khurrana, Varun Grover",
-      "album": "Dum Laga Ke Haisha",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-30T13:01:00.714Z"
-    },
-    {
-      "hash": "ac76cb5ae6e795dd",
-      "track": "Jee Le Zaraa",
-      "artist": "Vishal Dadlani - Talaash",
-      "album": "Talaash",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-04T04:13:32.120Z"
-    },
-    {
-      "hash": "c7f824f59d9948ed",
-      "track": "Tabaahi",
-      "artist": "Vishal Mishra, Raj Shekhar - Toxic (Original Motion Picture Soundtrack)",
+      "hash": "12914848ec3bb40b",
+      "track": "Waqt",
+      "artist": "Vishal Mishra, Kaushal Kishore",
       "album": "Toxic (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-15T08:29:27.481Z"
+      "cached_at": "2026-08-15T08:38:08.470Z"
     }
   ]
 }
