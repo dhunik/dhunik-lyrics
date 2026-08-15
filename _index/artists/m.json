@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-08-14T14:10:20.302Z",
+  "updated_at": "2026-08-15T08:53:10.150Z",
   "entries": [
     {
-      "hash": "64b2ad4f818a4ba0",
-      "track": "Ve Junoon",
-      "artist": "Mithoon, Sayeed Quadri, Subodhh Sharma - Awarapan 2",
-      "album": "Ve Junoon (From \"Awarapan 2\")",
+      "hash": "406db0c787cfb1e5",
+      "track": "Run Down The City - Monica",
+      "artist": "Reble, Majrooh Sultanpuri, Shashwat Sachdev, Asha Bhosle, R.D. Burman",
+      "album": "Dhurandhar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-14T14:09:51.411Z"
+      "cached_at": "2026-08-15T08:50:47.340Z"
     }
   ]
 }
