@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-15T08:26:48.249Z",
+  "updated_at": "2026-08-15T09:00:54.354Z",
   "entries": [
     {
-      "hash": "e8b20c55cd8048ce",
-      "track": "Gayatri Mantra (Lounge Mix)",
-      "artist": "Shankar Mahadevan",
-      "album": "Shankar Mahadevan Devotional Songs",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-05T11:23:31.056Z"
-    },
-    {
-      "hash": "1a4bfe329be578aa",
-      "track": "Ghanan Ghanan",
-      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Shankar Mahadevan, Shaan, Sehar",
-      "album": "Lagaan",
+      "hash": "184baea6bd3fbd40",
+      "track": "Morni",
+      "artist": "Badshah, Sharvi Yadav, Hiten",
+      "album": "Morni",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-07T03:12:04.217Z"
-    },
-    {
-      "hash": "e01cc8d2b3802ba2",
-      "track": "Chale Chalo",
-      "artist": "A.R. Rahman, Srinivas",
-      "album": "Lagaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:12:14.791Z"
-    },
-    {
-      "hash": "7826740fce4e76e7",
-      "track": "Tere Naina",
-      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Shreya Ghoshal",
-      "album": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Shreya Ghoshal",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-10T03:01:31.181Z"
-    },
-    {
-      "hash": "47d69275a3ed6ad0",
-      "track": "Tera Mera Rishta Continues",
-      "artist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma - Awarapan 2",
-      "album": "Awarapan 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-11T14:45:10.895Z"
-    },
-    {
-      "hash": "cb3bbca7d9cb61e5",
-      "track": "Tomake Chai",
-      "artist": "Suman Chattopadhyay",
-      "album": "Sumaner Gaan Tomake Chai",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-13T19:25:27.154Z"
-    },
-    {
-      "hash": "cf1c7ca6f68b7b77",
-      "track": "Pyar Dilon Ka Mela Hai",
-      "artist": "Alka Yagnik, Sonu Nigam - Dulhan Hum Le Jayenge",
-      "album": "Dulhan Hum Le Jayenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-14T06:06:51.079Z"
-    },
-    {
-      "hash": "ed8d6ce4604f3d31",
-      "track": "Tainu Khabar Nahi",
-      "artist": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya - Munjya (Original Motion Picture Soundtrack)",
-      "album": "Munjya (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T08:26:47.327Z"
+      "cached_at": "2026-08-15T08:59:59.542Z"
     }
   ]
 }
