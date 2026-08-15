@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-15T07:08:38.375Z",
+  "updated_at": "2026-08-15T07:10:03.212Z",
   "entries": [
     {
-      "hash": "f92cdc1277211cf9",
-      "track": "Jee Le",
-      "artist": "Shruti Pathak, Naresh Kamath",
-      "album": "Luck",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-02T19:38:44.547Z"
-    },
-    {
-      "hash": "f387f4c5bb2fcc7a",
-      "track": "Tu Bin Bataye",
-      "artist": "A.R. Rahman, Madhushree, Naresh Iyer",
-      "album": "Perfect 10: AR Rahman - The Spirit of Music",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:21.624Z"
-    },
-    {
-      "hash": "e883826f9dbaca7e",
-      "track": "Roi Na",
+      "hash": "d88e465983b46a13",
+      "track": "Ajj Vi Chaunni Aah",
       "artist": "Ninja",
-      "album": "Shiddat",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T07:08:37.285Z"
+      "album": "Ajj Vi Chaunni Aah",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-15T07:09:35.320Z"
     }
   ]
 }
