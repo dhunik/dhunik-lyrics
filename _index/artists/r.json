@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-08-15T08:29:28.303Z",
+  "updated_at": "2026-08-15T08:53:10.148Z",
   "entries": [
     {
-      "hash": "9313865a957be6a2",
-      "track": "Yeh Awarapan",
-      "artist": "Amaal Mallik, Arijit Singh, Rashmi-Virag - Awarapan 2",
-      "album": "Yeh Awarapan (From \"Awarapan 2\")",
+      "hash": "406db0c787cfb1e5",
+      "track": "Run Down The City - Monica",
+      "artist": "Reble, Majrooh Sultanpuri, Shashwat Sachdev, Asha Bhosle, R.D. Burman",
+      "album": "Dhurandhar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-14T14:16:14.153Z"
-    },
-    {
-      "hash": "c7f824f59d9948ed",
-      "track": "Tabaahi",
-      "artist": "Vishal Mishra, Raj Shekhar - Toxic (Original Motion Picture Soundtrack)",
-      "album": "Toxic (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T08:29:27.481Z"
+      "cached_at": "2026-08-15T08:50:47.340Z"
     }
   ]
 }
