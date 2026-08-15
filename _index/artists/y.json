@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-07-29T14:58:03.691Z",
+  "updated_at": "2026-08-15T08:59:37.490Z",
   "entries": [
     {
-      "hash": "f15b5ba5007fb923",
-      "track": "Hitman",
-      "artist": "Leo Grewal, Paradox, Yo Yo Honey Singh",
-      "album": "Rap Mixtape",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T14:55:20.816Z"
+      "hash": "e44a702f83d32007",
+      "track": "Hungama",
+      "artist": "Danny Pandit, Varma Malik, Year Down, Laxmikant - Pyarelal, Asha Bhosle",
+      "album": "Hungama",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-15T08:56:19.950Z"
     }
   ]
 }
