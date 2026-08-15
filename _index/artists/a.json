@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-15T17:02:28.244Z",
+  "updated_at": "2026-08-15T17:02:43.277Z",
   "entries": [
     {
       "hash": "ee07e6e0592880d8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-15T17:02:16.908Z"
+    },
+    {
+      "hash": "f990460d4d40e3c5",
+      "track": "Aarti Kunj Bihari Ki",
+      "artist": "Anuradha Paudwal",
+      "album": "Aarti-Om Jai Jagdish Hare",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-15T17:02:33.612Z"
     }
   ]
 }
