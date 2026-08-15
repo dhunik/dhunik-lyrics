@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-08-10T06:24:09.072Z",
+  "updated_at": "2026-08-15T08:56:17.744Z",
   "entries": [
     {
-      "hash": "36f4373028d4b519",
-      "track": "Villain",
-      "artist": "KR$NA ft. Karma, Ikka - Villain",
-      "album": "Villain",
+      "hash": "a446c468627edc0c",
+      "track": "Bade Dino Baad",
+      "artist": "Paradox, Ishh",
+      "album": "Bade Dino Baad",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-10T06:20:33.147Z"
+      "cached_at": "2026-08-15T08:53:29.659Z"
     }
   ]
 }
