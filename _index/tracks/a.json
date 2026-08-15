@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-08-07T03:24:19.802Z",
+  "updated_at": "2026-08-15T07:10:03.210Z",
   "entries": [
     {
-      "hash": "4ca4e9c40c502056",
-      "track": "Arziyan",
-      "artist": "Javed Ali, Kailash Kher",
-      "album": "Delhi 6",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:08.270Z"
+      "hash": "d88e465983b46a13",
+      "track": "Ajj Vi Chaunni Aah",
+      "artist": "Ninja",
+      "album": "Ajj Vi Chaunni Aah",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-15T07:09:35.320Z"
     }
   ]
 }
