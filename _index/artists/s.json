@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-15T09:00:54.354Z",
+  "updated_at": "2026-08-15T17:01:54.285Z",
   "entries": [
     {
-      "hash": "184baea6bd3fbd40",
-      "track": "Morni",
-      "artist": "Badshah, Sharvi Yadav, Hiten",
-      "album": "Morni",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T08:59:59.542Z"
+      "hash": "ee07e6e0592880d8",
+      "track": "Om Jai Jagdish Hare",
+      "artist": "Anup Jalota, Sadhana Sargam",
+      "album": "Aartiya",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-15T17:01:19.485Z"
     }
   ]
 }
