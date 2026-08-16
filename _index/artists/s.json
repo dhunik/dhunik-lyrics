@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-15T17:03:45.702Z",
+  "updated_at": "2026-08-16T14:27:16.497Z",
   "entries": [
     {
       "hash": "ee07e6e0592880d8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-15T17:03:44.407Z"
+    },
+    {
+      "hash": "8bc2e10525e4e807",
+      "track": "Kya Karoon",
+      "artist": "Sanam Puri, Jaani",
+      "album": "Kya Karoon",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-16T14:27:12.796Z"
     }
   ]
 }
