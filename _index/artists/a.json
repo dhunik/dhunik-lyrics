@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-17T19:11:03.057Z",
+  "updated_at": "2026-08-17T21:15:14.793Z",
   "entries": [
     {
-      "hash": "ee07e6e0592880d8",
-      "track": "Om Jai Jagdish Hare",
-      "artist": "Anup Jalota, Sadhana Sargam",
-      "album": "Aartiya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:01:19.485Z"
-    },
-    {
-      "hash": "f632e29296e1b087",
-      "track": "Shree Krishna Govind Hare Murari",
-      "artist": "Anup Jalota",
-      "album": "Top 10 Krishna Bhajans of 2018",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:02:16.908Z"
-    },
-    {
-      "hash": "f990460d4d40e3c5",
-      "track": "Aarti Kunj Bihari Ki",
-      "artist": "Anuradha Paudwal",
-      "album": "Aarti-Om Jai Jagdish Hare",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:02:33.612Z"
-    },
-    {
-      "hash": "280404473a024752",
-      "track": "Tu Dharti Pe Chaahe Jahan Bhi",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Jeet",
+      "hash": "db2f05d1425339f8",
+      "track": "Piya Ghar Aaya - Homecoming",
+      "artist": "Akhil Sachdeva, Abhishek Bhatia",
+      "album": "Awarapan 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-17T19:11:01.683Z"
+      "cached_at": "2026-08-17T21:12:05.302Z"
     }
   ]
 }
