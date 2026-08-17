@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-08-15T08:53:10.148Z",
+  "updated_at": "2026-08-17T21:17:53.427Z",
   "entries": [
     {
-      "hash": "406db0c787cfb1e5",
-      "track": "Run Down The City - Monica",
-      "artist": "Reble, Majrooh Sultanpuri, Shashwat Sachdev, Asha Bhosle, R.D. Burman",
-      "album": "Dhurandhar",
+      "hash": "a13513bf8473a816",
+      "track": "Laado",
+      "artist": "Jeet Gannguli, Jubin Nautiyal, Rashmi-Virag",
+      "album": "Awarapan 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-15T08:50:47.340Z"
+      "cached_at": "2026-08-17T21:15:15.741Z"
     }
   ]
 }
