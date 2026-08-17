@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "l",
   "type": "artist",
-  "updated_at": "2026-08-10T05:49:08.826Z",
+  "updated_at": "2026-08-17T03:52:37.726Z",
   "entries": [
     {
       "hash": "e8a6c72977ef6f58",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-10T05:45:42.360Z"
+    },
+    {
+      "hash": "5c77453369f58327",
+      "track": "Ayi Giri",
+      "artist": "Lilly Palmer, Armin Van Buuren",
+      "album": "A State Of Trance 1262 (2026-01-29) (Unfiltered) [IYPP] (SBD)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-17T03:52:36.421Z"
     }
   ]
 }
