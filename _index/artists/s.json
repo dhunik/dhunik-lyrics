@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-16T14:27:16.497Z",
+  "updated_at": "2026-08-17T21:07:12.921Z",
   "entries": [
     {
-      "hash": "ee07e6e0592880d8",
-      "track": "Om Jai Jagdish Hare",
-      "artist": "Anup Jalota, Sadhana Sargam",
-      "album": "Aartiya",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:01:19.485Z"
-    },
-    {
-      "hash": "8406c57ca1e7bf3a",
-      "track": "Mera Joota Hai Japani",
-      "artist": "Shankar-Jaikishan, Mukesh",
-      "album": "Shree 420",
+      "hash": "96325a1dde6005ad",
+      "track": "Tumhare Liye",
+      "artist": "Shreya Ghoshal, Wasif Ahmad, Sachin Urmtosh",
+      "album": "Awarapan 2",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:03:44.407Z"
-    },
-    {
-      "hash": "8bc2e10525e4e807",
-      "track": "Kya Karoon",
-      "artist": "Sanam Puri, Jaani",
-      "album": "Kya Karoon",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-16T14:27:12.796Z"
+      "has_plain": false,
+      "cached_at": "2026-08-17T21:03:24.101Z"
     }
   ]
 }
