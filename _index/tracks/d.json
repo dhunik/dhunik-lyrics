@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-08-07T03:24:27.114Z",
+  "updated_at": "2026-08-18T05:22:40.296Z",
   "entries": [
     {
-      "hash": "bc392268ac7025c3",
-      "track": "Dubai Company",
-      "artist": "Emiway Bantai",
-      "album": "Dubai Company",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-06T13:20:58.220Z"
-    },
-    {
-      "hash": "91e8bbdcb7eddadc",
-      "track": "Dil Se Re",
-      "artist": "A.R. Rahman, Anuradha, Anupama",
-      "album": "Dil Se",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:24:25.494Z"
+      "hash": "2d1f7c5a9ef23bd2",
+      "track": "Dil Dhadakne Do",
+      "artist": "Priyanka Chopra, Farhan Akhtar, Shankar-Ehsaan-Loy - Dil Dhadakne Do",
+      "album": "Dil Dhadakne Do",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-18T05:22:28.613Z"
     }
   ]
 }
