@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-16T14:27:16.507Z",
+  "updated_at": "2026-08-18T05:08:05.414Z",
   "entries": [
     {
       "hash": "d94864352c016956",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-16T14:27:12.796Z"
+    },
+    {
+      "hash": "59649eb413a1ceb6",
+      "track": "Batashey Gungun",
+      "artist": "June Banerjee",
+      "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-18T05:08:04.461Z"
     }
   ]
 }
