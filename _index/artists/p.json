@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-08-15T09:04:22.278Z",
+  "updated_at": "2026-08-18T05:22:40.298Z",
   "entries": [
     {
-      "hash": "bd111a3a95d893e9",
-      "track": "Mashooqa",
-      "artist": "Pho, Leo Grewal, Yo Yo Honey Singh",
-      "album": "Mashooqa",
+      "hash": "2d1f7c5a9ef23bd2",
+      "track": "Dil Dhadakne Do",
+      "artist": "Priyanka Chopra, Farhan Akhtar, Shankar-Ehsaan-Loy - Dil Dhadakne Do",
+      "album": "Dil Dhadakne Do",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-15T09:00:55.958Z"
+      "cached_at": "2026-08-18T05:22:28.613Z"
     }
   ]
 }
