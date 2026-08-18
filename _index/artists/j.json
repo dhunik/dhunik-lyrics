@@ -2,133 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-18T05:08:05.414Z",
+  "updated_at": "2026-08-18T05:50:13.453Z",
   "entries": [
     {
-      "hash": "d94864352c016956",
-      "track": "Vaari Jaavan",
-      "artist": "Jasmine Sandlas, Reble, Shashwat Sachdev, Jyoti Nooran",
-      "album": "Dhurandhar The Revenge",
+      "hash": "2301b092bef5a98c",
+      "track": "Barbaad",
+      "artist": "The Rish, Jubin Nautiyal",
+      "album": "Saiyaara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T09:02:51.895Z"
-    },
-    {
-      "hash": "23d025a110481532",
-      "track": "Kuch Kuch Hota Hai (Sad)",
-      "artist": "Jatin-Lalit, Alka Yagnik",
-      "album": "Kuch Kuch Hota Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:21:57.451Z"
-    },
-    {
-      "hash": "97570aceca9a7725",
-      "track": "Ek Ladki",
-      "artist": "Jeet-Pritam, Udit Narayan, Alka Yagnik, Javed Akhtar",
-      "album": "Mere Yaar Ki Shaadi Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-18T21:33:12.417Z"
-    },
-    {
-      "hash": "5671ea0e4ff0cdf6",
-      "track": "Zinda Hai",
-      "artist": "Vishal & Shekhar, Julius Packiam, Sukhwinder Singh, Raftaar, Irshad Kamil",
-      "album": "Tiger Zinda Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-23T17:24:31.683Z"
-    },
-    {
-      "hash": "dc72c84a3f6b1291",
-      "track": "Tum Hi Aana",
-      "artist": "Payal Dev, Jubin Nautiyal",
-      "album": null,
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T03:52:25.931Z"
-    },
-    {
-      "hash": "52f1fc5037638118",
-      "track": "Marji Cha Maalik",
-      "artist": "Shreyas, Jakes Bejoy",
-      "album": "Rap Mixtape",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T14:55:16.117Z"
-    },
-    {
-      "hash": "bf238c4771e29da3",
-      "track": "Dracula (JENNIE Remix)",
-      "artist": "Tame Impala, Jennie",
-      "album": "Dracula (Remix)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:37:23.719Z"
-    },
-    {
-      "hash": "9d68088923b125e9",
-      "track": "Naah (Lofi Flip)",
-      "artist": "KSW, Harrdy Sandhu, Jaani",
-      "album": "Naah (Lofi Flip)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:40:26.903Z"
-    },
-    {
-      "hash": "3d25e96ae3f0cda7",
-      "track": "Mera Yaar",
-      "artist": "B Praak, Jaani",
-      "album": "Lekh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:44:48.471Z"
-    },
-    {
-      "hash": "86d2c1c36b271d40",
-      "track": "Kyaa Baat Haii 2.0",
-      "artist": "Harrdy Sandhu, Tanishk Bagchi, Nikhita Gandhi, Jaani",
-      "album": "Tanishk Bagchi (All Time Hits)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:48:02.490Z"
-    },
-    {
-      "hash": "458530e2db2dc7ce",
-      "track": "Dance Like",
-      "artist": "Harrdy Sandhu, Jaani",
-      "album": "Dance Like",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:48:26.660Z"
-    },
-    {
-      "hash": "56220867831b8177",
-      "track": "Batore Hekhote",
-      "artist": "Zubeen Garg, Jayanta Kakati, Bijit",
-      "album": "Zubeen Garg, Jayanta Kakati, Bijit",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-13T10:16:13.572Z"
-    },
-    {
-      "hash": "8bc2e10525e4e807",
-      "track": "Kya Karoon",
-      "artist": "Sanam Puri, Jaani",
-      "album": "Kya Karoon",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-16T14:27:12.796Z"
-    },
-    {
-      "hash": "59649eb413a1ceb6",
-      "track": "Batashey Gungun",
-      "artist": "June Banerjee",
-      "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-18T05:08:04.461Z"
+      "cached_at": "2026-08-18T05:46:05.897Z"
     }
   ]
 }
