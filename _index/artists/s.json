@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-18T05:25:56.530Z",
+  "updated_at": "2026-08-18T07:05:38.964Z",
   "entries": [
     {
-      "hash": "c6f23da41e02239b",
-      "track": "Pehli Baar",
-      "artist": "Sukriti Kakkar, Siddharth Mahadevan, Shankar-Ehsaan-Loy",
-      "album": "Dil Dhadakne Do",
+      "hash": "83430c5cf4462d40",
+      "track": "Ishq De Fanniyar - Female",
+      "artist": "Jyotica Tangri, Shaarib Toshi, Kumaar",
+      "album": "Fukrey Returns",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-18T05:25:27.658Z"
+      "cached_at": "2026-08-18T07:04:46.884Z"
     }
   ]
 }
