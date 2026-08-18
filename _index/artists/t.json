@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-08-15T16:59:46.928Z",
+  "updated_at": "2026-08-18T05:02:10.898Z",
   "entries": [
     {
       "hash": "a28b292f3eda0614",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-15T16:59:38.291Z"
+    },
+    {
+      "hash": "147fb090239c0e7f",
+      "track": "Tu Hain Toh Main Hoon",
+      "artist": "Irshad Kamil, Tanishk Bagchi, Arijit Singh, Afsana Khan - Sky Force",
+      "album": "Sky Force",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-18T05:02:09.817Z"
     }
   ]
 }
