@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-08-18T05:08:05.409Z",
+  "updated_at": "2026-08-18T05:50:13.444Z",
   "entries": [
     {
-      "hash": "d1c24307b6344ba9",
-      "track": "Bajrang Baan",
-      "artist": "Lata Mangeshkar",
-      "album": "Morning Hanuman Bhajans",
+      "hash": "2301b092bef5a98c",
+      "track": "Barbaad",
+      "artist": "The Rish, Jubin Nautiyal",
+      "album": "Saiyaara",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:00:05.330Z"
-    },
-    {
-      "hash": "59649eb413a1ceb6",
-      "track": "Batashey Gungun",
-      "artist": "June Banerjee",
-      "album": "Chirodini Tumi Je Amar (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-18T05:08:04.461Z"
+      "has_plain": false,
+      "cached_at": "2026-08-18T05:46:05.897Z"
     }
   ]
 }
