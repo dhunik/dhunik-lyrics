@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-15T16:59:46.924Z",
+  "updated_at": "2026-08-18T06:49:08.940Z",
   "entries": [
     {
-      "hash": "184baea6bd3fbd40",
-      "track": "Morni",
-      "artist": "Badshah, Sharvi Yadav, Hiten",
-      "album": "Morni",
+      "hash": "93acde7fe7d56074",
+      "track": "Tum Ho Toh",
+      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar",
+      "album": "Saiyaara",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-15T08:59:59.542Z"
-    },
-    {
-      "hash": "237d0db21d7b154b",
-      "track": "Midnight Desires",
-      "artist": "Diljit Dosanjh, Thiarajxtt, Hrmnn",
-      "album": "Ghost",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T16:56:28.877Z"
-    },
-    {
-      "hash": "8c7a4cf8b8e70d50",
-      "track": "Shree Hanuman Stavan",
-      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
-      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T16:59:38.291Z"
+      "cached_at": "2026-08-18T06:46:06.100Z"
     }
   ]
 }
