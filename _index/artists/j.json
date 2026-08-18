@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-18T05:50:13.453Z",
+  "updated_at": "2026-08-18T07:05:38.961Z",
   "entries": [
     {
-      "hash": "2301b092bef5a98c",
-      "track": "Barbaad",
-      "artist": "The Rish, Jubin Nautiyal",
-      "album": "Saiyaara",
+      "hash": "83430c5cf4462d40",
+      "track": "Ishq De Fanniyar - Female",
+      "artist": "Jyotica Tangri, Shaarib Toshi, Kumaar",
+      "album": "Fukrey Returns",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-18T05:46:05.897Z"
+      "cached_at": "2026-08-18T07:04:46.884Z"
     }
   ]
 }
