@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-17T19:11:03.053Z",
+  "updated_at": "2026-08-19T14:02:51.193Z",
   "entries": [
     {
-      "hash": "12914848ec3bb40b",
-      "track": "Waqt",
-      "artist": "Vishal Mishra, Kaushal Kishore",
-      "album": "Toxic (Original Motion Picture Soundtrack)",
+      "hash": "bc43c968847a1d69",
+      "track": "NO CHINA",
+      "artist": "Raftaar, KR$NA - HARD DRIVE Vol. 1",
+      "album": "HARD DRIVE Vol. 1",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-15T08:38:08.470Z"
-    },
-    {
-      "hash": "7e065b82ad1c204e",
-      "track": "Shiv Shambho",
-      "artist": "Kailash Kher",
-      "album": "Shiv Shambho By Kailash Kher",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:01:11.589Z"
-    },
-    {
-      "hash": "280404473a024752",
-      "track": "Tu Dharti Pe Chaahe Jahan Bhi",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Jeet",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-17T19:11:01.683Z"
+      "cached_at": "2026-08-19T14:02:30.644Z"
     }
   ]
 }
