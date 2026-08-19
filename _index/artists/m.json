@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-08-15T08:53:10.150Z",
+  "updated_at": "2026-08-19T14:02:26.108Z",
   "entries": [
     {
       "hash": "406db0c787cfb1e5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-15T08:50:47.340Z"
+    },
+    {
+      "hash": "6d50c5fdc3a2ec92",
+      "track": "Sher Aaya Sher",
+      "artist": "DIVINE, Major C",
+      "album": "Desi Hip-Hop Vibes",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-19T14:02:21.421Z"
     }
   ]
 }
