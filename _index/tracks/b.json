@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-08-18T05:50:13.444Z",
+  "updated_at": "2026-08-19T17:30:46.636Z",
   "entries": [
     {
-      "hash": "2301b092bef5a98c",
-      "track": "Barbaad",
-      "artist": "The Rish, Jubin Nautiyal",
-      "album": "Saiyaara",
+      "hash": "50ac6c82d94d8ac0",
+      "track": "Baarish",
+      "artist": "Mohammed Irfan",
+      "album": "Bheege Bheege (Baarish Reprise)",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-18T05:46:05.897Z"
+      "has_plain": true,
+      "cached_at": "2026-08-19T17:24:21.674Z"
     }
   ]
 }
