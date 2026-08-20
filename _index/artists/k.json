@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-19T14:02:51.193Z",
+  "updated_at": "2026-08-20T09:40:25.750Z",
   "entries": [
     {
-      "hash": "bc43c968847a1d69",
-      "track": "NO CHINA",
-      "artist": "Raftaar, KR$NA - HARD DRIVE Vol. 1",
-      "album": "HARD DRIVE Vol. 1",
+      "hash": "e43c3d264adf7acb",
+      "track": "Apni To Jaise Taise",
+      "artist": "Khesari Lal Yadav, Shilpi Raj",
+      "album": "Bhojpuri Bahubali Khesari Lal Yadav",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-19T14:02:30.644Z"
+      "cached_at": "2026-08-20T09:36:14.731Z"
     }
   ]
 }
