@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-18T07:05:38.964Z",
+  "updated_at": "2026-08-20T06:16:29.221Z",
   "entries": [
     {
-      "hash": "83430c5cf4462d40",
-      "track": "Ishq De Fanniyar - Female",
-      "artist": "Jyotica Tangri, Shaarib Toshi, Kumaar",
-      "album": "Fukrey Returns",
+      "hash": "69151c3fefa608a0",
+      "track": "Mere Dholna",
+      "artist": "Pritam, Shreya Ghoshal, M. G.Shreekumar",
+      "album": "Bhool Bhulaiyaa",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-18T07:04:46.884Z"
+      "cached_at": "2026-08-20T06:15:44.077Z"
     }
   ]
 }
