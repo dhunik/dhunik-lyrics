@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-18T22:04:34.118Z",
+  "updated_at": "2026-08-20T20:16:57.492Z",
   "entries": [
     {
-      "hash": "db2f05d1425339f8",
-      "track": "Piya Ghar Aaya - Homecoming",
-      "artist": "Akhil Sachdeva, Abhishek Bhatia",
-      "album": "Awarapan 2",
+      "hash": "ca4101d288f1ce66",
+      "track": "Param Sundari",
+      "artist": "A.R. Rahman, Shreya Ghoshal",
+      "album": "Mimi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-17T21:12:05.302Z"
-    },
-    {
-      "hash": "eed873a5a9056ac0",
-      "track": "Piya Tu Piya",
-      "artist": "Arijit Singh, Chinmayi Sripada",
-      "album": "Dongri Ka Raja",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-18T22:04:32.977Z"
+      "cached_at": "2026-08-20T20:16:28.694Z"
     }
   ]
 }
