@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-08-01T18:48:38.317Z",
+  "updated_at": "2026-08-20T20:33:04.305Z",
   "entries": [
     {
-      "hash": "8ab89ebc6be770f3",
-      "track": "Chatni",
-      "artist": "Aditya Dev, Neelkamal Singh, Mamta Sharma, Dhiraj Babuaan - Dhamaal 4",
-      "album": "Dhamaal 4",
+      "hash": "4357687b40dfae70",
+      "track": "Chamiya",
+      "artist": "Alka Yagnik, Sonu Nigam",
+      "album": "Dulhan Hum Le Jayenge",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T06:07:33.127Z"
-    },
-    {
-      "hash": "e35fa6ae05a79cbb",
-      "track": "Cheap Thrills",
-      "artist": "Cour, PACANI, Veronica Bravo",
-      "album": "Cheap Thrills",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-28T14:36:27.740Z"
-    },
-    {
-      "hash": "234ca0f43eb400ee",
-      "track": "Chitta Kurta",
-      "artist": "Karan Aujla",
-      "album": "KARAN AUJLA SINGLES",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:48:37.375Z"
+      "cached_at": "2026-08-20T20:32:35.368Z"
     }
   ]
 }
