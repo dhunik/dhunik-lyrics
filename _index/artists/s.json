@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-20T20:16:57.496Z",
+  "updated_at": "2026-08-20T20:20:36.745Z",
   "entries": [
     {
-      "hash": "ca4101d288f1ce66",
-      "track": "Param Sundari",
-      "artist": "A.R. Rahman, Shreya Ghoshal",
-      "album": "Mimi",
+      "hash": "7db1482db5ba4258",
+      "track": "Deewane To Deewane Hain",
+      "artist": "Shweta Shetty",
+      "album": "Deewane To Deewane Hain",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-20T20:16:28.694Z"
+      "cached_at": "2026-08-20T20:20:07.769Z"
     }
   ]
 }
