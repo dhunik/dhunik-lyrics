@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-08-18T05:22:40.298Z",
+  "updated_at": "2026-08-20T06:16:29.217Z",
   "entries": [
     {
-      "hash": "2d1f7c5a9ef23bd2",
-      "track": "Dil Dhadakne Do",
-      "artist": "Priyanka Chopra, Farhan Akhtar, Shankar-Ehsaan-Loy - Dil Dhadakne Do",
-      "album": "Dil Dhadakne Do",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-18T05:22:28.613Z"
+      "hash": "69151c3fefa608a0",
+      "track": "Mere Dholna",
+      "artist": "Pritam, Shreya Ghoshal, M. G.Shreekumar",
+      "album": "Bhool Bhulaiyaa",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-20T06:15:44.077Z"
     }
   ]
 }
