@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-20T20:20:36.745Z",
+  "updated_at": "2026-08-20T20:28:08.485Z",
   "entries": [
     {
       "hash": "7db1482db5ba4258",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-20T20:20:07.769Z"
+    },
+    {
+      "hash": "713b365a6bc6c4ea",
+      "track": "Tere Naina",
+      "artist": "Shankar Mahadevan, Shreya Ghoshal",
+      "album": "Chandni Chowk To China",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-20T20:28:04.530Z"
     }
   ]
 }
