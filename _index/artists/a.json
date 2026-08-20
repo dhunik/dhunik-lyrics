@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-20T20:16:57.492Z",
+  "updated_at": "2026-08-20T20:33:04.307Z",
   "entries": [
     {
-      "hash": "ca4101d288f1ce66",
-      "track": "Param Sundari",
-      "artist": "A.R. Rahman, Shreya Ghoshal",
-      "album": "Mimi",
+      "hash": "4357687b40dfae70",
+      "track": "Chamiya",
+      "artist": "Alka Yagnik, Sonu Nigam",
+      "album": "Dulhan Hum Le Jayenge",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-20T20:16:28.694Z"
+      "cached_at": "2026-08-20T20:32:35.368Z"
     }
   ]
 }
