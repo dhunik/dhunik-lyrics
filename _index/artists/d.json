@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-18T15:03:46.705Z",
+  "updated_at": "2026-08-21T18:02:54.418Z",
   "entries": [
     {
-      "hash": "259e4aa76616057b",
-      "track": "Not Guilty",
-      "artist": "Dhanda Nyoliwala",
-      "album": "Not Guilty",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-06T13:47:11.166Z"
-    },
-    {
-      "hash": "a37903d9462946ae",
-      "track": "Say It Right",
-      "artist": "Elise Lieberth, Le Bober, Deep Mage",
-      "album": "Say It Right",
+      "hash": "47cc1112733528a8",
+      "track": "Yetu Manam Pogalaam",
+      "artist": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
+      "album": "Thoota (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-13T19:21:34.583Z"
-    },
-    {
-      "hash": "237d0db21d7b154b",
-      "track": "Midnight Desires",
-      "artist": "Diljit Dosanjh, Thiarajxtt, Hrmnn",
-      "album": "Ghost",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T16:56:28.877Z"
-    },
-    {
-      "hash": "92cd20453ebfbc19",
-      "track": "Zigane",
-      "artist": "Dhanda Nyoliwala, Shevv",
-      "album": "Zigane",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-18T15:03:37.261Z"
+      "cached_at": "2026-08-21T18:00:25.976Z"
     }
   ]
 }
