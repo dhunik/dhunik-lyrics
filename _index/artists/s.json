@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-20T20:28:08.485Z",
+  "updated_at": "2026-08-21T18:02:54.421Z",
   "entries": [
     {
-      "hash": "7db1482db5ba4258",
-      "track": "Deewane To Deewane Hain",
-      "artist": "Shweta Shetty",
-      "album": "Deewane To Deewane Hain",
+      "hash": "47cc1112733528a8",
+      "track": "Yetu Manam Pogalaam",
+      "artist": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
+      "album": "Thoota (Original Motion Picture Soundtrack)",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-20T20:20:07.769Z"
-    },
-    {
-      "hash": "713b365a6bc6c4ea",
-      "track": "Tere Naina",
-      "artist": "Shankar Mahadevan, Shreya Ghoshal",
-      "album": "Chandni Chowk To China",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-20T20:28:04.530Z"
+      "has_plain": true,
+      "cached_at": "2026-08-21T18:00:25.976Z"
     }
   ]
 }
