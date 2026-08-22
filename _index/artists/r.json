@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-08-17T21:17:53.427Z",
+  "updated_at": "2026-08-22T02:44:32.122Z",
   "entries": [
     {
       "hash": "a13513bf8473a816",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-17T21:15:15.741Z"
+    },
+    {
+      "hash": "995a8b77dea8724c",
+      "track": "Soniyo",
+      "artist": "Raju Singh, Sonu Nigam, Shreya Ghoshal",
+      "album": "RAAZ - The Mystery Continues",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-22T02:44:30.983Z"
     }
   ]
 }
