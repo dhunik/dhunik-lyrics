@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-23T07:02:41.711Z",
+  "updated_at": "2026-08-23T21:30:30.808Z",
   "entries": [
     {
       "hash": "7376fe982124be1b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-23T07:02:36.393Z"
+    },
+    {
+      "hash": "e89cab88a06e05c5",
+      "track": "Dil Ka Rishta",
+      "artist": "Sameer Anjaan, Nadeem-Shravan, Alka Yagnik, Udit Narayan, Kumar Sanu",
+      "album": "Dil Ka Rishta",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-23T21:30:29.721Z"
     }
   ]
 }
