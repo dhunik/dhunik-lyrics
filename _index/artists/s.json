@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-23T06:45:30.866Z",
+  "updated_at": "2026-08-23T07:02:41.711Z",
   "entries": [
     {
       "hash": "7376fe982124be1b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-23T06:45:16.175Z"
+    },
+    {
+      "hash": "0a990377a59f9fed",
+      "track": "Kinna Sona",
+      "artist": "Sunil Kamath, Mithoon",
+      "album": "SUNIL KAMATH, MITHOON, & AMITABH VERMA",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-23T07:02:36.393Z"
     }
   ]
 }
