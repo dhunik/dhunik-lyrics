@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-20T09:40:25.750Z",
+  "updated_at": "2026-08-23T06:42:47.750Z",
   "entries": [
     {
       "hash": "e43c3d264adf7acb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-20T09:36:14.731Z"
+    },
+    {
+      "hash": "25be82e5c579a9ba",
+      "track": "Jaan Se Guzarte Hain (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Khan Saab",
+      "album": "World Music Day - Best Of Bollywood Hits",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-23T06:42:46.828Z"
     }
   ]
 }
