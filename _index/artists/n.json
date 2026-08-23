@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-23T20:50:58.322Z",
+  "updated_at": "2026-08-23T22:30:16.215Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-23T20:50:57.325Z"
+    },
+    {
+      "hash": "35660b22ce343b07",
+      "track": "Dil Ne Yeh Kaha Hain Dil Se",
+      "artist": "Nadeem-Shravan, Udit Narayan, Alka Yagnik, Kumar Sanu",
+      "album": "Bahut Pyar Karte Hai - Bollywood Romantic Songs",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-23T22:30:15.331Z"
     }
   ]
 }
