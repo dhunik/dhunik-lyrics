@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-22T02:44:32.121Z",
+  "updated_at": "2026-08-23T06:45:30.866Z",
   "entries": [
     {
-      "hash": "47cc1112733528a8",
-      "track": "Yetu Manam Pogalaam",
-      "artist": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
-      "album": "Thoota (Original Motion Picture Soundtrack)",
+      "hash": "7376fe982124be1b",
+      "track": "Aakhri Ishq",
+      "artist": "Irshad Kamil, Shashwat Sachdev, Jubin Nautiyal",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-21T18:00:25.976Z"
-    },
-    {
-      "hash": "995a8b77dea8724c",
-      "track": "Soniyo",
-      "artist": "Raju Singh, Sonu Nigam, Shreya Ghoshal",
-      "album": "RAAZ - The Mystery Continues",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-22T02:44:30.983Z"
+      "cached_at": "2026-08-23T06:45:16.175Z"
     }
   ]
 }
