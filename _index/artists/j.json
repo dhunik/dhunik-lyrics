@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-18T07:05:38.961Z",
+  "updated_at": "2026-08-23T03:29:47.831Z",
   "entries": [
     {
-      "hash": "83430c5cf4462d40",
-      "track": "Ishq De Fanniyar - Female",
-      "artist": "Jyotica Tangri, Shaarib Toshi, Kumaar",
-      "album": "Fukrey Returns",
+      "hash": "4f6a129209fab793",
+      "track": "Chonch Ladhiyaan",
+      "artist": "Amit Trivedi, Harshdeep Kaur, Jazim Sharma",
+      "album": "Manmarziyaan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-18T07:04:46.884Z"
+      "cached_at": "2026-08-23T03:24:53.127Z"
     }
   ]
 }
