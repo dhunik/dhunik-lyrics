@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-23T18:28:09.042Z",
+  "updated_at": "2026-08-23T22:53:04.887Z",
   "entries": [
     {
       "hash": "4f6a129209fab793",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-23T18:28:06.587Z"
+    },
+    {
+      "hash": "ded45c2962d67be6",
+      "track": "Achyutam Keshavam by Alka Yagnik",
+      "artist": "Alka Yagnik",
+      "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-23T22:53:03.683Z"
     }
   ]
 }
