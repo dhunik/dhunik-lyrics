@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-23T20:50:42.871Z",
+  "updated_at": "2026-08-23T20:50:58.322Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-23T20:50:40.947Z"
+    },
+    {
+      "hash": "c4c21d30706d23ab",
+      "track": "Garmi (feat. Varun Dhawan)",
+      "artist": "Badshah, Neha Kakkar",
+      "album": "Street Dancer 3D",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-23T20:50:57.325Z"
     }
   ]
 }
