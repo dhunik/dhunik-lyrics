@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-23T21:30:30.808Z",
+  "updated_at": "2026-08-23T21:55:09.466Z",
   "entries": [
     {
       "hash": "7376fe982124be1b",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-23T21:30:29.721Z"
+    },
+    {
+      "hash": "8c6d77d8a4e54860",
+      "track": "Ek Ladki Ko Dekha To",
+      "artist": "Sanam, Kumar Sanu",
+      "album": "Listen To Retro Remix",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-23T21:55:08.380Z"
     }
   ]
 }
