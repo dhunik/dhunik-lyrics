@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-23T18:27:59.952Z",
+  "updated_at": "2026-08-23T18:28:09.040Z",
   "entries": [
     {
       "hash": "e43c3d264adf7acb",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-23T18:27:57.973Z"
+    },
+    {
+      "hash": "aca42307960fa7f8",
+      "track": "Mera Dil Bhi Kitna Pagal Hai (From \"Saajan\")",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Golden Melodies of Alka Yagnik and Kumar Sanu",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-23T18:28:06.587Z"
     }
   ]
 }
