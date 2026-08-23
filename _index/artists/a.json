@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-20T20:33:04.307Z",
+  "updated_at": "2026-08-23T03:29:47.826Z",
   "entries": [
     {
-      "hash": "4357687b40dfae70",
-      "track": "Chamiya",
-      "artist": "Alka Yagnik, Sonu Nigam",
-      "album": "Dulhan Hum Le Jayenge",
+      "hash": "4f6a129209fab793",
+      "track": "Chonch Ladhiyaan",
+      "artist": "Amit Trivedi, Harshdeep Kaur, Jazim Sharma",
+      "album": "Manmarziyaan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-20T20:32:35.368Z"
+      "cached_at": "2026-08-23T03:24:53.127Z"
     }
   ]
 }
