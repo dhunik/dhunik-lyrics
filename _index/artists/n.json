@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-15T07:10:20.770Z",
+  "updated_at": "2026-08-23T20:50:42.871Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-15T07:10:13.503Z"
+    },
+    {
+      "hash": "735d7f9321d521a8",
+      "track": "Mile Ho Tum (Reprise)",
+      "artist": "Neha Kakkar, Tony Kakkar",
+      "album": "Fever",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-23T20:50:40.947Z"
     }
   ]
 }
