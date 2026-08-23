@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "o",
   "type": "track",
-  "updated_at": "2026-08-15T17:01:54.280Z",
+  "updated_at": "2026-08-23T23:02:06.735Z",
   "entries": [
     {
-      "hash": "ee07e6e0592880d8",
-      "track": "Om Jai Jagdish Hare",
-      "artist": "Anup Jalota, Sadhana Sargam",
-      "album": "Aartiya",
+      "hash": "6c37814b3bdbe686",
+      "track": "Om Jai Jagdish Hare (Aarti)",
+      "artist": "Lata Mangeshkar",
+      "album": "Dainik Bhakti",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-15T17:01:19.485Z"
+      "cached_at": "2026-08-23T22:57:36.184Z"
     }
   ]
 }
