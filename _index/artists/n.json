@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-24T21:06:25.660Z",
+  "updated_at": "2026-08-24T21:13:45.644Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -66,6 +66,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:06:24.406Z"
+    },
+    {
+      "hash": "c885b5443aa9269f",
+      "track": "City Dreams",
+      "artist": "Navaan Sandhu, JayB Singh",
+      "album": "Bipolar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-24T21:13:43.461Z"
     }
   ]
 }
