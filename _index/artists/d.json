@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-24T21:14:53.686Z",
+  "updated_at": "2026-08-24T21:15:00.403Z",
   "entries": [
     {
       "hash": "47cc1112733528a8",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:14:49.135Z"
+    },
+    {
+      "hash": "57b54ef7715db573",
+      "track": "Naveezy Era",
+      "artist": "Navaan Sandhu, Daaku",
+      "album": "Bipolar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-24T21:14:54.376Z"
     }
   ]
 }
