@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-24T21:16:57.466Z",
+  "updated_at": "2026-08-24T21:17:11.418Z",
   "entries": [
     {
       "hash": "5f4f01fc0155a8bf",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:16:56.429Z"
+    },
+    {
+      "hash": "35af9b39d017bd0b",
+      "track": "Devil",
+      "artist": "Sidhu Moose Wala - Pbx 1",
+      "album": "Pbx 1",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-24T21:17:09.272Z"
     }
   ]
 }
