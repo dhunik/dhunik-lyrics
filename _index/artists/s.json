@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-24T21:16:30.809Z",
+  "updated_at": "2026-08-24T21:16:57.466Z",
   "entries": [
     {
       "hash": "5f4f01fc0155a8bf",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:16:05.077Z"
+    },
+    {
+      "hash": "692410c447453e32",
+      "track": "Levels",
+      "artist": "Sidhu Moose Wala, Sunny Malton - Levels",
+      "album": "Levels",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-24T21:16:56.429Z"
     }
   ]
 }
