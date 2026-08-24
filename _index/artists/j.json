@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-24T21:14:48.244Z",
+  "updated_at": "2026-08-24T21:15:18.609Z",
   "entries": [
     {
       "hash": "c885b5443aa9269f",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:13:43.461Z"
+    },
+    {
+      "hash": "f3fcd9878426c41a",
+      "track": "Levels & Graphs",
+      "artist": "Navaan Sandhu, JayB Singh",
+      "album": "House Navior",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-24T21:15:16.697Z"
     }
   ]
 }
