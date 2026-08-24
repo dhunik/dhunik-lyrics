@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-24T21:15:06.145Z",
+  "updated_at": "2026-08-24T21:16:30.809Z",
   "entries": [
     {
-      "hash": "a0e33ba76a4f552c",
-      "track": "Mere Mehboob Qayamat Hogi - Sanam",
-      "artist": "Sanam",
-      "album": "New Avtaar - Vol. 2",
+      "hash": "5f4f01fc0155a8bf",
+      "track": "0008",
+      "artist": "The Kidd, Sidhu Moose Wala, Jenny Johal - Moose Print",
+      "album": "Moose Print",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-23T22:21:23.320Z"
-    },
-    {
-      "hash": "e465d88bc8c5c29c",
-      "track": "Yaara ve yaara",
-      "artist": "Navaan Sandhu, Shai, Daaku",
-      "album": "Bipolar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:15:01.082Z"
+      "cached_at": "2026-08-24T21:16:05.077Z"
     }
   ]
 }
