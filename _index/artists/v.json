@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-08-15T08:59:37.488Z",
+  "updated_at": "2026-08-24T09:11:35.316Z",
   "entries": [
     {
       "hash": "e44a702f83d32007",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-15T08:56:19.950Z"
+    },
+    {
+      "hash": "91bf0245b6be8646",
+      "track": "Annarakanna Va (from \"Bhramaram\")",
+      "artist": "Vijay Yesudas",
+      "album": "Ishta Gayakan Vijay Yesudas",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-24T09:11:34.143Z"
     }
   ]
 }
