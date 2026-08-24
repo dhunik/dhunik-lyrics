@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-24T21:15:18.609Z",
+  "updated_at": "2026-08-24T21:16:30.811Z",
   "entries": [
     {
-      "hash": "c885b5443aa9269f",
-      "track": "City Dreams",
-      "artist": "Navaan Sandhu, JayB Singh",
-      "album": "Bipolar",
+      "hash": "5f4f01fc0155a8bf",
+      "track": "0008",
+      "artist": "The Kidd, Sidhu Moose Wala, Jenny Johal - Moose Print",
+      "album": "Moose Print",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-24T21:13:43.461Z"
-    },
-    {
-      "hash": "f3fcd9878426c41a",
-      "track": "Levels & Graphs",
-      "artist": "Navaan Sandhu, JayB Singh",
-      "album": "House Navior",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:15:16.697Z"
+      "cached_at": "2026-08-24T21:16:05.077Z"
     }
   ]
 }
