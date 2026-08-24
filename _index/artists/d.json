@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-24T21:06:25.634Z",
+  "updated_at": "2026-08-24T21:14:53.686Z",
   "entries": [
     {
       "hash": "47cc1112733528a8",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:06:24.406Z"
+    },
+    {
+      "hash": "edf5658632e29ab3",
+      "track": "Moodshift",
+      "artist": "Navaan Sandhu, Daaku",
+      "album": "Bipolar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-24T21:14:49.135Z"
     }
   ]
 }
