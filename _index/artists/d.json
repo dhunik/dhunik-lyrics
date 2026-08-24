@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-21T18:02:54.418Z",
+  "updated_at": "2026-08-24T21:06:25.634Z",
   "entries": [
     {
       "hash": "47cc1112733528a8",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-21T18:00:25.976Z"
+    },
+    {
+      "hash": "c065f8e9814bda15",
+      "track": "Kath Lagda",
+      "artist": "Navaan Sandhu, Dhanda Nyoliwala, Sanya Dandona, Rxtro - Bipolar",
+      "album": "Bipolar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-24T21:06:24.406Z"
     }
   ]
 }
