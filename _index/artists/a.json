@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-25T15:14:55.582Z",
+  "updated_at": "2026-08-25T15:17:40.125Z",
   "entries": [
     {
-      "hash": "4f6a129209fab793",
-      "track": "Chonch Ladhiyaan",
-      "artist": "Amit Trivedi, Harshdeep Kaur, Jazim Sharma",
-      "album": "Manmarziyaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-23T03:24:53.127Z"
-    },
-    {
-      "hash": "aca42307960fa7f8",
-      "track": "Mera Dil Bhi Kitna Pagal Hai (From \"Saajan\")",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Golden Melodies of Alka Yagnik and Kumar Sanu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-23T18:28:06.587Z"
-    },
-    {
-      "hash": "ded45c2962d67be6",
-      "track": "Achyutam Keshavam by Alka Yagnik",
-      "artist": "Alka Yagnik",
-      "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-23T22:53:03.683Z"
-    },
-    {
-      "hash": "e753855cab2c65e3",
-      "track": "Roshni Se",
-      "artist": "Anu Malik, Alka Yagnik, Abhijeet",
-      "album": "Asoka",
-      "has_synced": true,
+      "hash": "6a4162a804200f3d",
+      "track": "Tera Naam Liya",
+      "artist": "Anuradha Paudwal, Manhar Udhas",
+      "album": "Ram Lakhan",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-25T15:14:53.722Z"
+      "cached_at": "2026-08-25T15:14:58.721Z"
     }
   ]
 }
