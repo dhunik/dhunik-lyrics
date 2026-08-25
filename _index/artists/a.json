@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-23T22:53:04.887Z",
+  "updated_at": "2026-08-25T15:14:55.582Z",
   "entries": [
     {
       "hash": "4f6a129209fab793",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-23T22:53:03.683Z"
+    },
+    {
+      "hash": "e753855cab2c65e3",
+      "track": "Roshni Se",
+      "artist": "Anu Malik, Alka Yagnik, Abhijeet",
+      "album": "Asoka",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-25T15:14:53.722Z"
     }
   ]
 }
