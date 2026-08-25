@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-24T21:17:11.418Z",
+  "updated_at": "2026-08-25T15:18:04.916Z",
   "entries": [
     {
       "hash": "5f4f01fc0155a8bf",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-24T21:17:09.272Z"
+    },
+    {
+      "hash": "dc185e1811197cf0",
+      "track": "Saathiya (From \"Saathiya\")",
+      "artist": "A.R. Rahman, Sonu Nigam",
+      "album": "Pyaar Mode On",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-25T15:18:02.948Z"
     }
   ]
 }
