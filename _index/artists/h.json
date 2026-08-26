@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-18T06:49:08.940Z",
+  "updated_at": "2026-08-26T08:55:23.612Z",
   "entries": [
     {
       "hash": "93acde7fe7d56074",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-18T06:46:06.100Z"
+    },
+    {
+      "hash": "fc1c29ac5a501c44",
+      "track": "Radhe Radhe",
+      "artist": "Hansraj Raghuwanshi, Mista Baaz - Radhe Radhe",
+      "album": "Radhe Radhe",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-26T08:55:22.368Z"
     }
   ]
 }
