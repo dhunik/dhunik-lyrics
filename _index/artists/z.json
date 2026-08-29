@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "z",
   "type": "artist",
-  "updated_at": "2026-08-14T06:06:17.074Z",
+  "updated_at": "2026-08-29T03:10:12.244Z",
   "entries": [
     {
       "hash": "318e98aed8070995",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-14T06:06:16.007Z"
+    },
+    {
+      "hash": "5a2b6896f962f16e",
+      "track": "Rod Aaji",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - I",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-29T03:10:10.525Z"
     }
   ]
 }
