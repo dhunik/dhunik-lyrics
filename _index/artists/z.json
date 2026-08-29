@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "z",
   "type": "artist",
-  "updated_at": "2026-08-29T03:10:43.712Z",
+  "updated_at": "2026-08-29T03:13:35.296Z",
   "entries": [
     {
       "hash": "318e98aed8070995",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-29T03:10:42.860Z"
+    },
+    {
+      "hash": "7900d4756bcffa38",
+      "track": "Kafur",
+      "artist": "Zubeen Garg",
+      "album": "Zubeen Forever - The Biggest Hits",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-29T03:13:34.273Z"
     }
   ]
 }
