@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "z",
   "type": "artist",
-  "updated_at": "2026-08-29T03:10:12.244Z",
+  "updated_at": "2026-08-29T03:10:43.712Z",
   "entries": [
     {
       "hash": "318e98aed8070995",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-29T03:10:10.525Z"
+    },
+    {
+      "hash": "0c84154d1c1d28e7",
+      "track": "Tumi Suwa Jetia",
+      "artist": "Zubeen Garg",
+      "album": "Golden Collection Of Zubeen Vol - II",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-29T03:10:42.860Z"
     }
   ]
 }
