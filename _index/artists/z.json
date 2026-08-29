@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "z",
   "type": "artist",
-  "updated_at": "2026-08-29T03:13:35.296Z",
+  "updated_at": "2026-08-29T03:14:31.428Z",
   "entries": [
     {
       "hash": "318e98aed8070995",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-29T03:13:34.273Z"
+    },
+    {
+      "hash": "53bc8bc60b44cb8c",
+      "track": "Dikhow Noi",
+      "artist": "Zubeen Garg",
+      "album": "Zubeen Manesor Bihu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-08-29T03:14:30.205Z"
     }
   ]
 }
