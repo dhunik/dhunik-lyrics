@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-08-20T06:16:29.217Z",
+  "updated_at": "2026-08-31T09:33:21.862Z",
   "entries": [
     {
       "hash": "69151c3fefa608a0",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-20T06:15:44.077Z"
+    },
+    {
+      "hash": "59300049e16e5904",
+      "track": "Up Se",
+      "artist": "Panther",
+      "album": "Hustle 2.0",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-31T09:33:15.880Z"
     }
   ]
 }
