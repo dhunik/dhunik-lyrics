@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-24T21:15:18.620Z",
+  "updated_at": "2026-08-31T09:34:46.862Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:15:16.697Z"
+    },
+    {
+      "hash": "333849122d1cb54d",
+      "track": "Yaarana",
+      "artist": "Nazz - Yaarana",
+      "album": "Yaarana",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-08-31T09:34:39.806Z"
     }
   ]
 }
