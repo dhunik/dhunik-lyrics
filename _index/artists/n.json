@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-31T09:34:57.637Z",
+  "updated_at": "2026-08-31T09:35:11.273Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -102,6 +102,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-31T09:34:56.258Z"
+    },
+    {
+      "hash": "ce63259e303be9de",
+      "track": "Gulab Aur Kaante",
+      "artist": "Nazz - Gulab Aur Kaante",
+      "album": "Gulab Aur Kaante",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-08-31T09:35:10.183Z"
     }
   ]
 }
