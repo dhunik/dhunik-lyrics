@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-08-25T15:18:04.916Z",
+  "updated_at": "2026-09-02T23:32:24.879Z",
   "entries": [
     {
-      "hash": "5f4f01fc0155a8bf",
-      "track": "0008",
-      "artist": "The Kidd, Sidhu Moose Wala, Jenny Johal - Moose Print",
-      "album": "Moose Print",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:16:05.077Z"
-    },
-    {
-      "hash": "692410c447453e32",
-      "track": "Levels",
-      "artist": "Sidhu Moose Wala, Sunny Malton - Levels",
-      "album": "Levels",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:16:56.429Z"
-    },
-    {
-      "hash": "35af9b39d017bd0b",
-      "track": "Devil",
-      "artist": "Sidhu Moose Wala - Pbx 1",
-      "album": "Pbx 1",
+      "hash": "f4d0e69a2e828aeb",
+      "track": "Laal Chunriya",
+      "artist": "Sonu Nigam, Alka Yagnik",
+      "album": "Jodi No.1",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-24T21:17:09.272Z"
-    },
-    {
-      "hash": "dc185e1811197cf0",
-      "track": "Saathiya (From \"Saathiya\")",
-      "artist": "A.R. Rahman, Sonu Nigam",
-      "album": "Pyaar Mode On",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-25T15:18:02.948Z"
+      "cached_at": "2026-09-02T23:26:54.847Z"
     }
   ]
 }
