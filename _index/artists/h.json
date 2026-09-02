@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-08-26T08:55:23.612Z",
+  "updated_at": "2026-09-02T07:48:32.472Z",
   "entries": [
     {
       "hash": "93acde7fe7d56074",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-26T08:55:22.368Z"
+    },
+    {
+      "hash": "84e46b5e3760f671",
+      "track": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry Styles",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-02T07:48:31.038Z"
     }
   ]
 }
