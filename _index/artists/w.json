@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "w",
   "type": "artist",
-  "updated_at": "2026-08-13T13:44:09.194Z",
+  "updated_at": "2026-09-03T06:48:48.643Z",
   "entries": [
     {
       "hash": "824e84c742806c69",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-13T13:44:07.902Z"
+    },
+    {
+      "hash": "513fb04d869ebf6a",
+      "track": "Tajdar-E-Haram",
+      "artist": "Wajid Khan",
+      "album": "Satyameva Jayate",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-03T06:48:39.724Z"
     }
   ]
 }
