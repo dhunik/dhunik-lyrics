@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-09-02T23:32:24.879Z",
+  "updated_at": "2026-09-03T06:46:07.821Z",
   "entries": [
     {
       "hash": "f4d0e69a2e828aeb",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-09-02T23:26:54.847Z"
+    },
+    {
+      "hash": "3175e5341042ea99",
+      "track": "Parvati",
+      "artist": "Sadhu Tiwari - Hanuman Ansh (Original Motion Picture Soundtrack)",
+      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-03T06:46:03.908Z"
     }
   ]
 }
