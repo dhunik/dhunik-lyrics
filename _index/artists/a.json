@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-08-25T15:18:04.882Z",
+  "updated_at": "2026-09-03T06:48:04.969Z",
   "entries": [
     {
       "hash": "6a4162a804200f3d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-25T15:18:02.948Z"
+    },
+    {
+      "hash": "aa2882aa3a6654e4",
+      "track": "Ve Kamleya (Sufi Version) (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "artist": "Amitabh Bhattacharya, Pritam, Shadab Faridi, Altamash Faridi, Asees Kaur",
+      "album": "Rocky Aur Rani Kii Prem Kahaani",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-03T06:47:57.534Z"
     }
   ]
 }
