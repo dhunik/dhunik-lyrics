@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-08-24T21:16:30.811Z",
+  "updated_at": "2026-09-03T06:48:55.287Z",
   "entries": [
     {
       "hash": "5f4f01fc0155a8bf",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:16:05.077Z"
+    },
+    {
+      "hash": "8515a3b8f0983f11",
+      "track": "Aaya Tere Dar Par",
+      "artist": "Madan Mohan, Ahmed Hussain, Mohd. Hussain, Mohd Vakil, Javed Hussain, Javed Akhtar",
+      "album": "Veer-Zaara",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-03T06:48:54.000Z"
     }
   ]
 }
