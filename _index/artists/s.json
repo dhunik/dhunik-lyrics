@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-09-03T06:46:07.821Z",
+  "updated_at": "2026-09-03T06:48:37.771Z",
   "entries": [
     {
-      "hash": "f4d0e69a2e828aeb",
-      "track": "Laal Chunriya",
-      "artist": "Sonu Nigam, Alka Yagnik",
-      "album": "Jodi No.1",
+      "hash": "9a84c36b11daef6d",
+      "track": "Noor E Khuda",
+      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy, Adnan Sami, Shreya Ghoshal",
+      "album": "My Name Is Khan",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-09-02T23:26:54.847Z"
-    },
-    {
-      "hash": "3175e5341042ea99",
-      "track": "Parvati",
-      "artist": "Sadhu Tiwari - Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-03T06:46:03.908Z"
+      "cached_at": "2026-09-03T06:48:22.892Z"
     }
   ]
 }
