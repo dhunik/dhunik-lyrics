@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-08-31T09:36:38.136Z",
+  "updated_at": "2026-09-03T06:49:00.478Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-31T09:36:37.094Z"
+    },
+    {
+      "hash": "8a9d58b29bd90da4",
+      "track": "Chaap Tilak",
+      "artist": "Nakash Aziz",
+      "album": "Dark 7 White",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-03T06:48:59.388Z"
     }
   ]
 }
