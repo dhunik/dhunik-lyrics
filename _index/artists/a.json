@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-03T06:48:04.969Z",
+  "updated_at": "2026-09-03T06:48:37.774Z",
   "entries": [
     {
-      "hash": "6a4162a804200f3d",
-      "track": "Tera Naam Liya",
-      "artist": "Anuradha Paudwal, Manhar Udhas",
-      "album": "Ram Lakhan",
+      "hash": "9a84c36b11daef6d",
+      "track": "Noor E Khuda",
+      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy, Adnan Sami, Shreya Ghoshal",
+      "album": "My Name Is Khan",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-25T15:14:58.721Z"
-    },
-    {
-      "hash": "dc185e1811197cf0",
-      "track": "Saathiya (From \"Saathiya\")",
-      "artist": "A.R. Rahman, Sonu Nigam",
-      "album": "Pyaar Mode On",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-25T15:18:02.948Z"
-    },
-    {
-      "hash": "aa2882aa3a6654e4",
-      "track": "Ve Kamleya (Sufi Version) (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-      "artist": "Amitabh Bhattacharya, Pritam, Shadab Faridi, Altamash Faridi, Asees Kaur",
-      "album": "Rocky Aur Rani Kii Prem Kahaani",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-03T06:47:57.534Z"
+      "cached_at": "2026-09-03T06:48:22.892Z"
     }
   ]
 }
