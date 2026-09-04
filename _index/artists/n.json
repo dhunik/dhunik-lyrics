@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-09-03T06:49:00.478Z",
+  "updated_at": "2026-09-04T03:32:03.572Z",
   "entries": [
     {
       "hash": "d88e465983b46a13",
@@ -129,6 +129,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-09-03T06:48:59.388Z"
+    },
+    {
+      "hash": "13da1086c57e7ba0",
+      "track": "Mera Aap Ki Kripa Se",
+      "artist": "Navin Tripathi",
+      "album": "Krishna Bhajan - Mera Aap Ki Kripa Se",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-04T03:32:02.544Z"
     }
   ]
 }
