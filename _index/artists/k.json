@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-09-04T22:01:40.475Z",
+  "updated_at": "2026-09-04T22:01:45.803Z",
   "entries": [
     {
       "hash": "7b5683288229fb24",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-04T22:01:23.493Z"
+    },
+    {
+      "hash": "ace4a3824c1b0c28",
+      "track": "Dil Diwana",
+      "artist": "Anuradha Paudwal, Kumar Sanu",
+      "album": "Daag - The Fire",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-04T22:01:42.703Z"
     }
   ]
 }
