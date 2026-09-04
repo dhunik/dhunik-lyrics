@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-09-03T06:48:04.973Z",
+  "updated_at": "2026-09-04T22:01:25.654Z",
   "entries": [
     {
       "hash": "69151c3fefa608a0",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-09-03T06:47:57.534Z"
+    },
+    {
+      "hash": "7b5683288229fb24",
+      "track": "Kya Mujhe Pyar Hai",
+      "artist": "Pritam, KK",
+      "album": "Woh Lamhe",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-04T22:01:23.493Z"
     }
   ]
 }
