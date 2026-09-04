@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-08-25T15:08:59.332Z",
+  "updated_at": "2026-09-04T22:01:40.475Z",
   "entries": [
     {
-      "hash": "2389ada1b8f8a973",
-      "track": "Raat Ka Nasha",
-      "artist": "Anu Malik, K. S. Chithra",
-      "album": "Asoka",
+      "hash": "7b5683288229fb24",
+      "track": "Kya Mujhe Pyar Hai",
+      "artist": "Pritam, KK",
+      "album": "Woh Lamhe",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-25T15:03:50.627Z"
+      "has_plain": false,
+      "cached_at": "2026-09-04T22:01:23.493Z"
     }
   ]
 }
