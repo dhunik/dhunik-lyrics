@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-08-19T14:02:25.976Z",
+  "updated_at": "2026-09-05T05:08:06.908Z",
   "entries": [
     {
-      "hash": "3d5f8d7d6c627624",
-      "track": "Sab Jaanta Hai",
-      "artist": "Ikka",
-      "album": "Sab Jaanta Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-10T05:35:20.372Z"
-    },
-    {
-      "hash": "a37903d9462946ae",
-      "track": "Say It Right",
-      "artist": "Elise Lieberth, Le Bober, Deep Mage",
-      "album": "Say It Right",
+      "hash": "732532252bec44b9",
+      "track": "Stereo Love",
+      "artist": "Edward Maya",
+      "album": "Stereo Love",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-13T19:21:34.583Z"
-    },
-    {
-      "hash": "8c7a4cf8b8e70d50",
-      "track": "Shree Hanuman Stavan",
-      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
-      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T16:59:38.291Z"
-    },
-    {
-      "hash": "7e065b82ad1c204e",
-      "track": "Shiv Shambho",
-      "artist": "Kailash Kher",
-      "album": "Shiv Shambho By Kailash Kher",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:01:11.589Z"
-    },
-    {
-      "hash": "6d50c5fdc3a2ec92",
-      "track": "Sher Aaya Sher",
-      "artist": "DIVINE, Major C",
-      "album": "Desi Hip-Hop Vibes",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-19T14:02:21.421Z"
+      "cached_at": "2026-09-05T05:05:14.822Z"
     }
   ]
 }
