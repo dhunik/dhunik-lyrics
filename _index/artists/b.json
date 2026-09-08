@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-08-15T09:00:54.353Z",
+  "updated_at": "2026-09-08T11:06:54.370Z",
   "entries": [
     {
       "hash": "184baea6bd3fbd40",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-15T08:59:59.542Z"
+    },
+    {
+      "hash": "a20173c3b401d3ce",
+      "track": "RAASHAH",
+      "artist": "Raftaar, Badshah - HARD DRIVE, VOL. 1",
+      "album": "HARD DRIVE, VOL. 1",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-08T11:06:53.246Z"
     }
   ]
 }
