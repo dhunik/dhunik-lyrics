@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-08-24T21:15:00.403Z",
+  "updated_at": "2026-09-09T09:01:58.561Z",
   "entries": [
     {
       "hash": "47cc1112733528a8",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-24T21:14:54.376Z"
+    },
+    {
+      "hash": "3636c8998340a7f7",
+      "track": "Do Numbari (From “Mirzapur The Movie”)",
+      "artist": "Dhanda Nyoliwala - Mirzapur The Movie",
+      "album": "Do Numbari (From “Mirzapur The Movie”)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-09T09:01:52.957Z"
     }
   ]
 }
