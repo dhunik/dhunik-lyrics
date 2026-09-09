@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-08-01T18:40:25.730Z",
+  "updated_at": "2026-09-09T09:01:51.943Z",
   "entries": [
     {
       "hash": "a3ff5ba479f5f5de",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-01T18:40:19.753Z"
+    },
+    {
+      "hash": "032370583f9d8e1b",
+      "track": "Vaaroon Forever (From “Mirzapur The Movie”)",
+      "artist": "Anand Bhaskar, Romy, Shreya Ghoshal, Ginny Diwan - Mirzapur The Movie",
+      "album": "Vaaroon Forever (From “Mirzapur The Movie”) - Single",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-09T09:01:44.012Z"
     }
   ]
 }
