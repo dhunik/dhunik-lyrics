@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-09-04T22:01:45.803Z",
+  "updated_at": "2026-09-09T11:15:36.192Z",
   "entries": [
     {
       "hash": "7b5683288229fb24",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-04T22:01:42.703Z"
+    },
+    {
+      "hash": "47bd40bd6834ae0e",
+      "track": "Tera Mujhse (From “Aa Gale Lag Jaa”)",
+      "artist": "Kishore Kumar, R.D. Burman",
+      "album": "Aa Gale Lag Jaa",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-09T11:15:34.871Z"
     }
   ]
 }
