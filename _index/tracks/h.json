@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-08-31T09:36:38.128Z",
+  "updated_at": "2026-09-10T05:38:18.774Z",
   "entries": [
     {
       "hash": "384440c28376f5bf",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-31T09:36:37.094Z"
+    },
+    {
+      "hash": "f15fd6f11d6b0b5e",
+      "track": "Here I Am (End Title / From \"Spirit: Stallion Of The Cimarron\" Soundtrack)",
+      "artist": "Bryan Adams",
+      "album": "Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-10T05:38:17.759Z"
     }
   ]
 }
