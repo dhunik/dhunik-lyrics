@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "e",
   "type": "track",
-  "updated_at": "2026-08-25T15:14:53.692Z",
+  "updated_at": "2026-09-10T05:29:56.720Z",
   "entries": [
     {
       "hash": "00934deeecb67644",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-25T15:14:51.157Z"
+    },
+    {
+      "hash": "0b433d5b0246eada",
+      "track": "(Everything I Do) I Do It For You",
+      "artist": "Bryan Adams",
+      "album": "So Far So Good",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-10T05:29:53.145Z"
     }
   ]
 }
