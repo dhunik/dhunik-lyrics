@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-08-28T01:02:35.224Z",
+  "updated_at": "2026-09-10T05:36:49.581Z",
   "entries": [
     {
       "hash": "a13513bf8473a816",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-08-28T01:02:33.878Z"
+    },
+    {
+      "hash": "577c8094a2156bf2",
+      "track": "Fortuner (Feat. Gulshan Music, Jaat Nia)",
+      "artist": "Raj Mawar, Ruchika Jangid",
+      "album": "Fortuner (Feat. Gulshan Music, Jaat Nia)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-09-10T05:36:48.450Z"
     }
   ]
 }
