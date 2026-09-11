@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-09-10T05:38:18.774Z",
+  "updated_at": "2026-09-11T23:57:34.037Z",
   "entries": [
     {
-      "hash": "384440c28376f5bf",
-      "track": "Hum To Aise Hain",
-      "artist": "Shantanu Moitra, Shreya Ghoshal, Sunidhi Chauhan, Pranab Biswas, Swanand Kirkire",
-      "album": "Laaga Chunari Mein Daag - Journey Of A Woman",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-16T00:09:34.681Z"
-    },
-    {
-      "hash": "519f09960752f90b",
-      "track": "Hot Launde (feat. Fotty Seven, Bali)",
-      "artist": "Badshah, Fotty Seven, Bali",
-      "album": "The Power of Dreams of a Kid",
+      "hash": "728e4cad6027eee8",
+      "track": "High Rated Gabru",
+      "artist": "Guru Randhawa",
+      "album": "Nawabzaade",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-07-18T08:32:18.011Z"
-    },
-    {
-      "hash": "b8370896ce523347",
-      "track": "Happy Nation",
-      "artist": "Ace Of Base",
-      "album": "Happy Nation",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-23T03:16:30.172Z"
-    },
-    {
-      "hash": "b2ac43b3da18a6ba",
-      "track": "Humnava",
-      "artist": "Mithoon, Papon, Sayeed Quadri",
-      "album": "Hamari Adhuri Kahani",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-24T11:16:24.044Z"
-    },
-    {
-      "hash": "7452b497f5212bd3",
-      "track": "Hangova (From \"DC\")",
-      "artist": "Anirudh Ravichander, Heisenberg",
-      "album": "Hangova (From \"DC\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:29:37.512Z"
-    },
-    {
-      "hash": "c71096948ce61759",
-      "track": "Heavy Driver",
-      "artist": "Nazz - Hustle 2.0",
-      "album": "Hustle 2.0",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-31T09:36:37.094Z"
-    },
-    {
-      "hash": "f15fd6f11d6b0b5e",
-      "track": "Here I Am (End Title / From \"Spirit: Stallion Of The Cimarron\" Soundtrack)",
-      "artist": "Bryan Adams",
-      "album": "Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-10T05:38:17.759Z"
+      "cached_at": "2026-09-11T23:54:32.649Z"
     }
   ]
 }
