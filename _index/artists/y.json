@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-08-15T08:59:37.490Z",
+  "updated_at": "2026-09-11T23:54:31.548Z",
   "entries": [
     {
-      "hash": "e44a702f83d32007",
-      "track": "Hungama",
-      "artist": "Danny Pandit, Varma Malik, Year Down, Laxmikant - Pyarelal, Asha Bhosle",
-      "album": "Hungama",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T08:56:19.950Z"
+      "hash": "845cb9cc19459ac2",
+      "track": "Urvashi",
+      "artist": "Yo Yo Honey Singh",
+      "album": "Urvashi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-11T23:50:55.255Z"
     }
   ]
 }
