@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "track",
-  "updated_at": "2026-08-10T05:41:48.759Z",
+  "updated_at": "2026-09-12T00:42:53.681Z",
   "entries": [
     {
       "hash": "ba253b1b50b97c3b",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-08-10T05:38:22.695Z"
+    },
+    {
+      "hash": "1dd8e2d79c64de7c",
+      "track": "I Want to Know What Love Is",
+      "artist": "Foreigner",
+      "album": "Love On Guitar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-12T00:42:52.707Z"
     }
   ]
 }
