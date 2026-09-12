@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-09-10T05:29:56.833Z",
+  "updated_at": "2026-09-12T00:06:53.149Z",
   "entries": [
     {
-      "hash": "184baea6bd3fbd40",
-      "track": "Morni",
-      "artist": "Badshah, Sharvi Yadav, Hiten",
-      "album": "Morni",
+      "hash": "009a59dc7ea4b320",
+      "track": "O Saki Saki",
+      "artist": "Vishal & Shekhar, Neha Kakkar, Tulsi Kumar, B Praak",
+      "album": "Batla House",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-15T08:59:59.542Z"
-    },
-    {
-      "hash": "a20173c3b401d3ce",
-      "track": "RAASHAH",
-      "artist": "Raftaar, Badshah - HARD DRIVE, VOL. 1",
-      "album": "HARD DRIVE, VOL. 1",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-08T11:06:53.246Z"
-    },
-    {
-      "hash": "0b433d5b0246eada",
-      "track": "(Everything I Do) I Do It For You",
-      "artist": "Bryan Adams",
-      "album": "So Far So Good",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-10T05:29:53.145Z"
+      "cached_at": "2026-09-12T00:06:39.922Z"
     }
   ]
 }
