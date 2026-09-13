@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-09-09T09:01:58.561Z",
+  "updated_at": "2026-09-13T15:53:38.510Z",
   "entries": [
     {
-      "hash": "47cc1112733528a8",
-      "track": "Yetu Manam Pogalaam",
-      "artist": "Darbuka Siva, Sid Sriram, Shashaa Tirupati",
-      "album": "Thoota (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-21T18:00:25.976Z"
-    },
-    {
-      "hash": "c065f8e9814bda15",
-      "track": "Kath Lagda",
-      "artist": "Navaan Sandhu, Dhanda Nyoliwala, Sanya Dandona, Rxtro - Bipolar",
-      "album": "Bipolar",
+      "hash": "1718101b2088005d",
+      "track": "Jhoom Sharaabi (From \"De De Pyaar De 2\")",
+      "artist": "Yo Yo Honey Singh ft. Daecolm - Jhoom Sharaabi (From \"De De Pyaar De 2\")",
+      "album": "Jhoom Sharaabi (From \"De De Pyaar De 2\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-24T21:06:24.406Z"
-    },
-    {
-      "hash": "edf5658632e29ab3",
-      "track": "Moodshift",
-      "artist": "Navaan Sandhu, Daaku",
-      "album": "Bipolar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:14:49.135Z"
-    },
-    {
-      "hash": "57b54ef7715db573",
-      "track": "Naveezy Era",
-      "artist": "Navaan Sandhu, Daaku",
-      "album": "Bipolar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:14:54.376Z"
-    },
-    {
-      "hash": "3636c8998340a7f7",
-      "track": "Do Numbari (From “Mirzapur The Movie”)",
-      "artist": "Dhanda Nyoliwala - Mirzapur The Movie",
-      "album": "Do Numbari (From “Mirzapur The Movie”)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-09T09:01:52.957Z"
+      "cached_at": "2026-09-13T15:53:10.465Z"
     }
   ]
 }
