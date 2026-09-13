@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-13T14:12:53.218Z",
+  "updated_at": "2026-09-13T14:12:55.940Z",
   "entries": [
     {
       "hash": "9a84c36b11daef6d",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-09-13T14:12:51.356Z"
+    },
+    {
+      "hash": "1cc5e395efe34e5b",
+      "track": "Azeem-O-Shaan Shahenshah",
+      "artist": "A.R. Rahman, Mohammed Aslam, Bonnie Chakravarty",
+      "album": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-13T14:12:54.060Z"
     }
   ]
 }
