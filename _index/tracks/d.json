@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-09-09T09:01:58.563Z",
+  "updated_at": "2026-09-13T15:52:48.558Z",
   "entries": [
     {
       "hash": "7db1482db5ba4258",
@@ -57,6 +57,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-09T09:01:52.957Z"
+    },
+    {
+      "hash": "d378172f426986aa",
+      "track": "Drinks On Me",
+      "artist": "Badshah, MC STAN",
+      "album": "Ek Tha Raja",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-13T15:52:47.596Z"
     }
   ]
 }
