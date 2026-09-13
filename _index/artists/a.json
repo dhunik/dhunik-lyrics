@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-04T22:01:45.805Z",
+  "updated_at": "2026-09-13T14:12:53.218Z",
   "entries": [
     {
       "hash": "9a84c36b11daef6d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-04T22:01:42.703Z"
+    },
+    {
+      "hash": "47466c69a31181af",
+      "track": "Kun Faaya Kun",
+      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+      "album": "Rockstar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-13T14:12:51.356Z"
     }
   ]
 }
