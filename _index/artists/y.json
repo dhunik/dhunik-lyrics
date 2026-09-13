@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-09-11T23:54:31.548Z",
+  "updated_at": "2026-09-13T15:52:47.718Z",
   "entries": [
     {
       "hash": "845cb9cc19459ac2",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-11T23:50:55.255Z"
+    },
+    {
+      "hash": "00f6256c2f2f1fab",
+      "track": "Kanta Laga",
+      "artist": "Tony Kakkar, Yo Yo Honey Singh, Neha Kakkar",
+      "album": "Kanta Laga",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-13T15:52:46.683Z"
     }
   ]
 }
