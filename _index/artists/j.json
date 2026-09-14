@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-09-03T06:48:55.287Z",
+  "updated_at": "2026-09-14T17:00:34.140Z",
   "entries": [
     {
       "hash": "5f4f01fc0155a8bf",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-09-03T06:48:54.000Z"
+    },
+    {
+      "hash": "1445f358113890a4",
+      "track": "like JENNIE (Peggy Gou Remix)",
+      "artist": "Jennie, Peggy Gou - like JENNIE",
+      "album": "like JENNIE",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-09-14T17:00:33.034Z"
     }
   ]
 }
