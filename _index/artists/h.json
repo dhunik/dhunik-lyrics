@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-09-02T07:48:32.472Z",
+  "updated_at": "2026-09-15T11:24:18.717Z",
   "entries": [
     {
-      "hash": "93acde7fe7d56074",
-      "track": "Tum Ho Toh",
-      "artist": "Vishal Mishra, Hansika Pareek, Raj Shekhar",
-      "album": "Saiyaara",
+      "hash": "dd3dc5fadf0f09b2",
+      "track": "Hai Mera Dil",
+      "artist": "Alfaaz, Honey Singh - Alfaaz",
+      "album": "Alfaaz",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-18T06:46:06.100Z"
-    },
-    {
-      "hash": "fc1c29ac5a501c44",
-      "track": "Radhe Radhe",
-      "artist": "Hansraj Raghuwanshi, Mista Baaz - Radhe Radhe",
-      "album": "Radhe Radhe",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-26T08:55:22.368Z"
-    },
-    {
-      "hash": "84e46b5e3760f671",
-      "track": "As It Was",
-      "artist": "Harry Styles",
-      "album": "Harry Styles",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-02T07:48:31.038Z"
+      "cached_at": "2026-09-15T11:23:48.699Z"
     }
   ]
 }
