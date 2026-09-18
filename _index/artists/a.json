@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-13T14:12:55.940Z",
+  "updated_at": "2026-09-18T10:51:58.475Z",
   "entries": [
     {
-      "hash": "9a84c36b11daef6d",
-      "track": "Noor E Khuda",
-      "artist": "Shankar Mahadevan, Shankar-Ehsaan-Loy, Adnan Sami, Shreya Ghoshal",
-      "album": "My Name Is Khan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-09-03T06:48:22.892Z"
-    },
-    {
-      "hash": "ace4a3824c1b0c28",
-      "track": "Dil Diwana",
-      "artist": "Anuradha Paudwal, Kumar Sanu",
-      "album": "Daag - The Fire",
+      "hash": "585c8d290ac0afb0",
+      "track": "Badshah",
+      "artist": "Emiway Bantai, Abhijeet",
+      "album": "Badshah",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-09-04T22:01:42.703Z"
-    },
-    {
-      "hash": "47466c69a31181af",
-      "track": "Kun Faaya Kun",
-      "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
-      "album": "Rockstar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-13T14:12:51.356Z"
-    },
-    {
-      "hash": "1cc5e395efe34e5b",
-      "track": "Azeem-O-Shaan Shahenshah",
-      "artist": "A.R. Rahman, Mohammed Aslam, Bonnie Chakravarty",
-      "album": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-13T14:12:54.060Z"
+      "cached_at": "2026-09-18T10:49:24.879Z"
     }
   ]
 }
