@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-18T10:51:58.475Z",
+  "updated_at": "2026-09-21T10:56:01.365Z",
   "entries": [
     {
-      "hash": "585c8d290ac0afb0",
-      "track": "Badshah",
-      "artist": "Emiway Bantai, Abhijeet",
-      "album": "Badshah",
+      "hash": "200dbf0834f291e7",
+      "track": "Jhoom Sharaabi",
+      "artist": "Yo Yo Honey Singh, Athar Hayat, Sameer Hayat - De De Pyaar De 2",
+      "album": "De De Pyaar De 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-09-18T10:49:24.879Z"
+      "cached_at": "2026-09-21T10:51:47.704Z"
     }
   ]
 }
