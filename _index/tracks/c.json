@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-09-03T06:49:00.370Z",
+  "updated_at": "2026-09-21T12:54:41.436Z",
   "entries": [
     {
-      "hash": "4357687b40dfae70",
-      "track": "Chamiya",
-      "artist": "Alka Yagnik, Sonu Nigam",
-      "album": "Dulhan Hum Le Jayenge",
+      "hash": "bb1a86e4df6651f5",
+      "track": "Chhote Chhote Peg",
+      "artist": "Navraj Hans, Yo Yo Honey Singh, Neha Kakkar - Sonu Ke Titu Ki Sweety",
+      "album": "Sonu Ke Titu Ki Sweety",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-20T20:32:35.368Z"
-    },
-    {
-      "hash": "c885b5443aa9269f",
-      "track": "City Dreams",
-      "artist": "Navaan Sandhu, JayB Singh",
-      "album": "Bipolar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-24T21:13:43.461Z"
-    },
-    {
-      "hash": "8a9d58b29bd90da4",
-      "track": "Chaap Tilak",
-      "artist": "Nakash Aziz",
-      "album": "Dark 7 White",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-03T06:48:59.388Z"
+      "cached_at": "2026-09-21T12:51:09.885Z"
     }
   ]
 }
