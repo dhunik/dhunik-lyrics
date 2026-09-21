@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-09-15T12:18:32.941Z",
+  "updated_at": "2026-09-21T13:22:25.741Z",
   "entries": [
     {
-      "hash": "34fbfc2ba94c61e2",
-      "track": "Jaane Kyun",
-      "artist": "Vishal Dadlani, Vishal & Shekhar",
-      "album": "Dostana",
+      "hash": "07ad152db44ac8db",
+      "track": "Dabangg Reloaded",
+      "artist": "Sukhwinder Singh",
+      "album": "Dabangg 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-09-15T12:14:31.512Z"
+      "cached_at": "2026-09-21T13:18:19.164Z"
     }
   ]
 }
