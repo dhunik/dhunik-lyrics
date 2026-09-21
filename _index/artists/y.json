@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-09-13T15:52:47.718Z",
+  "updated_at": "2026-09-21T10:56:01.362Z",
   "entries": [
     {
-      "hash": "845cb9cc19459ac2",
-      "track": "Urvashi",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Urvashi",
+      "hash": "200dbf0834f291e7",
+      "track": "Jhoom Sharaabi",
+      "artist": "Yo Yo Honey Singh, Athar Hayat, Sameer Hayat - De De Pyaar De 2",
+      "album": "De De Pyaar De 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-09-11T23:50:55.255Z"
-    },
-    {
-      "hash": "00f6256c2f2f1fab",
-      "track": "Kanta Laga",
-      "artist": "Tony Kakkar, Yo Yo Honey Singh, Neha Kakkar",
-      "album": "Kanta Laga",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-13T15:52:46.683Z"
+      "cached_at": "2026-09-21T10:51:47.704Z"
     }
   ]
 }
