@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-08-31T09:35:11.251Z",
+  "updated_at": "2026-09-23T16:52:55.928Z",
   "entries": [
     {
-      "hash": "7b241e87776e7723",
-      "track": "Girls Like To Swing",
-      "artist": "Sunidhi Chauhan, Shankar-Ehsaan-Loy",
-      "album": "Dil Dhadakne Do",
-      "has_synced": false,
+      "hash": "83c8fc6f73513c0d",
+      "track": "Guzarish",
+      "artist": "Javed Ali",
+      "album": "Ghajini",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-18T05:28:14.373Z"
-    },
-    {
-      "hash": "c4c21d30706d23ab",
-      "track": "Garmi (feat. Varun Dhawan)",
-      "artist": "Badshah, Neha Kakkar",
-      "album": "Street Dancer 3D",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-23T20:50:57.325Z"
-    },
-    {
-      "hash": "ce63259e303be9de",
-      "track": "Gulab Aur Kaante",
-      "artist": "Nazz - Gulab Aur Kaante",
-      "album": "Gulab Aur Kaante",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-31T09:35:10.183Z"
+      "cached_at": "2026-09-23T16:47:41.949Z"
     }
   ]
 }
