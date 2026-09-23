@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-21T10:56:01.365Z",
+  "updated_at": "2026-09-23T14:19:37.847Z",
   "entries": [
     {
       "hash": "200dbf0834f291e7",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-21T10:51:47.704Z"
+    },
+    {
+      "hash": "fdbb560229343ef5",
+      "track": "Kahani Suno",
+      "artist": "Akhil Sachdeva",
+      "album": "Kahani Suno",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-23T14:19:31.091Z"
     }
   ]
 }
