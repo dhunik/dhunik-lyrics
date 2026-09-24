@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-09-15T11:24:18.717Z",
+  "updated_at": "2026-09-24T15:14:51.111Z",
   "entries": [
     {
-      "hash": "dd3dc5fadf0f09b2",
-      "track": "Hai Mera Dil",
-      "artist": "Alfaaz, Honey Singh - Alfaaz",
-      "album": "Alfaaz",
+      "hash": "acd3db0eeb058cb8",
+      "track": "Inside Illumination",
+      "artist": "Hibou",
+      "album": "Silver",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-15T11:23:48.699Z"
+      "has_plain": true,
+      "cached_at": "2026-09-24T15:14:31.631Z"
     }
   ]
 }
