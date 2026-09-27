@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-09-21T13:22:25.741Z",
+  "updated_at": "2026-09-27T18:59:58.388Z",
   "entries": [
     {
       "hash": "07ad152db44ac8db",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-21T13:18:19.164Z"
+    },
+    {
+      "hash": "5475de7e4ae69ab9",
+      "track": "Chura Liyaa Hai Tumne",
+      "artist": "Himesh Reshammiya, Shaan, Alka Yagnik",
+      "album": "Ishq Hai Tumse",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-09-27T18:59:57.109Z"
     }
   ]
 }
