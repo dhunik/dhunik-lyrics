@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-27T18:59:58.369Z",
+  "updated_at": "2026-09-28T08:06:14.081Z",
   "entries": [
     {
-      "hash": "200dbf0834f291e7",
-      "track": "Jhoom Sharaabi",
-      "artist": "Yo Yo Honey Singh, Athar Hayat, Sameer Hayat - De De Pyaar De 2",
-      "album": "De De Pyaar De 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-21T10:51:47.704Z"
-    },
-    {
-      "hash": "fdbb560229343ef5",
-      "track": "Kahani Suno",
-      "artist": "Akhil Sachdeva",
-      "album": "Kahani Suno",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-23T14:19:31.091Z"
-    },
-    {
-      "hash": "5475de7e4ae69ab9",
-      "track": "Chura Liyaa Hai Tumne",
-      "artist": "Himesh Reshammiya, Shaan, Alka Yagnik",
-      "album": "Ishq Hai Tumse",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-27T18:59:57.109Z"
+      "hash": "dab89731a5f282c4",
+      "track": "Laal Pari (From \"Housefull 5\")",
+      "artist": "Yo Yo Honey Singh, Alfaaz, Simar Kaur - Laal Pari (From \"Housefull 5\")",
+      "album": "Laal Pari (From \"Housefull 5\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-09-28T08:05:57.779Z"
     }
   ]
 }
