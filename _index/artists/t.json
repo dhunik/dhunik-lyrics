@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-08-23T20:50:42.877Z",
+  "updated_at": "2026-10-03T09:47:43.515Z",
   "entries": [
     {
-      "hash": "a28b292f3eda0614",
-      "track": "Galvanize",
-      "artist": "The Chemical Brothers",
-      "album": "Go: Apex And Beyond",
+      "hash": "35db9b4913381659",
+      "track": "I Feel It Coming",
+      "artist": "The Weeknd",
+      "album": "Starboy",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-24T03:52:14.700Z"
-    },
-    {
-      "hash": "e18615f58c899efd",
-      "track": "Galvanize (Edit)",
-      "artist": "The Chemical Brothers",
-      "album": "Galvanize",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-27T03:52:15.388Z"
-    },
-    {
-      "hash": "2f4ee5c3e909c8af",
-      "track": "Galvanize (Extended Version)",
-      "artist": "The Chemical Brothers",
-      "album": "Galvanize",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-07-27T03:53:06.427Z"
-    },
-    {
-      "hash": "8142d59fd66510d0",
-      "track": "LET ME BE",
-      "artist": "The Second Voice",
-      "album": "LET ME BE",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-09T18:31:20.925Z"
-    },
-    {
-      "hash": "8c7a4cf8b8e70d50",
-      "track": "Shree Hanuman Stavan",
-      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
-      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T16:59:38.291Z"
-    },
-    {
-      "hash": "147fb090239c0e7f",
-      "track": "Tu Hain Toh Main Hoon",
-      "artist": "Irshad Kamil, Tanishk Bagchi, Arijit Singh, Afsana Khan - Sky Force",
-      "album": "Sky Force",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-18T05:02:09.817Z"
-    },
-    {
-      "hash": "735d7f9321d521a8",
-      "track": "Mile Ho Tum (Reprise)",
-      "artist": "Neha Kakkar, Tony Kakkar",
-      "album": "Fever",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-23T20:50:40.947Z"
+      "cached_at": "2026-10-03T09:44:12.721Z"
     }
   ]
 }
