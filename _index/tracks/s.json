@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-09-05T05:08:06.908Z",
+  "updated_at": "2026-10-04T14:55:00.815Z",
   "entries": [
     {
-      "hash": "732532252bec44b9",
-      "track": "Stereo Love",
-      "artist": "Edward Maya",
-      "album": "Stereo Love",
+      "hash": "370fa9a15d709c5d",
+      "track": "Shaky",
+      "artist": "Sanju Rathod - Topic",
+      "album": "Shaky - Single",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-09-05T05:05:14.822Z"
+      "cached_at": "2026-10-04T14:50:07.445Z"
     }
   ]
 }
