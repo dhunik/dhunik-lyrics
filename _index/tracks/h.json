@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-09-11T23:57:34.037Z",
+  "updated_at": "2026-10-04T16:42:03.555Z",
   "entries": [
     {
-      "hash": "728e4cad6027eee8",
-      "track": "High Rated Gabru",
-      "artist": "Guru Randhawa",
-      "album": "Nawabzaade",
+      "hash": "0260941bbde00cad",
+      "track": "HANGOVER",
+      "artist": "Meet Bros Anjjan, Shreya Ghoshal, Salman Khan",
+      "album": "Meet Bros Anjjan, Shreya Ghoshal, Salman Khan",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-11T23:54:32.649Z"
+      "has_plain": true,
+      "cached_at": "2026-10-04T16:38:10.121Z"
     }
   ]
 }
