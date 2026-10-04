@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-09-21T12:54:41.436Z",
+  "updated_at": "2026-10-04T14:43:30.007Z",
   "entries": [
     {
-      "hash": "bb1a86e4df6651f5",
-      "track": "Chhote Chhote Peg",
-      "artist": "Navraj Hans, Yo Yo Honey Singh, Neha Kakkar - Sonu Ke Titu Ki Sweety",
-      "album": "Sonu Ke Titu Ki Sweety",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-21T12:51:09.885Z"
+      "hash": "5f4b8a4b9cf94add",
+      "track": "Casa Tupka Anthemo",
+      "artist": "Yo Yo Honey Singh",
+      "album": "Casa Tupka Anthemo",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-04T14:39:32.031Z"
     }
   ]
 }
