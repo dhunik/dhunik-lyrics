@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-09-27T18:59:58.388Z",
+  "updated_at": "2026-10-04T14:55:00.816Z",
   "entries": [
     {
-      "hash": "07ad152db44ac8db",
-      "track": "Dabangg Reloaded",
-      "artist": "Sukhwinder Singh",
-      "album": "Dabangg 2",
+      "hash": "370fa9a15d709c5d",
+      "track": "Shaky",
+      "artist": "Sanju Rathod - Topic",
+      "album": "Shaky - Single",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-21T13:18:19.164Z"
-    },
-    {
-      "hash": "5475de7e4ae69ab9",
-      "track": "Chura Liyaa Hai Tumne",
-      "artist": "Himesh Reshammiya, Shaan, Alka Yagnik",
-      "album": "Ishq Hai Tumse",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-27T18:59:57.109Z"
+      "has_plain": true,
+      "cached_at": "2026-10-04T14:50:07.445Z"
     }
   ]
 }
