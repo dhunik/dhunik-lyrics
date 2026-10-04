@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-09-28T08:06:14.081Z",
+  "updated_at": "2026-10-04T14:33:24.032Z",
   "entries": [
     {
-      "hash": "dab89731a5f282c4",
-      "track": "Laal Pari (From \"Housefull 5\")",
-      "artist": "Yo Yo Honey Singh, Alfaaz, Simar Kaur - Laal Pari (From \"Housefull 5\")",
-      "album": "Laal Pari (From \"Housefull 5\")",
-      "has_synced": false,
+      "hash": "432da04316234e34",
+      "track": "Kyu Hua",
+      "artist": "Arijit Singh - Topic",
+      "album": "Arijit Singh Greatest Hits",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-09-28T08:05:57.779Z"
+      "cached_at": "2026-10-04T14:31:43.385Z"
     }
   ]
 }
