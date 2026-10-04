@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-09-14T17:00:34.149Z",
+  "updated_at": "2026-10-04T15:18:53.281Z",
   "entries": [
     {
-      "hash": "69151c3fefa608a0",
-      "track": "Mere Dholna",
-      "artist": "Pritam, Shreya Ghoshal, M. G.Shreekumar",
-      "album": "Bhool Bhulaiyaa",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-20T06:15:44.077Z"
-    },
-    {
-      "hash": "59300049e16e5904",
-      "track": "Up Se",
-      "artist": "Panther",
-      "album": "Hustle 2.0",
+      "hash": "a6e6149ca5e99d96",
+      "track": "Babuaan",
+      "artist": "Pawan Singh - Topic",
+      "album": "Babuaan",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-08-31T09:33:15.880Z"
-    },
-    {
-      "hash": "aa2882aa3a6654e4",
-      "track": "Ve Kamleya (Sufi Version) (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-      "artist": "Amitabh Bhattacharya, Pritam, Shadab Faridi, Altamash Faridi, Asees Kaur",
-      "album": "Rocky Aur Rani Kii Prem Kahaani",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-03T06:47:57.534Z"
-    },
-    {
-      "hash": "7b5683288229fb24",
-      "track": "Kya Mujhe Pyar Hai",
-      "artist": "Pritam, KK",
-      "album": "Woh Lamhe",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-04T22:01:23.493Z"
-    },
-    {
-      "hash": "1445f358113890a4",
-      "track": "like JENNIE (Peggy Gou Remix)",
-      "artist": "Jennie, Peggy Gou - like JENNIE",
-      "album": "like JENNIE",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-14T17:00:33.034Z"
+      "cached_at": "2026-10-04T15:17:48.246Z"
     }
   ]
 }
