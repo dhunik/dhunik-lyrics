@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-05T16:20:13.501Z",
+  "updated_at": "2026-10-05T16:36:49.667Z",
   "entries": [
     {
-      "hash": "c12f5fe63ae2d89f",
-      "track": "Mere Khuda",
-      "artist": "Arnab Datta",
-      "album": null,
-      "has_synced": false,
+      "hash": "82b314f491118ab1",
+      "track": "Jeene Laga Hoon",
+      "artist": "Atif Aslam, Shreya Ghoshal",
+      "album": "Atif Aslam, Shreya Ghoshal",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-05T16:19:56.533Z"
+      "cached_at": "2026-10-05T16:36:23.042Z"
     }
   ]
 }
