@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-04T14:33:24.032Z",
+  "updated_at": "2026-10-05T12:00:46.812Z",
   "entries": [
     {
       "hash": "432da04316234e34",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-04T14:31:43.385Z"
+    },
+    {
+      "hash": "00c173372f465e62",
+      "track": "Tum Tum Tum ho",
+      "artist": "Sunidhi Chauhan, Arijit Singh",
+      "album": "Fuddu",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-05T12:00:45.230Z"
     }
   ]
 }
