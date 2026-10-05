@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-04T14:55:00.816Z",
+  "updated_at": "2026-10-05T04:46:20.300Z",
   "entries": [
     {
       "hash": "370fa9a15d709c5d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-04T14:50:07.445Z"
+    },
+    {
+      "hash": "2b3c7791c1ac308e",
+      "track": "Melt The Snow",
+      "artist": "Shayne Ward",
+      "album": "Breathless (Expanded Edition)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-05T04:46:18.860Z"
     }
   ]
 }
