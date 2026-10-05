@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-10-03T09:47:43.515Z",
+  "updated_at": "2026-10-05T16:27:30.466Z",
   "entries": [
     {
       "hash": "35db9b4913381659",
-      "track": "I Feel It Coming",
+      "track": "I Feel It Coming (feat. Daft Punk)",
       "artist": "The Weeknd",
       "album": "Starboy",
-      "has_synced": true,
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-03T09:44:12.721Z"
+      "cached_at": "2026-10-05T16:20:41.293Z"
     }
   ]
 }
