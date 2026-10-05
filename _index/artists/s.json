@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-05T04:46:20.300Z",
+  "updated_at": "2026-10-05T16:36:49.671Z",
   "entries": [
     {
-      "hash": "370fa9a15d709c5d",
-      "track": "Shaky",
-      "artist": "Sanju Rathod - Topic",
-      "album": "Shaky - Single",
+      "hash": "82b314f491118ab1",
+      "track": "Jeene Laga Hoon",
+      "artist": "Atif Aslam, Shreya Ghoshal",
+      "album": "Atif Aslam, Shreya Ghoshal",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-04T14:50:07.445Z"
-    },
-    {
-      "hash": "2b3c7791c1ac308e",
-      "track": "Melt The Snow",
-      "artist": "Shayne Ward",
-      "album": "Breathless (Expanded Edition)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-05T04:46:18.860Z"
+      "cached_at": "2026-10-05T16:36:23.042Z"
     }
   ]
 }
