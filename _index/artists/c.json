@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-08-14T08:47:10.577Z",
+  "updated_at": "2026-10-06T11:55:33.671Z",
   "entries": [
     {
-      "hash": "97b782cf237f8dda",
-      "track": "Saadda Haq (Featuring Orianthi Panagaris On Guitars)",
-      "artist": "A.R. Rahman, Clinton Cerejo, Mohit Chauhan",
-      "album": "Rockstar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:28:22.358Z"
-    },
-    {
-      "hash": "34ccc2edd1bef9ed",
-      "track": "Amsham - അംശം",
-      "artist": "Aksomaniac, M.H.R, Bhumi, Circle Tone",
-      "album": "Amsham - അംശം",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-07-29T15:37:11.592Z"
-    },
-    {
-      "hash": "ec379799e70028a3",
-      "track": "love nwantiti (feat. ElGrande Toto) [North African Remix] (North African Remix)",
-      "artist": "Ckay",
-      "album": "love nwantiti (feat. ElGrande Toto) (North African Remix)",
+      "hash": "d654099e607e7156",
+      "track": "Chaahata Dil Tumko Tum Nahin Janate",
+      "artist": "Chirantan Bhatt, Najam Sheraz, Aditya Narayan, Rap-Jaspreet Kohli, Suzanne D'Mello",
+      "album": "Shaapit",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-08-14T08:43:08.409Z"
-    },
-    {
-      "hash": "5cc65bc8d8169af1",
-      "track": "Papaoutai (Afro Soul)",
-      "artist": "Unjaps, Mikeeysmind, Chill77",
-      "album": "Sommer Party 2026",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-14T08:47:09.585Z"
+      "cached_at": "2026-10-06T11:51:55.840Z"
     }
   ]
 }
