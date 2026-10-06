@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-05T16:36:49.667Z",
+  "updated_at": "2026-10-06T11:55:33.681Z",
   "entries": [
     {
-      "hash": "82b314f491118ab1",
-      "track": "Jeene Laga Hoon",
-      "artist": "Atif Aslam, Shreya Ghoshal",
-      "album": "Atif Aslam, Shreya Ghoshal",
+      "hash": "d654099e607e7156",
+      "track": "Chaahata Dil Tumko Tum Nahin Janate",
+      "artist": "Chirantan Bhatt, Najam Sheraz, Aditya Narayan, Rap-Jaspreet Kohli, Suzanne D'Mello",
+      "album": "Shaapit",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-05T16:36:23.042Z"
+      "cached_at": "2026-10-06T11:51:55.840Z"
     }
   ]
 }
