@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-09-28T05:21:01.524Z",
+  "updated_at": "2026-10-08T09:42:51.967Z",
   "entries": [
     {
       "hash": "7b5683288229fb24",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-09-28T05:20:51.343Z"
+    },
+    {
+      "hash": "b6e33f483ebf27e4",
+      "track": "Libaas",
+      "artist": "Kaka",
+      "album": "Libaas",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-08T09:42:49.840Z"
     }
   ]
 }
