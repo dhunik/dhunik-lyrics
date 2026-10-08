@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-04T16:42:03.550Z",
+  "updated_at": "2026-10-08T16:35:54.527Z",
   "entries": [
     {
       "hash": "0260941bbde00cad",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-04T16:38:10.121Z"
+    },
+    {
+      "hash": "e00425b9a6d02e26",
+      "track": "Maine Khud Ko",
+      "artist": "Mustafa Zahid",
+      "album": "Ragini Mms 2 (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-08T16:35:52.422Z"
     }
   ]
 }
