@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-06T11:55:33.681Z",
+  "updated_at": "2026-10-08T16:55:29.307Z",
   "entries": [
     {
-      "hash": "d654099e607e7156",
-      "track": "Chaahata Dil Tumko Tum Nahin Janate",
-      "artist": "Chirantan Bhatt, Najam Sheraz, Aditya Narayan, Rap-Jaspreet Kohli, Suzanne D'Mello",
-      "album": "Shaapit",
+      "hash": "8e3825fb5f7604c2",
+      "track": "DIL MEIN CHHUPA LOONGA",
+      "artist": "MEET BROS, ARMAAN MALIK, TULSI KUMAR, R.D. BURMAN",
+      "album": "WAJAH TUM HO",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-06T11:51:55.840Z"
+      "has_plain": false,
+      "cached_at": "2026-10-08T16:54:33.427Z"
     }
   ]
 }
