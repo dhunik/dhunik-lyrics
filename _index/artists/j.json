@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-09-14T17:00:34.140Z",
+  "updated_at": "2026-10-08T06:49:11.666Z",
   "entries": [
     {
       "hash": "5f4f01fc0155a8bf",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-09-14T17:00:33.034Z"
+    },
+    {
+      "hash": "1f9a15b7aee39ceb",
+      "track": "Deewana Kar Raha Hai",
+      "artist": "Javed Ali",
+      "album": "Javed Ali Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-08T06:49:08.562Z"
     }
   ]
 }
