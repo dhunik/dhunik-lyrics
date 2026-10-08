@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-05T16:36:49.671Z",
+  "updated_at": "2026-10-08T16:09:38.646Z",
   "entries": [
     {
-      "hash": "82b314f491118ab1",
-      "track": "Jeene Laga Hoon",
-      "artist": "Atif Aslam, Shreya Ghoshal",
-      "album": "Atif Aslam, Shreya Ghoshal",
+      "hash": "1d48de79a8126073",
+      "track": "Zindagi Se",
+      "artist": "Shafaqat Ali",
+      "album": "RAAZ 3",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-05T16:36:23.042Z"
+      "cached_at": "2026-10-08T16:09:20.973Z"
     }
   ]
 }
