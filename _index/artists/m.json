@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-08T16:35:54.527Z",
+  "updated_at": "2026-10-09T16:49:25.593Z",
   "entries": [
     {
       "hash": "0260941bbde00cad",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-08T16:35:52.422Z"
+    },
+    {
+      "hash": "ef811213abcdfe18",
+      "track": "TERE BINAA",
+      "artist": "MUSTAFA ZAHID",
+      "album": "HEROPANTI",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-09T16:49:23.036Z"
     }
   ]
 }
