@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-09T16:49:37.785Z",
+  "updated_at": "2026-10-09T17:11:12.725Z",
   "entries": [
     {
       "hash": "1d48de79a8126073",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-09T16:49:34.152Z"
+    },
+    {
+      "hash": "bc538c9833188a45",
+      "track": "Saibo",
+      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
+      "album": "Saibo",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-09T17:11:09.934Z"
     }
   ]
 }
