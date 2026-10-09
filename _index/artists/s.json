@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-08T16:09:38.646Z",
+  "updated_at": "2026-10-09T16:49:37.785Z",
   "entries": [
     {
       "hash": "1d48de79a8126073",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-08T16:09:20.973Z"
+    },
+    {
+      "hash": "ad8f147a2c03f843",
+      "track": "Teri Jhuki Nazar (Film Version)",
+      "artist": "Shafqat Amanat Ali, Sayeed Quadri",
+      "album": "Murder 3 (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-09T16:49:34.152Z"
     }
   ]
 }
