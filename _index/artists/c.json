@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-10-06T11:55:33.671Z",
+  "updated_at": "2026-10-10T10:42:44.578Z",
   "entries": [
     {
-      "hash": "d654099e607e7156",
-      "track": "Chaahata Dil Tumko Tum Nahin Janate",
-      "artist": "Chirantan Bhatt, Najam Sheraz, Aditya Narayan, Rap-Jaspreet Kohli, Suzanne D'Mello",
-      "album": "Shaapit",
+      "hash": "94a1b1cf42d983e3",
+      "track": "Prithibi Ta Naki Chhoto Hote Hote",
+      "artist": "Crosswinds",
+      "album": "Aabar Bachhor Kuri Pore, Vol. 1",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-06T11:51:55.840Z"
+      "cached_at": "2026-10-10T10:41:15.464Z"
     }
   ]
 }
