@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-08-15T08:56:17.744Z",
+  "updated_at": "2026-10-10T13:05:07.091Z",
   "entries": [
     {
-      "hash": "a446c468627edc0c",
-      "track": "Bade Dino Baad",
-      "artist": "Paradox, Ishh",
-      "album": "Bade Dino Baad",
+      "hash": "9e99a0cc48ced7b0",
+      "track": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "album": "Origins",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-15T08:53:29.659Z"
+      "has_plain": true,
+      "cached_at": "2026-10-10T13:04:53.800Z"
     }
   ]
 }
