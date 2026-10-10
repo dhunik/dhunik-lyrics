@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-08T16:55:29.307Z",
+  "updated_at": "2026-10-10T10:12:50.267Z",
   "entries": [
     {
       "hash": "8e3825fb5f7604c2",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-08T16:54:33.427Z"
+    },
+    {
+      "hash": "3fa40b3746392ac9",
+      "track": "Main Tera Boyfriend (From \"Raabta\")",
+      "artist": "Arijit Singh, Neha Kakkar, Meet Bros",
+      "album": "Groove With Arijit Singh",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-10T10:12:46.716Z"
     }
   ]
 }
