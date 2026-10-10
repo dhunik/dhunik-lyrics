@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-09T17:11:12.725Z",
+  "updated_at": "2026-10-10T10:12:44.271Z",
   "entries": [
     {
       "hash": "1d48de79a8126073",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-09T17:11:09.934Z"
+    },
+    {
+      "hash": "14daedb80227298a",
+      "track": "Subha Hone Na De",
+      "artist": "Pritam, Mika Singh, Shefali Alvares, Kumaar",
+      "album": "Desi Boyz",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-10T10:12:41.581Z"
     }
   ]
 }
