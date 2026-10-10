@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-10T10:12:49.990Z",
+  "updated_at": "2026-10-10T10:41:10.540Z",
   "entries": [
     {
       "hash": "0260941bbde00cad",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-10T10:12:46.716Z"
+    },
+    {
+      "hash": "28ce6917b1d8d993",
+      "track": "Phiriye Dao",
+      "artist": "Miles",
+      "album": "Best of Miles",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-10T10:41:09.002Z"
     }
   ]
 }
