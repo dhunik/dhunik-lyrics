@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-10T10:12:44.271Z",
+  "updated_at": "2026-10-11T15:01:06.530Z",
   "entries": [
     {
-      "hash": "1d48de79a8126073",
-      "track": "Zindagi Se",
-      "artist": "Shafaqat Ali",
-      "album": "RAAZ 3",
+      "hash": "6c8d6fe5d5584798",
+      "track": "Humsafar (Movie: Saiyaara)",
+      "artist": "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Irshad Kamil",
+      "album": "Parampara Tandon",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-08T16:09:20.973Z"
-    },
-    {
-      "hash": "ad8f147a2c03f843",
-      "track": "Teri Jhuki Nazar (Film Version)",
-      "artist": "Shafqat Amanat Ali, Sayeed Quadri",
-      "album": "Murder 3 (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-09T16:49:34.152Z"
-    },
-    {
-      "hash": "bc538c9833188a45",
-      "track": "Saibo",
-      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
-      "album": "Saibo",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-09T17:11:09.934Z"
-    },
-    {
-      "hash": "14daedb80227298a",
-      "track": "Subha Hone Na De",
-      "artist": "Pritam, Mika Singh, Shefali Alvares, Kumaar",
-      "album": "Desi Boyz",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-10T10:12:41.581Z"
+      "cached_at": "2026-10-11T14:59:54.672Z"
     }
   ]
 }
