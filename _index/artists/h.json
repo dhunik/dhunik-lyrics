@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-09-24T15:14:51.111Z",
+  "updated_at": "2026-10-13T06:25:41.664Z",
   "entries": [
     {
-      "hash": "acd3db0eeb058cb8",
-      "track": "Inside Illumination",
-      "artist": "Hibou",
-      "album": "Silver",
+      "hash": "2685448dd1d76bee",
+      "track": "Mujh Se Pehli Si Muhabbat",
+      "artist": "Humera Channa, Nabeel Shaukat",
+      "album": "Coke Studio Season 10 Episode 3",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-09-24T15:14:31.631Z"
+      "cached_at": "2026-10-13T06:23:55.703Z"
     }
   ]
 }
