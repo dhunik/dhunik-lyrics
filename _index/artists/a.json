@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-10T10:12:50.267Z",
+  "updated_at": "2026-10-13T13:32:52.275Z",
   "entries": [
     {
       "hash": "8e3825fb5f7604c2",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-10T10:12:46.716Z"
+    },
+    {
+      "hash": "2eb846e0739b1b2a",
+      "track": "Agar Tum Mil Jao",
+      "artist": "Roop Kumar Rathod, Anu Malik, Shreya Ghoshal, Sayeed Quadri",
+      "album": "Zeher (Original Motion Picture Soundtrack)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-13T13:32:50.259Z"
     }
   ]
 }
