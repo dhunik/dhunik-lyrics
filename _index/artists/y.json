@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-10-04T14:43:30.005Z",
+  "updated_at": "2026-10-14T00:28:44.532Z",
   "entries": [
     {
       "hash": "5f4b8a4b9cf94add",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-04T14:39:32.031Z"
+    },
+    {
+      "hash": "fd2df5bfce93eb63",
+      "track": "Thanedar",
+      "artist": "Yo Yo Honey Singh, Bill Singh",
+      "album": "Thanedar",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-14T00:28:37.626Z"
     }
   ]
 }
