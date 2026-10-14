@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-09-13T15:53:38.510Z",
+  "updated_at": "2026-10-14T01:29:26.408Z",
   "entries": [
     {
       "hash": "1718101b2088005d",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-13T15:53:10.465Z"
+    },
+    {
+      "hash": "336a6bb930e19578",
+      "track": "Kamariya (From \"Stree\")",
+      "artist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+      "album": "Kamariya (From \"Stree\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-14T01:29:25.376Z"
     }
   ]
 }
