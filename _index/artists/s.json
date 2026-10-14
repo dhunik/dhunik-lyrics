@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-14T01:29:26.414Z",
+  "updated_at": "2026-10-14T01:29:48.018Z",
   "entries": [
     {
-      "hash": "6c8d6fe5d5584798",
-      "track": "Humsafar (Movie: Saiyaara)",
-      "artist": "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Irshad Kamil",
-      "album": "Parampara Tandon",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-11T14:59:54.672Z"
-    },
-    {
-      "hash": "336a6bb930e19578",
-      "track": "Kamariya (From \"Stree\")",
-      "artist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
-      "album": "Kamariya (From \"Stree\")",
+      "hash": "bc488b8ae61ed94e",
+      "track": "Lat Lag Gayee",
+      "artist": "Pritam Chakraborty, Benny Dayal, Shalmali Kholgade",
+      "album": "Race 2 (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-14T01:29:25.376Z"
+      "cached_at": "2026-10-14T01:29:27.447Z"
     }
   ]
 }
