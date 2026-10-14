@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-10T10:41:10.540Z",
+  "updated_at": "2026-10-14T01:54:57.919Z",
   "entries": [
     {
       "hash": "0260941bbde00cad",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-10T10:41:09.002Z"
+    },
+    {
+      "hash": "f60c2399631c6d73",
+      "track": "Saiyaara",
+      "artist": "Mohit Chauhan",
+      "album": "Ek Tha Tiger - Saiyaara",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-14T01:54:51.608Z"
     }
   ]
 }
