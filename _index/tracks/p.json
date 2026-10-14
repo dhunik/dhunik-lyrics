@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-10-10T10:41:10.542Z",
+  "updated_at": "2026-10-14T01:54:36.946Z",
   "entries": [
     {
       "hash": "87872924edaad465",
@@ -120,6 +120,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-10T10:41:09.002Z"
+    },
+    {
+      "hash": "a27fd178562d8382",
+      "track": "Pal Pal Dil Ke Paas - Version 2",
+      "artist": "Sachet Tandon, Parampara Thakur",
+      "album": "Pal Pal Dil Ke Paas (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-14T01:54:35.352Z"
     }
   ]
 }
