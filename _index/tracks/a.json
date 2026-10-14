@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-13T13:32:52.133Z",
+  "updated_at": "2026-10-14T01:29:22.203Z",
   "entries": [
     {
-      "hash": "d88e465983b46a13",
-      "track": "Ajj Vi Chaunni Aah",
-      "artist": "Ninja",
-      "album": "Ajj Vi Chaunni Aah",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T07:09:35.320Z"
-    },
-    {
-      "hash": "f990460d4d40e3c5",
-      "track": "Aarti Kunj Bihari Ki",
-      "artist": "Anuradha Paudwal",
-      "album": "Aarti-Om Jai Jagdish Hare",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:02:33.612Z"
-    },
-    {
-      "hash": "de458b25d894d5d9",
-      "track": "Awara Hoon",
-      "artist": "Shankar-Jaikishan, Mukesh",
-      "album": "Awaara",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-08-15T17:03:45.241Z"
-    },
-    {
-      "hash": "5c77453369f58327",
-      "track": "Ayi Giri",
-      "artist": "Lilly Palmer, Armin Van Buuren",
-      "album": "A State Of Trance 1262 (2026-01-29) (Unfiltered) [IYPP] (SBD)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-17T03:52:36.421Z"
-    },
-    {
-      "hash": "ded45c2962d67be6",
-      "track": "Achyutam Keshavam by Alka Yagnik",
-      "artist": "Alka Yagnik",
-      "album": "Achyutam Keshavam by Alka Yagnik - Zee Music Deovtional",
+      "hash": "7dcfcf9502004e6b",
+      "track": "Akh Lad Jaave (From \"Loveyatri\")",
+      "artist": "Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi",
+      "album": "Akh Lad Jaave (From \"Loveyatri\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-23T22:53:03.683Z"
-    },
-    {
-      "hash": "91bf0245b6be8646",
-      "track": "Annarakanna Va (from \"Bhramaram\")",
-      "artist": "Vijay Yesudas",
-      "album": "Ishta Gayakan Vijay Yesudas",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-24T09:11:34.143Z"
-    },
-    {
-      "hash": "84e46b5e3760f671",
-      "track": "As It Was",
-      "artist": "Harry Styles",
-      "album": "Harry Styles",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-02T07:48:31.038Z"
-    },
-    {
-      "hash": "9793eda1eaa30d98",
-      "track": "Aye Zindagi",
-      "artist": "Arnab Datta",
-      "album": "Maaya (Original Motion Picture Soundtrack)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-05T16:19:45.578Z"
-    },
-    {
-      "hash": "2eb846e0739b1b2a",
-      "track": "Agar Tum Mil Jao",
-      "artist": "Roop Kumar Rathod, Anu Malik, Shreya Ghoshal, Sayeed Quadri",
-      "album": "Zeher (Original Motion Picture Soundtrack)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-13T13:32:50.259Z"
+      "cached_at": "2026-10-14T01:29:05.108Z"
     }
   ]
 }
