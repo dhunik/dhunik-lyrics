@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-10-14T01:26:08.662Z",
+  "updated_at": "2026-10-14T01:29:48.016Z",
   "entries": [
     {
-      "hash": "472ca7f80d493bc3",
-      "track": "Crazy Habibi Vs Decent Munda",
-      "artist": "Guru Randhawa, Benny Dayal",
-      "album": "Arjun Patiala",
+      "hash": "bc488b8ae61ed94e",
+      "track": "Lat Lag Gayee",
+      "artist": "Pritam Chakraborty, Benny Dayal, Shalmali Kholgade",
+      "album": "Race 2 (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-14T01:23:05.716Z"
+      "cached_at": "2026-10-14T01:29:27.447Z"
     }
   ]
 }
