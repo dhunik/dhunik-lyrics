@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-08T09:42:51.967Z",
+  "updated_at": "2026-10-16T10:11:44.998Z",
   "entries": [
     {
       "hash": "7b5683288229fb24",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-08T09:42:49.840Z"
+    },
+    {
+      "hash": "1c536baa513965fa",
+      "track": "Ucha Lamba Kad",
+      "artist": "Anand Raaj Anand, Kalpana Patowary, Chorus",
+      "album": "Welcome",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T10:11:43.100Z"
     }
   ]
 }
