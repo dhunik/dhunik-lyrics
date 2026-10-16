@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-16T11:53:41.155Z",
+  "updated_at": "2026-10-16T13:02:18.695Z",
   "entries": [
     {
-      "hash": "97c391eca75a6a13",
-      "track": "Tu Hi Meri Shab Hai (Trending Version)",
-      "artist": "Pritam, KK, Sayeed Quadri",
-      "album": "Tu Hi Meri Shab Hai (Trending Version)",
+      "hash": "0f44d13600e1866d",
+      "track": "Ishq Samajh Paaye (From \"Between Distances\")",
+      "artist": "Aditya Rikhari, SHIKHAR SAXENA",
+      "album": "Ishq Samajh Paaye (From \"Between Distances\")",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:53:12.553Z"
+      "has_plain": true,
+      "cached_at": "2026-10-16T12:59:14.019Z"
     }
   ]
 }
