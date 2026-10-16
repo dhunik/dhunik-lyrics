@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-10-16T10:30:42.865Z",
+  "updated_at": "2026-10-16T11:52:00.998Z",
   "entries": [
     {
       "hash": "8791d8503e297ff1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T10:29:11.859Z"
+    },
+    {
+      "hash": "9b1ea2c7c29bb1f4",
+      "track": "Rab Kare",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Mujhse Shaadi Karogi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:51:59.805Z"
     }
   ]
 }
