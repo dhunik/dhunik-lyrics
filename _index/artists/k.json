@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-16T10:42:36.065Z",
+  "updated_at": "2026-10-16T11:00:07.829Z",
   "entries": [
     {
-      "hash": "7631dbaab3b7c73b",
-      "track": "Aankh Hai Bhari Bhari (Male Version)",
-      "artist": "Kumar Sanu",
-      "album": "Tum Se Achcha Kaun Hai",
+      "hash": "03a5e00c1b27fddd",
+      "track": "Judai",
+      "artist": "Kamran Ahmed, Pritam",
+      "album": "Jannat",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-16T10:41:14.235Z"
+      "cached_at": "2026-10-16T10:55:05.635Z"
     }
   ]
 }
