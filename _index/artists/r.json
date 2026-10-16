@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-09-10T05:36:49.581Z",
+  "updated_at": "2026-10-16T10:30:46.684Z",
   "entries": [
     {
       "hash": "a13513bf8473a816",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-09-10T05:36:48.450Z"
+    },
+    {
+      "hash": "d51451a84ec112cd",
+      "track": "Maula Mere Maula",
+      "artist": "Roopkumar Rathod",
+      "album": "Anwar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T10:30:45.402Z"
     }
   ]
 }
