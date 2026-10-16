@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-10-14T01:26:08.653Z",
+  "updated_at": "2026-10-16T11:52:55.823Z",
   "entries": [
     {
       "hash": "472ca7f80d493bc3",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-14T01:23:05.716Z"
+    },
+    {
+      "hash": "3788dc71578e9706",
+      "track": "Mann Mera (From \"Table No. 21\")",
+      "artist": "Gajendra Verma",
+      "album": "Love - From Him",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:52:53.531Z"
     }
   ]
 }
