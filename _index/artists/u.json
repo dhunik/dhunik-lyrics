@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-08-23T21:30:30.821Z",
+  "updated_at": "2026-10-16T09:08:26.450Z",
   "entries": [
     {
       "hash": "86bf8cab67ed99d0",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-08-23T21:30:29.721Z"
+    },
+    {
+      "hash": "befaf829e76eb2a1",
+      "track": "Tumhare Siva",
+      "artist": "Anuradha Paudwal, Udit Narayan",
+      "album": "Tum Bin",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-16T09:08:25.309Z"
     }
   ]
 }
