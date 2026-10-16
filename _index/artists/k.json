@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-16T11:00:07.829Z",
+  "updated_at": "2026-10-16T11:52:42.971Z",
   "entries": [
     {
       "hash": "03a5e00c1b27fddd",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T10:55:05.635Z"
+    },
+    {
+      "hash": "fcd7d09cfedc9425",
+      "track": "Zara Sa (Trending Version)",
+      "artist": "Pritam, KK, Sayeed Quadri",
+      "album": "Zara Sa (Trending Version)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:52:40.727Z"
     }
   ]
 }
