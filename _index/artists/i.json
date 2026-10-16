@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-10-10T13:05:07.091Z",
+  "updated_at": "2026-10-16T11:52:35.059Z",
   "entries": [
     {
       "hash": "9e99a0cc48ced7b0",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-10T13:04:53.800Z"
+    },
+    {
+      "hash": "00e036bb807ffb94",
+      "track": "Tu Hi Haqeeqat",
+      "artist": "Sayeed Quadri, Pritam, Javed Ali, Irshan Ashraf, Shadab",
+      "album": "A Decade of Love",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:52:33.951Z"
     }
   ]
 }
