@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-16T09:03:30.818Z",
+  "updated_at": "2026-10-16T10:11:35.905Z",
   "entries": [
     {
-      "hash": "a1883f7245fc8784",
-      "track": "Main Yahaan Hoon",
-      "artist": "Madan Mohan, Udit Narayan, Javed Akhtar",
-      "album": "Veer-Zaara",
+      "hash": "81e7dc02741d9c97",
+      "track": "Gale Lag Ja (Version 1)",
+      "artist": "Pritam, Javed Ali, Banjyotsna, Ashish Pandit",
+      "album": "De Dana Dan (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-16T09:03:17.890Z"
+      "cached_at": "2026-10-16T10:11:24.576Z"
     }
   ]
 }
