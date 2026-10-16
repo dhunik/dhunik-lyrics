@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-14T01:29:26.408Z",
+  "updated_at": "2026-10-16T13:02:38.184Z",
   "entries": [
     {
       "hash": "1718101b2088005d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-14T01:29:25.376Z"
+    },
+    {
+      "hash": "78a481a1d9b2038d",
+      "track": "Thenkizhakku",
+      "artist": "Santhosh Narayanan, Dhee, Yugabharathi",
+      "album": "Thenkizhakku (From \"Vaazhai\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-16T13:02:33.703Z"
     }
   ]
 }
