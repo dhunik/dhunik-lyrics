@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-14T01:29:48.018Z",
+  "updated_at": "2026-10-16T10:49:07.448Z",
   "entries": [
     {
-      "hash": "bc488b8ae61ed94e",
-      "track": "Lat Lag Gayee",
-      "artist": "Pritam Chakraborty, Benny Dayal, Shalmali Kholgade",
-      "album": "Race 2 (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-14T01:29:27.447Z"
+      "hash": "c0eab063176d150c",
+      "track": "Mohabbat Dil Ka Sakoon",
+      "artist": "Sameer Anjaan, Nadeem-Shravan, Alka Yagnik, Kumar Sanu, Udit Narayan",
+      "album": "Dil Hai Tumhaara",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-16T10:48:20.309Z"
     }
   ]
 }
