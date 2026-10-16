@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-14T01:29:22.203Z",
+  "updated_at": "2026-10-16T10:42:36.064Z",
   "entries": [
     {
-      "hash": "7dcfcf9502004e6b",
-      "track": "Akh Lad Jaave (From \"Loveyatri\")",
-      "artist": "Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi",
-      "album": "Akh Lad Jaave (From \"Loveyatri\")",
+      "hash": "7631dbaab3b7c73b",
+      "track": "Aankh Hai Bhari Bhari (Male Version)",
+      "artist": "Kumar Sanu",
+      "album": "Tum Se Achcha Kaun Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-14T01:29:05.108Z"
+      "cached_at": "2026-10-16T10:41:14.235Z"
     }
   ]
 }
