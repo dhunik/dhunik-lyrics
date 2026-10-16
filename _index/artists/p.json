@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-10-16T11:52:17.647Z",
+  "updated_at": "2026-10-16T11:53:41.151Z",
   "entries": [
     {
-      "hash": "81e7dc02741d9c97",
-      "track": "Gale Lag Ja (Version 1)",
-      "artist": "Pritam, Javed Ali, Banjyotsna, Ashish Pandit",
-      "album": "De Dana Dan (Original Motion Picture Soundtrack)",
+      "hash": "97c391eca75a6a13",
+      "track": "Tu Hi Meri Shab Hai (Trending Version)",
+      "artist": "Pritam, KK, Sayeed Quadri",
+      "album": "Tu Hi Meri Shab Hai (Trending Version)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-16T10:11:24.576Z"
-    },
-    {
-      "hash": "f5f7a99cbd0ccfff",
-      "track": "Dooriyan",
-      "artist": "Pritam, Mohit Chauhan",
-      "album": "Love Aaj Kal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:07.436Z"
-    },
-    {
-      "hash": "821f0dcf90430819",
-      "track": "Jiyein Kyun",
-      "artist": "Jaideep Sahni, Pritam, Papon",
-      "album": "Dum Maaro Dum",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:16.647Z"
+      "cached_at": "2026-10-16T11:53:12.553Z"
     }
   ]
 }
