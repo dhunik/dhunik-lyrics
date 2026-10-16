@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-10-16T09:08:26.450Z",
+  "updated_at": "2026-10-16T10:30:42.865Z",
   "entries": [
     {
-      "hash": "86bf8cab67ed99d0",
-      "track": "Mujhe Neend Na Aaye",
-      "artist": "Anand-Milind, Udit Narayan, Anuradha Paudwal",
-      "album": "Dil",
+      "hash": "8791d8503e297ff1",
+      "track": "Hamein Tumse Hua Pyar",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "album": "Ab Tumhare Hawale Watan Sathiyo",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-04T12:46:49.684Z"
-    },
-    {
-      "hash": "1a4bfe329be578aa",
-      "track": "Ghanan Ghanan",
-      "artist": "A.R. Rahman, Alka Yagnik, Udit Narayan, Sukhwinder Singh, Shankar Mahadevan, Shaan, Sehar",
-      "album": "Lagaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-07T03:12:04.217Z"
-    },
-    {
-      "hash": "e89cab88a06e05c5",
-      "track": "Dil Ka Rishta",
-      "artist": "Sameer Anjaan, Nadeem-Shravan, Alka Yagnik, Udit Narayan, Kumar Sanu",
-      "album": "Dil Ka Rishta",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-23T21:30:29.721Z"
-    },
-    {
-      "hash": "befaf829e76eb2a1",
-      "track": "Tumhare Siva",
-      "artist": "Anuradha Paudwal, Udit Narayan",
-      "album": "Tum Bin",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-16T09:08:25.309Z"
+      "cached_at": "2026-10-16T10:29:11.859Z"
     }
   ]
 }
