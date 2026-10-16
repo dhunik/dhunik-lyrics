@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-10-14T01:54:37.001Z",
+  "updated_at": "2026-10-16T10:11:35.901Z",
   "entries": [
     {
-      "hash": "bc488b8ae61ed94e",
-      "track": "Lat Lag Gayee",
-      "artist": "Pritam Chakraborty, Benny Dayal, Shalmali Kholgade",
-      "album": "Race 2 (Original Motion Picture Soundtrack)",
+      "hash": "81e7dc02741d9c97",
+      "track": "Gale Lag Ja (Version 1)",
+      "artist": "Pritam, Javed Ali, Banjyotsna, Ashish Pandit",
+      "album": "De Dana Dan (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-14T01:29:27.447Z"
-    },
-    {
-      "hash": "a27fd178562d8382",
-      "track": "Pal Pal Dil Ke Paas - Version 2",
-      "artist": "Sachet Tandon, Parampara Thakur",
-      "album": "Pal Pal Dil Ke Paas (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-14T01:54:35.352Z"
+      "cached_at": "2026-10-16T10:11:24.576Z"
     }
   ]
 }
