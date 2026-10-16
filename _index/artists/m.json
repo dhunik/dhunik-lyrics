@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-16T11:52:08.670Z",
+  "updated_at": "2026-10-16T11:52:45.876Z",
   "entries": [
     {
       "hash": "a1883f7245fc8784",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T11:52:07.436Z"
+    },
+    {
+      "hash": "052f1f3f3be5a0a2",
+      "track": "Woh Lamhe Woh Baatein",
+      "artist": "Roop Kumar Rathod, Mithoon, Naresh Sharma, Atif Aslam",
+      "album": "Zeher (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:52:43.792Z"
     }
   ]
 }
