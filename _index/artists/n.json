@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-10-16T10:49:07.450Z",
+  "updated_at": "2026-10-16T11:51:56.951Z",
   "entries": [
     {
       "hash": "c0eab063176d150c",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-16T10:48:20.309Z"
+    },
+    {
+      "hash": "29fe4f5c49df4f6d",
+      "track": "Ek Dilruba Hai",
+      "artist": "Nadeem-Shravan, Udit Narayan, Sameer Anjaan",
+      "album": "Bewafaa",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:51:55.422Z"
     }
   ]
 }
