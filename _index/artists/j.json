@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-16T10:11:35.905Z",
+  "updated_at": "2026-10-16T11:52:17.623Z",
   "entries": [
     {
       "hash": "81e7dc02741d9c97",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T10:11:24.576Z"
+    },
+    {
+      "hash": "821f0dcf90430819",
+      "track": "Jiyein Kyun",
+      "artist": "Jaideep Sahni, Pritam, Papon",
+      "album": "Dum Maaro Dum",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-16T11:52:16.647Z"
     }
   ]
 }
