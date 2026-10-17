@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "track",
-  "updated_at": "2026-09-10T05:36:49.583Z",
+  "updated_at": "2026-10-17T09:12:23.610Z",
   "entries": [
     {
-      "hash": "b70b4feeb6e14915",
-      "track": "FREAKED OUT",
-      "artist": "Fat Papi, prodshushy - FREAKED OUT",
-      "album": "FREAKED OUT",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-07-29T15:27:58.105Z"
-    },
-    {
-      "hash": "b53bef8357c70633",
-      "track": "Fairytale",
-      "artist": "Alexander Rybak",
-      "album": "Fairytales",
+      "hash": "f258fde6060ee133",
+      "track": "Faasle",
+      "artist": "Kaavish & Quratulain Balouch",
+      "album": "Coke Studio Season 10 Episode 2",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-30T03:53:22.536Z"
-    },
-    {
-      "hash": "aad25bc801ad64fd",
-      "track": "Filhall Ft. Akshay Kumar & Nupur Sanon",
-      "artist": "B Praak",
-      "album": "Filhall",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-01T18:44:44.128Z"
-    },
-    {
-      "hash": "577c8094a2156bf2",
-      "track": "Fortuner (Feat. Gulshan Music, Jaat Nia)",
-      "artist": "Raj Mawar, Ruchika Jangid",
-      "album": "Fortuner (Feat. Gulshan Music, Jaat Nia)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-09-10T05:36:48.450Z"
+      "cached_at": "2026-10-17T09:07:27.781Z"
     }
   ]
 }
