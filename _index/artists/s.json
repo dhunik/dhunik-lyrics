@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-18T14:59:54.867Z",
+  "updated_at": "2026-10-18T15:17:11.152Z",
   "entries": [
     {
-      "hash": "98e03f5e183f20da",
-      "track": "Jhol (Acoustic)",
-      "artist": "Shruti Shrivastava",
-      "album": "Jhol (Acoustic)",
-      "has_synced": false,
+      "hash": "91848314399f26ef",
+      "track": "Ishq Hua",
+      "artist": "Sonu Nigam, Shreya Ghoshal",
+      "album": "Aaja Nachle - Ishq Hua",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-18T14:59:01.460Z"
+      "cached_at": "2026-10-18T15:16:58.514Z"
     }
   ]
 }
