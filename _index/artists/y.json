@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-10-16T13:02:39.412Z",
+  "updated_at": "2026-10-18T09:53:18.455Z",
   "entries": [
     {
-      "hash": "5f4b8a4b9cf94add",
-      "track": "Casa Tupka Anthemo",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Casa Tupka Anthemo",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-04T14:39:32.031Z"
-    },
-    {
-      "hash": "fd2df5bfce93eb63",
-      "track": "Thanedar",
-      "artist": "Yo Yo Honey Singh, Bill Singh",
-      "album": "Thanedar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-14T00:28:37.626Z"
-    },
-    {
-      "hash": "78a481a1d9b2038d",
-      "track": "Thenkizhakku",
-      "artist": "Santhosh Narayanan, Dhee, Yugabharathi",
-      "album": "Thenkizhakku (From \"Vaazhai\")",
+      "hash": "3e2271f1efb91059",
+      "track": "Manike",
+      "artist": "Yohani, Jubin Nautiyal, Surya Ragunaathan",
+      "album": "615M plays",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-16T13:02:33.703Z"
+      "cached_at": "2026-10-18T09:52:37.766Z"
     }
   ]
 }
