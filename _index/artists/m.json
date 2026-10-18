@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-18T15:04:53.114Z",
+  "updated_at": "2026-10-18T15:22:43.157Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-18T15:04:33.190Z"
+    },
+    {
+      "hash": "f67917367d95c5e6",
+      "track": "New Version",
+      "artist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri",
+      "album": "Awarapan 2 (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-18T15:22:40.004Z"
     }
   ]
 }
