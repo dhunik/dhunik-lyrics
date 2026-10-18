@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-10-18T08:16:51.066Z",
+  "updated_at": "2026-10-18T08:20:32.142Z",
   "entries": [
     {
-      "hash": "bc488b8ae61ed94e",
-      "track": "Lat Lag Gayee",
-      "artist": "Pritam Chakraborty, Benny Dayal, Shalmali Kholgade",
-      "album": "Race 2 (Original Motion Picture Soundtrack)",
+      "hash": "56cca4bcb6fc6e73",
+      "track": "Dj Waley Babu (feat. Aastha Gill)",
+      "artist": "Badshah",
+      "album": "ONE (Original Never Ends)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-14T01:29:27.447Z"
-    },
-    {
-      "hash": "5733098740952310",
-      "track": "Abhi Toh Party Shuru Hui Hai",
-      "artist": "Badshah, Aastha",
-      "album": "Khoobsurat",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-18T08:16:47.598Z"
+      "cached_at": "2026-10-18T08:19:54.284Z"
     }
   ]
 }
