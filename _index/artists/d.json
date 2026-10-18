@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-16T13:02:38.184Z",
+  "updated_at": "2026-10-18T07:56:02.054Z",
   "entries": [
     {
       "hash": "1718101b2088005d",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-16T13:02:33.703Z"
+    },
+    {
+      "hash": "3a7a5000d6c2373d",
+      "track": "Sauda Khara Khara",
+      "artist": "Sukhbir, Diljit Dosanjh, Kumaar, Lijo George, Dj Chetas, Dhvani Bhanushali",
+      "album": "Dance Vibes Only",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-18T07:55:58.112Z"
     }
   ]
 }
