@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-16T11:52:17.623Z",
+  "updated_at": "2026-10-18T08:23:07.785Z",
   "entries": [
     {
-      "hash": "81e7dc02741d9c97",
-      "track": "Gale Lag Ja (Version 1)",
-      "artist": "Pritam, Javed Ali, Banjyotsna, Ashish Pandit",
-      "album": "De Dana Dan (Original Motion Picture Soundtrack)",
+      "hash": "48c2e6ff1d34f5f1",
+      "track": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "artist": "Amitabh Bhattacharya, Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh - Rocky Aur Rani Kii Prem Kahaani",
+      "album": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\") - Single",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-10-16T10:11:24.576Z"
-    },
-    {
-      "hash": "821f0dcf90430819",
-      "track": "Jiyein Kyun",
-      "artist": "Jaideep Sahni, Pritam, Papon",
-      "album": "Dum Maaro Dum",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:16.647Z"
+      "cached_at": "2026-10-18T08:22:53.451Z"
     }
   ]
 }
