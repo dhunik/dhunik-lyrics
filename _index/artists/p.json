@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-10-16T11:53:41.151Z",
+  "updated_at": "2026-10-18T08:42:55.019Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T11:53:12.553Z"
+    },
+    {
+      "hash": "0d0c2a32db45fc6c",
+      "track": "Pal Pal Dil Ke Paas- Title Track",
+      "artist": "Arijit Singh, Parampara Tandon",
+      "album": "Wedding Love Songs",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-18T08:42:53.823Z"
     }
   ]
 }
