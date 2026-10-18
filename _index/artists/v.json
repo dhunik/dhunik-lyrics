@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-10-16T09:54:38.715Z",
+  "updated_at": "2026-10-18T08:20:20.406Z",
   "entries": [
     {
       "hash": "26ca3dcac97826bc",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T09:49:20.400Z"
+    },
+    {
+      "hash": "418094ae0809c81d",
+      "track": "Hookah Bar (From \"Khiladi 786\")",
+      "artist": "Himesh Reshammiya, Vineet Singh, Aman Trikha",
+      "album": "Best Of Akshay Kumar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-18T08:20:19.323Z"
     }
   ]
 }
