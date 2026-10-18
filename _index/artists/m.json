@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-16T11:52:45.876Z",
+  "updated_at": "2026-10-18T15:04:53.114Z",
   "entries": [
     {
-      "hash": "a1883f7245fc8784",
-      "track": "Main Yahaan Hoon",
-      "artist": "Madan Mohan, Udit Narayan, Javed Akhtar",
-      "album": "Veer-Zaara",
+      "hash": "81ee525fd953eee2",
+      "track": "Jhol",
+      "artist": "Maanu, Annural Khalid",
+      "album": "593M views",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T09:03:17.890Z"
-    },
-    {
-      "hash": "49361ef67bbc532d",
-      "track": "Tune Jo Na Kaha",
-      "artist": "Pritam, Mohit Chauhan, Sandeep Shrivastava",
-      "album": "New York",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T09:13:19.476Z"
-    },
-    {
-      "hash": "f5f7a99cbd0ccfff",
-      "track": "Dooriyan",
-      "artist": "Pritam, Mohit Chauhan",
-      "album": "Love Aaj Kal",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:07.436Z"
-    },
-    {
-      "hash": "052f1f3f3be5a0a2",
-      "track": "Woh Lamhe Woh Baatein",
-      "artist": "Roop Kumar Rathod, Mithoon, Naresh Sharma, Atif Aslam",
-      "album": "Zeher (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:43.792Z"
+      "has_plain": true,
+      "cached_at": "2026-10-18T15:04:33.190Z"
     }
   ]
 }
