@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-18T08:23:07.785Z",
+  "updated_at": "2026-10-18T09:53:18.458Z",
   "entries": [
     {
-      "hash": "48c2e6ff1d34f5f1",
-      "track": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-      "artist": "Amitabh Bhattacharya, Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh - Rocky Aur Rani Kii Prem Kahaani",
-      "album": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\") - Single",
+      "hash": "3e2271f1efb91059",
+      "track": "Manike",
+      "artist": "Yohani, Jubin Nautiyal, Surya Ragunaathan",
+      "album": "615M plays",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-18T08:22:53.451Z"
+      "has_plain": true,
+      "cached_at": "2026-10-18T09:52:37.766Z"
     }
   ]
 }
