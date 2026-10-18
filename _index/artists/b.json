@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-10-14T01:29:48.016Z",
+  "updated_at": "2026-10-18T08:16:51.066Z",
   "entries": [
     {
       "hash": "bc488b8ae61ed94e",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-14T01:29:27.447Z"
+    },
+    {
+      "hash": "5733098740952310",
+      "track": "Abhi Toh Party Shuru Hui Hai",
+      "artist": "Badshah, Aastha",
+      "album": "Khoobsurat",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-18T08:16:47.598Z"
     }
   ]
 }
