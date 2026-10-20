@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-10-16T11:52:00.998Z",
+  "updated_at": "2026-10-20T13:29:56.203Z",
   "entries": [
     {
       "hash": "8791d8503e297ff1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T11:51:59.805Z"
+    },
+    {
+      "hash": "b1466d0e263144d9",
+      "track": "Uncle Uncle Little Star",
+      "artist": "Unni Krishnan - Uncle",
+      "album": "Uncle",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:29:50.798Z"
     }
   ]
 }
