@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-20T12:57:05.063Z",
+  "updated_at": "2026-10-20T13:29:10.958Z",
   "entries": [
     {
-      "hash": "c6dfc024616ed774",
-      "track": "Telugu",
-      "artist": "Anirudh Ravichander, Ramajogayya Sastry - Devara Part 1 - Telugu",
-      "album": "Devara Part 1 - Telugu",
+      "hash": "71cbf77dd7ea9d94",
+      "track": "You Are My Heart Beat",
+      "artist": "Anurag Kulkarni - Iddari Lokam Okate",
+      "album": "Mickey J Meyer",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T12:56:17.541Z"
+      "cached_at": "2026-10-20T13:28:02.693Z"
     }
   ]
 }
