@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-10-14T01:54:36.946Z",
+  "updated_at": "2026-10-20T11:38:23.402Z",
   "entries": [
     {
       "hash": "87872924edaad465",
@@ -129,6 +129,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-14T01:54:35.352Z"
+    },
+    {
+      "hash": "05f30fe8859d6fe7",
+      "track": "Paisa Hai Toh",
+      "artist": "Jigar Saraiya, Sachin-Jigar, Vishal Dadlani, Mellow D - Farzi (Original Series Soundtrack)",
+      "album": "Farzi (Original Series Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-20T11:38:21.975Z"
     }
   ]
 }
