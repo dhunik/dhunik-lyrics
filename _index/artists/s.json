@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-20T13:38:47.141Z",
+  "updated_at": "2026-10-20T13:39:14.502Z",
   "entries": [
     {
-      "hash": "c82e0bc2f79dff23",
-      "track": "Meghala Pallakilona",
-      "artist": "Koti, Sunitha, Sri Ram Prabhu - Ela Cheppanu",
-      "album": "Ela Cheppanu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:34:26.261Z"
-    },
-    {
-      "hash": "ae456cc9f43b2361",
-      "track": "Rangula Taraka",
-      "artist": "Koti, Karthik, Sunitha - Ela Cheppanu",
-      "album": "Ela Cheppanu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:36:14.568Z"
-    },
-    {
-      "hash": "b0bf5f433cf30f77",
-      "track": "Gundu Sudhi",
-      "artist": "M.M.Keeravani, Sunitha",
-      "album": "Chatrapathi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:36:21.318Z"
-    },
-    {
-      "hash": "40746bdfe8e9719b",
-      "track": "Yedho Yedho",
+      "hash": "001dcc3303fde999",
+      "track": "Yedho Yedho-2",
       "artist": "Mani Sharma, Saindhavi - Sasirekha Parinayam",
       "album": "Sasirekha Parinayam",
-      "has_synced": false,
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:38:40.663Z"
+      "cached_at": "2026-10-20T13:38:56.914Z"
     }
   ]
 }
