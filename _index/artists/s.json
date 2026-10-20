@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-20T13:39:14.502Z",
+  "updated_at": "2026-10-20T13:51:56.063Z",
   "entries": [
     {
       "hash": "001dcc3303fde999",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:38:56.914Z"
+    },
+    {
+      "hash": "47e8a2e02f8f1a0c",
+      "track": "Lallaloy",
+      "artist": "Mickey J Meyer, Krishna Chaitanya, Shweta Pandit - Ganesh (New)",
+      "album": "Ganesh (New)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:51:51.593Z"
     }
   ]
 }
