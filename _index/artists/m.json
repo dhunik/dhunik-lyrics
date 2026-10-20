@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-20T13:36:26.255Z",
+  "updated_at": "2026-10-20T13:38:31.193Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:36:21.318Z"
+    },
+    {
+      "hash": "6b4fb1e174602836",
+      "track": "Gundello",
+      "artist": "Mani Sharma, Jai Srinivas - Sasirekha Parinayam",
+      "album": "Sasirekha Parinayam",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:38:26.627Z"
     }
   ]
 }
