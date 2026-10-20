@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-20T13:19:25.221Z",
+  "updated_at": "2026-10-20T13:21:39.186Z",
   "entries": [
     {
-      "hash": "15f850b057c7449a",
-      "track": "Boom Boom \")",
-      "artist": "bebhumika, Deepthi Suresh",
-      "album": "4:01",
+      "hash": "ce3158b431f6b4f8",
+      "track": "Chundari Penne",
+      "artist": "Dulquer Salmaan, Gopi Sunder - Charlie",
+      "album": "Charlie",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:18:50.959Z"
+      "cached_at": "2026-10-20T13:20:55.837Z"
     }
   ]
 }
