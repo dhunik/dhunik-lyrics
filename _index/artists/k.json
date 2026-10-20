@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-20T13:36:42.356Z",
+  "updated_at": "2026-10-20T13:37:17.767Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -39,6 +39,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:36:32.721Z"
+    },
+    {
+      "hash": "5ea0248a328c1476",
+      "track": "Kalalalo Nuvve",
+      "artist": "Vandemataram Srinivas, Udit Narayan, Kavita Krishnamurthy - Chirujallu",
+      "album": "Chirujallu",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:37:13.830Z"
     }
   ]
 }
