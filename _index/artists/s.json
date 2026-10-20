@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-20T13:33:46.275Z",
+  "updated_at": "2026-10-20T13:34:24.152Z",
   "entries": [
     {
       "hash": "4c92f5d220fa99bf",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:33:41.255Z"
+    },
+    {
+      "hash": "88d5472ae0b7f0d5",
+      "track": "Nelanadiga",
+      "artist": "Shivashankar, S.P. Balasubrahmanyam - Priyamainaneeku",
+      "album": "Priyamainaneeku",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:34:17.523Z"
     }
   ]
 }
