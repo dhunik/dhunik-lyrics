@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-10-13T06:25:41.664Z",
+  "updated_at": "2026-10-20T13:45:31.745Z",
   "entries": [
     {
       "hash": "2685448dd1d76bee",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-13T06:23:55.703Z"
+    },
+    {
+      "hash": "6496587511b47e52",
+      "track": "Oka Padam",
+      "artist": "Mani Sharma, Malavika, Hemachandra - Racha",
+      "album": "Racha",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:45:28.533Z"
     }
   ]
 }
