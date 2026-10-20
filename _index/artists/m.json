@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-20T13:36:01.496Z",
+  "updated_at": "2026-10-20T13:36:26.255Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:35:58.508Z"
+    },
+    {
+      "hash": "b0bf5f433cf30f77",
+      "track": "Gundu Sudhi",
+      "artist": "M.M.Keeravani, Sunitha",
+      "album": "Chatrapathi",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:36:21.318Z"
     }
   ]
 }
