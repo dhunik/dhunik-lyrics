@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-10-20T13:36:45.538Z",
+  "updated_at": "2026-10-20T13:37:44.655Z",
   "entries": [
     {
       "hash": "9eef83bb9b553df7",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:36:32.721Z"
+    },
+    {
+      "hash": "5fa1bd6322fef15b",
+      "track": "Snehithude Unte",
+      "artist": "A.R. Rahman, Mano, Unni Krishnan, Chinmayi Sripada - Nee Manasu Naaku Telusu",
+      "album": "Nee Manasu Naaku Telusu",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:37:43.255Z"
     }
   ]
 }
