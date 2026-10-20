@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-20T13:51:38.117Z",
+  "updated_at": "2026-10-20T13:52:14.823Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -66,6 +66,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:51:32.030Z"
+    },
+    {
+      "hash": "ec1e6ae8406df882",
+      "track": "Chalo Chlaore",
+      "artist": "Mickey J Meyer, Karthik - Ganesh (New)",
+      "album": "Ganesh (New)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:52:05.324Z"
     }
   ]
 }
