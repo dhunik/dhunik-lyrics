@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-10-20T13:21:39.189Z",
+  "updated_at": "2026-10-20T13:31:29.276Z",
   "entries": [
     {
       "hash": "ce3158b431f6b4f8",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:20:55.837Z"
+    },
+    {
+      "hash": "f96b8b972be920bd",
+      "track": "Nannochi Takindhi",
+      "artist": "Mani Sharma, Karthik, Gopika Poornima - Sakhiya",
+      "album": "Mani Sharma",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:31:25.381Z"
     }
   ]
 }
