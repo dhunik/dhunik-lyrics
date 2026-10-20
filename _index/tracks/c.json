@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-10-16T11:52:50.761Z",
+  "updated_at": "2026-10-20T13:31:13.065Z",
   "entries": [
     {
-      "hash": "5f4b8a4b9cf94add",
-      "track": "Casa Tupka Anthemo",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Casa Tupka Anthemo",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-04T14:39:32.031Z"
-    },
-    {
-      "hash": "087149477f3028b4",
-      "track": "Chaahat",
-      "artist": "Jeet Gannguli, Rahat Fateh Ali Khan, Sayeed Quadri",
-      "album": "Blood Money (Original Motion Picture Soundtrack)",
+      "hash": "31f6d04207100b7c",
+      "track": "Chindulese Vaisulo",
+      "artist": "Devi Sri Prasad - Oka Oorilo",
+      "album": "Devi Sri Prasad",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:49.371Z"
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:30:58.955Z"
     }
   ]
 }
