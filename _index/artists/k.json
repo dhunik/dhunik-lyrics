@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-20T13:37:38.665Z",
+  "updated_at": "2026-10-20T13:51:38.117Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -57,6 +57,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:37:30.834Z"
+    },
+    {
+      "hash": "4ed64540be5a155c",
+      "track": "Rajakumari",
+      "artist": "Mickey J Meyer, Kunal Ganjawala, Sri Madhumitha - Ganesh (New)",
+      "album": "Ganesh (New)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:51:32.030Z"
     }
   ]
 }
