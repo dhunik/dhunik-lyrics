@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-20T13:32:01.067Z",
+  "updated_at": "2026-10-20T13:36:42.356Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:31:51.840Z"
+    },
+    {
+      "hash": "9eef83bb9b553df7",
+      "track": "Manninchu O Prema",
+      "artist": "Koti, Udit Narayan, K. S. Chithra - Ela Cheppanu",
+      "album": "Ela Cheppanu",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:36:32.721Z"
     }
   ]
 }
