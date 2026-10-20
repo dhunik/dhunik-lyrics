@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-20T13:32:01.065Z",
+  "updated_at": "2026-10-20T13:32:40.744Z",
   "entries": [
     {
-      "hash": "91848314399f26ef",
-      "track": "Ishq Hua",
-      "artist": "Sonu Nigam, Shreya Ghoshal",
-      "album": "Aaja Nachle - Ishq Hua",
+      "hash": "4c92f5d220fa99bf",
+      "track": "Yemantave Oh Manasa",
+      "artist": "R.P. Patnaik, K. S. Chithra, S.P. Balasubrahmanyam - Ninne Ishtapaddanu",
+      "album": "R.P. Patnaik",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-18T15:16:58.514Z"
-    },
-    {
-      "hash": "4117fc8c17a5b18f",
-      "track": "Kurraallam Kurraallam",
-      "artist": "Sonu Nigam - Uncle",
-      "album": "Uncle",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:29:31.293Z"
-    },
-    {
-      "hash": "4b7d9aa70bbf270c",
-      "track": "Dil Se",
-      "artist": "Karthik, Shwetha Mohan",
-      "album": "Gabbar Singh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:31:51.840Z"
+      "cached_at": "2026-10-20T13:32:26.512Z"
     }
   ]
 }
