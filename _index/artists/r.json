@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-10-17T09:13:02.391Z",
+  "updated_at": "2026-10-20T13:22:54.980Z",
   "entries": [
     {
-      "hash": "2b7933f3b5d7340b",
-      "track": "Afreen Afreen",
-      "artist": "Rahat Fateh Ali Khan & Momina Mustehsan",
-      "album": "Coke Studio, Season 9",
-      "has_synced": true,
+      "hash": "39f8cb8919d53be0",
+      "track": "Gundegilli",
+      "artist": "Rohit Paritala - Kanulu Kanulanu Dhochaayante",
+      "album": "Kanulu Kanulanu Dhochaayante",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-17T09:12:32.056Z"
+      "cached_at": "2026-10-20T13:22:09.145Z"
     }
   ]
 }
