@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-20T13:34:24.152Z",
+  "updated_at": "2026-10-20T13:34:51.443Z",
   "entries": [
     {
-      "hash": "4c92f5d220fa99bf",
-      "track": "Yemantave Oh Manasa",
-      "artist": "R.P. Patnaik, K. S. Chithra, S.P. Balasubrahmanyam - Ninne Ishtapaddanu",
-      "album": "R.P. Patnaik",
+      "hash": "c82e0bc2f79dff23",
+      "track": "Meghala Pallakilona",
+      "artist": "Koti, Sunitha, Sri Ram Prabhu - Ela Cheppanu",
+      "album": "Ela Cheppanu",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:32:26.512Z"
-    },
-    {
-      "hash": "0593e54003b58aee",
-      "track": "Manasuna Unnadi (Male)",
-      "artist": "Shivashankar, S.P. Balasubrahmanyam - Priyamainaneeku",
-      "album": "Priyamainaneeku",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:33:41.255Z"
-    },
-    {
-      "hash": "88d5472ae0b7f0d5",
-      "track": "Nelanadiga",
-      "artist": "Shivashankar, S.P. Balasubrahmanyam - Priyamainaneeku",
-      "album": "Priyamainaneeku",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:34:17.523Z"
+      "cached_at": "2026-10-20T13:34:26.261Z"
     }
   ]
 }
