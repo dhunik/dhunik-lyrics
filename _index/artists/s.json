@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-18T15:17:11.152Z",
+  "updated_at": "2026-10-20T13:29:39.573Z",
   "entries": [
     {
       "hash": "91848314399f26ef",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-18T15:16:58.514Z"
+    },
+    {
+      "hash": "4117fc8c17a5b18f",
+      "track": "Kurraallam Kurraallam",
+      "artist": "Sonu Nigam - Uncle",
+      "album": "Uncle",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:29:31.293Z"
     }
   ]
 }
