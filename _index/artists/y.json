@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-10-18T09:53:18.455Z",
+  "updated_at": "2026-10-20T13:44:29.928Z",
   "entries": [
     {
       "hash": "3e2271f1efb91059",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-18T09:52:37.766Z"
+    },
+    {
+      "hash": "fe7bc58d3e0d1a66",
+      "track": "Gulabi Kallu Rendu Mullu",
+      "artist": "Yuvan Shankar Raja, Javed Ali - Govindudu Andarivaadele",
+      "album": "Govindudu Andarivaadele",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:44:23.741Z"
     }
   ]
 }
