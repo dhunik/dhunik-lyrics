@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-20T13:32:40.744Z",
+  "updated_at": "2026-10-20T13:33:46.275Z",
   "entries": [
     {
       "hash": "4c92f5d220fa99bf",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:32:26.512Z"
+    },
+    {
+      "hash": "0593e54003b58aee",
+      "track": "Manasuna Unnadi (Male)",
+      "artist": "Shivashankar, S.P. Balasubrahmanyam - Priyamainaneeku",
+      "album": "Priyamainaneeku",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:33:41.255Z"
     }
   ]
 }
