@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-20T13:31:29.279Z",
+  "updated_at": "2026-10-20T13:32:01.067Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:31:25.381Z"
+    },
+    {
+      "hash": "4b7d9aa70bbf270c",
+      "track": "Dil Se",
+      "artist": "Karthik, Shwetha Mohan",
+      "album": "Gabbar Singh (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:31:51.840Z"
     }
   ]
 }
