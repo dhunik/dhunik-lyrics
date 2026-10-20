@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-20T13:37:17.767Z",
+  "updated_at": "2026-10-20T13:37:38.665Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:37:13.830Z"
+    },
+    {
+      "hash": "a8ffaf4e73a40d79",
+      "track": "Kama Kama",
+      "artist": "A.R. Rahman, Anupama, Kunal, Aparna - Nee Manasu Naaku Telusu",
+      "album": "Nee Manasu Naaku Telusu",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:37:30.834Z"
     }
   ]
 }
