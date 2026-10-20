@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-18T15:04:53.117Z",
+  "updated_at": "2026-10-20T12:57:05.063Z",
   "entries": [
     {
-      "hash": "81ee525fd953eee2",
-      "track": "Jhol",
-      "artist": "Maanu, Annural Khalid",
-      "album": "593M views",
+      "hash": "c6dfc024616ed774",
+      "track": "Telugu",
+      "artist": "Anirudh Ravichander, Ramajogayya Sastry - Devara Part 1 - Telugu",
+      "album": "Devara Part 1 - Telugu",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-18T15:04:33.190Z"
+      "cached_at": "2026-10-20T12:56:17.541Z"
     }
   ]
 }
