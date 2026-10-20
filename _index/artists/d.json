@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-20T13:21:39.186Z",
+  "updated_at": "2026-10-20T13:31:13.067Z",
   "entries": [
     {
-      "hash": "ce3158b431f6b4f8",
-      "track": "Chundari Penne",
-      "artist": "Dulquer Salmaan, Gopi Sunder - Charlie",
-      "album": "Charlie",
+      "hash": "31f6d04207100b7c",
+      "track": "Chindulese Vaisulo",
+      "artist": "Devi Sri Prasad - Oka Oorilo",
+      "album": "Devi Sri Prasad",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:20:55.837Z"
+      "cached_at": "2026-10-20T13:30:58.955Z"
     }
   ]
 }
