@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-10-20T13:32:40.736Z",
+  "updated_at": "2026-10-20T13:33:07.582Z",
   "entries": [
     {
       "hash": "4c92f5d220fa99bf",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:32:26.512Z"
+    },
+    {
+      "hash": "e23469fdd24d9ce0",
+      "track": "Krishna Zilla",
+      "artist": "R.P. Patnaik, Ravi Varma - Ninne Ishtapaddanu",
+      "album": "Ninne Ishtapaddanu",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:33:04.019Z"
     }
   ]
 }
