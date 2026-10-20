@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-20T11:38:23.446Z",
+  "updated_at": "2026-10-20T13:25:47.633Z",
   "entries": [
     {
-      "hash": "3e2271f1efb91059",
-      "track": "Manike",
-      "artist": "Yohani, Jubin Nautiyal, Surya Ragunaathan",
-      "album": "615M plays",
+      "hash": "bf67d215b4999219",
+      "track": "Adbhutam",
+      "artist": "Jubin Nautiyal, Ranjini Jose - Lover",
+      "album": "Tanishk Bagchi",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-18T09:52:37.766Z"
-    },
-    {
-      "hash": "05f30fe8859d6fe7",
-      "track": "Paisa Hai Toh",
-      "artist": "Jigar Saraiya, Sachin-Jigar, Vishal Dadlani, Mellow D - Farzi (Original Series Soundtrack)",
-      "album": "Farzi (Original Series Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-20T11:38:21.975Z"
+      "cached_at": "2026-10-20T13:25:27.781Z"
     }
   ]
 }
