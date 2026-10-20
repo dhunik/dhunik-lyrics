@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-10-20T13:29:56.203Z",
+  "updated_at": "2026-10-20T13:36:45.538Z",
   "entries": [
     {
-      "hash": "8791d8503e297ff1",
-      "track": "Hamein Tumse Hua Pyar",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Ab Tumhare Hawale Watan Sathiyo",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T10:29:11.859Z"
-    },
-    {
-      "hash": "9b1ea2c7c29bb1f4",
-      "track": "Rab Kare",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Mujhse Shaadi Karogi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:51:59.805Z"
-    },
-    {
-      "hash": "b1466d0e263144d9",
-      "track": "Uncle Uncle Little Star",
-      "artist": "Unni Krishnan - Uncle",
-      "album": "Uncle",
+      "hash": "9eef83bb9b553df7",
+      "track": "Manninchu O Prema",
+      "artist": "Koti, Udit Narayan, K. S. Chithra - Ela Cheppanu",
+      "album": "Ela Cheppanu",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:29:50.798Z"
+      "cached_at": "2026-10-20T13:36:32.721Z"
     }
   ]
 }
