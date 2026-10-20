@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-10-20T13:44:29.928Z",
+  "updated_at": "2026-10-20T13:49:46.579Z",
   "entries": [
     {
       "hash": "3e2271f1efb91059",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:44:23.741Z"
+    },
+    {
+      "hash": "0a76e0e79ddd4025",
+      "track": "I Love You Too",
+      "artist": "Yazin Nizar, Sameera - Shivam",
+      "album": "Shivam",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:49:45.097Z"
     }
   ]
 }
