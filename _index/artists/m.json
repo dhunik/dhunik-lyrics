@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-20T13:38:31.193Z",
+  "updated_at": "2026-10-20T13:48:42.311Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:38:26.627Z"
+    },
+    {
+      "hash": "eaad96942b9e2310",
+      "track": "Bonalu",
+      "artist": "Rahul Sipligunj, Mohana Bhogaraju - Ismart Shankar",
+      "album": "Ismart Shankar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-20T13:48:38.633Z"
     }
   ]
 }
