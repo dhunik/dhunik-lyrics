@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-10-20T13:45:31.745Z",
+  "updated_at": "2026-10-21T14:31:36.963Z",
   "entries": [
     {
       "hash": "2685448dd1d76bee",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:45:28.533Z"
+    },
+    {
+      "hash": "ef393989bc1be08a",
+      "track": "Udi Udi",
+      "artist": "Aneesh, Sarkar, Hruday",
+      "album": "Aneesh",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-21T14:31:33.301Z"
     }
   ]
 }
