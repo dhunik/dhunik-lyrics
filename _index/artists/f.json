@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-09-12T00:42:53.690Z",
+  "updated_at": "2026-10-21T10:01:25.826Z",
   "entries": [
     {
       "hash": "b70b4feeb6e14915",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-09-12T00:42:52.707Z"
+    },
+    {
+      "hash": "aba7283c2bb43175",
+      "track": "Shikwa Jawab E Shikwa",
+      "artist": "Natasha Baig, Fareed Ayaz & Abu Muhammad Qawwal & Brothers",
+      "album": "Coke Studio Season 11: Episode 1",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-21T10:01:24.449Z"
     }
   ]
 }
