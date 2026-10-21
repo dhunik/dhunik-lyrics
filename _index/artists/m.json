@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-20T13:52:14.824Z",
+  "updated_at": "2026-10-21T10:00:41.613Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -66,6 +66,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:52:05.324Z"
+    },
+    {
+      "hash": "d4f762f0a077dbaf",
+      "track": "Jaan Ban Gaye",
+      "artist": "Mithoon, Vishal Mishra, Asees Kaur - Khuda Haafiz",
+      "album": "Khuda Haafiz",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-21T10:00:35.829Z"
     }
   ]
 }
