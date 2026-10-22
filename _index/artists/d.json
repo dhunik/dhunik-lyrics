@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-20T13:53:14.334Z",
+  "updated_at": "2026-10-22T13:25:19.820Z",
   "entries": [
     {
       "hash": "31f6d04207100b7c",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:53:11.752Z"
+    },
+    {
+      "hash": "17704c6dd5310e6b",
+      "track": "Boom Shaka",
+      "artist": "KR$NA, Dhanda Nyoliwala",
+      "album": "KR$NA, Dhanda Nyoliwala",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T13:25:17.634Z"
     }
   ]
 }
