@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-20T13:25:34.893Z",
+  "updated_at": "2026-10-22T09:29:40.165Z",
   "entries": [
     {
       "hash": "2b7933f3b5d7340b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:25:27.781Z"
+    },
+    {
+      "hash": "854310267bdc3672",
+      "track": "Akh Lad Jaave",
+      "artist": "Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi",
+      "album": "Akh Lad Jaave (From \"Loveyatri\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T09:29:38.628Z"
     }
   ]
 }
