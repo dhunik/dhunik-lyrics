@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-20T13:40:35.505Z",
+  "updated_at": "2026-10-22T09:20:57.351Z",
   "entries": [
     {
-      "hash": "71cbf77dd7ea9d94",
-      "track": "You Are My Heart Beat",
-      "artist": "Anurag Kulkarni - Iddari Lokam Okate",
-      "album": "Mickey J Meyer",
+      "hash": "c599743c9a000b02",
+      "track": "Do Pall",
+      "artist": "Coachsahb, Asa Singh Mastana, Surinder Kaur",
+      "album": "Do Pall",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:28:02.693Z"
-    },
-    {
-      "hash": "5006a63cd6df8b14",
-      "track": "Kammani Oka Korika",
-      "artist": "Anoop Rubens, Sravani - Chukkalanti Ammayi Chakkanaina Abbayi",
-      "album": "Chukkalanti Ammayi Chakkanaina Abbayi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:40:28.441Z"
+      "cached_at": "2026-10-22T09:19:38.552Z"
     }
   ]
 }
