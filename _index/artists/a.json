@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-22T12:50:48.277Z",
+  "updated_at": "2026-10-22T15:11:24.310Z",
   "entries": [
     {
-      "hash": "0fc94ccd215b4bdc",
-      "track": "Ravana Tandav",
-      "artist": "A.R. Rahman, Vishal Dadlani, Kumar Vishwas",
-      "album": "Ravana Tandav (From \"Ramayana\")",
+      "hash": "b8022fcf5614e7e2",
+      "track": "Jaana Samjho Na",
+      "artist": "Aditya Rikhari, Tulsi Kumar",
+      "album": "null",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-22T12:48:40.523Z"
+      "cached_at": "2026-10-22T15:11:12.088Z"
     }
   ]
 }
