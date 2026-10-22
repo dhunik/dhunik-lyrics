@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-10-21T10:00:41.610Z",
+  "updated_at": "2026-10-22T15:11:24.309Z",
   "entries": [
     {
-      "hash": "98e03f5e183f20da",
-      "track": "Jhol (Acoustic)",
-      "artist": "Shruti Shrivastava",
-      "album": "Jhol (Acoustic)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-18T14:59:01.460Z"
-    },
-    {
-      "hash": "d4f762f0a077dbaf",
-      "track": "Jaan Ban Gaye",
-      "artist": "Mithoon, Vishal Mishra, Asees Kaur - Khuda Haafiz",
-      "album": "Khuda Haafiz",
+      "hash": "b8022fcf5614e7e2",
+      "track": "Jaana Samjho Na",
+      "artist": "Aditya Rikhari, Tulsi Kumar",
+      "album": "null",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-21T10:00:35.829Z"
+      "has_plain": true,
+      "cached_at": "2026-10-22T15:11:12.088Z"
     }
   ]
 }
