@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-22T12:47:46.169Z",
+  "updated_at": "2026-10-22T12:47:55.691Z",
   "entries": [
     {
       "hash": "30e2d69406d6ec63",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-22T12:46:59.699Z"
+    },
+    {
+      "hash": "a7ebf7827d43ff0b",
+      "track": "Straight Up",
+      "artist": "Karan Aujla, Mxrci",
+      "album": "AUJLA SZN 1 - EP",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T12:47:54.172Z"
     }
   ]
 }
