@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-22T09:29:19.757Z",
+  "updated_at": "2026-10-22T09:29:22.475Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -84,6 +84,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-22T09:29:16.209Z"
+    },
+    {
+      "hash": "9f94855fe3bc1899",
+      "track": "Sohnea (feat. Millind Gaba)",
+      "artist": "Miss Pooja",
+      "album": "4:30",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T09:29:19.763Z"
     }
   ]
 }
