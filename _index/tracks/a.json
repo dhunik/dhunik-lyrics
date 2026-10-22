@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-22T09:29:40.165Z",
+  "updated_at": "2026-10-22T12:47:01.900Z",
   "entries": [
     {
       "hash": "2b7933f3b5d7340b",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-22T09:29:38.628Z"
+    },
+    {
+      "hash": "30e2d69406d6ec63",
+      "track": "Ashke",
+      "artist": "Karan Aujla, MXRCI",
+      "album": "AUJLA SZN 1",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T12:46:59.699Z"
     }
   ]
 }
