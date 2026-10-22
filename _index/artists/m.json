@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-22T09:29:22.475Z",
+  "updated_at": "2026-10-22T09:29:44.004Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -93,6 +93,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-22T09:29:19.763Z"
+    },
+    {
+      "hash": "cc344839658993bb",
+      "track": "Sakhiyaan",
+      "artist": "Maninder Buttar",
+      "album": "Oct 20, 2018",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T09:29:41.049Z"
     }
   ]
 }
