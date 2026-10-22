@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-10-20T13:31:55.244Z",
+  "updated_at": "2026-10-22T09:20:57.347Z",
   "entries": [
     {
-      "hash": "56cca4bcb6fc6e73",
-      "track": "Dj Waley Babu (feat. Aastha Gill)",
-      "artist": "Badshah",
-      "album": "ONE (Original Never Ends)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-18T08:19:54.284Z"
-    },
-    {
-      "hash": "4b7d9aa70bbf270c",
-      "track": "Dil Se",
-      "artist": "Karthik, Shwetha Mohan",
-      "album": "Gabbar Singh (Original Motion Picture Soundtrack)",
+      "hash": "c599743c9a000b02",
+      "track": "Do Pall",
+      "artist": "Coachsahb, Asa Singh Mastana, Surinder Kaur",
+      "album": "Do Pall",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:31:51.840Z"
+      "cached_at": "2026-10-22T09:19:38.552Z"
     }
   ]
 }
