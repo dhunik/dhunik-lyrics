@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-10-20T13:19:25.215Z",
+  "updated_at": "2026-10-22T15:09:31.155Z",
   "entries": [
     {
       "hash": "15f850b057c7449a",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:18:50.959Z"
+    },
+    {
+      "hash": "151e7a0ea469634f",
+      "track": "Beggin'",
+      "artist": "Måneskin",
+      "album": "Måneskin",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T15:09:20.106Z"
     }
   ]
 }
