@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-10-09T17:11:12.730Z",
+  "updated_at": "2026-10-22T15:11:24.312Z",
   "entries": [
     {
-      "hash": "35db9b4913381659",
-      "track": "I Feel It Coming (feat. Daft Punk)",
-      "artist": "The Weeknd",
-      "album": "Starboy",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-05T16:20:41.293Z"
-    },
-    {
-      "hash": "bc538c9833188a45",
-      "track": "Saibo",
-      "artist": "Sachin-Jigar, Shreya Ghoshal, Tochi Raina",
-      "album": "Saibo",
+      "hash": "b8022fcf5614e7e2",
+      "track": "Jaana Samjho Na",
+      "artist": "Aditya Rikhari, Tulsi Kumar",
+      "album": "null",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-09T17:11:09.934Z"
+      "has_plain": true,
+      "cached_at": "2026-10-22T15:11:12.088Z"
     }
   ]
 }
