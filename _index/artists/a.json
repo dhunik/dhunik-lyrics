@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-22T09:29:54.978Z",
+  "updated_at": "2026-10-22T12:50:48.277Z",
   "entries": [
     {
-      "hash": "c599743c9a000b02",
-      "track": "Do Pall",
-      "artist": "Coachsahb, Asa Singh Mastana, Surinder Kaur",
-      "album": "Do Pall",
+      "hash": "0fc94ccd215b4bdc",
+      "track": "Ravana Tandav",
+      "artist": "A.R. Rahman, Vishal Dadlani, Kumar Vishwas",
+      "album": "Ravana Tandav (From \"Ramayana\")",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-22T09:19:38.552Z"
-    },
-    {
-      "hash": "f9ab3a03d2e49bc4",
-      "track": "Gal Karke",
-      "artist": "Asees Kaur",
-      "album": "Gal Karke",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T09:29:52.252Z"
+      "cached_at": "2026-10-22T12:48:40.523Z"
     }
   ]
 }
