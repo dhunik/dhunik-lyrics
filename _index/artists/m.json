@@ -2,106 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-22T09:29:44.004Z",
+  "updated_at": "2026-10-22T12:47:46.169Z",
   "entries": [
     {
-      "hash": "81ee525fd953eee2",
-      "track": "Jhol",
-      "artist": "Maanu, Annural Khalid",
-      "album": "593M views",
+      "hash": "30e2d69406d6ec63",
+      "track": "Ashke",
+      "artist": "Karan Aujla, MXRCI",
+      "album": "AUJLA SZN 1",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-18T15:04:33.190Z"
-    },
-    {
-      "hash": "f67917367d95c5e6",
-      "track": "New Version",
-      "artist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri",
-      "album": "Awarapan 2 (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-18T15:22:40.004Z"
-    },
-    {
-      "hash": "764da97c52552777",
-      "track": "Manchu Thakina",
-      "artist": "Koti, Mallikarjun - Ela Cheppanu",
-      "album": "Ela Cheppanu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:35:58.508Z"
-    },
-    {
-      "hash": "b0bf5f433cf30f77",
-      "track": "Gundu Sudhi",
-      "artist": "M.M.Keeravani, Sunitha",
-      "album": "Chatrapathi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:36:21.318Z"
-    },
-    {
-      "hash": "6b4fb1e174602836",
-      "track": "Gundello",
-      "artist": "Mani Sharma, Jai Srinivas - Sasirekha Parinayam",
-      "album": "Sasirekha Parinayam",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:38:26.627Z"
-    },
-    {
-      "hash": "eaad96942b9e2310",
-      "track": "Bonalu",
-      "artist": "Rahul Sipligunj, Mohana Bhogaraju - Ismart Shankar",
-      "album": "Ismart Shankar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:48:38.633Z"
-    },
-    {
-      "hash": "ec1e6ae8406df882",
-      "track": "Chalo Chlaore",
-      "artist": "Mickey J Meyer, Karthik - Ganesh (New)",
-      "album": "Ganesh (New)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:52:05.324Z"
-    },
-    {
-      "hash": "d4f762f0a077dbaf",
-      "track": "Jaan Ban Gaye",
-      "artist": "Mithoon, Vishal Mishra, Asees Kaur - Khuda Haafiz",
-      "album": "Khuda Haafiz",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-21T10:00:35.829Z"
-    },
-    {
-      "hash": "a6ec0310dc1fed8c",
-      "track": "Ik Tera",
-      "artist": "Maninder Buttar",
-      "album": "Aug 21, 2019",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T09:29:16.209Z"
-    },
-    {
-      "hash": "9f94855fe3bc1899",
-      "track": "Sohnea (feat. Millind Gaba)",
-      "artist": "Miss Pooja",
-      "album": "4:30",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T09:29:19.763Z"
-    },
-    {
-      "hash": "cc344839658993bb",
-      "track": "Sakhiyaan",
-      "artist": "Maninder Buttar",
-      "album": "Oct 20, 2018",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T09:29:41.049Z"
+      "cached_at": "2026-10-22T12:46:59.699Z"
     }
   ]
 }
