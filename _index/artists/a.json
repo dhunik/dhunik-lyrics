@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-22T09:20:57.351Z",
+  "updated_at": "2026-10-22T09:29:54.978Z",
   "entries": [
     {
       "hash": "c599743c9a000b02",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-22T09:19:38.552Z"
+    },
+    {
+      "hash": "f9ab3a03d2e49bc4",
+      "track": "Gal Karke",
+      "artist": "Asees Kaur",
+      "album": "Gal Karke",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T09:29:52.252Z"
     }
   ]
 }
