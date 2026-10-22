@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-21T10:00:41.613Z",
+  "updated_at": "2026-10-22T09:29:19.757Z",
   "entries": [
     {
       "hash": "81ee525fd953eee2",
@@ -75,6 +75,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-21T10:00:35.829Z"
+    },
+    {
+      "hash": "a6ec0310dc1fed8c",
+      "track": "Ik Tera",
+      "artist": "Maninder Buttar",
+      "album": "Aug 21, 2019",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-22T09:29:16.209Z"
     }
   ]
 }
