@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-23T14:34:27.200Z",
+  "updated_at": "2026-10-23T14:42:40.637Z",
   "entries": [
     {
-      "hash": "001dcc3303fde999",
-      "track": "Yedho Yedho-2",
-      "artist": "Mani Sharma, Saindhavi - Sasirekha Parinayam",
-      "album": "Sasirekha Parinayam",
+      "hash": "3241e8943f54113f",
+      "track": "Tujhe Bhula Diya",
+      "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak, Vishal-Shekhar",
+      "album": null,
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:38:56.914Z"
-    },
-    {
-      "hash": "47e8a2e02f8f1a0c",
-      "track": "Lallaloy",
-      "artist": "Mickey J Meyer, Krishna Chaitanya, Shweta Pandit - Ganesh (New)",
-      "album": "Ganesh (New)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:51:51.593Z"
-    },
-    {
-      "hash": "ef393989bc1be08a",
-      "track": "Udi Udi",
-      "artist": "Aneesh, Sarkar, Hruday",
-      "album": "Aneesh",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-21T14:31:33.301Z"
-    },
-    {
-      "hash": "423e32be37bcd0f0",
-      "track": "Tum Ho Mera Pyar",
-      "artist": "K.K., Suzanne",
-      "album": "Haunted",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-23T14:34:05.138Z"
-    },
-    {
-      "hash": "f181b60a77e26fa2",
-      "track": "AMBARSARIYA",
-      "artist": "SONA MOHAPATRA, RAM SAMPATH, MUNNA DHIMAN",
-      "album": "May 22, 2013",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-23T14:34:20.803Z"
+      "cached_at": "2026-10-23T14:39:16.335Z"
     }
   ]
 }
