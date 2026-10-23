@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-23T14:34:18.984Z",
+  "updated_at": "2026-10-23T14:34:27.200Z",
   "entries": [
     {
       "hash": "001dcc3303fde999",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-23T14:34:05.138Z"
+    },
+    {
+      "hash": "f181b60a77e26fa2",
+      "track": "AMBARSARIYA",
+      "artist": "SONA MOHAPATRA, RAM SAMPATH, MUNNA DHIMAN",
+      "album": "May 22, 2013",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-23T14:34:20.803Z"
     }
   ]
 }
