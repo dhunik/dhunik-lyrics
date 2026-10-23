@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-10-16T11:52:35.059Z",
+  "updated_at": "2026-10-23T21:00:58.952Z",
   "entries": [
     {
       "hash": "9e99a0cc48ced7b0",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T11:52:33.951Z"
+    },
+    {
+      "hash": "070ba69abdb670d4",
+      "track": "Chalte Chalte",
+      "artist": "Jatin-Lalit, Udbhav, Manohar Shetty, Ishaan, Shweta Pandit, Sonali Bhatawdekar, Pritha Mazumdar, Anand Bakshi",
+      "album": "Mohabbatein",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-23T21:00:57.453Z"
     }
   ]
 }
