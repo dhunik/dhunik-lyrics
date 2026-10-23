@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-22T15:09:38.954Z",
+  "updated_at": "2026-10-23T14:42:40.633Z",
   "entries": [
     {
-      "hash": "151e7a0ea469634f",
-      "track": "Beggin'",
-      "artist": "Måneskin",
-      "album": "Måneskin",
+      "hash": "3241e8943f54113f",
+      "track": "Tujhe Bhula Diya",
+      "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak, Vishal-Shekhar",
+      "album": null,
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-22T15:09:20.106Z"
+      "cached_at": "2026-10-23T14:39:16.335Z"
     }
   ]
 }
