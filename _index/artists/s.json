@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-21T14:31:36.957Z",
+  "updated_at": "2026-10-23T14:34:18.984Z",
   "entries": [
     {
       "hash": "001dcc3303fde999",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-21T14:31:33.301Z"
+    },
+    {
+      "hash": "423e32be37bcd0f0",
+      "track": "Tum Ho Mera Pyar",
+      "artist": "K.K., Suzanne",
+      "album": "Haunted",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-23T14:34:05.138Z"
     }
   ]
 }
