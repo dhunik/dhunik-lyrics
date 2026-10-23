@@ -2,106 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-22T13:25:19.814Z",
+  "updated_at": "2026-10-23T14:34:18.988Z",
   "entries": [
     {
-      "hash": "97c391eca75a6a13",
-      "track": "Tu Hi Meri Shab Hai (Trending Version)",
-      "artist": "Pritam, KK, Sayeed Quadri",
-      "album": "Tu Hi Meri Shab Hai (Trending Version)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:53:12.553Z"
-    },
-    {
-      "hash": "f96b8b972be920bd",
-      "track": "Nannochi Takindhi",
-      "artist": "Mani Sharma, Karthik, Gopika Poornima - Sakhiya",
-      "album": "Mani Sharma",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:31:25.381Z"
-    },
-    {
-      "hash": "4b7d9aa70bbf270c",
-      "track": "Dil Se",
-      "artist": "Karthik, Shwetha Mohan",
-      "album": "Gabbar Singh (Original Motion Picture Soundtrack)",
+      "hash": "423e32be37bcd0f0",
+      "track": "Tum Ho Mera Pyar",
+      "artist": "K.K., Suzanne",
+      "album": "Haunted",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:31:51.840Z"
-    },
-    {
-      "hash": "9eef83bb9b553df7",
-      "track": "Manninchu O Prema",
-      "artist": "Koti, Udit Narayan, K. S. Chithra - Ela Cheppanu",
-      "album": "Ela Cheppanu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:36:32.721Z"
-    },
-    {
-      "hash": "5ea0248a328c1476",
-      "track": "Kalalalo Nuvve",
-      "artist": "Vandemataram Srinivas, Udit Narayan, Kavita Krishnamurthy - Chirujallu",
-      "album": "Chirujallu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:37:13.830Z"
-    },
-    {
-      "hash": "a8ffaf4e73a40d79",
-      "track": "Kama Kama",
-      "artist": "A.R. Rahman, Anupama, Kunal, Aparna - Nee Manasu Naaku Telusu",
-      "album": "Nee Manasu Naaku Telusu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:37:30.834Z"
-    },
-    {
-      "hash": "4ed64540be5a155c",
-      "track": "Rajakumari",
-      "artist": "Mickey J Meyer, Kunal Ganjawala, Sri Madhumitha - Ganesh (New)",
-      "album": "Ganesh (New)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:51:32.030Z"
-    },
-    {
-      "hash": "ec1e6ae8406df882",
-      "track": "Chalo Chlaore",
-      "artist": "Mickey J Meyer, Karthik - Ganesh (New)",
-      "album": "Ganesh (New)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:52:05.324Z"
-    },
-    {
-      "hash": "30e2d69406d6ec63",
-      "track": "Ashke",
-      "artist": "Karan Aujla, MXRCI",
-      "album": "AUJLA SZN 1",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T12:46:59.699Z"
-    },
-    {
-      "hash": "a7ebf7827d43ff0b",
-      "track": "Straight Up",
-      "artist": "Karan Aujla, Mxrci",
-      "album": "AUJLA SZN 1 - EP",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T12:47:54.172Z"
-    },
-    {
-      "hash": "17704c6dd5310e6b",
-      "track": "Boom Shaka",
-      "artist": "KR$NA, Dhanda Nyoliwala",
-      "album": "KR$NA, Dhanda Nyoliwala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T13:25:17.634Z"
+      "cached_at": "2026-10-23T14:34:05.138Z"
     }
   ]
 }
