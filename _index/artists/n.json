@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-10-16T11:51:56.951Z",
+  "updated_at": "2026-10-24T07:30:10.124Z",
   "entries": [
     {
       "hash": "c0eab063176d150c",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-16T11:51:55.422Z"
+    },
+    {
+      "hash": "cf48704d0be7f41e",
+      "track": "Russian Gangster",
+      "artist": "Noxen",
+      "album": "Russian Gangster",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-10-24T07:30:05.284Z"
     }
   ]
 }
