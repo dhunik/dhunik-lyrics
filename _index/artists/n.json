@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-10-24T07:30:10.124Z",
+  "updated_at": "2026-10-25T15:37:36.861Z",
   "entries": [
     {
-      "hash": "c0eab063176d150c",
-      "track": "Mohabbat Dil Ka Sakoon",
-      "artist": "Sameer Anjaan, Nadeem-Shravan, Alka Yagnik, Kumar Sanu, Udit Narayan",
-      "album": "Dil Hai Tumhaara",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-16T10:48:20.309Z"
-    },
-    {
-      "hash": "29fe4f5c49df4f6d",
-      "track": "Ek Dilruba Hai",
-      "artist": "Nadeem-Shravan, Udit Narayan, Sameer Anjaan",
-      "album": "Bewafaa",
+      "hash": "616b88f0616c2263",
+      "track": "Alvida Alvida",
+      "artist": "Nabeel Shaukat Ali",
+      "album": "Alvida Alvida (From \"Dar-E-Nijaat\") - Single",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:51:55.422Z"
-    },
-    {
-      "hash": "cf48704d0be7f41e",
-      "track": "Russian Gangster",
-      "artist": "Noxen",
-      "album": "Russian Gangster",
-      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-24T07:30:05.284Z"
+      "cached_at": "2026-10-25T15:36:38.706Z"
     }
   ]
 }
