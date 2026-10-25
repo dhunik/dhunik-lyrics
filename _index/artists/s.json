@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-23T14:42:40.637Z",
+  "updated_at": "2026-10-25T14:43:09.780Z",
   "entries": [
     {
-      "hash": "3241e8943f54113f",
-      "track": "Tujhe Bhula Diya",
-      "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak, Vishal-Shekhar",
-      "album": null,
+      "hash": "95fff08260a9ed01",
+      "track": "Karvaan",
+      "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan",
+      "album": "4:11",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-23T14:39:16.335Z"
+      "cached_at": "2026-10-25T14:42:26.525Z"
     }
   ]
 }
