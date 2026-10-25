@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-23T21:00:58.956Z",
+  "updated_at": "2026-10-25T14:43:09.782Z",
   "entries": [
     {
-      "hash": "b8022fcf5614e7e2",
-      "track": "Jaana Samjho Na",
-      "artist": "Aditya Rikhari, Tulsi Kumar",
-      "album": "null",
+      "hash": "95fff08260a9ed01",
+      "track": "Karvaan",
+      "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan",
+      "album": "4:11",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-22T15:11:12.088Z"
-    },
-    {
-      "hash": "070ba69abdb670d4",
-      "track": "Chalte Chalte",
-      "artist": "Jatin-Lalit, Udbhav, Manohar Shetty, Ishaan, Shweta Pandit, Sonali Bhatawdekar, Pritha Mazumdar, Anand Bakshi",
-      "album": "Mohabbatein",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-23T21:00:57.453Z"
+      "cached_at": "2026-10-25T14:42:26.525Z"
     }
   ]
 }
