@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-22T12:47:01.900Z",
+  "updated_at": "2026-10-25T15:37:36.860Z",
   "entries": [
     {
-      "hash": "2b7933f3b5d7340b",
-      "track": "Afreen Afreen",
-      "artist": "Rahat Fateh Ali Khan & Momina Mustehsan",
-      "album": "Coke Studio, Season 9",
+      "hash": "616b88f0616c2263",
+      "track": "Alvida Alvida",
+      "artist": "Nabeel Shaukat Ali",
+      "album": "Alvida Alvida (From \"Dar-E-Nijaat\") - Single",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-17T09:12:32.056Z"
-    },
-    {
-      "hash": "bf67d215b4999219",
-      "track": "Adbhutam",
-      "artist": "Jubin Nautiyal, Ranjini Jose - Lover",
-      "album": "Tanishk Bagchi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:25:27.781Z"
-    },
-    {
-      "hash": "854310267bdc3672",
-      "track": "Akh Lad Jaave",
-      "artist": "Badshah, Asees Kaur, Jubin Nautiyal, Tanishk Bagchi",
-      "album": "Akh Lad Jaave (From \"Loveyatri\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T09:29:38.628Z"
-    },
-    {
-      "hash": "30e2d69406d6ec63",
-      "track": "Ashke",
-      "artist": "Karan Aujla, MXRCI",
-      "album": "AUJLA SZN 1",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T12:46:59.699Z"
+      "cached_at": "2026-10-25T15:36:38.706Z"
     }
   ]
 }
