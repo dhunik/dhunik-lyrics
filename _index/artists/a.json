@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-25T15:34:19.003Z",
+  "updated_at": "2026-10-26T08:02:11.454Z",
   "entries": [
     {
       "hash": "26805564a7cb8ef4",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-25T15:31:38.992Z"
+    },
+    {
+      "hash": "455e0b84482de565",
+      "track": "Ek Din Aap",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Yes Boss (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-26T08:02:09.451Z"
     }
   ]
 }
