@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-28T13:21:54.078Z",
+  "updated_at": "2026-10-28T13:22:06.716Z",
   "entries": [
     {
       "hash": "054bf5a289bb80ec",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-28T13:21:42.144Z"
+    },
+    {
+      "hash": "e8e8fad3880cf1e0",
+      "track": "Wavy",
+      "artist": "Karan Aujla, Jay Trak",
+      "album": "Unknown",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-28T13:22:02.528Z"
     }
   ]
 }
