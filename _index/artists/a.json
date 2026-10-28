@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-26T08:02:11.454Z",
+  "updated_at": "2026-10-28T12:09:38.211Z",
   "entries": [
     {
-      "hash": "26805564a7cb8ef4",
-      "track": "Buzz",
-      "artist": "Aastha Gill",
-      "album": "Buzz",
+      "hash": "2bfe0609d9afdc4c",
+      "track": "Arz Kiya Hai",
+      "artist": "Arz Kiya Hai | Coke Studio Bharat",
+      "album": "Arz Kiya Hai | Coke Studio Bharat",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-25T15:31:38.992Z"
-    },
-    {
-      "hash": "455e0b84482de565",
-      "track": "Ek Din Aap",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Yes Boss (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-26T08:02:09.451Z"
+      "cached_at": "2026-10-28T12:09:16.625Z"
     }
   ]
 }
