@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-28T07:01:32.356Z",
+  "updated_at": "2026-10-28T11:42:06.100Z",
   "entries": [
     {
-      "hash": "74c896082262f325",
-      "track": "Chalte Chalte",
-      "artist": "Udbhav, Manohar Shetty, Ishaan, Shweta Pandit",
-      "album": "Mohabbatein",
+      "hash": "7732a4b369229dfd",
+      "track": "Nazare",
+      "artist": "Gurinder Gill, Manu",
+      "album": "Rich Heart",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-28T07:00:57.739Z"
+      "cached_at": "2026-10-28T11:40:45.588Z"
     }
   ]
 }
