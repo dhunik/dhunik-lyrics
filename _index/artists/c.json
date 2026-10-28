@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-10-10T10:42:44.578Z",
+  "updated_at": "2026-10-28T13:22:00.746Z",
   "entries": [
     {
       "hash": "94a1b1cf42d983e3",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-10T10:41:15.464Z"
+    },
+    {
+      "hash": "3dfc26509e9cffc6",
+      "track": "8 ASLE (feat. Gurlez Akhtar)",
+      "artist": "Sukha, Chani Nattan, Prodgk",
+      "album": "2:41",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-28T13:21:58.564Z"
     }
   ]
 }
