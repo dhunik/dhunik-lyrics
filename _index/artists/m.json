@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-28T07:00:24.837Z",
+  "updated_at": "2026-10-28T07:01:32.356Z",
   "entries": [
     {
-      "hash": "3241e8943f54113f",
-      "track": "Tujhe Bhula Diya",
-      "artist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak, Vishal-Shekhar",
-      "album": null,
-      "has_synced": true,
+      "hash": "74c896082262f325",
+      "track": "Chalte Chalte",
+      "artist": "Udbhav, Manohar Shetty, Ishaan, Shweta Pandit",
+      "album": "Mohabbatein",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-23T14:39:16.335Z"
-    },
-    {
-      "hash": "55c429b107fdf151",
-      "track": "Tune Jo Na Kaha",
-      "artist": "Mohit Chauhan",
-      "album": "New York",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T07:00:19.597Z"
+      "cached_at": "2026-10-28T07:00:57.739Z"
     }
   ]
 }
