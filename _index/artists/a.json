@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-28T12:09:38.211Z",
+  "updated_at": "2026-10-28T15:42:55.719Z",
   "entries": [
     {
-      "hash": "2bfe0609d9afdc4c",
-      "track": "Arz Kiya Hai",
-      "artist": "Arz Kiya Hai | Coke Studio Bharat",
-      "album": "Arz Kiya Hai | Coke Studio Bharat",
+      "hash": "65589c19989cc078",
+      "track": "Khaab",
+      "artist": "Akhil",
+      "album": "Khaab",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T12:09:16.625Z"
+      "has_plain": false,
+      "cached_at": "2026-10-28T15:42:27.575Z"
     }
   ]
 }
