@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-28T07:01:11.138Z",
+  "updated_at": "2026-10-28T07:01:32.362Z",
   "entries": [
     {
-      "hash": "95fff08260a9ed01",
-      "track": "Karvaan",
-      "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan",
-      "album": "4:11",
-      "has_synced": true,
+      "hash": "74c896082262f325",
+      "track": "Chalte Chalte",
+      "artist": "Udbhav, Manohar Shetty, Ishaan, Shweta Pandit",
+      "album": "Mohabbatein",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-25T14:42:26.525Z"
-    },
-    {
-      "hash": "5d974ed1c7681d5c",
-      "track": "Saathiya Tune Kya Kiya",
-      "artist": "S.P. Balasubramaniam, K.S. Chithra",
-      "album": "Love (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T07:01:02.742Z"
+      "cached_at": "2026-10-28T07:00:57.739Z"
     }
   ]
 }
