@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-23T14:34:18.988Z",
+  "updated_at": "2026-10-28T07:01:11.125Z",
   "entries": [
     {
       "hash": "423e32be37bcd0f0",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-23T14:34:05.138Z"
+    },
+    {
+      "hash": "5d974ed1c7681d5c",
+      "track": "Saathiya Tune Kya Kiya",
+      "artist": "S.P. Balasubramaniam, K.S. Chithra",
+      "album": "Love (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-28T07:01:02.742Z"
     }
   ]
 }
