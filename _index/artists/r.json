@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-10-28T12:15:08.852Z",
+  "updated_at": "2026-10-28T13:21:48.404Z",
   "entries": [
     {
       "hash": "1349551e3f51a102",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-28T12:15:03.571Z"
+    },
+    {
+      "hash": "054bf5a289bb80ec",
+      "track": "9:45",
+      "artist": "Prabh Singh, Jay Trak, Rooh Sandhu",
+      "album": "Jay Trak",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-28T13:21:42.144Z"
     }
   ]
 }
