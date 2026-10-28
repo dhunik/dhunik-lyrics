@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-22T09:29:50.559Z",
+  "updated_at": "2026-10-28T13:21:54.078Z",
   "entries": [
     {
-      "hash": "bf67d215b4999219",
-      "track": "Adbhutam",
-      "artist": "Jubin Nautiyal, Ranjini Jose - Lover",
-      "album": "Tanishk Bagchi",
+      "hash": "054bf5a289bb80ec",
+      "track": "9:45",
+      "artist": "Prabh Singh, Jay Trak, Rooh Sandhu",
+      "album": "Jay Trak",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:25:27.781Z"
-    },
-    {
-      "hash": "fe7bc58d3e0d1a66",
-      "track": "Gulabi Kallu Rendu Mullu",
-      "artist": "Yuvan Shankar Raja, Javed Ali - Govindudu Andarivaadele",
-      "album": "Govindudu Andarivaadele",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:44:23.741Z"
-    },
-    {
-      "hash": "3e6c64c647d86a49",
-      "track": "Laare",
-      "artist": "Maninder Buttar, Jaani",
-      "album": "Laare",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T09:29:47.213Z"
+      "cached_at": "2026-10-28T13:21:42.144Z"
     }
   ]
 }
