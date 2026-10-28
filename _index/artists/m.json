@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-28T14:15:36.361Z",
+  "updated_at": "2026-10-28T15:41:40.307Z",
   "entries": [
     {
-      "hash": "7732a4b369229dfd",
-      "track": "Nazare",
-      "artist": "Gurinder Gill, Manu",
-      "album": "Rich Heart",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-28T11:40:45.588Z"
-    },
-    {
-      "hash": "30e2d69406d6ec63",
-      "track": "Ashke",
-      "artist": "Karan Aujla, MXRCI",
-      "album": "AUJLA SZN 1",
+      "hash": "a785e416c2a395cc",
+      "track": "Banjaara",
+      "artist": "Mithoon, Mohammed Irfan - Ek Villain",
+      "album": "Ek Villain",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T14:15:30.883Z"
+      "has_plain": false,
+      "cached_at": "2026-10-28T15:36:34.601Z"
     }
   ]
 }
