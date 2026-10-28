@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-10-28T07:02:11.884Z",
+  "updated_at": "2026-10-28T12:15:08.852Z",
   "entries": [
     {
       "hash": "1349551e3f51a102",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-28T07:02:06.092Z"
+    },
+    {
+      "hash": "37c51e730048dafd",
+      "track": "Barsaat",
+      "artist": "Banjaare, Roni",
+      "album": null,
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-28T12:15:03.571Z"
     }
   ]
 }
