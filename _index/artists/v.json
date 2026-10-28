@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-10-18T08:20:20.406Z",
+  "updated_at": "2026-10-28T07:02:12.044Z",
   "entries": [
     {
       "hash": "26ca3dcac97826bc",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-18T08:20:19.323Z"
+    },
+    {
+      "hash": "6b5e6fad063310ba",
+      "track": "Hriday Mein Jinke Sitaram",
+      "artist": "Vishal Chaturvedi - Hanuman Ansh (Original Motion Picture Soundtrack)",
+      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-28T07:02:10.480Z"
     }
   ]
 }
