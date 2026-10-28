@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-10-23T14:34:27.195Z",
+  "updated_at": "2026-10-28T07:02:11.884Z",
   "entries": [
     {
       "hash": "1349551e3f51a102",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-23T14:34:20.803Z"
+    },
+    {
+      "hash": "15414c5c74c0a8b3",
+      "track": "He Dukh Bhanjan",
+      "artist": "Rakesh Kala - He Dukh Bhanjan - Rakesh Kala",
+      "album": "He Dukh Bhanjan - Rakesh Kala",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-10-28T07:02:06.092Z"
     }
   ]
 }
