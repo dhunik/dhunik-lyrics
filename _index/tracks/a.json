@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-28T14:15:36.143Z",
+  "updated_at": "2026-10-30T16:37:34.411Z",
   "entries": [
     {
-      "hash": "616b88f0616c2263",
-      "track": "Alvida Alvida",
-      "artist": "Nabeel Shaukat Ali",
-      "album": "Alvida Alvida (From \"Dar-E-Nijaat\") - Single",
+      "hash": "96a627df06f11731",
+      "track": "Aawargi",
+      "artist": "Jubin Nautiyal",
+      "album": "Aawargi (From \"The Dark Side Of Life Mumbai City\")",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-25T15:36:38.706Z"
-    },
-    {
-      "hash": "30e2d69406d6ec63",
-      "track": "Ashke",
-      "artist": "Karan Aujla, MXRCI",
-      "album": "AUJLA SZN 1",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T14:15:30.883Z"
+      "cached_at": "2026-10-30T16:36:42.636Z"
     }
   ]
 }
