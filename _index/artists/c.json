@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-10-28T13:22:00.746Z",
+  "updated_at": "2026-10-30T17:41:30.935Z",
   "entries": [
     {
-      "hash": "94a1b1cf42d983e3",
-      "track": "Prithibi Ta Naki Chhoto Hote Hote",
-      "artist": "Crosswinds",
-      "album": "Aabar Bachhor Kuri Pore, Vol. 1",
+      "hash": "468ed02931ac1918",
+      "track": "California Love",
+      "artist": "Cheema Y, Gur Sidhu",
+      "album": "Cheema Y",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-10T10:41:15.464Z"
-    },
-    {
-      "hash": "3dfc26509e9cffc6",
-      "track": "8 ASLE (feat. Gurlez Akhtar)",
-      "artist": "Sukha, Chani Nattan, Prodgk",
-      "album": "2:41",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T13:21:58.564Z"
+      "cached_at": "2026-10-30T17:37:53.392Z"
     }
   ]
 }
