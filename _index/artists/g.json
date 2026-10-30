@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-10-30T17:37:45.743Z",
+  "updated_at": "2026-10-30T17:41:30.938Z",
   "entries": [
     {
-      "hash": "1aa504353734d672",
-      "track": "Hass Hass",
-      "artist": "Diljit Dosanjh, Sia, Greg Kurstin",
-      "album": "New Years Eve Party 2024",
+      "hash": "468ed02931ac1918",
+      "track": "California Love",
+      "artist": "Cheema Y, Gur Sidhu",
+      "album": "Cheema Y",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-30T17:35:22.952Z"
+      "cached_at": "2026-10-30T17:37:53.392Z"
     }
   ]
 }
