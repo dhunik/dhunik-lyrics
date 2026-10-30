@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-28T07:01:32.362Z",
+  "updated_at": "2026-10-30T16:07:59.711Z",
   "entries": [
     {
-      "hash": "74c896082262f325",
-      "track": "Chalte Chalte",
-      "artist": "Udbhav, Manohar Shetty, Ishaan, Shweta Pandit",
-      "album": "Mohabbatein",
+      "hash": "1a06747a6234b1d9",
+      "track": "Ek Dil Ek Jaan",
+      "artist": "Shivam Pathak, Sanjay Leela Bhansali",
+      "album": "Ek Dil Ek Jaan (From \"Padmaavat\")",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-28T07:00:57.739Z"
+      "cached_at": "2026-10-30T16:04:58.140Z"
     }
   ]
 }
