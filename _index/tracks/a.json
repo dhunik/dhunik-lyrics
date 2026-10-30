@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-30T16:37:34.411Z",
+  "updated_at": "2026-10-30T17:24:19.300Z",
   "entries": [
     {
-      "hash": "96a627df06f11731",
-      "track": "Aawargi",
-      "artist": "Jubin Nautiyal",
-      "album": "Aawargi (From \"The Dark Side Of Life Mumbai City\")",
+      "hash": "dd77662e4c9e2ab2",
+      "track": "AZUL",
+      "artist": "Guru Randhawa, Gurjit Gill, Lavish Dhiman",
+      "album": "AZUL",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-30T16:36:42.636Z"
+      "cached_at": "2026-10-30T17:22:17.455Z"
     }
   ]
 }
