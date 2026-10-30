@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-22T13:25:19.820Z",
+  "updated_at": "2026-10-30T17:37:45.741Z",
   "entries": [
     {
-      "hash": "31f6d04207100b7c",
-      "track": "Chindulese Vaisulo",
-      "artist": "Devi Sri Prasad - Oka Oorilo",
-      "album": "Devi Sri Prasad",
+      "hash": "1aa504353734d672",
+      "track": "Hass Hass",
+      "artist": "Diljit Dosanjh, Sia, Greg Kurstin",
+      "album": "New Years Eve Party 2024",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:30:58.955Z"
-    },
-    {
-      "hash": "d950706ba685410f",
-      "track": "Life Is Beautiful",
-      "artist": "Deepak, Rude, A.K., S.S. Thaman - Pandaga Chesko",
-      "album": "Pandaga Chesko",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:50:28.386Z"
-    },
-    {
-      "hash": "48844d50bab4a995",
-      "track": "Get Reeady",
-      "artist": "Karthik, Devi Sri Prasad ft. Anand Bhaskar - Ready",
-      "album": "Ready",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:53:11.752Z"
-    },
-    {
-      "hash": "17704c6dd5310e6b",
-      "track": "Boom Shaka",
-      "artist": "KR$NA, Dhanda Nyoliwala",
-      "album": "KR$NA, Dhanda Nyoliwala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-22T13:25:17.634Z"
+      "cached_at": "2026-10-30T17:35:22.952Z"
     }
   ]
 }
