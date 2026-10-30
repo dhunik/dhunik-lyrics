@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-10-20T13:31:29.276Z",
+  "updated_at": "2026-10-30T17:24:19.285Z",
   "entries": [
     {
-      "hash": "ce3158b431f6b4f8",
-      "track": "Chundari Penne",
-      "artist": "Dulquer Salmaan, Gopi Sunder - Charlie",
-      "album": "Charlie",
+      "hash": "dd77662e4c9e2ab2",
+      "track": "AZUL",
+      "artist": "Guru Randhawa, Gurjit Gill, Lavish Dhiman",
+      "album": "AZUL",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-20T13:20:55.837Z"
-    },
-    {
-      "hash": "f96b8b972be920bd",
-      "track": "Nannochi Takindhi",
-      "artist": "Mani Sharma, Karthik, Gopika Poornima - Sakhiya",
-      "album": "Mani Sharma",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:31:25.381Z"
+      "cached_at": "2026-10-30T17:22:17.455Z"
     }
   ]
 }
