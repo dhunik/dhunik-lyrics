@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-10-20T13:49:46.579Z",
+  "updated_at": "2026-10-30T17:24:40.653Z",
   "entries": [
     {
       "hash": "3e2271f1efb91059",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-20T13:49:45.097Z"
+    },
+    {
+      "hash": "230046f41490bbac",
+      "track": "Vigdiyan Heeran",
+      "artist": "Yo Yo Honey Singh, Rony Ajnali, Gill Machhrai",
+      "album": "Honey 3.0",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-30T17:24:36.080Z"
     }
   ]
 }
