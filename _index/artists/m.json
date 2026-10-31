@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-28T15:41:40.307Z",
+  "updated_at": "2026-10-31T09:58:57.594Z",
   "entries": [
     {
-      "hash": "a785e416c2a395cc",
-      "track": "Banjaara",
-      "artist": "Mithoon, Mohammed Irfan - Ek Villain",
-      "album": "Ek Villain",
+      "hash": "3212861733449ab1",
+      "track": "Tera Mera Rishta",
+      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
+      "album": "Mustafa Zahid Awaaraapan & All Sad Love Songs",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T15:36:34.601Z"
+      "has_plain": true,
+      "cached_at": "2026-10-31T09:58:34.906Z"
     }
   ]
 }
