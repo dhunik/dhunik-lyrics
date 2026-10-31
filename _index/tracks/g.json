@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-10-31T16:29:38.996Z",
+  "updated_at": "2026-10-31T17:13:22.531Z",
   "entries": [
     {
-      "hash": "522b6871dc34761f",
-      "track": "Gasolina",
-      "artist": "Daddy Yankee",
-      "album": "The Beat Of Summer 2008",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-21T18:02:56.277Z"
-    },
-    {
-      "hash": "f9ab3a03d2e49bc4",
+      "hash": "97aea37f93be0519",
       "track": "Gal Karke",
-      "artist": "Asees Kaur",
+      "artist": "Inder Chahal, Rajat Nagpal",
       "album": "Gal Karke",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-22T09:29:52.252Z"
-    },
-    {
-      "hash": "33f38001e0191df0",
-      "track": "Gani (feat. Manni Sandhu)",
-      "artist": "Akhil",
-      "album": "4:27",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:29:33.069Z"
+      "cached_at": "2026-10-31T17:12:55.699Z"
     }
   ]
 }
