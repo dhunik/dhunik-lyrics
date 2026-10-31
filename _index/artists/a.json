@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-28T15:42:55.719Z",
+  "updated_at": "2026-10-31T16:29:39.110Z",
   "entries": [
     {
       "hash": "65589c19989cc078",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-28T15:42:27.575Z"
+    },
+    {
+      "hash": "33f38001e0191df0",
+      "track": "Gani (feat. Manni Sandhu)",
+      "artist": "Akhil",
+      "album": "4:27",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-31T16:29:33.069Z"
     }
   ]
 }
