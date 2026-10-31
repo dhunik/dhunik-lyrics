@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-31T09:58:57.597Z",
+  "updated_at": "2026-10-31T10:33:24.451Z",
   "entries": [
     {
       "hash": "3212861733449ab1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T09:58:34.906Z"
+    },
+    {
+      "hash": "f880e7e20eb6c88c",
+      "track": "Dekhi Ja",
+      "artist": "Parmish Verma, Kiran Bajwa, SickBoi",
+      "album": "Victory Lap",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-31T10:33:07.531Z"
     }
   ]
 }
