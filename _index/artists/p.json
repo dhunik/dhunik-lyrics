@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-10-31T09:58:46.114Z",
+  "updated_at": "2026-10-31T10:33:24.460Z",
   "entries": [
     {
-      "hash": "97c391eca75a6a13",
-      "track": "Tu Hi Meri Shab Hai (Trending Version)",
-      "artist": "Pritam, KK, Sayeed Quadri",
-      "album": "Tu Hi Meri Shab Hai (Trending Version)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:53:12.553Z"
-    },
-    {
-      "hash": "0d0c2a32db45fc6c",
-      "track": "Pal Pal Dil Ke Paas- Title Track",
-      "artist": "Arijit Singh, Parampara Tandon",
-      "album": "Wedding Love Songs",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-18T08:42:53.823Z"
-    },
-    {
-      "hash": "345131474b0f7cce",
-      "track": "Meri Aashiqui",
-      "artist": "Palak Muchhal, Arijit Singh",
-      "album": null,
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-25T18:06:41.446Z"
-    },
-    {
-      "hash": "3dfc26509e9cffc6",
-      "track": "8 ASLE (feat. Gurlez Akhtar)",
-      "artist": "Sukha, Chani Nattan, Prodgk",
-      "album": "2:41",
+      "hash": "f880e7e20eb6c88c",
+      "track": "Dekhi Ja",
+      "artist": "Parmish Verma, Kiran Bajwa, SickBoi",
+      "album": "Victory Lap",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-28T13:21:58.564Z"
-    },
-    {
-      "hash": "3212861733449ab1",
-      "track": "Tera Mera Rishta",
-      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
-      "album": "Mustafa Zahid Awaaraapan & All Sad Love Songs",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T09:58:34.906Z"
+      "cached_at": "2026-10-31T10:33:07.531Z"
     }
   ]
 }
