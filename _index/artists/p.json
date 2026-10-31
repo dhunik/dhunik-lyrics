@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-10-28T13:22:00.749Z",
+  "updated_at": "2026-10-31T09:58:46.114Z",
   "entries": [
     {
       "hash": "97c391eca75a6a13",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-28T13:21:58.564Z"
+    },
+    {
+      "hash": "3212861733449ab1",
+      "track": "Tera Mera Rishta",
+      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
+      "album": "Mustafa Zahid Awaaraapan & All Sad Love Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-31T09:58:34.906Z"
     }
   ]
 }
