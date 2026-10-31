@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-10-25T15:37:36.861Z",
+  "updated_at": "2026-10-31T16:31:18.847Z",
   "entries": [
     {
-      "hash": "616b88f0616c2263",
-      "track": "Alvida Alvida",
-      "artist": "Nabeel Shaukat Ali",
-      "album": "Alvida Alvida (From \"Dar-E-Nijaat\") - Single",
+      "hash": "cad3a7851b988813",
+      "track": "Yaari",
+      "artist": "Nikk, Avneet Kaur",
+      "album": "Yaari",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-25T15:36:38.706Z"
+      "cached_at": "2026-10-31T16:30:52.027Z"
     }
   ]
 }
