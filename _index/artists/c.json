@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-10-30T17:41:30.935Z",
+  "updated_at": "2026-10-31T08:30:17.614Z",
   "entries": [
     {
-      "hash": "468ed02931ac1918",
-      "track": "California Love",
-      "artist": "Cheema Y, Gur Sidhu",
-      "album": "Cheema Y",
-      "has_synced": true,
+      "hash": "9f602be1be825e27",
+      "track": "Slide",
+      "artist": "Calvin Harris",
+      "album": "Slide",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-30T17:37:53.392Z"
+      "cached_at": "2026-10-31T08:29:29.306Z"
     }
   ]
 }
