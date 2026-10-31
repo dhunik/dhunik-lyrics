@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-10-31T10:33:33.340Z",
+  "updated_at": "2026-10-31T17:13:22.532Z",
   "entries": [
     {
-      "hash": "9e99a0cc48ced7b0",
-      "track": "Bad Liar",
-      "artist": "Imagine Dragons",
-      "album": "Origins",
+      "hash": "97aea37f93be0519",
+      "track": "Gal Karke",
+      "artist": "Inder Chahal, Rajat Nagpal",
+      "album": "Gal Karke",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-10T13:04:53.800Z"
-    },
-    {
-      "hash": "00e036bb807ffb94",
-      "track": "Tu Hi Haqeeqat",
-      "artist": "Sayeed Quadri, Pritam, Javed Ali, Irshan Ashraf, Shadab",
-      "album": "A Decade of Love",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:52:33.951Z"
-    },
-    {
-      "hash": "070ba69abdb670d4",
-      "track": "Chalte Chalte",
-      "artist": "Jatin-Lalit, Udbhav, Manohar Shetty, Ishaan, Shweta Pandit, Sonali Bhatawdekar, Pritha Mazumdar, Anand Bakshi",
-      "album": "Mohabbatein",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-23T21:00:57.453Z"
-    },
-    {
-      "hash": "682f4ae8e2fbb26b",
-      "track": "For A Reason",
-      "artist": "Karan Aujla, Ikky",
-      "album": "Karan Aujla Videos",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T10:33:28.620Z"
+      "cached_at": "2026-10-31T17:12:55.699Z"
     }
   ]
 }
