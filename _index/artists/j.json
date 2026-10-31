@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-31T15:37:33.168Z",
+  "updated_at": "2026-10-31T16:10:23.107Z",
   "entries": [
     {
       "hash": "4b67df90670572ae",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T15:35:49.560Z"
+    },
+    {
+      "hash": "f32a9f087a5f5965",
+      "track": "Prada",
+      "artist": "Jass Manak",
+      "album": "Prada",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-31T16:10:16.708Z"
     }
   ]
 }
