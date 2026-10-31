@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-10-21T14:31:36.963Z",
+  "updated_at": "2026-10-31T16:16:02.757Z",
   "entries": [
     {
-      "hash": "2685448dd1d76bee",
-      "track": "Mujh Se Pehli Si Muhabbat",
-      "artist": "Humera Channa, Nabeel Shaukat",
-      "album": "Coke Studio Season 10 Episode 3",
+      "hash": "041d358780afb13e",
+      "track": "HORNN BLOW",
+      "artist": "HARRDY SANDHU, B PRAAK, JAANI",
+      "album": "Hornn Blow",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-13T06:23:55.703Z"
-    },
-    {
-      "hash": "6496587511b47e52",
-      "track": "Oka Padam",
-      "artist": "Mani Sharma, Malavika, Hemachandra - Racha",
-      "album": "Racha",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:45:28.533Z"
-    },
-    {
-      "hash": "ef393989bc1be08a",
-      "track": "Udi Udi",
-      "artist": "Aneesh, Sarkar, Hruday",
-      "album": "Aneesh",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-21T14:31:33.301Z"
+      "cached_at": "2026-10-31T16:15:09.655Z"
     }
   ]
 }
