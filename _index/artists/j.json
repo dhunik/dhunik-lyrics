@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-31T16:10:23.107Z",
+  "updated_at": "2026-10-31T16:11:56.380Z",
   "entries": [
     {
       "hash": "4b67df90670572ae",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T16:10:16.708Z"
+    },
+    {
+      "hash": "6df60509d4615b7b",
+      "track": "Tera Mera Viah",
+      "artist": "Jass Manak",
+      "album": "Singles",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-31T16:11:54.167Z"
     }
   ]
 }
