@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-10-23T21:00:58.952Z",
+  "updated_at": "2026-10-31T10:33:33.340Z",
   "entries": [
     {
       "hash": "9e99a0cc48ced7b0",
@@ -30,6 +30,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-23T21:00:57.453Z"
+    },
+    {
+      "hash": "682f4ae8e2fbb26b",
+      "track": "For A Reason",
+      "artist": "Karan Aujla, Ikky",
+      "album": "Karan Aujla Videos",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-10-31T10:33:28.620Z"
     }
   ]
 }
