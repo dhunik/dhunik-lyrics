@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-30T16:07:59.711Z",
+  "updated_at": "2026-10-31T09:58:57.597Z",
   "entries": [
     {
-      "hash": "1a06747a6234b1d9",
-      "track": "Ek Dil Ek Jaan",
-      "artist": "Shivam Pathak, Sanjay Leela Bhansali",
-      "album": "Ek Dil Ek Jaan (From \"Padmaavat\")",
-      "has_synced": false,
+      "hash": "3212861733449ab1",
+      "track": "Tera Mera Rishta",
+      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
+      "album": "Mustafa Zahid Awaaraapan & All Sad Love Songs",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-30T16:04:58.140Z"
+      "cached_at": "2026-10-31T09:58:34.906Z"
     }
   ]
 }
