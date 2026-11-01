@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-10-28T07:02:12.044Z",
+  "updated_at": "2026-11-01T06:48:07.034Z",
   "entries": [
     {
       "hash": "26ca3dcac97826bc",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-10-28T07:02:10.480Z"
+    },
+    {
+      "hash": "97589815e1ef6479",
+      "track": "Kahin To",
+      "artist": "Rashid Ali, Vasundhara Das",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-01T06:47:59.961Z"
     }
   ]
 }
