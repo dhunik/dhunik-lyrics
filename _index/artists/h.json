@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-10-31T16:17:41.746Z",
+  "updated_at": "2026-11-01T09:47:56.344Z",
   "entries": [
     {
       "hash": "041d358780afb13e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T16:17:38.556Z"
+    },
+    {
+      "hash": "4d9563e68149991a",
+      "track": "Jeene De Na",
+      "artist": "Harish Sagane, Raj Barman",
+      "album": "Jeene De Na",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-01T09:47:52.391Z"
     }
   ]
 }
