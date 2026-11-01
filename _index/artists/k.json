@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-01T07:21:32.696Z",
+  "updated_at": "2026-11-01T07:29:42.990Z",
   "entries": [
     {
-      "hash": "137be6b2f1fb9057",
-      "track": "Panna Ki Tamanna Hai",
-      "artist": "Kishore Kumar, Lata Mangeshkar - Heera Panna",
-      "album": "Heera Panna",
+      "hash": "037a0c1af013e4e1",
+      "track": "Meri Bheegi Bheegi Si",
+      "artist": "Kishore Kumar",
+      "album": "Meri Awaaz Suno - Kishore Kumar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-01T07:21:20.465Z"
+      "cached_at": "2026-11-01T07:27:54.513Z"
     }
   ]
 }
