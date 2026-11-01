@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-10-31T10:33:33.339Z",
+  "updated_at": "2026-11-01T07:21:32.696Z",
   "entries": [
     {
-      "hash": "44d392540704a67c",
-      "track": "On Top",
-      "artist": "Karan Aujla",
-      "album": "null",
+      "hash": "137be6b2f1fb9057",
+      "track": "Panna Ki Tamanna Hai",
+      "artist": "Kishore Kumar, Lata Mangeshkar - Heera Panna",
+      "album": "Heera Panna",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T12:44:26.954Z"
-    },
-    {
-      "hash": "e8e8fad3880cf1e0",
-      "track": "Wavy",
-      "artist": "Karan Aujla, Jay Trak",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T13:22:02.528Z"
-    },
-    {
-      "hash": "682f4ae8e2fbb26b",
-      "track": "For A Reason",
-      "artist": "Karan Aujla, Ikky",
-      "album": "Karan Aujla Videos",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T10:33:28.620Z"
+      "has_plain": false,
+      "cached_at": "2026-11-01T07:21:20.465Z"
     }
   ]
 }
