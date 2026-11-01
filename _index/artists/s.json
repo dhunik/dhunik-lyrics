@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-10-31T10:33:24.451Z",
+  "updated_at": "2026-11-01T07:40:45.530Z",
   "entries": [
     {
       "hash": "3212861733449ab1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T10:33:07.531Z"
+    },
+    {
+      "hash": "f32cde2c348c479c",
+      "track": "Jaaniya",
+      "artist": "Chirantan Bhatt, Siddharth Basrur",
+      "album": "Haunted",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-01T07:40:44.080Z"
     }
   ]
 }
