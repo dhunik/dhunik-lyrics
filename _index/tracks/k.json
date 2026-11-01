@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "track",
-  "updated_at": "2026-11-01T06:48:06.910Z",
+  "updated_at": "2026-11-01T14:40:47.510Z",
   "entries": [
     {
-      "hash": "432da04316234e34",
-      "track": "Kyu Hua",
-      "artist": "Arijit Singh - Topic",
-      "album": "Arijit Singh Greatest Hits",
+      "hash": "51259fc6fb60ec92",
+      "track": "Kaash",
+      "artist": "Hariharan, Ustad Zakir Hussain",
+      "album": "Yaari Jam",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-04T14:31:43.385Z"
-    },
-    {
-      "hash": "7a9515026a66de77",
-      "track": "Keno Aaj Kal",
-      "artist": "Nachiketa Chakraborty",
-      "album": "Josh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-10T10:41:11.782Z"
-    },
-    {
-      "hash": "4117fc8c17a5b18f",
-      "track": "Kurraallam Kurraallam",
-      "artist": "Sonu Nigam - Uncle",
-      "album": "Uncle",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:29:31.293Z"
-    },
-    {
-      "hash": "e23469fdd24d9ce0",
-      "track": "Krishna Zilla",
-      "artist": "R.P. Patnaik, Ravi Varma - Ninne Ishtapaddanu",
-      "album": "Ninne Ishtapaddanu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:33:04.019Z"
-    },
-    {
-      "hash": "5ea0248a328c1476",
-      "track": "Kalalalo Nuvve",
-      "artist": "Vandemataram Srinivas, Udit Narayan, Kavita Krishnamurthy - Chirujallu",
-      "album": "Chirujallu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:37:13.830Z"
-    },
-    {
-      "hash": "5006a63cd6df8b14",
-      "track": "Kammani Oka Korika",
-      "artist": "Anoop Rubens, Sravani - Chukkalanti Ammayi Chakkanaina Abbayi",
-      "album": "Chukkalanti Ammayi Chakkanaina Abbayi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:40:28.441Z"
-    },
-    {
-      "hash": "97589815e1ef6479",
-      "track": "Kahin To",
-      "artist": "Rashid Ali, Vasundhara Das",
-      "album": "Jaane Tu... Ya Jaane Na",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T06:47:59.961Z"
+      "cached_at": "2026-11-01T14:39:10.924Z"
     }
   ]
 }
