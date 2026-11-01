@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-10-31T15:37:33.171Z",
+  "updated_at": "2026-11-01T05:13:01.966Z",
   "entries": [
     {
       "hash": "4b67df90670572ae",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T15:35:49.560Z"
+    },
+    {
+      "hash": "13281d4bc576ce2e",
+      "track": "Sunlo Zara",
+      "artist": "A.R. Rahman, Rashid Ali, Shreya Ghoshal, Timmy, Balesh",
+      "album": "Ekk Deewana Tha",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-01T05:12:54.621Z"
     }
   ]
 }
