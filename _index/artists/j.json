@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-10-31T16:11:56.380Z",
+  "updated_at": "2026-11-01T08:03:35.795Z",
   "entries": [
     {
-      "hash": "4b67df90670572ae",
-      "track": "Barbaad (Movie: Saiyaara)",
-      "artist": "Jubin Nautiyal, The Rish",
-      "album": "null",
-      "has_synced": true,
+      "hash": "924bf0f2883b045d",
+      "track": "Believe",
+      "artist": "Dima Bilan, JONY",
+      "album": "Believe",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-31T15:35:49.560Z"
-    },
-    {
-      "hash": "f32a9f087a5f5965",
-      "track": "Prada",
-      "artist": "Jass Manak",
-      "album": "Prada",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:10:16.708Z"
-    },
-    {
-      "hash": "6df60509d4615b7b",
-      "track": "Tera Mera Viah",
-      "artist": "Jass Manak",
-      "album": "Singles",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:11:54.167Z"
+      "cached_at": "2026-11-01T08:03:22.210Z"
     }
   ]
 }
