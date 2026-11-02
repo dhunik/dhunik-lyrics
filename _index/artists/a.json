@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-02T06:59:59.475Z",
+  "updated_at": "2026-11-02T07:00:03.283Z",
   "entries": [
     {
       "hash": "b8e91da217fbf13b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-02T06:55:36.444Z"
+    },
+    {
+      "hash": "7fbddef4bfe31825",
+      "track": "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)",
+      "artist": "Amaal Mallik",
+      "album": "Sanam Re",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-02T07:00:00.632Z"
     }
   ]
 }
