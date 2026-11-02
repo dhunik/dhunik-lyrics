@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-01T07:40:45.530Z",
+  "updated_at": "2026-11-02T03:33:21.105Z",
   "entries": [
     {
-      "hash": "3212861733449ab1",
-      "track": "Tera Mera Rishta",
-      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
-      "album": "Mustafa Zahid Awaaraapan & All Sad Love Songs",
+      "hash": "7c7453866e6688e3",
+      "track": "Bahut Pyar Karte Hai",
+      "artist": "S. P. Balasubrahmanyam",
+      "album": "Saajan",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-31T09:58:34.906Z"
-    },
-    {
-      "hash": "f880e7e20eb6c88c",
-      "track": "Dekhi Ja",
-      "artist": "Parmish Verma, Kiran Bajwa, SickBoi",
-      "album": "Victory Lap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T10:33:07.531Z"
-    },
-    {
-      "hash": "f32cde2c348c479c",
-      "track": "Jaaniya",
-      "artist": "Chirantan Bhatt, Siddharth Basrur",
-      "album": "Haunted",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T07:40:44.080Z"
+      "cached_at": "2026-11-02T03:31:17.638Z"
     }
   ]
 }
