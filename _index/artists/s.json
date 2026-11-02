@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-02T03:33:21.105Z",
+  "updated_at": "2026-11-02T11:42:27.421Z",
   "entries": [
     {
-      "hash": "7c7453866e6688e3",
-      "track": "Bahut Pyar Karte Hai",
-      "artist": "S. P. Balasubrahmanyam",
-      "album": "Saajan",
+      "hash": "1800e9dc044f12a4",
+      "track": "Sankatmochan Hanuman Bhajan",
+      "artist": "Suresh Wadkar",
+      "album": "Hanuman Chalisa & Bhajan by Suresh Wadkar",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-02T03:31:17.638Z"
+      "cached_at": "2026-11-02T11:41:50.809Z"
     }
   ]
 }
