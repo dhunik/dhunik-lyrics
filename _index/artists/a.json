@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-10-31T16:29:39.110Z",
+  "updated_at": "2026-11-02T06:59:59.475Z",
   "entries": [
     {
-      "hash": "65589c19989cc078",
-      "track": "Khaab",
-      "artist": "Akhil",
-      "album": "Khaab",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T15:42:27.575Z"
-    },
-    {
-      "hash": "33f38001e0191df0",
-      "track": "Gani (feat. Manni Sandhu)",
-      "artist": "Akhil",
-      "album": "4:27",
+      "hash": "b8e91da217fbf13b",
+      "track": "Ik Mulaqaat",
+      "artist": "Meet Bros, Palak Muchhal, Altamash Faridi",
+      "album": "Ik Mulaqaat (From \"Dream Girl\")",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-31T16:29:33.069Z"
+      "cached_at": "2026-11-02T06:55:36.444Z"
     }
   ]
 }
