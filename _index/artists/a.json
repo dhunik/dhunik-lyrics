@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-02T07:00:03.283Z",
+  "updated_at": "2026-11-03T12:11:12.209Z",
   "entries": [
     {
       "hash": "b8e91da217fbf13b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-02T07:00:00.632Z"
+    },
+    {
+      "hash": "c434d5b4cc2854e8",
+      "track": "Haareya",
+      "artist": "Arijit Singh",
+      "album": "Meri Pyari Bindu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-03T12:11:10.737Z"
     }
   ]
 }
