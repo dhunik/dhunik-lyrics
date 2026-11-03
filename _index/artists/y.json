@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-10-30T17:24:40.653Z",
+  "updated_at": "2026-11-03T17:09:10.836Z",
   "entries": [
     {
-      "hash": "3e2271f1efb91059",
-      "track": "Manike",
-      "artist": "Yohani, Jubin Nautiyal, Surya Ragunaathan",
-      "album": "615M plays",
-      "has_synced": true,
+      "hash": "bc67792f7c1bbee2",
+      "track": "Glassy",
+      "artist": "Ashok Mastie, Yo Yo Honey Singh",
+      "album": "Glassy",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-18T09:52:37.766Z"
-    },
-    {
-      "hash": "fe7bc58d3e0d1a66",
-      "track": "Gulabi Kallu Rendu Mullu",
-      "artist": "Yuvan Shankar Raja, Javed Ali - Govindudu Andarivaadele",
-      "album": "Govindudu Andarivaadele",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:44:23.741Z"
-    },
-    {
-      "hash": "0a76e0e79ddd4025",
-      "track": "I Love You Too",
-      "artist": "Yazin Nizar, Sameera - Shivam",
-      "album": "Shivam",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:49:45.097Z"
-    },
-    {
-      "hash": "230046f41490bbac",
-      "track": "Vigdiyan Heeran",
-      "artist": "Yo Yo Honey Singh, Rony Ajnali, Gill Machhrai",
-      "album": "Honey 3.0",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-30T17:24:36.080Z"
+      "cached_at": "2026-11-03T17:07:50.271Z"
     }
   ]
 }
