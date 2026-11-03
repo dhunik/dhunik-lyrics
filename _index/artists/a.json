@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-03T12:11:12.209Z",
+  "updated_at": "2026-11-03T17:09:10.833Z",
   "entries": [
     {
-      "hash": "b8e91da217fbf13b",
-      "track": "Ik Mulaqaat",
-      "artist": "Meet Bros, Palak Muchhal, Altamash Faridi",
-      "album": "Ik Mulaqaat (From \"Dream Girl\")",
-      "has_synced": true,
+      "hash": "bc67792f7c1bbee2",
+      "track": "Glassy",
+      "artist": "Ashok Mastie, Yo Yo Honey Singh",
+      "album": "Glassy",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-02T06:55:36.444Z"
-    },
-    {
-      "hash": "7fbddef4bfe31825",
-      "track": "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)",
-      "artist": "Amaal Mallik",
-      "album": "Sanam Re",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-02T07:00:00.632Z"
-    },
-    {
-      "hash": "c434d5b4cc2854e8",
-      "track": "Haareya",
-      "artist": "Arijit Singh",
-      "album": "Meri Pyari Bindu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-03T12:11:10.737Z"
+      "cached_at": "2026-11-03T17:07:50.271Z"
     }
   ]
 }
