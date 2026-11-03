@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-10-31T16:34:10.342Z",
+  "updated_at": "2026-11-03T12:22:55.980Z",
   "entries": [
     {
-      "hash": "cad3a7851b988813",
-      "track": "Yaari",
-      "artist": "Nikk, Avneet Kaur",
-      "album": "Yaari",
+      "hash": "346c7decdcaeee35",
+      "track": "Zindagi Kuch Toh Bata (Reprise)",
+      "artist": "Pritam, Jubin Nautiyal, Neelesh Misra",
+      "album": "Bajrangi Bhaijaan",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-31T16:30:52.027Z"
-    },
-    {
-      "hash": "758e5e6fa0dc7727",
-      "track": "Relation",
-      "artist": "Nikk",
-      "album": "Relation",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:34:08.986Z"
+      "cached_at": "2026-11-03T12:19:37.883Z"
     }
   ]
 }
