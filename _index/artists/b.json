@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-10-31T16:16:02.760Z",
+  "updated_at": "2026-11-03T17:03:30.139Z",
   "entries": [
     {
       "hash": "041d358780afb13e",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T16:15:09.655Z"
+    },
+    {
+      "hash": "65361d09678a7cca",
+      "track": "Gym De Shokeen",
+      "artist": "Bhallwaan",
+      "album": "Gym De Shokeen",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-03T17:03:28.266Z"
     }
   ]
 }
