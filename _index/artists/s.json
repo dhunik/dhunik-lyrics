@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-02T11:42:27.421Z",
+  "updated_at": "2026-11-03T17:05:14.529Z",
   "entries": [
     {
       "hash": "1800e9dc044f12a4",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-02T11:41:50.809Z"
+    },
+    {
+      "hash": "1319869061b72396",
+      "track": "Puff Puff Pass (feat. Gavy Dhaliwal, Bhallwaan, Swapan Sekhon & Gur Chahal)",
+      "artist": "Sultaan",
+      "album": "Puff Puff Pass",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-03T17:05:10.280Z"
     }
   ]
 }
