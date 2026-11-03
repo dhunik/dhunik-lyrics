@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-11-03T17:03:30.137Z",
+  "updated_at": "2026-11-03T17:07:44.150Z",
   "entries": [
     {
       "hash": "97aea37f93be0519",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-03T17:03:28.266Z"
+    },
+    {
+      "hash": "d80e1925ecb77f94",
+      "track": "Glassy",
+      "artist": "Jazzy B",
+      "album": "Talli",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-03T17:07:41.174Z"
     }
   ]
 }
