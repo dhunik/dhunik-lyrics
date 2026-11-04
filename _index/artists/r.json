@@ -2,79 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-01T09:47:56.462Z",
+  "updated_at": "2026-11-04T14:18:16.421Z",
   "entries": [
     {
-      "hash": "1349551e3f51a102",
-      "track": "Zindabad Zindabad",
-      "artist": "Sarath Santhosh, Ramya Behara - Ismart Shankar",
-      "album": "Ismart Shankar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:48:26.907Z"
-    },
-    {
-      "hash": "eaad96942b9e2310",
-      "track": "Bonalu",
-      "artist": "Rahul Sipligunj, Mohana Bhogaraju - Ismart Shankar",
-      "album": "Ismart Shankar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:48:38.633Z"
-    },
-    {
-      "hash": "f181b60a77e26fa2",
-      "track": "AMBARSARIYA",
-      "artist": "SONA MOHAPATRA, RAM SAMPATH, MUNNA DHIMAN",
-      "album": "May 22, 2013",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-23T14:34:20.803Z"
-    },
-    {
-      "hash": "15414c5c74c0a8b3",
-      "track": "He Dukh Bhanjan",
-      "artist": "Rakesh Kala - He Dukh Bhanjan - Rakesh Kala",
-      "album": "He Dukh Bhanjan - Rakesh Kala",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T07:02:06.092Z"
-    },
-    {
-      "hash": "37c51e730048dafd",
-      "track": "Barsaat",
-      "artist": "Banjaare, Roni",
+      "hash": "e5a4bc347670060d",
+      "track": "Pani Da Rang (Male)",
+      "artist": "Ayushmann Khurrana, Rochak Kohli",
       "album": null,
-      "has_synced": true,
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-28T12:15:03.571Z"
-    },
-    {
-      "hash": "054bf5a289bb80ec",
-      "track": "9:45",
-      "artist": "Prabh Singh, Jay Trak, Rooh Sandhu",
-      "album": "Jay Trak",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-28T13:21:42.144Z"
-    },
-    {
-      "hash": "230046f41490bbac",
-      "track": "Vigdiyan Heeran",
-      "artist": "Yo Yo Honey Singh, Rony Ajnali, Gill Machhrai",
-      "album": "Honey 3.0",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-30T17:24:36.080Z"
-    },
-    {
-      "hash": "4d9563e68149991a",
-      "track": "Jeene De Na",
-      "artist": "Harish Sagane, Raj Barman",
-      "album": "Jeene De Na",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T09:47:52.391Z"
+      "cached_at": "2026-11-04T14:17:01.757Z"
     }
   ]
 }
