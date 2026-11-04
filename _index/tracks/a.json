@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-10-30T17:24:19.300Z",
+  "updated_at": "2026-11-04T10:14:06.564Z",
   "entries": [
     {
-      "hash": "dd77662e4c9e2ab2",
-      "track": "AZUL",
-      "artist": "Guru Randhawa, Gurjit Gill, Lavish Dhiman",
-      "album": "AZUL",
+      "hash": "87f48501a74f5eac",
+      "track": "Alfaaz",
+      "artist": "Hamza Malik, Zain Zohaib",
+      "album": null,
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-30T17:22:17.455Z"
+      "cached_at": "2026-11-04T10:12:29.036Z"
     }
   ]
 }
