@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-01T05:13:01.966Z",
+  "updated_at": "2026-11-05T01:56:49.400Z",
   "entries": [
     {
       "hash": "4b67df90670572ae",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-01T05:12:54.621Z"
+    },
+    {
+      "hash": "e73d6ea82b54e341",
+      "track": "Aaoge Tum Kabhi",
+      "artist": "The Local Train",
+      "album": "Unknown",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-05T01:56:47.998Z"
     }
   ]
 }
