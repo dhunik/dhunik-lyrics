@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-05T01:56:49.400Z",
+  "updated_at": "2026-11-05T02:10:01.128Z",
   "entries": [
     {
-      "hash": "4b67df90670572ae",
-      "track": "Barbaad (Movie: Saiyaara)",
-      "artist": "Jubin Nautiyal, The Rish",
-      "album": "null",
+      "hash": "f68b5c502db39287",
+      "track": "Tum Jo Aaye",
+      "artist": "Pritam, Tulsi Kumar, Irshad Kamil",
+      "album": "Pritam's Super Hit Love Songs",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-31T15:35:49.560Z"
-    },
-    {
-      "hash": "13281d4bc576ce2e",
-      "track": "Sunlo Zara",
-      "artist": "A.R. Rahman, Rashid Ali, Shreya Ghoshal, Timmy, Balesh",
-      "album": "Ekk Deewana Tha",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T05:12:54.621Z"
-    },
-    {
-      "hash": "e73d6ea82b54e341",
-      "track": "Aaoge Tum Kabhi",
-      "artist": "The Local Train",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-05T01:56:47.998Z"
+      "cached_at": "2026-11-05T02:09:48.997Z"
     }
   ]
 }
