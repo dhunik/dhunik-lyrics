@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-11-05T02:09:54.993Z",
+  "updated_at": "2026-11-05T02:10:04.708Z",
   "entries": [
     {
       "hash": "6a4162a804200f3d",
@@ -165,6 +165,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-05T02:09:48.997Z"
+    },
+    {
+      "hash": "9c6a60b7fb24eac1",
+      "track": "Teri Ore",
+      "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal",
+      "album": "Pop Hits From New Dheli",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-05T02:10:03.234Z"
     }
   ]
 }
