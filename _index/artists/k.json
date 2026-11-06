@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-06T19:35:32.689Z",
+  "updated_at": "2026-11-06T19:46:32.124Z",
   "entries": [
     {
       "hash": "037a0c1af013e4e1",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T19:35:25.301Z"
+    },
+    {
+      "hash": "273f6a3e55f4c8e9",
+      "track": "Kehdoon Tumhen",
+      "artist": "Kishore Kumar, Asha Bhosle, R. D. Burman",
+      "album": "Kehdoon Tumhen (Lofi Flip)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:46:29.470Z"
     }
   ]
 }
