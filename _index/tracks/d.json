@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-11-06T05:54:22.124Z",
+  "updated_at": "2026-11-06T05:55:53.384Z",
   "entries": [
     {
-      "hash": "c599743c9a000b02",
-      "track": "Do Pall",
-      "artist": "Coachsahb, Asa Singh Mastana, Surinder Kaur",
-      "album": "Do Pall",
+      "hash": "5bb6640c63215cbb",
+      "track": "Dekha Hi Nahi",
+      "artist": "Osho Jain",
+      "album": "Osho Jain Videos",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-22T09:19:38.552Z"
-    },
-    {
-      "hash": "f880e7e20eb6c88c",
-      "track": "Dekhi Ja",
-      "artist": "Parmish Verma, Kiran Bajwa, SickBoi",
-      "album": "Victory Lap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T10:33:07.531Z"
-    },
-    {
-      "hash": "d719805098358112",
-      "track": "Desh Mere",
-      "artist": "Arijit Singh",
-      "album": "Bhuj The Pride Of India",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T03:42:23.001Z"
-    },
-    {
-      "hash": "f98ece4d95f72c91",
-      "track": "Door Kahin",
-      "artist": "Raghav Kaushik",
-      "album": "Door Kahin",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T05:54:20.152Z"
+      "cached_at": "2026-11-06T05:55:26.523Z"
     }
   ]
 }
