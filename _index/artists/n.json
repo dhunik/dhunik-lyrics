@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-11-03T12:22:55.980Z",
+  "updated_at": "2026-11-06T06:10:05.247Z",
   "entries": [
     {
       "hash": "346c7decdcaeee35",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-03T12:19:37.883Z"
+    },
+    {
+      "hash": "c8238330c81d5af6",
+      "track": "Khwaish",
+      "artist": "Navjot Ahuja",
+      "album": "Khwaish",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T06:10:02.019Z"
     }
   ]
 }
