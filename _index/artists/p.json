@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-01T05:20:09.280Z",
+  "updated_at": "2026-11-06T19:49:49.020Z",
   "entries": [
     {
       "hash": "f880e7e20eb6c88c",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-01T05:20:06.866Z"
+    },
+    {
+      "hash": "819f3e8e6a7cb78a",
+      "track": "Falak Dekhun",
+      "artist": "Pritam, Sonu Nigam, Mayur Puri",
+      "album": "Garam Masala",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:49:45.599Z"
     }
   ]
 }
