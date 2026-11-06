@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-10-21T10:01:25.826Z",
+  "updated_at": "2026-11-06T05:55:54.381Z",
   "entries": [
     {
-      "hash": "b70b4feeb6e14915",
-      "track": "FREAKED OUT",
-      "artist": "Fat Papi, prodshushy - FREAKED OUT",
-      "album": "FREAKED OUT",
-      "has_synced": false,
+      "hash": "d7a2fa5735e743c0",
+      "track": "Tu Thodi Der Aur Thehar Ja",
+      "artist": "Shreya Ghoshal, Farhan Saeed, Kumaar",
+      "album": "Liked Songs",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-07-29T15:27:58.105Z"
-    },
-    {
-      "hash": "1dd8e2d79c64de7c",
-      "track": "I Want to Know What Love Is",
-      "artist": "Foreigner",
-      "album": "Love On Guitar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-09-12T00:42:52.707Z"
-    },
-    {
-      "hash": "aba7283c2bb43175",
-      "track": "Shikwa Jawab E Shikwa",
-      "artist": "Natasha Baig, Fareed Ayaz & Abu Muhammad Qawwal & Brothers",
-      "album": "Coke Studio Season 11: Episode 1",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-21T10:01:24.449Z"
+      "cached_at": "2026-11-06T05:54:26.876Z"
     }
   ]
 }
