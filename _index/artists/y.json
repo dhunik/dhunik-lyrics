@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-11-03T17:09:10.836Z",
+  "updated_at": "2026-11-06T07:09:02.270Z",
   "entries": [
     {
       "hash": "bc67792f7c1bbee2",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-03T17:07:50.271Z"
+    },
+    {
+      "hash": "3e55df5cb830ec10",
+      "track": "Chillgum",
+      "artist": "Yo Yo Honey Singh, Ragini Vishwakarma",
+      "album": "51 Glorious Days",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T07:08:54.609Z"
     }
   ]
 }
