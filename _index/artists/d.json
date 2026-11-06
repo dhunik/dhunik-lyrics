@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-10-30T17:37:45.741Z",
+  "updated_at": "2026-11-06T05:55:26.518Z",
   "entries": [
     {
       "hash": "1aa504353734d672",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-30T17:35:22.952Z"
+    },
+    {
+      "hash": "8af2e5a7911bec4f",
+      "track": "Tuta Pull Wahan",
+      "artist": "Deepak Rathore",
+      "album": "Tuta Pull Wahan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:55:23.696Z"
     }
   ]
 }
