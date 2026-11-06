@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-06T19:49:44.386Z",
+  "updated_at": "2026-11-06T19:56:08.830Z",
   "entries": [
     {
       "hash": "cb3b2ccadf7e3ca5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T19:46:38.092Z"
+    },
+    {
+      "hash": "beccce26e4bf4c2c",
+      "track": "Saat Samundar Paar Happy",
+      "artist": "Sadhana Sargam",
+      "album": "Vishwatma",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:56:07.293Z"
     }
   ]
 }
