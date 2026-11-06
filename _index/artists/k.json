@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-01T07:29:42.990Z",
+  "updated_at": "2026-11-06T05:54:28.320Z",
   "entries": [
     {
       "hash": "037a0c1af013e4e1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-01T07:27:54.513Z"
+    },
+    {
+      "hash": "d7a2fa5735e743c0",
+      "track": "Tu Thodi Der Aur Thehar Ja",
+      "artist": "Shreya Ghoshal, Farhan Saeed, Kumaar",
+      "album": "Liked Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:54:26.876Z"
     }
   ]
 }
