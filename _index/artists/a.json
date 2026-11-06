@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-03T17:09:10.833Z",
+  "updated_at": "2026-11-06T05:54:34.927Z",
   "entries": [
     {
       "hash": "bc67792f7c1bbee2",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-03T17:07:50.271Z"
+    },
+    {
+      "hash": "aeee0b338e973a7f",
+      "track": "Khayaal",
+      "artist": "Arijit Anand, Ankita Barwad",
+      "album": "Khayaal",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:54:31.689Z"
     }
   ]
 }
