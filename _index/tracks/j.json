@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "track",
-  "updated_at": "2026-11-01T07:40:45.376Z",
+  "updated_at": "2026-11-06T19:46:38.877Z",
   "entries": [
     {
       "hash": "b8022fcf5614e7e2",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-01T07:40:44.080Z"
+    },
+    {
+      "hash": "a3a9c64f8cc0d589",
+      "track": "Jaadu Teri Nazar",
+      "artist": "Udit Narayan",
+      "album": "Rough Guide to Bollywood: The Glitz, The Glamour, The Soundtrack",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:46:35.947Z"
     }
   ]
 }
