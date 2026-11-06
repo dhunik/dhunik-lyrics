@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-03T17:05:14.529Z",
+  "updated_at": "2026-11-06T05:54:30.633Z",
   "entries": [
     {
       "hash": "1800e9dc044f12a4",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-03T17:05:10.280Z"
+    },
+    {
+      "hash": "ce125eb35b454c49",
+      "track": "Mukhatib",
+      "artist": "Salman Elahi",
+      "album": "Elahi",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:54:29.358Z"
     }
   ]
 }
