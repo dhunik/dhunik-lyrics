@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-06T05:55:26.518Z",
+  "updated_at": "2026-11-06T05:55:59.883Z",
   "entries": [
     {
       "hash": "1aa504353734d672",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T05:55:23.696Z"
+    },
+    {
+      "hash": "b38f0d98d1445f8d",
+      "track": "Aankhon Se Batana",
+      "artist": "Dikshant",
+      "album": "Ultimate Love Songs (Hindi)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:55:55.734Z"
     }
   ]
 }
