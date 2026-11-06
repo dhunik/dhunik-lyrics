@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-06T19:35:37.547Z",
+  "updated_at": "2026-11-06T19:49:59.151Z",
   "entries": [
     {
       "hash": "512bc91495f93e0f",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T19:35:33.877Z"
+    },
+    {
+      "hash": "5c4fd40f86efdc58",
+      "track": "Phool Maangu Na Bahaar Maangu",
+      "artist": "Alka Yagnik, Udit Narayan",
+      "album": "Raja",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:49:52.825Z"
     }
   ]
 }
