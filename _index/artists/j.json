@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-03T17:07:45.115Z",
+  "updated_at": "2026-11-06T02:57:55.821Z",
   "entries": [
     {
-      "hash": "924bf0f2883b045d",
-      "track": "Believe",
-      "artist": "Dima Bilan, JONY",
-      "album": "Believe",
-      "has_synced": false,
+      "hash": "1f2ca54700fb9860",
+      "track": "Trending Version)",
+      "artist": "Shreya Ghoshal, Javed Bashir, Yusuf Mohammed, Vajid Ali",
+      "album": "O Rangrez",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-01T08:03:22.210Z"
-    },
-    {
-      "hash": "d80e1925ecb77f94",
-      "track": "Glassy",
-      "artist": "Jazzy B",
-      "album": "Talli",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:07:41.174Z"
+      "cached_at": "2026-11-06T02:56:38.039Z"
     }
   ]
 }
