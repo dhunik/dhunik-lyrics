@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-06T05:54:30.633Z",
+  "updated_at": "2026-11-06T15:34:09.061Z",
   "entries": [
     {
       "hash": "1800e9dc044f12a4",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T05:54:29.358Z"
+    },
+    {
+      "hash": "fef9cacebbfea211",
+      "track": "Kuch Is Tarah",
+      "artist": "Atif Aslam, Sachin Gupta",
+      "album": "Doorie",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T15:34:05.462Z"
     }
   ]
 }
