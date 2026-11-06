@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-10-20T13:37:44.655Z",
+  "updated_at": "2026-11-06T19:46:27.663Z",
   "entries": [
     {
       "hash": "9eef83bb9b553df7",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-10-20T13:37:43.255Z"
+    },
+    {
+      "hash": "1caadcfc358b00eb",
+      "track": "Ho Gaya Hai Tujhko To Pyar Sajna",
+      "artist": "Lata Mangeshkar, Udit Narayan",
+      "album": "Dilwale Dulhania Le Jayenge",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:46:25.229Z"
     }
   ]
 }
