@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-06T05:55:08.109Z",
+  "updated_at": "2026-11-06T05:55:11.241Z",
   "entries": [
     {
       "hash": "512bc91495f93e0f",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T05:54:35.893Z"
+    },
+    {
+      "hash": "e40e7afbfc8c2dcc",
+      "track": "Kitna Hai Pyaar",
+      "artist": "Ashu Shukla",
+      "album": "Kitna Hai Pyaar",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:55:09.076Z"
     }
   ]
 }
