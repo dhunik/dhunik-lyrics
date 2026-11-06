@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-11-01T06:48:07.034Z",
+  "updated_at": "2026-11-06T19:56:22.941Z",
   "entries": [
     {
       "hash": "26ca3dcac97826bc",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-01T06:47:59.961Z"
+    },
+    {
+      "hash": "4d9b41e79507bc58",
+      "track": "Kitaben Bahut Si",
+      "artist": "Asha Bhosle, Vinod Rathod",
+      "album": "Asha Bhosle",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:56:11.870Z"
     }
   ]
 }
