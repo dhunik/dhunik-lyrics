@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-06T15:34:09.061Z",
+  "updated_at": "2026-11-06T19:49:44.386Z",
   "entries": [
     {
-      "hash": "1800e9dc044f12a4",
-      "track": "Sankatmochan Hanuman Bhajan",
-      "artist": "Suresh Wadkar",
-      "album": "Hanuman Chalisa & Bhajan by Suresh Wadkar",
+      "hash": "cb3b2ccadf7e3ca5",
+      "track": "Tumse Milne Ki Tamanna Hai",
+      "artist": "S.P. Balasubramaniam",
+      "album": "Love Struck by S.P. Balasubramaniam",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-02T11:41:50.809Z"
-    },
-    {
-      "hash": "1319869061b72396",
-      "track": "Puff Puff Pass (feat. Gavy Dhaliwal, Bhallwaan, Swapan Sekhon & Gur Chahal)",
-      "artist": "Sultaan",
-      "album": "Puff Puff Pass",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:05:10.280Z"
-    },
-    {
-      "hash": "ce125eb35b454c49",
-      "track": "Mukhatib",
-      "artist": "Salman Elahi",
-      "album": "Elahi",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T05:54:29.358Z"
-    },
-    {
-      "hash": "fef9cacebbfea211",
-      "track": "Kuch Is Tarah",
-      "artist": "Atif Aslam, Sachin Gupta",
-      "album": "Doorie",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T15:34:05.462Z"
+      "cached_at": "2026-11-06T19:46:38.092Z"
     }
   ]
 }
