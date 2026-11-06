@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-06T05:54:34.927Z",
+  "updated_at": "2026-11-06T05:55:08.109Z",
   "entries": [
     {
-      "hash": "bc67792f7c1bbee2",
-      "track": "Glassy",
-      "artist": "Ashok Mastie, Yo Yo Honey Singh",
-      "album": "Glassy",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:07:50.271Z"
-    },
-    {
-      "hash": "aeee0b338e973a7f",
-      "track": "Khayaal",
-      "artist": "Arijit Anand, Ankita Barwad",
-      "album": "Khayaal",
+      "hash": "512bc91495f93e0f",
+      "track": "O Yaara",
+      "artist": "Abdul Hannan, Kaavish",
+      "album": "O Yaara",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-06T05:54:31.689Z"
+      "cached_at": "2026-11-06T05:54:35.893Z"
     }
   ]
 }
