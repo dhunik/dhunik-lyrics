@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-06T05:54:28.320Z",
+  "updated_at": "2026-11-06T19:35:32.689Z",
   "entries": [
     {
       "hash": "037a0c1af013e4e1",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T05:54:26.876Z"
+    },
+    {
+      "hash": "d70fcb09ec6757cb",
+      "track": "Love Tujhe Love Main Karta",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "album": "Barsaat",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:35:25.301Z"
     }
   ]
 }
