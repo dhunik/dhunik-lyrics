@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-01T09:47:56.344Z",
+  "updated_at": "2026-11-06T03:50:22.019Z",
   "entries": [
     {
-      "hash": "041d358780afb13e",
-      "track": "HORNN BLOW",
-      "artist": "HARRDY SANDHU, B PRAAK, JAANI",
-      "album": "Hornn Blow",
+      "hash": "593b086c0c5293dd",
+      "track": "Laagi Lagan Shankara",
+      "artist": "Hansraj Raghuwanshi",
+      "album": "Laagi Lagan Shankara",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-31T16:15:09.655Z"
-    },
-    {
-      "hash": "0bc5c82808ac4ff5",
-      "track": "Waalian",
-      "artist": "Harnoor",
-      "album": "Waalian",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:17:38.556Z"
-    },
-    {
-      "hash": "4d9563e68149991a",
-      "track": "Jeene De Na",
-      "artist": "Harish Sagane, Raj Barman",
-      "album": "Jeene De Na",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T09:47:52.391Z"
+      "cached_at": "2026-11-06T03:49:48.652Z"
     }
   ]
 }
