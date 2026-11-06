@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-10-31T09:58:57.594Z",
+  "updated_at": "2026-11-06T04:18:13.549Z",
   "entries": [
     {
       "hash": "3212861733449ab1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-10-31T09:58:34.906Z"
+    },
+    {
+      "hash": "2e5215511c7ac43e",
+      "track": "Sanson Ki Mala",
+      "artist": "Madhur Sharma, Vaibhav Pani, Nusrat Fateh Ali Khan",
+      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T04:18:07.198Z"
     }
   ]
 }
