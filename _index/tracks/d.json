@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-11-06T03:42:33.357Z",
+  "updated_at": "2026-11-06T05:54:22.124Z",
   "entries": [
     {
       "hash": "c599743c9a000b02",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T03:42:23.001Z"
+    },
+    {
+      "hash": "f98ece4d95f72c91",
+      "track": "Door Kahin",
+      "artist": "Raghav Kaushik",
+      "album": "Door Kahin",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T05:54:20.152Z"
     }
   ]
 }
