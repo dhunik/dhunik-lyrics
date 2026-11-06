@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-06T19:46:32.124Z",
+  "updated_at": "2026-11-06T19:57:19.017Z",
   "entries": [
     {
       "hash": "037a0c1af013e4e1",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T19:46:29.470Z"
+    },
+    {
+      "hash": "c2664ac6d4ea274a",
+      "track": "Is Pyar Se Meri Taraf Na Dekho (Male)",
+      "artist": "Kumar Sanu",
+      "album": "Chamatkar (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-06T19:57:12.587Z"
     }
   ]
 }
