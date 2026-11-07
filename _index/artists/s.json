@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-07T12:45:56.568Z",
+  "updated_at": "2026-11-07T12:46:18.166Z",
   "entries": [
     {
       "hash": "cb3b2ccadf7e3ca5",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-07T12:45:54.948Z"
+    },
+    {
+      "hash": "026d1d6f842208f8",
+      "track": "Endhayya Saami (Special Surprise)",
+      "artist": "Ajay-Atul, Shweta Mohan, Ajay Gogavale, Ramajogayya Sastry",
+      "album": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T12:46:16.082Z"
     }
   ]
 }
