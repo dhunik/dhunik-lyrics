@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-11-06T07:09:02.270Z",
+  "updated_at": "2026-11-07T13:25:54.093Z",
   "entries": [
     {
-      "hash": "bc67792f7c1bbee2",
-      "track": "Glassy",
-      "artist": "Ashok Mastie, Yo Yo Honey Singh",
-      "album": "Glassy",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:07:50.271Z"
-    },
-    {
-      "hash": "3e55df5cb830ec10",
-      "track": "Chillgum",
-      "artist": "Yo Yo Honey Singh, Ragini Vishwakarma",
-      "album": "51 Glorious Days",
+      "hash": "a4cd2bcf09416dd8",
+      "track": "Kovakkara Kiliye",
+      "artist": "Yuvan Shankar Raja, Tipu, Sujatha",
+      "album": "Vel (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-06T07:08:54.609Z"
+      "cached_at": "2026-11-07T13:24:29.645Z"
     }
   ]
 }
