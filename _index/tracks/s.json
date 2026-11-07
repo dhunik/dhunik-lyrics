@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-11-07T12:02:26.662Z",
+  "updated_at": "2026-11-07T12:19:51.315Z",
   "entries": [
     {
-      "hash": "9f602be1be825e27",
-      "track": "Slide",
-      "artist": "Calvin Harris",
-      "album": "Slide",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-31T08:29:29.306Z"
-    },
-    {
-      "hash": "13281d4bc576ce2e",
-      "track": "Sunlo Zara",
-      "artist": "A.R. Rahman, Rashid Ali, Shreya Ghoshal, Timmy, Balesh",
-      "album": "Ekk Deewana Tha",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T05:12:54.621Z"
-    },
-    {
-      "hash": "1800e9dc044f12a4",
-      "track": "Sankatmochan Hanuman Bhajan",
-      "artist": "Suresh Wadkar",
-      "album": "Hanuman Chalisa & Bhajan by Suresh Wadkar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-02T11:41:50.809Z"
-    },
-    {
-      "hash": "2e5215511c7ac43e",
-      "track": "Sanson Ki Mala",
-      "artist": "Madhur Sharma, Vaibhav Pani, Nusrat Fateh Ali Khan",
-      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T04:18:07.198Z"
-    },
-    {
-      "hash": "a4d87dc62c900a07",
-      "track": "Saaton Janam Main Tere",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Popular Nadeem Shravan Music - With Jhankar Beats",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:35:33.877Z"
-    },
-    {
-      "hash": "beccce26e4bf4c2c",
-      "track": "Saat Samundar Paar Happy",
-      "artist": "Sadhana Sargam",
-      "album": "Vishwatma",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:56:07.293Z"
-    },
-    {
-      "hash": "4436bbbaef42e0c4",
-      "track": "Side To Side (feat. Nicki Minaj)",
-      "artist": "Ariana Grande",
+      "hash": "1f3062110e15bffd",
+      "track": "Singari \")",
+      "artist": "Ramajogayya Sastry",
       "album": "null",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-07T12:02:24.227Z"
+      "cached_at": "2026-11-07T12:14:15.142Z"
     }
   ]
 }
