@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-05T02:10:01.128Z",
+  "updated_at": "2026-11-07T13:24:32.352Z",
   "entries": [
     {
       "hash": "f68b5c502db39287",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-05T02:09:48.997Z"
+    },
+    {
+      "hash": "a4cd2bcf09416dd8",
+      "track": "Kovakkara Kiliye",
+      "artist": "Yuvan Shankar Raja, Tipu, Sujatha",
+      "album": "Vel (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T13:24:29.645Z"
     }
   ]
 }
