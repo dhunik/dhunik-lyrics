@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-11-06T03:49:47.495Z",
+  "updated_at": "2026-11-07T12:02:23.525Z",
   "entries": [
     {
       "hash": "7c7453866e6688e3",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T03:49:40.266Z"
+    },
+    {
+      "hash": "b23ecda9b388b9d0",
+      "track": "Blank Space",
+      "artist": "Taylor Swift",
+      "album": "1989 (Deluxe)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T12:02:22.082Z"
     }
   ]
 }
