@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-07T12:02:36.026Z",
+  "updated_at": "2026-11-07T12:11:39.662Z",
   "entries": [
     {
       "hash": "041d358780afb13e",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-07T12:02:33.320Z"
+    },
+    {
+      "hash": "c3316f793eae609e",
+      "track": "Telugu",
+      "artist": "A.R. Rahman, Mohit Chauhan, Balaji",
+      "album": "Chikiri Chikiri (From \"Peddi\") - Telugu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T12:11:36.390Z"
     }
   ]
 }
