@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-06T19:49:49.020Z",
+  "updated_at": "2026-11-07T09:17:41.425Z",
   "entries": [
     {
       "hash": "f880e7e20eb6c88c",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T19:49:45.599Z"
+    },
+    {
+      "hash": "b40bf9b910937c43",
+      "track": "Brabus",
+      "artist": "Parmish Verma, Kiran Bajwa, Starboy X",
+      "album": "Victory Lap",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T09:17:39.351Z"
     }
   ]
 }
