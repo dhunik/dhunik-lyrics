@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-07T12:46:18.166Z",
+  "updated_at": "2026-11-07T13:25:54.095Z",
   "entries": [
     {
-      "hash": "cb3b2ccadf7e3ca5",
-      "track": "Tumse Milne Ki Tamanna Hai",
-      "artist": "S.P. Balasubramaniam",
-      "album": "Love Struck by S.P. Balasubramaniam",
+      "hash": "a4cd2bcf09416dd8",
+      "track": "Kovakkara Kiliye",
+      "artist": "Yuvan Shankar Raja, Tipu, Sujatha",
+      "album": "Vel (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-06T19:46:38.092Z"
-    },
-    {
-      "hash": "beccce26e4bf4c2c",
-      "track": "Saat Samundar Paar Happy",
-      "artist": "Sadhana Sargam",
-      "album": "Vishwatma",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:56:07.293Z"
-    },
-    {
-      "hash": "361d115e13621c53",
-      "track": "Ambar : Parmish Verma Ft Wamiqa Gabbi, Sukhan Verma & Singhjeet (feat. Sukhan Verma, Singhjeet & Wamiqa Gabbi)",
-      "artist": "Parmish Verma, Sukhan Verma, Singhjeet, Nik D Gill",
-      "album": "Ambar (From \"Tabaah\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T09:17:32.980Z"
-    },
-    {
-      "hash": "b40bf9b910937c43",
-      "track": "Brabus",
-      "artist": "Parmish Verma, Kiran Bajwa, Starboy X",
-      "album": "Victory Lap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T09:17:39.351Z"
-    },
-    {
-      "hash": "49fb9aa1fb44a655",
-      "track": "Chuttamalle",
-      "artist": "Shilpa Rao",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:45:54.948Z"
-    },
-    {
-      "hash": "026d1d6f842208f8",
-      "track": "Endhayya Saami (Special Surprise)",
-      "artist": "Ajay-Atul, Shweta Mohan, Ajay Gogavale, Ramajogayya Sastry",
-      "album": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:46:16.082Z"
+      "cached_at": "2026-11-07T13:24:29.645Z"
     }
   ]
 }
