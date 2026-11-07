@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-03T17:03:30.139Z",
+  "updated_at": "2026-11-07T12:02:36.026Z",
   "entries": [
     {
       "hash": "041d358780afb13e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-03T17:03:28.266Z"
+    },
+    {
+      "hash": "2b4df7fca9f00a78",
+      "track": "Criminal",
+      "artist": "Britney Spears",
+      "album": "Femme Fatale (Deluxe Version)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T12:02:33.320Z"
     }
   ]
 }
