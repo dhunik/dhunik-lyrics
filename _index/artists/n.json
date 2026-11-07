@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-11-06T06:10:05.247Z",
+  "updated_at": "2026-11-07T09:17:36.757Z",
   "entries": [
     {
       "hash": "346c7decdcaeee35",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T06:10:02.019Z"
+    },
+    {
+      "hash": "361d115e13621c53",
+      "track": "Ambar : Parmish Verma Ft Wamiqa Gabbi, Sukhan Verma & Singhjeet (feat. Sukhan Verma, Singhjeet & Wamiqa Gabbi)",
+      "artist": "Parmish Verma, Sukhan Verma, Singhjeet, Nik D Gill",
+      "album": "Ambar (From \"Tabaah\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T09:17:32.980Z"
     }
   ]
 }
