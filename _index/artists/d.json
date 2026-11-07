@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-06T05:55:59.883Z",
+  "updated_at": "2026-11-07T12:02:32.436Z",
   "entries": [
     {
       "hash": "1aa504353734d672",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T05:55:55.734Z"
+    },
+    {
+      "hash": "e2bd7f0a10ff3d45",
+      "track": "Heart Attack",
+      "artist": "Demi Lovato",
+      "album": "Revamped",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T12:02:31.157Z"
     }
   ]
 }
