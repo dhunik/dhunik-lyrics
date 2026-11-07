@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "track",
-  "updated_at": "2026-11-06T15:34:03.901Z",
+  "updated_at": "2026-11-07T13:28:34.561Z",
   "entries": [
     {
       "hash": "a99986f8d82f1223",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T15:31:56.404Z"
+    },
+    {
+      "hash": "a5f0cee9dd1e2b6e",
+      "track": "Nee Yadalo Naaku",
+      "artist": "Yuvan Shankar Raja, Sagar Desai, Vennelakanti",
+      "album": "Awaara (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T13:28:32.248Z"
     }
   ]
 }
