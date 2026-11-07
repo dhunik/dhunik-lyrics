@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-07T12:11:39.664Z",
+  "updated_at": "2026-11-07T13:43:54.456Z",
   "entries": [
     {
-      "hash": "3212861733449ab1",
-      "track": "Tera Mera Rishta",
-      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
-      "album": "Mustafa Zahid Awaaraapan & All Sad Love Songs",
-      "has_synced": true,
+      "hash": "e13c878d0a859e71",
+      "track": "Bommali",
+      "artist": "Hema Chandra, Malavika",
+      "album": "Billa",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-10-31T09:58:34.906Z"
-    },
-    {
-      "hash": "2e5215511c7ac43e",
-      "track": "Sanson Ki Mala",
-      "artist": "Madhur Sharma, Vaibhav Pani, Nusrat Fateh Ali Khan",
-      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T04:18:07.198Z"
-    },
-    {
-      "hash": "819f3e8e6a7cb78a",
-      "track": "Falak Dekhun",
-      "artist": "Pritam, Sonu Nigam, Mayur Puri",
-      "album": "Garam Masala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:49:45.599Z"
-    },
-    {
-      "hash": "c3316f793eae609e",
-      "track": "Telugu",
-      "artist": "A.R. Rahman, Mohit Chauhan, Balaji",
-      "album": "Chikiri Chikiri (From \"Peddi\") - Telugu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:11:36.390Z"
+      "cached_at": "2026-11-07T13:39:59.986Z"
     }
   ]
 }
