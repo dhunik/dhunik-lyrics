@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-06T02:57:55.821Z",
+  "updated_at": "2026-11-07T12:02:30.321Z",
   "entries": [
     {
       "hash": "1f2ca54700fb9860",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T02:56:38.039Z"
+    },
+    {
+      "hash": "f6c974bede1f28f7",
+      "track": "Baby (feat. Ludacris)",
+      "artist": "Justin Bieber",
+      "album": "Justin Bieber Songs",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-07T12:02:28.971Z"
     }
   ]
 }
