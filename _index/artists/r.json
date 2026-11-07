@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-07T12:11:33.502Z",
+  "updated_at": "2026-11-07T12:19:51.316Z",
   "entries": [
     {
-      "hash": "fc095ce7951acf07",
-      "track": "Breakin' Dishes",
-      "artist": "Rihanna",
-      "album": "good girl gone bad",
+      "hash": "1f3062110e15bffd",
+      "track": "Singari \")",
+      "artist": "Ramajogayya Sastry",
+      "album": "null",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-07T12:11:21.922Z"
+      "cached_at": "2026-11-07T12:14:15.142Z"
     }
   ]
 }
