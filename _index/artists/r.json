@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-06T07:09:00.120Z",
+  "updated_at": "2026-11-07T12:11:33.502Z",
   "entries": [
     {
-      "hash": "e5a4bc347670060d",
-      "track": "Pani Da Rang (Male)",
-      "artist": "Ayushmann Khurrana, Rochak Kohli",
-      "album": null,
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-04T14:17:01.757Z"
-    },
-    {
-      "hash": "9c6a60b7fb24eac1",
-      "track": "Teri Ore",
-      "artist": "Rahat Fateh Ali Khan, Shreya Ghoshal",
-      "album": "Pop Hits From New Dheli",
+      "hash": "fc095ce7951acf07",
+      "track": "Breakin' Dishes",
+      "artist": "Rihanna",
+      "album": "good girl gone bad",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-05T02:10:03.234Z"
-    },
-    {
-      "hash": "f98ece4d95f72c91",
-      "track": "Door Kahin",
-      "artist": "Raghav Kaushik",
-      "album": "Door Kahin",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T05:54:20.152Z"
-    },
-    {
-      "hash": "3e55df5cb830ec10",
-      "track": "Chillgum",
-      "artist": "Yo Yo Honey Singh, Ragini Vishwakarma",
-      "album": "51 Glorious Days",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T07:08:54.609Z"
+      "cached_at": "2026-11-07T12:11:21.922Z"
     }
   ]
 }
