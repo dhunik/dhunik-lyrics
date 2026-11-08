@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-06T03:50:22.019Z",
+  "updated_at": "2026-11-08T17:26:38.370Z",
   "entries": [
     {
       "hash": "593b086c0c5293dd",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T03:49:48.652Z"
+    },
+    {
+      "hash": "94014def63f8fec1",
+      "track": "23 Theme (From \"AA23\")",
+      "artist": "Hector Salamanca, Anirudh Ravichander, Heisenberg - 23 Theme (From \"AA23\")",
+      "album": "23 Theme (From \"Aa23\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-08T17:26:33.897Z"
     }
   ]
 }
