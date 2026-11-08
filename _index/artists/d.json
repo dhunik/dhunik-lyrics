@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-07T12:02:32.436Z",
+  "updated_at": "2026-11-08T19:19:05.939Z",
   "entries": [
     {
-      "hash": "1aa504353734d672",
-      "track": "Hass Hass",
-      "artist": "Diljit Dosanjh, Sia, Greg Kurstin",
-      "album": "New Years Eve Party 2024",
+      "hash": "437bdf924ade66ba",
+      "track": "Thank You",
+      "artist": "Dido",
+      "album": "Best Of Love Vol. 10",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-10-30T17:35:22.952Z"
-    },
-    {
-      "hash": "8af2e5a7911bec4f",
-      "track": "Tuta Pull Wahan",
-      "artist": "Deepak Rathore",
-      "album": "Tuta Pull Wahan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T05:55:23.696Z"
-    },
-    {
-      "hash": "b38f0d98d1445f8d",
-      "track": "Aankhon Se Batana",
-      "artist": "Dikshant",
-      "album": "Ultimate Love Songs (Hindi)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T05:55:55.734Z"
-    },
-    {
-      "hash": "e2bd7f0a10ff3d45",
-      "track": "Heart Attack",
-      "artist": "Demi Lovato",
-      "album": "Revamped",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:02:31.157Z"
+      "cached_at": "2026-11-08T19:18:30.186Z"
     }
   ]
 }
