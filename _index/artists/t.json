@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-07T13:24:32.352Z",
+  "updated_at": "2026-11-09T05:49:34.137Z",
   "entries": [
     {
-      "hash": "f68b5c502db39287",
-      "track": "Tum Jo Aaye",
-      "artist": "Pritam, Tulsi Kumar, Irshad Kamil",
-      "album": "Pritam's Super Hit Love Songs",
+      "hash": "7dbd3ab08fac1dc1",
+      "track": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "album": "Can’t Feel My Face",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-05T02:09:48.997Z"
-    },
-    {
-      "hash": "a4cd2bcf09416dd8",
-      "track": "Kovakkara Kiliye",
-      "artist": "Yuvan Shankar Raja, Tipu, Sujatha",
-      "album": "Vel (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T13:24:29.645Z"
+      "cached_at": "2026-11-09T05:46:56.586Z"
     }
   ]
 }
