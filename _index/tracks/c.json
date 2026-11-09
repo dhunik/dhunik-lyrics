@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-11-07T12:45:56.442Z",
+  "updated_at": "2026-11-09T05:49:34.134Z",
   "entries": [
     {
-      "hash": "6a54576b80d8179a",
-      "track": "Condenado a amar",
-      "artist": "Andrea del Valle",
-      "album": "Andrea del Valle",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-01T06:09:17.258Z"
-    },
-    {
-      "hash": "3e55df5cb830ec10",
-      "track": "Chillgum",
-      "artist": "Yo Yo Honey Singh, Ragini Vishwakarma",
-      "album": "51 Glorious Days",
+      "hash": "7dbd3ab08fac1dc1",
+      "track": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "album": "Can’t Feel My Face",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-06T07:08:54.609Z"
-    },
-    {
-      "hash": "2b4df7fca9f00a78",
-      "track": "Criminal",
-      "artist": "Britney Spears",
-      "album": "Femme Fatale (Deluxe Version)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:02:33.320Z"
-    },
-    {
-      "hash": "49fb9aa1fb44a655",
-      "track": "Chuttamalle",
-      "artist": "Shilpa Rao",
-      "album": "Unknown",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:45:54.948Z"
+      "cached_at": "2026-11-09T05:46:56.586Z"
     }
   ]
 }
