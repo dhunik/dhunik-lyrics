@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-07T12:46:18.171Z",
+  "updated_at": "2026-11-11T14:34:38.688Z",
   "entries": [
     {
       "hash": "1f3062110e15bffd",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-07T12:46:16.082Z"
+    },
+    {
+      "hash": "e93b43ba3bb8db2f",
+      "track": "Ghoom Ghoom (From “Mirzapur The Movie”)",
+      "artist": "Rashmeet Kaur, Ray, Kumaar - Mirzapur The Movie",
+      "album": "Mirzapur The Movie",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-11T14:34:32.070Z"
     }
   ]
 }
