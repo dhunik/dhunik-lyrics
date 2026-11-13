@@ -2,88 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-08T17:26:52.033Z",
+  "updated_at": "2026-11-13T17:38:47.274Z",
   "entries": [
     {
-      "hash": "512bc91495f93e0f",
-      "track": "O Yaara",
-      "artist": "Abdul Hannan, Kaavish",
-      "album": "O Yaara",
+      "hash": "1116b8f7fbd90764",
+      "track": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "album": "AlessiaCaraVEVO",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-06T05:54:35.893Z"
-    },
-    {
-      "hash": "e40e7afbfc8c2dcc",
-      "track": "Kitna Hai Pyaar",
-      "artist": "Ashu Shukla",
-      "album": "Kitna Hai Pyaar",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T05:55:09.076Z"
-    },
-    {
-      "hash": "d70fcb09ec6757cb",
-      "track": "Love Tujhe Love Main Karta",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Barsaat",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:35:25.301Z"
-    },
-    {
-      "hash": "a4d87dc62c900a07",
-      "track": "Saaton Janam Main Tere",
-      "artist": "Kumar Sanu, Alka Yagnik",
-      "album": "Popular Nadeem Shravan Music - With Jhankar Beats",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:35:33.877Z"
-    },
-    {
-      "hash": "5c4fd40f86efdc58",
-      "track": "Phool Maangu Na Bahaar Maangu",
-      "artist": "Alka Yagnik, Udit Narayan",
-      "album": "Raja",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:49:52.825Z"
-    },
-    {
-      "hash": "4d9b41e79507bc58",
-      "track": "Kitaben Bahut Si",
-      "artist": "Asha Bhosle, Vinod Rathod",
-      "album": "Asha Bhosle",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:56:11.870Z"
-    },
-    {
-      "hash": "4436bbbaef42e0c4",
-      "track": "Side To Side (feat. Nicki Minaj)",
-      "artist": "Ariana Grande",
-      "album": "null",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:02:24.227Z"
-    },
-    {
-      "hash": "94014def63f8fec1",
-      "track": "23 Theme (From \"AA23\")",
-      "artist": "Hector Salamanca, Anirudh Ravichander, Heisenberg - 23 Theme (From \"AA23\")",
-      "album": "23 Theme (From \"Aa23\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-08T17:26:33.897Z"
-    },
-    {
-      "hash": "1f0bf1a2f5e2eadc",
-      "track": "Kithe Reh Gaya",
-      "artist": "Abhijit Vaghani, Neeti Mohan - Kithe Reh Gaya",
-      "album": "Kithe Reh Gaya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-08T17:26:39.220Z"
+      "cached_at": "2026-11-13T17:36:57.457Z"
     }
   ]
 }
