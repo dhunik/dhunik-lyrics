@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-14T15:08:37.867Z",
+  "updated_at": "2026-11-14T18:47:07.466Z",
   "entries": [
     {
       "hash": "1116b8f7fbd90764",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T15:08:31.565Z"
+    },
+    {
+      "hash": "756141ec3d4b9224",
+      "track": "Alfaaz - Acoustic",
+      "artist": "Hamza Malik, Atif Khan",
+      "album": "Alfaaz - Acoustic",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-14T18:47:04.205Z"
     }
   ]
 }
