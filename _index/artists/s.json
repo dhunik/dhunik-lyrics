@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-14T15:07:35.616Z",
+  "updated_at": "2026-11-14T15:08:01.981Z",
   "entries": [
     {
       "hash": "5fb7d1b446a76e15",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T15:07:28.079Z"
+    },
+    {
+      "hash": "bfc03ba545ba41c4",
+      "track": "Khuda Jaane (From \"Bachna Ae Haseeno\")",
+      "artist": "Vishal and Sheykhar, KK, Shilpa Rao",
+      "album": "Bachna Ae Haseeno",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-14T15:07:54.856Z"
     }
   ]
 }
