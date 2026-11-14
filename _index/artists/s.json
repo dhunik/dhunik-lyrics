@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-07T13:25:54.095Z",
+  "updated_at": "2026-11-14T06:56:33.322Z",
   "entries": [
     {
-      "hash": "a4cd2bcf09416dd8",
-      "track": "Kovakkara Kiliye",
-      "artist": "Yuvan Shankar Raja, Tipu, Sujatha",
-      "album": "Vel (Original Motion Picture Soundtrack)",
+      "hash": "5fb7d1b446a76e15",
+      "track": "Hey Kharari",
+      "artist": "Sadhu Tiwari - Hanuman Ansh (Original Motion Picture Soundtrack)",
+      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T13:24:29.645Z"
+      "has_plain": false,
+      "cached_at": "2026-11-14T06:56:15.120Z"
     }
   ]
 }
