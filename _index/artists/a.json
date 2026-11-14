@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-14T18:47:07.466Z",
+  "updated_at": "2026-11-14T19:05:28.094Z",
   "entries": [
     {
       "hash": "1116b8f7fbd90764",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T18:47:04.205Z"
+    },
+    {
+      "hash": "1ef0c8d722c9ea97",
+      "track": "Chaleya",
+      "artist": "Arijit Singh, Shilpa Rao",
+      "album": "Jawan - Hindi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-14T19:05:26.562Z"
     }
   ]
 }
