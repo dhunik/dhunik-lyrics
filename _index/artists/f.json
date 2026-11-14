@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-11-06T05:55:54.381Z",
+  "updated_at": "2026-11-14T08:54:50.827Z",
   "entries": [
     {
-      "hash": "d7a2fa5735e743c0",
-      "track": "Tu Thodi Der Aur Thehar Ja",
-      "artist": "Shreya Ghoshal, Farhan Saeed, Kumaar",
-      "album": "Liked Songs",
+      "hash": "e06a3e3ceaa7772d",
+      "track": "Snow in Skyami",
+      "artist": "Future",
+      "album": "The Real Me",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-06T05:54:26.876Z"
+      "cached_at": "2026-11-14T08:47:11.786Z"
     }
   ]
 }
