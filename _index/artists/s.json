@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-14T15:08:01.981Z",
+  "updated_at": "2026-11-14T15:08:30.380Z",
   "entries": [
     {
       "hash": "5fb7d1b446a76e15",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T15:07:54.856Z"
+    },
+    {
+      "hash": "ec80fc730ec066c1",
+      "track": "Ek Dil Ek Jaan (From \"Padmaavat\")",
+      "artist": "Shivam Pathak, Sanjay Leela Bhansali",
+      "album": "Ek Dil Ek Jaan (From \"Padmaavat\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-14T15:08:28.162Z"
     }
   ]
 }
