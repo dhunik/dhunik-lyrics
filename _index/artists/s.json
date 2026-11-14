@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-14T06:56:33.322Z",
+  "updated_at": "2026-11-14T15:07:35.616Z",
   "entries": [
     {
       "hash": "5fb7d1b446a76e15",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T06:56:15.120Z"
+    },
+    {
+      "hash": "409ebaa23f8a8743",
+      "track": "Apna Bana Le (From \"Bhediya\")",
+      "artist": "Arijit Singh, Sachin-Jigar",
+      "album": "Apna Bana Le",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-14T15:07:28.079Z"
     }
   ]
 }
