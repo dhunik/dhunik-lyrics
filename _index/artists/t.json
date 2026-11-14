@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-09T05:49:34.137Z",
+  "updated_at": "2026-11-14T11:18:43.356Z",
   "entries": [
     {
-      "hash": "7dbd3ab08fac1dc1",
-      "track": "Can't Feel My Face",
-      "artist": "The Weeknd",
-      "album": "Can’t Feel My Face",
+      "hash": "a713a8cbcd7f5e4e",
+      "track": "Loser",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-09T05:46:56.586Z"
+      "cached_at": "2026-11-14T11:17:14.564Z"
     }
   ]
 }
