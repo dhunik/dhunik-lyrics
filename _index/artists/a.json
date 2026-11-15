@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-14T19:05:28.094Z",
+  "updated_at": "2026-11-15T10:07:57.275Z",
   "entries": [
     {
       "hash": "1116b8f7fbd90764",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T19:05:26.562Z"
+    },
+    {
+      "hash": "146e8755492c767e",
+      "track": "Duniyaa (From \"Luka Chuppi\")",
+      "artist": "Akhil, Dhvani Bhanushali",
+      "album": "Duniyaa (From \"Luka Chuppi\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-15T10:07:49.380Z"
     }
   ]
 }
