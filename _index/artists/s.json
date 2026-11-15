@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-15T10:08:16.867Z",
+  "updated_at": "2026-11-15T10:10:32.905Z",
   "entries": [
     {
-      "hash": "5fb7d1b446a76e15",
-      "track": "Hey Kharari",
-      "artist": "Sadhu Tiwari - Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T06:56:15.120Z"
-    },
-    {
-      "hash": "409ebaa23f8a8743",
-      "track": "Apna Bana Le (From \"Bhediya\")",
-      "artist": "Arijit Singh, Sachin-Jigar",
-      "album": "Apna Bana Le",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T15:07:28.079Z"
-    },
-    {
-      "hash": "bfc03ba545ba41c4",
-      "track": "Khuda Jaane (From \"Bachna Ae Haseeno\")",
-      "artist": "Vishal and Sheykhar, KK, Shilpa Rao",
-      "album": "Bachna Ae Haseeno",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T15:07:54.856Z"
-    },
-    {
-      "hash": "ec80fc730ec066c1",
-      "track": "Ek Dil Ek Jaan (From \"Padmaavat\")",
-      "artist": "Shivam Pathak, Sanjay Leela Bhansali",
-      "album": "Ek Dil Ek Jaan (From \"Padmaavat\")",
+      "hash": "40797c4dc05df1d3",
+      "track": "Bum Bum Bole",
+      "artist": "Shaan, Aamir Khan - Taare Zameen Par",
+      "album": "Shaan, Aamir Khan",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-14T15:08:28.162Z"
-    },
-    {
-      "hash": "1ef0c8d722c9ea97",
-      "track": "Chaleya",
-      "artist": "Arijit Singh, Shilpa Rao",
-      "album": "Jawan - Hindi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T19:05:26.562Z"
-    },
-    {
-      "hash": "2f2de66032d661f4",
-      "track": "Dil Diyan Gallan (From \"Tiger Zinda Hai\")",
-      "artist": "Vishal and Sheykhar, Atif Aslam",
-      "album": "Tiger Zinda Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:08:14.399Z"
+      "cached_at": "2026-11-15T10:10:18.652Z"
     }
   ]
 }
