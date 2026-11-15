@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-11-06T19:56:22.941Z",
+  "updated_at": "2026-11-15T10:08:19.932Z",
   "entries": [
     {
       "hash": "26ca3dcac97826bc",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-06T19:56:11.870Z"
+    },
+    {
+      "hash": "2f2de66032d661f4",
+      "track": "Dil Diyan Gallan (From \"Tiger Zinda Hai\")",
+      "artist": "Vishal and Sheykhar, Atif Aslam",
+      "album": "Tiger Zinda Hai",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-15T10:08:14.399Z"
     }
   ]
 }
