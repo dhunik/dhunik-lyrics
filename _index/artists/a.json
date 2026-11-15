@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-15T10:07:57.275Z",
+  "updated_at": "2026-11-15T10:09:37.773Z",
   "entries": [
     {
       "hash": "1116b8f7fbd90764",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-15T10:07:49.380Z"
+    },
+    {
+      "hash": "6786215326a646d2",
+      "track": "AGAR TUM SAATH HO",
+      "artist": "Arijit Singh, Alka Yagnik",
+      "album": "TAMASHA",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-15T10:09:31.860Z"
     }
   ]
 }
