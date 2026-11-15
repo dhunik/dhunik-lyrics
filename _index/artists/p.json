@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-14T15:06:43.692Z",
+  "updated_at": "2026-11-15T10:11:28.570Z",
   "entries": [
     {
       "hash": "f880e7e20eb6c88c",
@@ -48,6 +48,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T15:06:41.441Z"
+    },
+    {
+      "hash": "3f0f0d8ec7818981",
+      "track": "Main Ram (From \"Ramayana\")",
+      "artist": "Prateek Walia, Kumar Vishwas - Main Ram (From \"Ramayana\")",
+      "album": "Main Ram (From \"Ramayana\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-15T10:11:25.425Z"
     }
   ]
 }
