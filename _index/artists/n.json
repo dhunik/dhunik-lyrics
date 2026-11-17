@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-11-08T17:26:52.044Z",
+  "updated_at": "2026-11-17T10:30:16.650Z",
   "entries": [
     {
       "hash": "346c7decdcaeee35",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-08T17:26:39.220Z"
+    },
+    {
+      "hash": "7f7ea109e1d037b1",
+      "track": "Aarzu",
+      "artist": "Noor, Khan, Madhurxo",
+      "album": "Aarzu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-17T10:30:14.607Z"
     }
   ]
 }
