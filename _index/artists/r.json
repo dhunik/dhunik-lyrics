@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-14T18:47:01.941Z",
+  "updated_at": "2026-11-17T10:32:56.619Z",
   "entries": [
     {
       "hash": "8e84dbeeec7a51c5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-14T18:46:28.660Z"
+    },
+    {
+      "hash": "e5f523ae33ab5848",
+      "track": "Hasi Ban Gaye (Kya Khoob Rab Ne Kia)",
+      "artist": "Rawsingers",
+      "album": "Hasi Ban Gaye (Kya Khoob Rab Ne Kia)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-17T10:32:50.724Z"
     }
   ]
 }
