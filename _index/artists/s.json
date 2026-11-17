@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-15T10:10:32.905Z",
+  "updated_at": "2026-11-17T19:48:10.409Z",
   "entries": [
     {
-      "hash": "40797c4dc05df1d3",
-      "track": "Bum Bum Bole",
-      "artist": "Shaan, Aamir Khan - Taare Zameen Par",
-      "album": "Shaan, Aamir Khan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-15T10:10:18.652Z"
+      "hash": "290ff139c5652441",
+      "track": "Jai Jai Ram",
+      "artist": "A.R. Rahman, Shreya Ghoshal, Arijit Singh, Kumar Vishwas - Namit Malhotra's Ramayana [Hindi]",
+      "album": "Namit Malhotra's Ramayana [Hindi]",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-17T19:38:36.105Z"
     }
   ]
 }
