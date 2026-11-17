@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-10-31T08:30:17.614Z",
+  "updated_at": "2026-11-17T17:26:57.623Z",
   "entries": [
     {
-      "hash": "9f602be1be825e27",
-      "track": "Slide",
-      "artist": "Calvin Harris",
-      "album": "Slide",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-31T08:29:29.306Z"
+      "hash": "adfcaf51fd8663b3",
+      "track": "Tutor",
+      "artist": "Cheema Y, Gur Sidhu",
+      "album": "The Simpsons",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-17T17:25:25.500Z"
     }
   ]
 }
