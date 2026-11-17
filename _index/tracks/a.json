@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-11-17T10:30:16.645Z",
+  "updated_at": "2026-11-17T10:36:28.508Z",
   "entries": [
     {
-      "hash": "87f48501a74f5eac",
-      "track": "Alfaaz",
-      "artist": "Hamza Malik, Zain Zohaib",
+      "hash": "813b23c7310449e8",
+      "track": "Akhiyaan",
+      "artist": "Noor, Khan",
       "album": null,
-      "has_synced": true,
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-04T10:12:29.036Z"
-    },
-    {
-      "hash": "361d115e13621c53",
-      "track": "Ambar : Parmish Verma Ft Wamiqa Gabbi, Sukhan Verma & Singhjeet (feat. Sukhan Verma, Singhjeet & Wamiqa Gabbi)",
-      "artist": "Parmish Verma, Sukhan Verma, Singhjeet, Nik D Gill",
-      "album": "Ambar (From \"Tabaah\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T09:17:32.980Z"
-    },
-    {
-      "hash": "409ebaa23f8a8743",
-      "track": "Apna Bana Le (From \"Bhediya\")",
-      "artist": "Arijit Singh, Sachin-Jigar",
-      "album": "Apna Bana Le",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T15:07:28.079Z"
-    },
-    {
-      "hash": "756141ec3d4b9224",
-      "track": "Alfaaz - Acoustic",
-      "artist": "Hamza Malik, Atif Khan",
-      "album": "Alfaaz - Acoustic",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T18:47:04.205Z"
-    },
-    {
-      "hash": "6786215326a646d2",
-      "track": "AGAR TUM SAATH HO",
-      "artist": "Arijit Singh, Alka Yagnik",
-      "album": "TAMASHA",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:09:31.860Z"
-    },
-    {
-      "hash": "cf73beef37f238f4",
-      "track": "Aa Rela Hai Apun",
-      "artist": "Amit Trivedi, Armaan Malik, Tanmay Chaudhari, Amitabh Bhattacharya, Arvind Vishwakarma - Chillar Party",
-      "album": "Chillar Party (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:12:02.628Z"
-    },
-    {
-      "hash": "7f7ea109e1d037b1",
-      "track": "Aarzu",
-      "artist": "Noor, Khan, Madhurxo",
-      "album": "Aarzu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-17T10:30:14.607Z"
+      "cached_at": "2026-11-17T10:34:54.891Z"
     }
   ]
 }
