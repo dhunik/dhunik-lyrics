@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-10-30T17:41:30.938Z",
+  "updated_at": "2026-11-17T17:24:58.070Z",
   "entries": [
     {
-      "hash": "468ed02931ac1918",
-      "track": "California Love",
+      "hash": "1800206f522c8a6e",
+      "track": "Jackpot",
       "artist": "Cheema Y, Gur Sidhu",
-      "album": "Cheema Y",
+      "album": "Bermuda Triangle",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-30T17:37:53.392Z"
+      "has_plain": false,
+      "cached_at": "2026-11-17T17:24:29.835Z"
     }
   ]
 }
