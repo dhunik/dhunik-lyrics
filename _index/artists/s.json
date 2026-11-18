@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T09:15:17.634Z",
+  "updated_at": "2026-11-18T09:48:22.295Z",
   "entries": [
     {
       "hash": "b5ae89556d5513d5",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-18T09:15:00.728Z"
+    },
+    {
+      "hash": "0d9c895d868114b1",
+      "track": "Cheliya Cheliya",
+      "artist": "Harris Jayaraj, KK, Suchitra - Gharshana (New)",
+      "album": "Gharshana (New)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-18T09:48:14.832Z"
     }
   ]
 }
