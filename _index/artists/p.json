@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-15T10:11:28.570Z",
+  "updated_at": "2026-11-18T06:07:44.957Z",
   "entries": [
     {
-      "hash": "f880e7e20eb6c88c",
-      "track": "Dekhi Ja",
-      "artist": "Parmish Verma, Kiran Bajwa, SickBoi",
-      "album": "Victory Lap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T10:33:07.531Z"
-    },
-    {
-      "hash": "d48472d688575202",
-      "track": "O Sajna",
-      "artist": "Gajendra Verma, Puja Thaker",
-      "album": "Table No. 21",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-01T05:20:06.866Z"
-    },
-    {
-      "hash": "819f3e8e6a7cb78a",
-      "track": "Falak Dekhun",
-      "artist": "Pritam, Sonu Nigam, Mayur Puri",
-      "album": "Garam Masala",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:49:45.599Z"
-    },
-    {
-      "hash": "b40bf9b910937c43",
-      "track": "Brabus",
-      "artist": "Parmish Verma, Kiran Bajwa, Starboy X",
-      "album": "Victory Lap",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T09:17:39.351Z"
-    },
-    {
-      "hash": "47c7bb9c7a543268",
-      "track": "Shayad (From \"Love Aaj Kal\")",
-      "artist": "Pritam",
-      "album": "Shayad (From \"Love Aaj Kal\")",
+      "hash": "d0f11362fa8967a8",
+      "track": "Tera Hua Sahiba",
+      "artist": "Garvit-Priyansh, Garvit Soni, Priyansh Srivastava, Hansika Pareek, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
+      "album": "Tera Hua Sahiba (From \"Musafir Cafe\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-14T15:06:41.441Z"
-    },
-    {
-      "hash": "3f0f0d8ec7818981",
-      "track": "Main Ram (From \"Ramayana\")",
-      "artist": "Prateek Walia, Kumar Vishwas - Main Ram (From \"Ramayana\")",
-      "album": "Main Ram (From \"Ramayana\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:11:25.425Z"
+      "cached_at": "2026-11-18T06:07:27.324Z"
     }
   ]
 }
