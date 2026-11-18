@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-14T15:09:36.490Z",
+  "updated_at": "2026-11-18T08:09:02.164Z",
   "entries": [
     {
-      "hash": "1f2ca54700fb9860",
-      "track": "Trending Version)",
-      "artist": "Shreya Ghoshal, Javed Bashir, Yusuf Mohammed, Vajid Ali",
-      "album": "O Rangrez",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T02:56:38.039Z"
-    },
-    {
-      "hash": "f6c974bede1f28f7",
-      "track": "Baby (feat. Ludacris)",
-      "artist": "Justin Bieber",
-      "album": "Justin Bieber Songs",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:02:28.971Z"
-    },
-    {
-      "hash": "936a1b6b74395bc1",
-      "track": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
-      "album": "Dhurandhar The Revenge",
+      "hash": "5077d93db2623b4c",
+      "track": "Suniyan Suniyan",
+      "artist": "Juss, Mixsingh",
+      "album": "Suniyan Suniyan",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-14T15:09:32.898Z"
+      "cached_at": "2026-11-18T08:00:08.784Z"
     }
   ]
 }
