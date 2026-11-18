@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-17T19:48:10.409Z",
+  "updated_at": "2026-11-18T04:57:26.433Z",
   "entries": [
     {
-      "hash": "290ff139c5652441",
-      "track": "Jai Jai Ram",
-      "artist": "A.R. Rahman, Shreya Ghoshal, Arijit Singh, Kumar Vishwas - Namit Malhotra's Ramayana [Hindi]",
-      "album": "Namit Malhotra's Ramayana [Hindi]",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-17T19:38:36.105Z"
+      "hash": "895ca3115dced2d8",
+      "track": "Tere Liye (Jhankar)",
+      "artist": "Atif Aslam, Shreya Ghoshal",
+      "album": "Prince - Jhankar",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-18T04:54:16.457Z"
     }
   ]
 }
