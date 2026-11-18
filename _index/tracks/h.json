@@ -2,115 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "track",
-  "updated_at": "2026-11-18T14:34:02.730Z",
+  "updated_at": "2026-11-18T16:37:54.173Z",
   "entries": [
     {
-      "hash": "8791d8503e297ff1",
-      "track": "Hamein Tumse Hua Pyar",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Ab Tumhare Hawale Watan Sathiyo",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T10:29:11.859Z"
-    },
-    {
-      "hash": "418094ae0809c81d",
-      "track": "Hookah Bar (From \"Khiladi 786\")",
-      "artist": "Himesh Reshammiya, Vineet Singh, Aman Trikha",
-      "album": "Best Of Akshay Kumar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-18T08:20:19.323Z"
-    },
-    {
-      "hash": "15414c5c74c0a8b3",
-      "track": "He Dukh Bhanjan",
-      "artist": "Rakesh Kala - He Dukh Bhanjan - Rakesh Kala",
-      "album": "He Dukh Bhanjan - Rakesh Kala",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T07:02:06.092Z"
-    },
-    {
-      "hash": "7fbddef4bfe31825",
-      "track": "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)",
-      "artist": "Amaal Mallik",
-      "album": "Sanam Re",
+      "hash": "a16fd2c89a04caa1",
+      "track": "Homa Dol",
+      "artist": "Saad Lamjarred, Neeti Mohan, Rajat Nagpal",
+      "album": "Homa Dol",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-02T07:00:00.632Z"
-    },
-    {
-      "hash": "8746b6a488462c1a",
-      "track": "Hey Mahaveer Karo Kalyan",
-      "artist": "Suresh Wadkar",
-      "album": "Hanuman Chalisa",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-02T11:42:29.302Z"
-    },
-    {
-      "hash": "c434d5b4cc2854e8",
-      "track": "Haareya",
-      "artist": "Arijit Singh",
-      "album": "Meri Pyari Bindu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-03T12:11:10.737Z"
-    },
-    {
-      "hash": "1caadcfc358b00eb",
-      "track": "Ho Gaya Hai Tujhko To Pyar Sajna",
-      "artist": "Lata Mangeshkar, Udit Narayan",
-      "album": "Dilwale Dulhania Le Jayenge",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:46:25.229Z"
-    },
-    {
-      "hash": "e2bd7f0a10ff3d45",
-      "track": "Heart Attack",
-      "artist": "Demi Lovato",
-      "album": "Revamped",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:02:31.157Z"
-    },
-    {
-      "hash": "5fb7d1b446a76e15",
-      "track": "Hey Kharari",
-      "artist": "Sadhu Tiwari - Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T06:56:15.120Z"
-    },
-    {
-      "hash": "6503dd5309274012",
-      "track": "Har Bachcha Hai Rocket",
-      "artist": "Amit Trivedi - Rocket Gang",
-      "album": "Rocket Gang",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-15T10:11:57.167Z"
-    },
-    {
-      "hash": "e5f523ae33ab5848",
-      "track": "Hasi Ban Gaye (Kya Khoob Rab Ne Kia)",
-      "artist": "Rawsingers",
-      "album": "Hasi Ban Gaye (Kya Khoob Rab Ne Kia)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-17T10:32:50.724Z"
-    },
-    {
-      "hash": "374c70f6af1b3557",
-      "track": "Har Funn Maula (From \"Koi Jaane Na\")",
-      "artist": "Tanishk Bagchi, Vishal Dadlani, Zara Khan, Amin Hajee",
-      "album": "Har Funn Maula (From \"Koi Jaane Na\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-18T14:33:59.835Z"
+      "cached_at": "2026-11-18T16:36:59.764Z"
     }
   ]
 }
