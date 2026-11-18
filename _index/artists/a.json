@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-18T06:53:59.856Z",
+  "updated_at": "2026-11-18T08:55:59.453Z",
   "entries": [
     {
-      "hash": "f66c5b0cf6202de3",
-      "track": "Maine Socha Ke Chura Loon",
-      "artist": "Arijit Singh, Shreya Ghoshal",
-      "album": "Phir Se",
+      "hash": "7c26498a92c926de",
+      "track": "Pehla Pyaar",
+      "artist": "Vishal Mishra, Armaan Malik",
+      "album": "Kabir Singh",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T06:51:59.086Z"
+      "cached_at": "2026-11-18T08:55:31.078Z"
     }
   ]
 }
