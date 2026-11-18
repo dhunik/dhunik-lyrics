@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-15T10:10:20.899Z",
+  "updated_at": "2026-11-18T06:04:46.450Z",
   "entries": [
     {
-      "hash": "1116b8f7fbd90764",
-      "track": "Scars To Your Beautiful",
-      "artist": "Alessia Cara",
-      "album": "AlessiaCaraVEVO",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-13T17:36:57.457Z"
-    },
-    {
-      "hash": "cf8c9ec96b96a22e",
-      "track": "O Maahi",
+      "hash": "0fe9a97ab612462f",
+      "track": "Kesariya (From \"Brahmastra\")",
       "artist": "Arijit Singh",
-      "album": "Dunki",
+      "album": "Kesariya (From \"Brahmastra\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-14T15:08:31.565Z"
-    },
-    {
-      "hash": "756141ec3d4b9224",
-      "track": "Alfaaz - Acoustic",
-      "artist": "Hamza Malik, Atif Khan",
-      "album": "Alfaaz - Acoustic",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T18:47:04.205Z"
-    },
-    {
-      "hash": "1ef0c8d722c9ea97",
-      "track": "Chaleya",
-      "artist": "Arijit Singh, Shilpa Rao",
-      "album": "Jawan - Hindi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-14T19:05:26.562Z"
-    },
-    {
-      "hash": "146e8755492c767e",
-      "track": "Duniyaa (From \"Luka Chuppi\")",
-      "artist": "Akhil, Dhvani Bhanushali",
-      "album": "Duniyaa (From \"Luka Chuppi\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:07:49.380Z"
-    },
-    {
-      "hash": "6786215326a646d2",
-      "track": "AGAR TUM SAATH HO",
-      "artist": "Arijit Singh, Alka Yagnik",
-      "album": "TAMASHA",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:09:31.860Z"
-    },
-    {
-      "hash": "40797c4dc05df1d3",
-      "track": "Bum Bum Bole",
-      "artist": "Shaan, Aamir Khan - Taare Zameen Par",
-      "album": "Shaan, Aamir Khan",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-15T10:10:18.652Z"
+      "cached_at": "2026-11-18T06:04:32.137Z"
     }
   ]
 }
