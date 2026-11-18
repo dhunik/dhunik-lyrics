@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-18T14:43:18.887Z",
+  "updated_at": "2026-11-18T16:23:13.673Z",
   "entries": [
     {
-      "hash": "f3ba6b7884be3084",
-      "track": "Naina (From \"Crew\")",
-      "artist": "Diljit Dosanjh, Raj Ranjodh, Badshah",
-      "album": "Crew",
+      "hash": "ab21b9a2f333803b",
+      "track": "Shri Ram Jaanki Baithe Hai",
+      "artist": "Ram Kumar Lakha - Shri Ram Jaanki Baithe Hai",
+      "album": "Shri Ram Jaanki Baithe Hai",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T14:43:04.599Z"
+      "cached_at": "2026-11-18T16:22:21.896Z"
     }
   ]
 }
