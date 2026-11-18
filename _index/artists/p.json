@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-18T07:24:55.586Z",
+  "updated_at": "2026-11-18T09:47:37.807Z",
   "entries": [
     {
-      "hash": "d0f11362fa8967a8",
-      "track": "Tera Hua Sahiba",
-      "artist": "Garvit-Priyansh, Garvit Soni, Priyansh Srivastava, Hansika Pareek, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
-      "album": "Tera Hua Sahiba (From \"Musafir Cafe\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-18T06:07:27.324Z"
-    },
-    {
-      "hash": "7cef6a9a2cf69bac",
-      "track": "Let Her Go",
-      "artist": "Passenger",
-      "album": "Passenger",
+      "hash": "ee401009b2049100",
+      "track": "Bulleya",
+      "artist": "Pritam, Amit Mishra, Shilpa Rao",
+      "album": "Bulleya (From \"Ae Dil Hai Mushkil\")",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-18T07:24:46.427Z"
+      "cached_at": "2026-11-18T09:47:07.323Z"
     }
   ]
 }
