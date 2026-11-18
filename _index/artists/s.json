@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T14:25:48.859Z",
+  "updated_at": "2026-11-18T14:33:31.473Z",
   "entries": [
     {
-      "hash": "12d082fdfe400a63",
-      "track": "Allantha Doorala",
-      "artist": "Yuvan Shankar Raja, S.P. Balasubrahmanyam",
-      "album": "Aadavari Matalaku Ardhalu Veruley",
+      "hash": "1577c912e59620e6",
+      "track": "Chandrullo Unde",
+      "artist": "Shankar Mahadevan",
+      "album": "Nuvvostanante Nenoddantana",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T13:50:18.573Z"
-    },
-    {
-      "hash": "0de6eb3fc3598594",
-      "track": "Naa Manasuney",
-      "artist": "S.P.Balasubramanyam, Chitra",
-      "album": "Manmadhudu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-18T13:57:58.326Z"
-    },
-    {
-      "hash": "822f10e126fe8df4",
-      "track": "Muvvala Navakala",
-      "artist": "S.P.Balasubramanyam, Chitra",
-      "album": "Pournamy",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-18T14:25:46.916Z"
+      "cached_at": "2026-11-18T14:32:50.267Z"
     }
   ]
 }
