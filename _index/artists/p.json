@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-18T09:48:26.162Z",
+  "updated_at": "2026-11-18T14:29:40.541Z",
   "entries": [
     {
-      "hash": "ee401009b2049100",
-      "track": "Bulleya",
-      "artist": "Pritam, Amit Mishra, Shilpa Rao",
-      "album": "Bulleya (From \"Ae Dil Hai Mushkil\")",
+      "hash": "8dc51fb8f0b4a029",
+      "track": "Mere Mehboob",
+      "artist": "Sachin-Jigar, Shilpa Rao, Sachet Tandon, Priya Saraiya",
+      "album": "Vicky Vidya Ka Woh Wala Video",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-18T09:47:07.323Z"
-    },
-    {
-      "hash": "f4d641cff519b101",
-      "track": "Tujhe Sochta Hoon",
-      "artist": "Sayeed Quadri, Pritam, KK - Jannat 2",
-      "album": "Jannat 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-18T09:48:23.666Z"
+      "has_plain": false,
+      "cached_at": "2026-11-18T14:29:12.847Z"
     }
   ]
 }
