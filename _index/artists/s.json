@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T04:57:26.433Z",
+  "updated_at": "2026-11-18T07:25:42.787Z",
   "entries": [
     {
-      "hash": "895ca3115dced2d8",
-      "track": "Tere Liye (Jhankar)",
-      "artist": "Atif Aslam, Shreya Ghoshal",
-      "album": "Prince - Jhankar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-18T04:54:16.457Z"
+      "hash": "94e4f840c48a587a",
+      "track": "Guzarish",
+      "artist": "Satinder Sartaaj",
+      "album": "Guzarish",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-18T07:25:14.349Z"
     }
   ]
 }
