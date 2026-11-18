@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-18T12:37:34.760Z",
+  "updated_at": "2026-11-18T14:43:18.887Z",
   "entries": [
     {
-      "hash": "8e84dbeeec7a51c5",
-      "track": "Sandese Aate Hai",
-      "artist": "Sonu Nigam, Roop Kumar Rathod",
-      "album": "Border (Original Motion Picture Soundtrack)",
+      "hash": "f3ba6b7884be3084",
+      "track": "Naina (From \"Crew\")",
+      "artist": "Diljit Dosanjh, Raj Ranjodh, Badshah",
+      "album": "Crew",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-14T18:46:28.660Z"
-    },
-    {
-      "hash": "e5f523ae33ab5848",
-      "track": "Hasi Ban Gaye (Kya Khoob Rab Ne Kia)",
-      "artist": "Rawsingers",
-      "album": "Hasi Ban Gaye (Kya Khoob Rab Ne Kia)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-17T10:32:50.724Z"
-    },
-    {
-      "hash": "e2f5afefe8a778d7",
-      "track": "Saagar Jaisi Aankhonwali (From \"Saagar\")",
-      "artist": "Kishore Kumar, R.D. Burman - Saagar",
-      "album": "Saagar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-18T06:39:07.804Z"
-    },
-    {
-      "hash": "0b0abd8efa4fa15b",
-      "track": "Jailer 2 Theme",
-      "artist": "Anirudh Ravichander, Inno Genga, M.S Krsna, Ritesh G Rao - Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
-      "album": "Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-18T12:37:32.823Z"
+      "cached_at": "2026-11-18T14:43:04.599Z"
     }
   ]
 }
