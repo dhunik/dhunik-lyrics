@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-15T10:12:10.988Z",
+  "updated_at": "2026-11-18T12:37:34.751Z",
   "entries": [
     {
       "hash": "e13c878d0a859e71",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-15T10:12:06.781Z"
+    },
+    {
+      "hash": "0b0abd8efa4fa15b",
+      "track": "Jailer 2 Theme",
+      "artist": "Anirudh Ravichander, Inno Genga, M.S Krsna, Ritesh G Rao - Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
+      "album": "Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-18T12:37:32.823Z"
     }
   ]
 }
