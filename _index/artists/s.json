@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T07:25:42.787Z",
+  "updated_at": "2026-11-18T09:15:17.634Z",
   "entries": [
     {
-      "hash": "94e4f840c48a587a",
-      "track": "Guzarish",
-      "artist": "Satinder Sartaaj",
-      "album": "Guzarish",
+      "hash": "b5ae89556d5513d5",
+      "track": "Poison",
+      "artist": "R. Nait, Sidhu Moose Wala",
+      "album": "Poison",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T07:25:14.349Z"
+      "cached_at": "2026-11-18T09:15:00.728Z"
     }
   ]
 }
