@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "y",
   "type": "artist",
-  "updated_at": "2026-11-07T13:25:54.093Z",
+  "updated_at": "2026-11-18T13:50:33.435Z",
   "entries": [
     {
-      "hash": "a4cd2bcf09416dd8",
-      "track": "Kovakkara Kiliye",
-      "artist": "Yuvan Shankar Raja, Tipu, Sujatha",
-      "album": "Vel (Original Motion Picture Soundtrack)",
+      "hash": "12d082fdfe400a63",
+      "track": "Allantha Doorala",
+      "artist": "Yuvan Shankar Raja, S.P. Balasubrahmanyam",
+      "album": "Aadavari Matalaku Ardhalu Veruley",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T13:24:29.645Z"
+      "has_plain": false,
+      "cached_at": "2026-11-18T13:50:18.573Z"
     }
   ]
 }
