@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-18T06:39:12.443Z",
+  "updated_at": "2026-11-18T09:14:59.816Z",
   "entries": [
     {
-      "hash": "813b23c7310449e8",
-      "track": "Akhiyaan",
-      "artist": "Noor, Khan",
-      "album": null,
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-17T10:34:54.891Z"
-    },
-    {
-      "hash": "e2f5afefe8a778d7",
-      "track": "Saagar Jaisi Aankhonwali (From \"Saagar\")",
-      "artist": "Kishore Kumar, R.D. Burman - Saagar",
-      "album": "Saagar",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-18T06:39:07.804Z"
+      "hash": "a1b90437c7dca18f",
+      "track": "Budapest",
+      "artist": "Kid On The Block, Chill Gull, Sleepy Dude",
+      "album": "Budapest",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-18T09:12:36.882Z"
     }
   ]
 }
