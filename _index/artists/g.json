@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "artist",
-  "updated_at": "2026-11-17T17:24:58.070Z",
+  "updated_at": "2026-11-18T14:17:12.945Z",
   "entries": [
     {
-      "hash": "1800206f522c8a6e",
-      "track": "Jackpot",
-      "artist": "Cheema Y, Gur Sidhu",
-      "album": "Bermuda Triangle",
+      "hash": "b5ae38bebe4809fe",
+      "track": "Nazra Ke Teer",
+      "artist": "Vikram Sarkar, Guri Nimana",
+      "album": "Nazra Ke Teer",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-17T17:24:29.835Z"
+      "cached_at": "2026-11-18T14:16:34.721Z"
     }
   ]
 }
