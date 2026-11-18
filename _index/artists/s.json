@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T09:48:22.295Z",
+  "updated_at": "2026-11-18T09:48:25.890Z",
   "entries": [
     {
       "hash": "b5ae89556d5513d5",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-18T09:48:14.832Z"
+    },
+    {
+      "hash": "f4d641cff519b101",
+      "track": "Tujhe Sochta Hoon",
+      "artist": "Sayeed Quadri, Pritam, KK - Jannat 2",
+      "album": "Jannat 2",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-18T09:48:23.666Z"
     }
   ]
 }
