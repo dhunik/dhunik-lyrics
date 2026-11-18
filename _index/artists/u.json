@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "u",
   "type": "artist",
-  "updated_at": "2026-11-06T19:46:27.663Z",
+  "updated_at": "2026-11-18T14:05:28.908Z",
   "entries": [
     {
-      "hash": "9eef83bb9b553df7",
-      "track": "Manninchu O Prema",
-      "artist": "Koti, Udit Narayan, K. S. Chithra - Ela Cheppanu",
-      "album": "Ela Cheppanu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:36:32.721Z"
-    },
-    {
-      "hash": "5fa1bd6322fef15b",
-      "track": "Snehithude Unte",
-      "artist": "A.R. Rahman, Mano, Unni Krishnan, Chinmayi Sripada - Nee Manasu Naaku Telusu",
-      "album": "Nee Manasu Naaku Telusu",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:37:43.255Z"
-    },
-    {
-      "hash": "1caadcfc358b00eb",
-      "track": "Ho Gaya Hai Tujhko To Pyar Sajna",
-      "artist": "Lata Mangeshkar, Udit Narayan",
-      "album": "Dilwale Dulhania Le Jayenge",
+      "hash": "ebcf21329e52f946",
+      "track": "Emaindhi Eevela",
+      "artist": "Udit Narayan",
+      "album": "Aadavari Matalaku Ardhalu Veruley",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:46:25.229Z"
+      "has_plain": false,
+      "cached_at": "2026-11-18T14:05:02.554Z"
     }
   ]
 }
