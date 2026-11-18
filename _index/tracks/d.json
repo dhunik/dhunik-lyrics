@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "track",
-  "updated_at": "2026-11-15T10:08:16.740Z",
+  "updated_at": "2026-11-18T08:58:09.838Z",
   "entries": [
     {
-      "hash": "396472922d6c3413",
-      "track": "Do Din Ki Zindagi",
-      "artist": "Himesh Reshammiya, Shreya Ghoshal, Vishal Mishra, Junaid Wasi",
-      "album": "Do Din Ki Zindagi (From \"Gunmaaster G9\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-10T21:09:22.338Z"
-    },
-    {
-      "hash": "a86635bdfb0b0dd1",
-      "track": "Do Din Ki Zindagi (From \"Gunmaaster G9\")",
-      "artist": "Himesh Reshammiya, Junaid Wasi - Do Din Ki Zindagi (From \"Gunmaaster G9\")",
-      "album": "Do Din Ki Zindagi (From \"Gunmaaster G9\")",
+      "hash": "76add10ca2370c90",
+      "track": "Dhadak Title Track",
+      "artist": "Ajay Gogavale, Shreya Ghoshal",
+      "album": "Shreya Ghoshal Romantic Hits",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-14T15:09:19.765Z"
-    },
-    {
-      "hash": "146e8755492c767e",
-      "track": "Duniyaa (From \"Luka Chuppi\")",
-      "artist": "Akhil, Dhvani Bhanushali",
-      "album": "Duniyaa (From \"Luka Chuppi\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:07:49.380Z"
-    },
-    {
-      "hash": "2f2de66032d661f4",
-      "track": "Dil Diyan Gallan (From \"Tiger Zinda Hai\")",
-      "artist": "Vishal and Sheykhar, Atif Aslam",
-      "album": "Tiger Zinda Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:08:14.399Z"
+      "cached_at": "2026-11-18T08:57:41.249Z"
     }
   ]
 }
