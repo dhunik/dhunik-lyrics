@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T13:58:00.044Z",
+  "updated_at": "2026-11-18T14:25:48.859Z",
   "entries": [
     {
       "hash": "12d082fdfe400a63",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-18T13:57:58.326Z"
+    },
+    {
+      "hash": "822f10e126fe8df4",
+      "track": "Muvvala Navakala",
+      "artist": "S.P.Balasubramanyam, Chitra",
+      "album": "Pournamy",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-18T14:25:46.916Z"
     }
   ]
 }
