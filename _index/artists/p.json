@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-18T06:07:44.957Z",
+  "updated_at": "2026-11-18T07:24:55.586Z",
   "entries": [
     {
       "hash": "d0f11362fa8967a8",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-18T06:07:27.324Z"
+    },
+    {
+      "hash": "7cef6a9a2cf69bac",
+      "track": "Let Her Go",
+      "artist": "Passenger",
+      "album": "Passenger",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-18T07:24:46.427Z"
     }
   ]
 }
