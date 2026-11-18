@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-08T17:26:38.370Z",
+  "updated_at": "2026-11-18T06:07:44.959Z",
   "entries": [
     {
-      "hash": "593b086c0c5293dd",
-      "track": "Laagi Lagan Shankara",
-      "artist": "Hansraj Raghuwanshi",
-      "album": "Laagi Lagan Shankara",
+      "hash": "d0f11362fa8967a8",
+      "track": "Tera Hua Sahiba",
+      "artist": "Garvit-Priyansh, Garvit Soni, Priyansh Srivastava, Hansika Pareek, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
+      "album": "Tera Hua Sahiba (From \"Musafir Cafe\")",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T03:49:48.652Z"
-    },
-    {
-      "hash": "94014def63f8fec1",
-      "track": "23 Theme (From \"AA23\")",
-      "artist": "Hector Salamanca, Anirudh Ravichander, Heisenberg - 23 Theme (From \"AA23\")",
-      "album": "23 Theme (From \"Aa23\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-08T17:26:33.897Z"
+      "has_plain": false,
+      "cached_at": "2026-11-18T06:07:27.324Z"
     }
   ]
 }
