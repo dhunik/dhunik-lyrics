@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-17T10:32:56.619Z",
+  "updated_at": "2026-11-18T06:39:12.439Z",
   "entries": [
     {
       "hash": "8e84dbeeec7a51c5",
@@ -21,6 +21,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-17T10:32:50.724Z"
+    },
+    {
+      "hash": "e2f5afefe8a778d7",
+      "track": "Saagar Jaisi Aankhonwali (From \"Saagar\")",
+      "artist": "Kishore Kumar, R.D. Burman - Saagar",
+      "album": "Saagar",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-18T06:39:07.804Z"
     }
   ]
 }
