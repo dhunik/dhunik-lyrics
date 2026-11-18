@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-07T12:11:39.662Z",
+  "updated_at": "2026-11-18T12:28:43.344Z",
   "entries": [
     {
-      "hash": "041d358780afb13e",
-      "track": "HORNN BLOW",
-      "artist": "HARRDY SANDHU, B PRAAK, JAANI",
-      "album": "Hornn Blow",
+      "hash": "8acba6c963576aff",
+      "track": "The Humma Song (From \"OK Jaanu\")",
+      "artist": "A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati",
+      "album": "The Humma Song (From \"OK Jaanu\")",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:15:09.655Z"
-    },
-    {
-      "hash": "65361d09678a7cca",
-      "track": "Gym De Shokeen",
-      "artist": "Bhallwaan",
-      "album": "Gym De Shokeen",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:03:28.266Z"
-    },
-    {
-      "hash": "2b4df7fca9f00a78",
-      "track": "Criminal",
-      "artist": "Britney Spears",
-      "album": "Femme Fatale (Deluxe Version)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:02:33.320Z"
-    },
-    {
-      "hash": "c3316f793eae609e",
-      "track": "Telugu",
-      "artist": "A.R. Rahman, Mohit Chauhan, Balaji",
-      "album": "Chikiri Chikiri (From \"Peddi\") - Telugu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T12:11:36.390Z"
+      "has_plain": false,
+      "cached_at": "2026-11-18T12:27:18.187Z"
     }
   ]
 }
