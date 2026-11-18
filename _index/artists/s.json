@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T09:48:25.890Z",
+  "updated_at": "2026-11-18T13:50:33.437Z",
   "entries": [
     {
-      "hash": "b5ae89556d5513d5",
-      "track": "Poison",
-      "artist": "R. Nait, Sidhu Moose Wala",
-      "album": "Poison",
+      "hash": "12d082fdfe400a63",
+      "track": "Allantha Doorala",
+      "artist": "Yuvan Shankar Raja, S.P. Balasubrahmanyam",
+      "album": "Aadavari Matalaku Ardhalu Veruley",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T09:15:00.728Z"
-    },
-    {
-      "hash": "0d9c895d868114b1",
-      "track": "Cheliya Cheliya",
-      "artist": "Harris Jayaraj, KK, Suchitra - Gharshana (New)",
-      "album": "Gharshana (New)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-18T09:48:14.832Z"
-    },
-    {
-      "hash": "f4d641cff519b101",
-      "track": "Tujhe Sochta Hoon",
-      "artist": "Sayeed Quadri, Pritam, KK - Jannat 2",
-      "album": "Jannat 2",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-18T09:48:23.666Z"
+      "cached_at": "2026-11-18T13:50:18.573Z"
     }
   ]
 }
