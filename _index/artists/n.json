@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-11-17T10:30:16.650Z",
+  "updated_at": "2026-11-18T16:37:54.177Z",
   "entries": [
     {
-      "hash": "346c7decdcaeee35",
-      "track": "Zindagi Kuch Toh Bata (Reprise)",
-      "artist": "Pritam, Jubin Nautiyal, Neelesh Misra",
-      "album": "Bajrangi Bhaijaan",
+      "hash": "a16fd2c89a04caa1",
+      "track": "Homa Dol",
+      "artist": "Saad Lamjarred, Neeti Mohan, Rajat Nagpal",
+      "album": "Homa Dol",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-03T12:19:37.883Z"
-    },
-    {
-      "hash": "c8238330c81d5af6",
-      "track": "Khwaish",
-      "artist": "Navjot Ahuja",
-      "album": "Khwaish",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T06:10:02.019Z"
-    },
-    {
-      "hash": "361d115e13621c53",
-      "track": "Ambar : Parmish Verma Ft Wamiqa Gabbi, Sukhan Verma & Singhjeet (feat. Sukhan Verma, Singhjeet & Wamiqa Gabbi)",
-      "artist": "Parmish Verma, Sukhan Verma, Singhjeet, Nik D Gill",
-      "album": "Ambar (From \"Tabaah\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-07T09:17:32.980Z"
-    },
-    {
-      "hash": "1f0bf1a2f5e2eadc",
-      "track": "Kithe Reh Gaya",
-      "artist": "Abhijit Vaghani, Neeti Mohan - Kithe Reh Gaya",
-      "album": "Kithe Reh Gaya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-08T17:26:39.220Z"
-    },
-    {
-      "hash": "7f7ea109e1d037b1",
-      "track": "Aarzu",
-      "artist": "Noor, Khan, Madhurxo",
-      "album": "Aarzu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-17T10:30:14.607Z"
+      "cached_at": "2026-11-18T16:36:59.764Z"
     }
   ]
 }
