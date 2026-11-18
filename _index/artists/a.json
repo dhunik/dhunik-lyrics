@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-18T06:04:46.450Z",
+  "updated_at": "2026-11-18T06:07:44.960Z",
   "entries": [
     {
-      "hash": "0fe9a97ab612462f",
-      "track": "Kesariya (From \"Brahmastra\")",
-      "artist": "Arijit Singh",
-      "album": "Kesariya (From \"Brahmastra\")",
+      "hash": "d0f11362fa8967a8",
+      "track": "Tera Hua Sahiba",
+      "artist": "Garvit-Priyansh, Garvit Soni, Priyansh Srivastava, Hansika Pareek, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
+      "album": "Tera Hua Sahiba (From \"Musafir Cafe\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T06:04:32.137Z"
+      "cached_at": "2026-11-18T06:07:27.324Z"
     }
   ]
 }
