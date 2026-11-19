@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "track",
-  "updated_at": "2026-11-18T14:25:48.669Z",
+  "updated_at": "2026-11-19T05:54:31.785Z",
   "entries": [
     {
       "hash": "5d25b201942f5eba",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-18T14:25:46.916Z"
+    },
+    {
+      "hash": "d076b57d56b3f054",
+      "track": "Mazey Mein",
+      "artist": "Siddhant Kaushal",
+      "album": "Friday Night Plan (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-19T05:54:25.664Z"
     }
   ]
 }
