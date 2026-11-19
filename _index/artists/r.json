@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-18T16:23:13.673Z",
+  "updated_at": "2026-11-19T05:48:54.181Z",
   "entries": [
     {
-      "hash": "ab21b9a2f333803b",
-      "track": "Shri Ram Jaanki Baithe Hai",
-      "artist": "Ram Kumar Lakha - Shri Ram Jaanki Baithe Hai",
-      "album": "Shri Ram Jaanki Baithe Hai",
+      "hash": "800e36c1f905d8c7",
+      "track": "Dilruba Dilnasheen",
+      "artist": "Rito Riba, Siddhant Kaushal - Dilfek",
+      "album": "Dilfek",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T16:22:21.896Z"
+      "cached_at": "2026-11-19T05:45:59.558Z"
     }
   ]
 }
