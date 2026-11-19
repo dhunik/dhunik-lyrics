@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-18T08:55:59.453Z",
+  "updated_at": "2026-11-19T03:22:55.967Z",
   "entries": [
     {
       "hash": "7c26498a92c926de",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-18T08:55:31.078Z"
+    },
+    {
+      "hash": "66043c8af7ad835d",
+      "track": "Ucha Lamba Kad",
+      "artist": "Anand Raj Anand, Chorus",
+      "album": "Welcome",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-19T03:22:51.486Z"
     }
   ]
 }
