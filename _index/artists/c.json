@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-11-17T17:26:57.623Z",
+  "updated_at": "2026-11-19T15:30:17.335Z",
   "entries": [
     {
       "hash": "adfcaf51fd8663b3",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-17T17:25:25.500Z"
+    },
+    {
+      "hash": "967f9c9d95979c11",
+      "track": "Besharam Rang (From \"Pathaan\")",
+      "artist": "Shilpa Rao, Vishal-Shekhar, Caralisa Monteiro, Vishal Dadlani",
+      "album": "Pathaan",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-19T15:30:09.577Z"
     }
   ]
 }
