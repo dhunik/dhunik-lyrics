@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-18T14:33:31.473Z",
+  "updated_at": "2026-11-19T05:48:54.170Z",
   "entries": [
     {
-      "hash": "1577c912e59620e6",
-      "track": "Chandrullo Unde",
-      "artist": "Shankar Mahadevan",
-      "album": "Nuvvostanante Nenoddantana",
+      "hash": "800e36c1f905d8c7",
+      "track": "Dilruba Dilnasheen",
+      "artist": "Rito Riba, Siddhant Kaushal - Dilfek",
+      "album": "Dilfek",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T14:32:50.267Z"
+      "cached_at": "2026-11-19T05:45:59.558Z"
     }
   ]
 }
