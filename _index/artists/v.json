@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-11-15T10:08:19.932Z",
+  "updated_at": "2026-11-19T03:14:21.769Z",
   "entries": [
     {
-      "hash": "26ca3dcac97826bc",
-      "track": "Hey Shona",
-      "artist": "Vishal & Shekhar, Sunidhi Chauhan, Shaan, Javed Akhtar",
-      "album": "Ta Ra Rum Pum",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T09:49:20.400Z"
-    },
-    {
-      "hash": "418094ae0809c81d",
-      "track": "Hookah Bar (From \"Khiladi 786\")",
-      "artist": "Himesh Reshammiya, Vineet Singh, Aman Trikha",
-      "album": "Best Of Akshay Kumar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-18T08:20:19.323Z"
-    },
-    {
-      "hash": "6b5e6fad063310ba",
-      "track": "Hriday Mein Jinke Sitaram",
-      "artist": "Vishal Chaturvedi - Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "album": "Hanuman Ansh (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-28T07:02:10.480Z"
-    },
-    {
-      "hash": "97589815e1ef6479",
-      "track": "Kahin To",
-      "artist": "Rashid Ali, Vasundhara Das",
-      "album": "Jaane Tu... Ya Jaane Na",
+      "hash": "ff45341a5fddd10d",
+      "track": "Dwapara",
+      "artist": "Arjun Janya, V.Nagendra Prasad, Jaskaran Singh",
+      "album": "Dwapara (From \"Krishnam Pranaya Sakhi\")",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-01T06:47:59.961Z"
-    },
-    {
-      "hash": "4d9b41e79507bc58",
-      "track": "Kitaben Bahut Si",
-      "artist": "Asha Bhosle, Vinod Rathod",
-      "album": "Asha Bhosle",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-06T19:56:11.870Z"
-    },
-    {
-      "hash": "2f2de66032d661f4",
-      "track": "Dil Diyan Gallan (From \"Tiger Zinda Hai\")",
-      "artist": "Vishal and Sheykhar, Atif Aslam",
-      "album": "Tiger Zinda Hai",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-15T10:08:14.399Z"
+      "cached_at": "2026-11-19T03:12:59.531Z"
     }
   ]
 }
