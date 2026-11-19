@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-18T14:29:40.541Z",
+  "updated_at": "2026-11-19T10:24:30.867Z",
   "entries": [
     {
       "hash": "8dc51fb8f0b4a029",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-18T14:29:12.847Z"
+    },
+    {
+      "hash": "33f164ba3166e24b",
+      "track": "Yaakkai Thiri",
+      "artist": "A.R. Rahman, Sunitha Sarathy, Pop Shalini, Vairamuthu",
+      "album": "Aayitha Ezhutu",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-19T10:24:21.271Z"
     }
   ]
 }
