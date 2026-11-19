@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-19T05:54:31.926Z",
+  "updated_at": "2026-11-19T11:04:53.028Z",
   "entries": [
     {
       "hash": "800e36c1f905d8c7",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-19T05:54:25.664Z"
+    },
+    {
+      "hash": "2a4411f081330bdc",
+      "track": "Pavazha Malli",
+      "artist": "Vivek, Sai Abhyankkar, Shruti Haasan",
+      "album": "Pavazha Malli (From \"Think Indie\")",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-19T11:04:48.266Z"
     }
   ]
 }
