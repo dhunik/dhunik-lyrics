@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-18T08:09:02.164Z",
+  "updated_at": "2026-11-19T03:14:21.772Z",
   "entries": [
     {
-      "hash": "5077d93db2623b4c",
-      "track": "Suniyan Suniyan",
-      "artist": "Juss, Mixsingh",
-      "album": "Suniyan Suniyan",
+      "hash": "ff45341a5fddd10d",
+      "track": "Dwapara",
+      "artist": "Arjun Janya, V.Nagendra Prasad, Jaskaran Singh",
+      "album": "Dwapara (From \"Krishnam Pranaya Sakhi\")",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-18T08:00:08.784Z"
+      "has_plain": true,
+      "cached_at": "2026-11-19T03:12:59.531Z"
     }
   ]
 }
