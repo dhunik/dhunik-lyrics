@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-20T13:51:15.253Z",
+  "updated_at": "2026-11-20T18:11:41.738Z",
   "entries": [
     {
-      "hash": "361a71da9b3d8bae",
-      "track": "Ek Baar",
-      "artist": "Arnab Dutta",
-      "album": "Hadh",
+      "hash": "bd5713e27db859d7",
+      "track": "MERA HUA",
+      "artist": "Annkur R Pathakk",
+      "album": "YouTube Music",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-20T13:38:09.284Z"
-    },
-    {
-      "hash": "0324e998d5048da5",
-      "track": "Yaara",
-      "artist": "Arnab Dutta",
-      "album": "1921 (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-20T13:51:10.580Z"
+      "cached_at": "2026-11-20T18:08:20.277Z"
     }
   ]
 }
