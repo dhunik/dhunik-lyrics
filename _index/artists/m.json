@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-20T18:29:33.288Z",
+  "updated_at": "2026-11-20T18:47:28.432Z",
   "entries": [
     {
-      "hash": "8feb68523800a0a3",
-      "track": "Tera Mera Rishta",
-      "artist": "Sayeed Quadri, Mustafa Zahid, Pritam",
+      "hash": "f32e755b26752763",
+      "track": "Aarzu",
+      "artist": "Madhurxo, Asim Azhar, Noor, Khan",
       "album": "YouTube Music",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-20T18:23:22.425Z"
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-20T18:44:18.638Z"
     }
   ]
 }
