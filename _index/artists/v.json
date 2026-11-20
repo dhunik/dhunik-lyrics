@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-11-19T11:04:52.972Z",
+  "updated_at": "2026-11-20T06:18:54.728Z",
   "entries": [
     {
       "hash": "ff45341a5fddd10d",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-19T11:04:48.266Z"
+    },
+    {
+      "hash": "9f1c40e2ade4fe76",
+      "track": "Aathi",
+      "artist": "Anirudh Ravichander, Vishal Dadlani, Yugabharathi",
+      "album": "Kaththi (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-20T06:18:51.087Z"
     }
   ]
 }
