@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-19T11:04:53.028Z",
+  "updated_at": "2026-11-20T17:35:27.995Z",
   "entries": [
     {
-      "hash": "800e36c1f905d8c7",
-      "track": "Dilruba Dilnasheen",
-      "artist": "Rito Riba, Siddhant Kaushal - Dilfek",
-      "album": "Dilfek",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-19T05:45:59.558Z"
-    },
-    {
-      "hash": "d076b57d56b3f054",
-      "track": "Mazey Mein",
-      "artist": "Siddhant Kaushal",
-      "album": "Friday Night Plan (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-19T05:54:25.664Z"
-    },
-    {
-      "hash": "2a4411f081330bdc",
-      "track": "Pavazha Malli",
-      "artist": "Vivek, Sai Abhyankkar, Shruti Haasan",
-      "album": "Pavazha Malli (From \"Think Indie\")",
+      "hash": "f634881d041103cd",
+      "track": "Haan Ho Gayi Galti",
+      "artist": "Shivai Vyas, RealShanky",
+      "album": "Haan Ho Gayi Galti",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-19T11:04:48.266Z"
+      "cached_at": "2026-11-20T17:30:47.073Z"
     }
   ]
 }
