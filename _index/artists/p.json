@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-19T10:24:30.867Z",
+  "updated_at": "2026-11-20T18:29:33.290Z",
   "entries": [
     {
-      "hash": "8dc51fb8f0b4a029",
-      "track": "Mere Mehboob",
-      "artist": "Sachin-Jigar, Shilpa Rao, Sachet Tandon, Priya Saraiya",
-      "album": "Vicky Vidya Ka Woh Wala Video",
+      "hash": "8feb68523800a0a3",
+      "track": "Tera Mera Rishta",
+      "artist": "Sayeed Quadri, Mustafa Zahid, Pritam",
+      "album": "YouTube Music",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T14:29:12.847Z"
-    },
-    {
-      "hash": "33f164ba3166e24b",
-      "track": "Yaakkai Thiri",
-      "artist": "A.R. Rahman, Sunitha Sarathy, Pop Shalini, Vairamuthu",
-      "album": "Aayitha Ezhutu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-19T10:24:21.271Z"
+      "cached_at": "2026-11-20T18:23:22.425Z"
     }
   ]
 }
