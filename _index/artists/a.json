@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-19T03:22:55.967Z",
+  "updated_at": "2026-11-20T03:23:07.776Z",
   "entries": [
     {
-      "hash": "7c26498a92c926de",
-      "track": "Pehla Pyaar",
-      "artist": "Vishal Mishra, Armaan Malik",
-      "album": "Kabir Singh",
+      "hash": "113d17b6feae82c4",
+      "track": "Tu Mil Jaaye (From \"KING\")",
+      "artist": "Sachin-Jigar, Ed Sheeran, Kumaar, Arijit Singh, Madhubanti Bagchi - Tu Mil Jaaye (From \"KING\")",
+      "album": "Tu Mil Jaaye (From \"KING\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T08:55:31.078Z"
-    },
-    {
-      "hash": "66043c8af7ad835d",
-      "track": "Ucha Lamba Kad",
-      "artist": "Anand Raj Anand, Chorus",
-      "album": "Welcome",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-19T03:22:51.486Z"
+      "cached_at": "2026-11-20T03:22:39.353Z"
     }
   ]
 }
