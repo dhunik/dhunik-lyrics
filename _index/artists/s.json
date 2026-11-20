@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-20T17:35:27.995Z",
+  "updated_at": "2026-11-20T17:36:02.517Z",
   "entries": [
     {
       "hash": "f634881d041103cd",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-20T17:30:47.073Z"
+    },
+    {
+      "hash": "7690cc06271b325c",
+      "track": "CHAIN",
+      "artist": "SHIVAI VYAS, BAWA GULZAR",
+      "album": "Chain",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-20T17:35:57.059Z"
     }
   ]
 }
