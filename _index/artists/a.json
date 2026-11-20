@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-20T18:11:41.738Z",
+  "updated_at": "2026-11-20T18:47:28.412Z",
   "entries": [
     {
-      "hash": "bd5713e27db859d7",
-      "track": "MERA HUA",
-      "artist": "Annkur R Pathakk",
+      "hash": "f32e755b26752763",
+      "track": "Aarzu",
+      "artist": "Madhurxo, Asim Azhar, Noor, Khan",
       "album": "YouTube Music",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-20T18:08:20.277Z"
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-20T18:44:18.638Z"
     }
   ]
 }
