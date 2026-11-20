@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-18T12:37:34.751Z",
+  "updated_at": "2026-11-20T18:29:33.288Z",
   "entries": [
     {
-      "hash": "e13c878d0a859e71",
-      "track": "Bommali",
-      "artist": "Hema Chandra, Malavika",
-      "album": "Billa",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-07T13:39:59.986Z"
-    },
-    {
-      "hash": "6a3d702839b85158",
-      "track": "Chanda Chamke",
-      "artist": "Jatin-Lalit, Mahalakshmi Iyer, Aamir Khan, Babul Supriyo, Kajol, Master Akshay Bhagwat, Prasoon Joshi - Fanaa",
-      "album": "Fanaa",
+      "hash": "8feb68523800a0a3",
+      "track": "Tera Mera Rishta",
+      "artist": "Sayeed Quadri, Mustafa Zahid, Pritam",
+      "album": "YouTube Music",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-15T10:12:06.781Z"
-    },
-    {
-      "hash": "0b0abd8efa4fa15b",
-      "track": "Jailer 2 Theme",
-      "artist": "Anirudh Ravichander, Inno Genga, M.S Krsna, Ritesh G Rao - Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
-      "album": "Rajini The Jailer 2 (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-18T12:37:32.823Z"
+      "cached_at": "2026-11-20T18:23:22.425Z"
     }
   ]
 }
