@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-20T06:18:54.737Z",
+  "updated_at": "2026-11-20T13:41:12.349Z",
   "entries": [
     {
-      "hash": "113d17b6feae82c4",
-      "track": "Tu Mil Jaaye (From \"KING\")",
-      "artist": "Sachin-Jigar, Ed Sheeran, Kumaar, Arijit Singh, Madhubanti Bagchi - Tu Mil Jaaye (From \"KING\")",
-      "album": "Tu Mil Jaaye (From \"KING\")",
+      "hash": "361a71da9b3d8bae",
+      "track": "Ek Baar",
+      "artist": "Arnab Dutta",
+      "album": "Hadh",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-20T03:22:39.353Z"
-    },
-    {
-      "hash": "9f1c40e2ade4fe76",
-      "track": "Aathi",
-      "artist": "Anirudh Ravichander, Vishal Dadlani, Yugabharathi",
-      "album": "Kaththi (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-20T06:18:51.087Z"
+      "cached_at": "2026-11-20T13:38:09.284Z"
     }
   ]
 }
