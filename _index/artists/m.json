@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-21T15:36:56.611Z",
+  "updated_at": "2026-11-21T17:22:59.853Z",
   "entries": [
     {
-      "hash": "13b49422b8277c2f",
-      "track": "Dhun (Movie: Saiyaara)",
-      "artist": "Arijit Singh, Mithoon",
-      "album": "SAIYAARA",
+      "hash": "1b559bd63b39f672",
+      "track": "Nadaan Parindey",
+      "artist": "A.R. Rahman, Mohit Chauhan - Rockstar",
+      "album": "Rockstar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T08:32:16.709Z"
-    },
-    {
-      "hash": "a1d2db0621dfd2db",
-      "track": "Rabba",
-      "artist": "Sajid-Wajid, Mohit Chauhan - Heropanti",
-      "album": "Heropanti",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:36:49.259Z"
+      "cached_at": "2026-11-21T17:22:30.815Z"
     }
   ]
 }
