@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-21T15:37:09.489Z",
+  "updated_at": "2026-11-21T16:31:00.932Z",
   "entries": [
     {
       "hash": "9c2e1d9c75f14e64",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T15:37:08.222Z"
+    },
+    {
+      "hash": "5fdfe562ce249a69",
+      "track": "Tujhe Kitna Chahein Aur (Film Version)",
+      "artist": "Jubin Nautiyal - Kabir Singh",
+      "album": "Kabir Singh",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-21T16:30:57.355Z"
     }
   ]
 }
