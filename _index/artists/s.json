@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-20T17:36:02.517Z",
+  "updated_at": "2026-11-21T00:54:02.963Z",
   "entries": [
     {
-      "hash": "f634881d041103cd",
-      "track": "Haan Ho Gayi Galti",
-      "artist": "Shivai Vyas, RealShanky",
-      "album": "Haan Ho Gayi Galti",
-      "has_synced": true,
+      "hash": "915d32cd1d442412",
+      "track": "BUZZ",
+      "artist": "Seedhe Maut, KR$NA - BUZZ",
+      "album": "BUZZ",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-20T17:30:47.073Z"
-    },
-    {
-      "hash": "7690cc06271b325c",
-      "track": "CHAIN",
-      "artist": "SHIVAI VYAS, BAWA GULZAR",
-      "album": "Chain",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-20T17:35:57.059Z"
+      "cached_at": "2026-11-21T00:53:48.567Z"
     }
   ]
 }
