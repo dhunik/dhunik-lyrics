@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-21T15:37:37.110Z",
+  "updated_at": "2026-11-21T15:42:28.950Z",
   "entries": [
     {
       "hash": "172ea40ad7628d48",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T15:37:35.602Z"
+    },
+    {
+      "hash": "ff29122973d39f95",
+      "track": "Hum Mar Jayenge",
+      "artist": "Arijit Singh, Tulsi Kumar",
+      "album": "Aashiqui 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-21T15:42:25.113Z"
     }
   ]
 }
