@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-21T00:54:02.966Z",
+  "updated_at": "2026-11-21T06:32:37.993Z",
   "entries": [
     {
       "hash": "915d32cd1d442412",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-21T00:53:48.567Z"
+    },
+    {
+      "hash": "0d6fdef3f4234fd5",
+      "track": "Jagannath Chaka Nain Neelachal Wale",
+      "artist": "Bunty Thakur, Karan Thakur",
+      "album": "Jagannath Chaka Nain Neelachal Wale",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-21T06:32:33.682Z"
     }
   ]
 }
