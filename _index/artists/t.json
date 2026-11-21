@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-21T15:43:34.940Z",
+  "updated_at": "2026-11-21T18:00:11.732Z",
   "entries": [
     {
-      "hash": "ff29122973d39f95",
-      "track": "Hum Mar Jayenge",
-      "artist": "Arijit Singh, Tulsi Kumar",
-      "album": "Aashiqui 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:42:25.113Z"
+      "hash": "031edb33098b5242",
+      "track": "DEKH LE",
+      "artist": "Talhah Yunus, Jokhay",
+      "album": "SHIKWA (Side B)",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-21T17:59:42.903Z"
     }
   ]
 }
