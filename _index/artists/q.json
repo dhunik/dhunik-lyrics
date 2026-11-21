@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "q",
   "type": "artist",
-  "updated_at": "2026-03-15T12:24:35.633Z",
+  "updated_at": "2026-11-21T22:21:41.604Z",
   "entries": [
     {
-      "hash": "8e2dfd9e4f4de5d7",
-      "track": "Tareefan",
-      "artist": "QARAN, Badshah",
-      "album": null,
+      "hash": "bf34a04f99acfe91",
+      "track": "Intentions",
+      "artist": "Justin Bieber ft. Quavo - Changes",
+      "album": "Changes",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-03-15T12:24:31.592Z"
+      "has_plain": false,
+      "cached_at": "2026-11-21T22:21:27.960Z"
     }
   ]
 }
