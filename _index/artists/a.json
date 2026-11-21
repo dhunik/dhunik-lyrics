@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-21T15:42:28.950Z",
+  "updated_at": "2026-11-21T16:27:47.489Z",
   "entries": [
     {
-      "hash": "172ea40ad7628d48",
-      "track": "Sajni",
-      "artist": "Arijit Singh",
-      "album": "Laapataa Ladies",
+      "hash": "0d058b4d645c5a42",
+      "track": "Rakhlo Tum Chupaake",
+      "artist": "Arpit Bala, Adil",
+      "album": "Keychain Laalu",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T07:46:32.875Z"
-    },
-    {
-      "hash": "86112afff6e3b7fc",
-      "track": "Ella Quiere Beber (Remix) (feat. Romeo Santos)",
-      "artist": "Anuel AA",
-      "album": "Ella Quiere Beber (Remix)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:37:35.602Z"
-    },
-    {
-      "hash": "ff29122973d39f95",
-      "track": "Hum Mar Jayenge",
-      "artist": "Arijit Singh, Tulsi Kumar",
-      "album": "Aashiqui 2",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:42:25.113Z"
+      "cached_at": "2026-11-21T16:27:14.571Z"
     }
   ]
 }
