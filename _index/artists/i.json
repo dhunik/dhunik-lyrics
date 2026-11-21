@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-10-31T17:13:22.532Z",
+  "updated_at": "2026-11-21T07:28:11.565Z",
   "entries": [
     {
-      "hash": "97aea37f93be0519",
-      "track": "Gal Karke",
-      "artist": "Inder Chahal, Rajat Nagpal",
-      "album": "Gal Karke",
+      "hash": "23974f67816233bb",
+      "track": "Saiyaara (Movie: Saiyaara)",
+      "artist": "Faheem Abdullah, Arslan Nizami, Irshad Kamil",
+      "album": "SAIYAARA",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T17:12:55.699Z"
+      "has_plain": false,
+      "cached_at": "2026-11-21T07:26:33.569Z"
     }
   ]
 }
