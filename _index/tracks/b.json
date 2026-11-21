@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-11-19T15:30:15.947Z",
+  "updated_at": "2026-11-21T06:23:34.529Z",
   "entries": [
     {
       "hash": "ecf6260b758515df",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-19T15:30:09.577Z"
+    },
+    {
+      "hash": "41c5d7f20555073a",
+      "track": "Bajrang Baan (Lofi)",
+      "artist": "Rasraj Ji Maharaj",
+      "album": "Bajrang Baan (Lofi)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-21T06:23:32.333Z"
     }
   ]
 }
