@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-11-21T15:12:00.498Z",
+  "updated_at": "2026-11-21T22:19:27.549Z",
   "entries": [
     {
-      "hash": "c80e0fc3ea10391a",
-      "track": "Saiyaara Reprise - Female",
-      "artist": "Shreya Ghoshal, Irshad Kamil",
-      "album": "SAIYAARA",
+      "hash": "40ec500badd412e4",
+      "track": "STAY",
+      "artist": "The Kid Laroi, Justin Bieber - STAY",
+      "album": "STAY",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T08:31:45.930Z"
-    },
-    {
-      "hash": "5884ee13b783cb7c",
-      "track": "Saiyaara Reprise - Female",
-      "artist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Shreya Ghoshal, Irshad Kamil - Saiyaara",
-      "album": "Saiyaara",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:11:58.954Z"
+      "cached_at": "2026-11-21T22:18:58.508Z"
     }
   ]
 }
