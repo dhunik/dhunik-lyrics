@@ -2,124 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "track",
-  "updated_at": "2026-11-21T15:36:56.630Z",
+  "updated_at": "2026-11-21T16:27:47.486Z",
   "entries": [
     {
-      "hash": "406db0c787cfb1e5",
-      "track": "Run Down The City - Monica",
-      "artist": "Reble, Majrooh Sultanpuri, Shashwat Sachdev, Asha Bhosle, R.D. Burman",
-      "album": "Dhurandhar",
+      "hash": "0d058b4d645c5a42",
+      "track": "Rakhlo Tum Chupaake",
+      "artist": "Arpit Bala, Adil",
+      "album": "Keychain Laalu",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-08-15T08:50:47.340Z"
-    },
-    {
-      "hash": "e753855cab2c65e3",
-      "track": "Roshni Se",
-      "artist": "Anu Malik, Alka Yagnik, Abhijeet",
-      "album": "Asoka",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-25T15:14:53.722Z"
-    },
-    {
-      "hash": "fc1c29ac5a501c44",
-      "track": "Radhe Radhe",
-      "artist": "Hansraj Raghuwanshi, Mista Baaz - Radhe Radhe",
-      "album": "Radhe Radhe",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-08-26T08:55:22.368Z"
-    },
-    {
-      "hash": "5a2b6896f962f16e",
-      "track": "Rod Aaji",
-      "artist": "Zubeen Garg",
-      "album": "Golden Collection Of Zubeen Vol - I",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-08-29T03:10:10.525Z"
-    },
-    {
-      "hash": "d8227683fe36f9f8",
-      "track": "Rimjhim E Dharatey",
-      "artist": "Shaan",
-      "album": "Premer Kahini (Original Motion Picture Soundtrack)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-09-14T16:02:09.862Z"
-    },
-    {
-      "hash": "9b1ea2c7c29bb1f4",
-      "track": "Rab Kare",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "album": "Mujhse Shaadi Karogi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-10-16T11:51:59.805Z"
-    },
-    {
-      "hash": "2a34cc0c4f69a141",
-      "track": "Ranjish Hi Sahi",
-      "artist": "Ali Sethi",
-      "album": "Coke Studio Season 10: Episode 1",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-17T09:12:24.906Z"
-    },
-    {
-      "hash": "ae456cc9f43b2361",
-      "track": "Rangula Taraka",
-      "artist": "Koti, Karthik, Sunitha - Ela Cheppanu",
-      "album": "Ela Cheppanu",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:36:14.568Z"
-    },
-    {
-      "hash": "4ed64540be5a155c",
-      "track": "Rajakumari",
-      "artist": "Mickey J Meyer, Kunal Ganjawala, Sri Madhumitha - Ganesh (New)",
-      "album": "Ganesh (New)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-20T13:51:32.030Z"
-    },
-    {
-      "hash": "17b138f7c5498733",
-      "track": "RUSSIAN GANGSTER",
-      "artist": "BURSHIN",
-      "album": "BURSHIN",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-22T12:46:26.875Z"
-    },
-    {
-      "hash": "cf48704d0be7f41e",
-      "track": "Russian Gangster",
-      "artist": "Noxen",
-      "album": "Russian Gangster",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-24T07:30:05.284Z"
-    },
-    {
-      "hash": "758e5e6fa0dc7727",
-      "track": "Relation",
-      "artist": "Nikk",
-      "album": "Relation",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-10-31T16:34:08.986Z"
-    },
-    {
-      "hash": "a1d2db0621dfd2db",
-      "track": "Rabba",
-      "artist": "Sajid-Wajid, Mohit Chauhan - Heropanti",
-      "album": "Heropanti",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:36:49.259Z"
+      "cached_at": "2026-11-21T16:27:14.571Z"
     }
   ]
 }
