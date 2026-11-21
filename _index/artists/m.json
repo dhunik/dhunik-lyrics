@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-21T08:36:29.803Z",
+  "updated_at": "2026-11-21T15:36:56.611Z",
   "entries": [
     {
       "hash": "13b49422b8277c2f",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T08:32:16.709Z"
+    },
+    {
+      "hash": "a1d2db0621dfd2db",
+      "track": "Rabba",
+      "artist": "Sajid-Wajid, Mohit Chauhan - Heropanti",
+      "album": "Heropanti",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-21T15:36:49.259Z"
     }
   ]
 }
