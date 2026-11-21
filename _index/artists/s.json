@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-21T00:54:02.963Z",
+  "updated_at": "2026-11-21T06:23:59.043Z",
   "entries": [
     {
       "hash": "915d32cd1d442412",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-21T00:53:48.567Z"
+    },
+    {
+      "hash": "570b22d5b93b2f0a",
+      "track": "Aarti Kije Hanuman Lala Ki",
+      "artist": "Shankar Mahadevan",
+      "album": "My Devotional Favourites 2 - Shankar Mahadevan",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-21T06:23:50.696Z"
     }
   ]
 }
