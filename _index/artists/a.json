@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-21T07:28:11.574Z",
+  "updated_at": "2026-11-21T07:49:12.938Z",
   "entries": [
     {
-      "hash": "23974f67816233bb",
-      "track": "Saiyaara (Movie: Saiyaara)",
-      "artist": "Faheem Abdullah, Arslan Nizami, Irshad Kamil",
-      "album": "SAIYAARA",
+      "hash": "172ea40ad7628d48",
+      "track": "Sajni",
+      "artist": "Arijit Singh",
+      "album": "Laapataa Ladies",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T07:26:33.569Z"
+      "cached_at": "2026-11-21T07:46:32.875Z"
     }
   ]
 }
