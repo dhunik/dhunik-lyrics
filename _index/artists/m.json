@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-20T18:54:43.622Z",
+  "updated_at": "2026-11-21T08:36:29.803Z",
   "entries": [
     {
-      "hash": "5d84106a201949e4",
-      "track": "Andaaz e Karam",
-      "artist": "Moin, Madhur Sharma, ER",
-      "album": "YouTube Music",
+      "hash": "13b49422b8277c2f",
+      "track": "Dhun (Movie: Saiyaara)",
+      "artist": "Arijit Singh, Mithoon",
+      "album": "SAIYAARA",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-20T18:52:07.497Z"
+      "cached_at": "2026-11-21T08:32:16.709Z"
     }
   ]
 }
