@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-11-21T06:23:34.529Z",
+  "updated_at": "2026-11-21T06:31:07.272Z",
   "entries": [
     {
-      "hash": "ecf6260b758515df",
-      "track": "BbY WOW",
-      "artist": "Karol G, Judeline, Rusowsky",
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "hash": "6e58e3cd78a04b78",
+      "track": "Banger",
+      "artist": "Badshah, Hiten, Sharvi Yadav - Banger",
+      "album": "Banger",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-19T10:19:35.706Z"
-    },
-    {
-      "hash": "967f9c9d95979c11",
-      "track": "Besharam Rang (From \"Pathaan\")",
-      "artist": "Shilpa Rao, Vishal-Shekhar, Caralisa Monteiro, Vishal Dadlani",
-      "album": "Pathaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-19T15:30:09.577Z"
-    },
-    {
-      "hash": "41c5d7f20555073a",
-      "track": "Bajrang Baan (Lofi)",
-      "artist": "Rasraj Ji Maharaj",
-      "album": "Bajrang Baan (Lofi)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:23:32.333Z"
+      "cached_at": "2026-11-21T06:30:44.518Z"
     }
   ]
 }
