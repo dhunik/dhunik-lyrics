@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-11-21T06:24:11.530Z",
+  "updated_at": "2026-11-21T15:23:13.525Z",
   "entries": [
     {
-      "hash": "adfcaf51fd8663b3",
-      "track": "Tutor",
-      "artist": "Cheema Y, Gur Sidhu",
-      "album": "The Simpsons",
+      "hash": "5b9a375841f0e6c3",
+      "track": "Mast Magan (From \"2 States)",
+      "artist": "Arijit Singh, Chinmayi Sripada",
+      "album": "Love Dose Arijit Singh",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-17T17:25:25.500Z"
-    },
-    {
-      "hash": "967f9c9d95979c11",
-      "track": "Besharam Rang (From \"Pathaan\")",
-      "artist": "Shilpa Rao, Vishal-Shekhar, Caralisa Monteiro, Vishal Dadlani",
-      "album": "Pathaan",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-19T15:30:09.577Z"
-    },
-    {
-      "hash": "925276d48bcf0bb7",
-      "track": "Aarti Keeje Hanuman Lala Ki",
-      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
-      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:24:01.208Z"
+      "cached_at": "2026-11-21T15:22:37.798Z"
     }
   ]
 }
