@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-20T18:47:28.412Z",
+  "updated_at": "2026-11-21T06:25:40.369Z",
   "entries": [
     {
-      "hash": "f32e755b26752763",
-      "track": "Aarzu",
-      "artist": "Madhurxo, Asim Azhar, Noor, Khan",
-      "album": "YouTube Music",
-      "has_synced": false,
+      "hash": "d46bebe6ba35b366",
+      "track": "Aadesh Alakh Niranjan",
+      "artist": "Anshu Vasishta",
+      "album": "Aadesh Alakh Niranjan",
+      "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-20T18:44:18.638Z"
+      "cached_at": "2026-11-21T06:24:58.734Z"
     }
   ]
 }
