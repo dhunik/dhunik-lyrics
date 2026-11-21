@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-11-21T06:25:40.368Z",
+  "updated_at": "2026-11-21T07:46:31.707Z",
   "entries": [
     {
-      "hash": "d46bebe6ba35b366",
-      "track": "Aadesh Alakh Niranjan",
-      "artist": "Anshu Vasishta",
-      "album": "Aadesh Alakh Niranjan",
+      "hash": "9c2e1d9c75f14e64",
+      "track": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:24:58.734Z"
+      "has_plain": false,
+      "cached_at": "2026-11-21T07:42:13.332Z"
     }
   ]
 }
