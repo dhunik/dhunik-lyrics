@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-21T08:32:15.321Z",
+  "updated_at": "2026-11-21T15:12:03.311Z",
   "entries": [
     {
       "hash": "c80e0fc3ea10391a",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T08:31:45.930Z"
+    },
+    {
+      "hash": "e3d41b2d1e451070",
+      "track": "Barbaad Reprise - Female",
+      "artist": "The Rish, Shilpa Rao - Saiyaara",
+      "album": "Saiyaara",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-21T15:12:00.470Z"
     }
   ]
 }
