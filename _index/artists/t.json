@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-21T15:27:41.396Z",
+  "updated_at": "2026-11-21T15:43:34.940Z",
   "entries": [
     {
-      "hash": "71f2b58650fc8706",
-      "track": "Piya Aaye Na",
-      "artist": "Tulsi Kumar, KK - Aashiqui 2",
+      "hash": "ff29122973d39f95",
+      "track": "Hum Mar Jayenge",
+      "artist": "Arijit Singh, Tulsi Kumar",
       "album": "Aashiqui 2",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T15:27:22.381Z"
+      "cached_at": "2026-11-21T15:42:25.113Z"
     }
   ]
 }
