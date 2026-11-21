@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-11-21T06:24:11.417Z",
+  "updated_at": "2026-11-21T06:25:40.368Z",
   "entries": [
     {
-      "hash": "813b23c7310449e8",
-      "track": "Akhiyaan",
-      "artist": "Noor, Khan",
-      "album": null,
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-17T10:34:54.891Z"
-    },
-    {
-      "hash": "570b22d5b93b2f0a",
-      "track": "Aarti Kije Hanuman Lala Ki",
-      "artist": "Shankar Mahadevan",
-      "album": "My Devotional Favourites 2 - Shankar Mahadevan",
+      "hash": "d46bebe6ba35b366",
+      "track": "Aadesh Alakh Niranjan",
+      "artist": "Anshu Vasishta",
+      "album": "Aadesh Alakh Niranjan",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-21T06:23:50.696Z"
-    },
-    {
-      "hash": "925276d48bcf0bb7",
-      "track": "Aarti Keeje Hanuman Lala Ki",
-      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
-      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:24:01.208Z"
+      "cached_at": "2026-11-21T06:24:58.734Z"
     }
   ]
 }
