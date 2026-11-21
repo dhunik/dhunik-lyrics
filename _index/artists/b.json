@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-18T12:28:43.344Z",
+  "updated_at": "2026-11-21T15:37:09.491Z",
   "entries": [
     {
       "hash": "8acba6c963576aff",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-18T12:27:18.187Z"
+    },
+    {
+      "hash": "e09d9956f08c5d1a",
+      "track": "DÁKITI",
+      "artist": "Bad Bunny, Jhayco",
+      "album": "EL ÚLTIMO TOUR DEL MUNDO",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-21T15:37:08.222Z"
     }
   ]
 }
