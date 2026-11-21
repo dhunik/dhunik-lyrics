@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-11-19T15:30:17.335Z",
+  "updated_at": "2026-11-21T06:24:11.530Z",
   "entries": [
     {
       "hash": "adfcaf51fd8663b3",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-19T15:30:09.577Z"
+    },
+    {
+      "hash": "925276d48bcf0bb7",
+      "track": "Aarti Keeje Hanuman Lala Ki",
+      "artist": "Hariharan, Lalit Sen, Chander, Traditional",
+      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-21T06:24:01.208Z"
     }
   ]
 }
