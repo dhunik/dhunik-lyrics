@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-21T06:25:40.369Z",
+  "updated_at": "2026-11-21T06:26:14.178Z",
   "entries": [
     {
-      "hash": "d46bebe6ba35b366",
-      "track": "Aadesh Alakh Niranjan",
+      "hash": "0cd8ec917cca0315",
+      "track": "Guruji Ko Aadesh Alakh Niranjan",
       "artist": "Anshu Vasishta",
-      "album": "Aadesh Alakh Niranjan",
+      "album": "Guruji Ko Aadesh Alakh Niranjan",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-21T06:24:58.734Z"
+      "cached_at": "2026-11-21T06:25:56.073Z"
     }
   ]
 }
