@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-21T16:27:47.489Z",
+  "updated_at": "2026-11-21T16:30:26.693Z",
   "entries": [
     {
-      "hash": "0d058b4d645c5a42",
-      "track": "Rakhlo Tum Chupaake",
-      "artist": "Arpit Bala, Adil",
-      "album": "Keychain Laalu",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T16:27:14.571Z"
+      "hash": "42a90afba7ca2cfc",
+      "track": "DEKH LENA",
+      "artist": "ARIJIT SINGH, TULSI KUMAR, ANKIT TIWARI",
+      "album": "TUM BIN 2",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-21T16:30:15.038Z"
     }
   ]
 }
