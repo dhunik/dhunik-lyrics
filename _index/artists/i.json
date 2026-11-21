@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-11-21T07:28:11.565Z",
+  "updated_at": "2026-11-21T07:46:31.715Z",
   "entries": [
     {
-      "hash": "23974f67816233bb",
-      "track": "Saiyaara (Movie: Saiyaara)",
-      "artist": "Faheem Abdullah, Arslan Nizami, Irshad Kamil",
-      "album": "SAIYAARA",
+      "hash": "9c2e1d9c75f14e64",
+      "track": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil",
+      "album": "Dhurandhar The Revenge",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T07:26:33.569Z"
+      "cached_at": "2026-11-21T07:42:13.332Z"
     }
   ]
 }
