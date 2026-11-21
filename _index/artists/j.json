@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-21T16:31:00.932Z",
+  "updated_at": "2026-11-21T22:32:13.410Z",
   "entries": [
     {
       "hash": "9c2e1d9c75f14e64",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T16:30:57.355Z"
+    },
+    {
+      "hash": "c574f4a583f6c4a8",
+      "track": "Beauty And A Beat",
+      "artist": "Justin Bieber ft. Nicki Minaj - Believe",
+      "album": "Believe",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-21T22:32:09.702Z"
     }
   ]
 }
