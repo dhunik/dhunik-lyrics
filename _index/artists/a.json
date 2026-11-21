@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-21T06:26:14.178Z",
+  "updated_at": "2026-11-21T07:28:11.574Z",
   "entries": [
     {
-      "hash": "0cd8ec917cca0315",
-      "track": "Guruji Ko Aadesh Alakh Niranjan",
-      "artist": "Anshu Vasishta",
-      "album": "Guruji Ko Aadesh Alakh Niranjan",
+      "hash": "23974f67816233bb",
+      "track": "Saiyaara (Movie: Saiyaara)",
+      "artist": "Faheem Abdullah, Arslan Nizami, Irshad Kamil",
+      "album": "SAIYAARA",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:25:56.073Z"
+      "has_plain": false,
+      "cached_at": "2026-11-21T07:26:33.569Z"
     }
   ]
 }
