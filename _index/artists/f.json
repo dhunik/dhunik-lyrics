@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-11-14T08:54:50.827Z",
+  "updated_at": "2026-11-22T15:03:19.650Z",
   "entries": [
     {
-      "hash": "e06a3e3ceaa7772d",
-      "track": "Snow in Skyami",
-      "artist": "Future",
-      "album": "The Real Me",
-      "has_synced": true,
+      "hash": "295f279ba040c905",
+      "track": "Jalpari",
+      "artist": "Faheem Abdullah, Huzaif Nazar, Rather Hashim, Hyder Dar",
+      "album": "Jalpari",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-14T08:47:11.786Z"
+      "cached_at": "2026-11-22T15:00:40.744Z"
     }
   ]
 }
