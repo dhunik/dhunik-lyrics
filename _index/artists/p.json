@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-20T18:29:33.290Z",
+  "updated_at": "2026-11-22T15:30:52.919Z",
   "entries": [
     {
-      "hash": "8feb68523800a0a3",
-      "track": "Tera Mera Rishta",
-      "artist": "Sayeed Quadri, Mustafa Zahid, Pritam",
-      "album": "YouTube Music",
+      "hash": "e5cbdb871a6e131b",
+      "track": "Aadat Ban Gaye Ho",
+      "artist": "Ankit Tiwari, Palak Muchhal, Harish Raut",
+      "album": "Luv U Turn",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-20T18:23:22.425Z"
+      "has_plain": true,
+      "cached_at": "2026-11-22T15:28:53.400Z"
     }
   ]
 }
