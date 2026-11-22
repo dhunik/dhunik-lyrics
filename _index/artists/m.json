@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-21T17:22:59.853Z",
+  "updated_at": "2026-11-22T17:40:42.345Z",
   "entries": [
     {
-      "hash": "1b559bd63b39f672",
-      "track": "Nadaan Parindey",
-      "artist": "A.R. Rahman, Mohit Chauhan - Rockstar",
-      "album": "Rockstar",
+      "hash": "20cd2263c94b6cc7",
+      "track": "Toh Phir Aao",
+      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
+      "album": "Awarapan (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T17:22:30.815Z"
+      "cached_at": "2026-11-22T17:40:13.244Z"
     }
   ]
 }
