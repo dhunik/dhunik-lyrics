@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-22T20:08:16.106Z",
+  "updated_at": "2026-11-22T20:57:32.653Z",
   "entries": [
     {
-      "hash": "9c31a048e8a82730",
-      "track": "Forever",
-      "artist": "Justin Bieber ft. Post Malone, Clever - Changes",
-      "album": "Changes",
+      "hash": "52b31e41cdc94dbb",
+      "track": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+      "artist": "Jasmine Sandlas, Garry Sandhu, Tanishk Bagchi, Intense",
+      "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-22T20:07:35.469Z"
+      "cached_at": "2026-11-22T20:56:49.082Z"
     }
   ]
 }
