@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-21T06:22:59.895Z",
+  "updated_at": "2026-11-22T15:03:19.653Z",
   "entries": [
     {
-      "hash": "c5a9a1613273b4e7",
-      "track": "Hanuman Chalisa (Lofi)",
-      "artist": "Rasraj Ji Maharaj",
-      "album": "Hanuman Chalisa (Lofi)",
-      "has_synced": true,
+      "hash": "295f279ba040c905",
+      "track": "Jalpari",
+      "artist": "Faheem Abdullah, Huzaif Nazar, Rather Hashim, Hyder Dar",
+      "album": "Jalpari",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-21T06:22:43.779Z"
+      "cached_at": "2026-11-22T15:00:40.744Z"
     }
   ]
 }
