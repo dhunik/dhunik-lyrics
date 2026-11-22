@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-11-21T07:46:31.715Z",
+  "updated_at": "2026-11-22T20:57:32.661Z",
   "entries": [
     {
-      "hash": "9c2e1d9c75f14e64",
-      "track": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil",
-      "album": "Dhurandhar The Revenge",
+      "hash": "52b31e41cdc94dbb",
+      "track": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+      "artist": "Jasmine Sandlas, Garry Sandhu, Tanishk Bagchi, Intense",
+      "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T07:42:13.332Z"
+      "cached_at": "2026-11-22T20:56:49.082Z"
     }
   ]
 }
