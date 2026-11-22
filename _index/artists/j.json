@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-22T18:46:24.634Z",
+  "updated_at": "2026-11-22T18:49:56.883Z",
   "entries": [
     {
-      "hash": "9425596742223269",
-      "track": "Yummy",
-      "artist": "Justin Bieber - Yummy",
-      "album": "Yummy",
+      "hash": "3b77186edbf6c282",
+      "track": "What Do You Mean?",
+      "artist": "Justin Bieber - Purpose",
+      "album": "Purpose",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-22T18:45:55.928Z"
+      "cached_at": "2026-11-22T18:49:27.982Z"
     }
   ]
 }
