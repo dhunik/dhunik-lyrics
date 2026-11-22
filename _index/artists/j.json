@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-22T19:31:19.555Z",
+  "updated_at": "2026-11-22T20:08:16.106Z",
   "entries": [
     {
-      "hash": "f48a121bf94a34d8",
-      "track": "Come Around Me",
-      "artist": "Justin Bieber ft. Enrique Iglesias - Changes",
+      "hash": "9c31a048e8a82730",
+      "track": "Forever",
+      "artist": "Justin Bieber ft. Post Malone, Clever - Changes",
       "album": "Changes",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-22T19:30:50.866Z"
+      "cached_at": "2026-11-22T20:07:35.469Z"
     }
   ]
 }
