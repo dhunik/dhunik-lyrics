@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-21T16:33:12.523Z",
+  "updated_at": "2026-11-22T18:19:08.156Z",
   "entries": [
     {
-      "hash": "c80e0fc3ea10391a",
-      "track": "Saiyaara Reprise - Female",
-      "artist": "Shreya Ghoshal, Irshad Kamil",
-      "album": "SAIYAARA",
+      "hash": "614e47f980544744",
+      "track": "Dard-e-Dil Dard-e-Jigar (From \"Gunmaaster G9\")",
+      "artist": "Himesh Reshammiya, Sonia Kapoor Reshammiya - Dard-e-Dil Dard-e-Jigar (From \"Gunmaaster G9\")",
+      "album": "Dard-e-Dil Dard-e-Jigar (From \"Gunmaaster G9\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T08:31:45.930Z"
-    },
-    {
-      "hash": "e3d41b2d1e451070",
-      "track": "Barbaad Reprise - Female",
-      "artist": "The Rish, Shilpa Rao - Saiyaara",
-      "album": "Saiyaara",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:12:00.470Z"
-    },
-    {
-      "hash": "07898cc3ff2c8b0f",
-      "track": "Yeh Aaina",
-      "artist": "Shreya Ghoshal",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T16:33:08.872Z"
+      "cached_at": "2026-11-22T18:18:39.153Z"
     }
   ]
 }
