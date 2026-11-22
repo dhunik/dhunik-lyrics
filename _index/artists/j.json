@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-21T22:32:13.410Z",
+  "updated_at": "2026-11-22T18:46:24.634Z",
   "entries": [
     {
-      "hash": "9c2e1d9c75f14e64",
-      "track": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil",
-      "album": "Dhurandhar The Revenge",
+      "hash": "9425596742223269",
+      "track": "Yummy",
+      "artist": "Justin Bieber - Yummy",
+      "album": "Yummy",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T07:42:13.332Z"
-    },
-    {
-      "hash": "e09d9956f08c5d1a",
-      "track": "DÁKITI",
-      "artist": "Bad Bunny, Jhayco",
-      "album": "EL ÚLTIMO TOUR DEL MUNDO",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:37:08.222Z"
-    },
-    {
-      "hash": "5fdfe562ce249a69",
-      "track": "Tujhe Kitna Chahein Aur (Film Version)",
-      "artist": "Jubin Nautiyal - Kabir Singh",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T16:30:57.355Z"
-    },
-    {
-      "hash": "c574f4a583f6c4a8",
-      "track": "Beauty And A Beat",
-      "artist": "Justin Bieber ft. Nicki Minaj - Believe",
-      "album": "Believe",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T22:32:09.702Z"
+      "cached_at": "2026-11-22T18:45:55.928Z"
     }
   ]
 }
