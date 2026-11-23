@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-23T14:20:10.487Z",
+  "updated_at": "2026-11-23T16:02:29.259Z",
   "entries": [
     {
-      "hash": "031edb33098b5242",
-      "track": "DEKH LE",
-      "artist": "Talhah Yunus, Jokhay",
-      "album": "SHIKWA (Side B)",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-21T17:59:42.903Z"
-    },
-    {
-      "hash": "a714f619d9cad9c2",
-      "track": "Tere Bin (From \"Simmba\")",
-      "artist": "Asees Kaur, Tanishk Bagchi, Rashmi-Virag",
-      "album": "World Music Day",
+      "hash": "72ce412d04be9dca",
+      "track": "E - WAFA",
+      "artist": "FARHAN SAEED, TULSI KUMAR, MITHOON",
+      "album": "Creature 3D",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-23T14:20:08.281Z"
+      "has_plain": true,
+      "cached_at": "2026-11-23T16:02:01.722Z"
     }
   ]
 }
