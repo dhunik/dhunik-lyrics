@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-21T18:12:46.923Z",
+  "updated_at": "2026-11-23T16:42:05.039Z",
   "entries": [
     {
-      "hash": "915d32cd1d442412",
-      "track": "BUZZ",
-      "artist": "Seedhe Maut, KR$NA - BUZZ",
-      "album": "BUZZ",
+      "hash": "489700abbd093bd6",
+      "track": "How I Met Your Mother",
+      "artist": "Karma",
+      "album": "How I Met Your Mother",
       "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-21T00:53:48.567Z"
-    },
-    {
-      "hash": "0d6fdef3f4234fd5",
-      "track": "Jagannath Chaka Nain Neelachal Wale",
-      "artist": "Bunty Thakur, Karan Thakur",
-      "album": "Jagannath Chaka Nain Neelachal Wale",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:32:33.682Z"
-    },
-    {
-      "hash": "9f494290cfc88ae9",
-      "track": "Tere Nainon Mein",
-      "artist": "The Bilz, Kashif",
-      "album": "Tere Nainon Mein",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T18:12:40.225Z"
+      "cached_at": "2026-11-23T16:39:02.918Z"
     }
   ]
 }
