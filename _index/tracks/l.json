@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-11-18T07:24:55.444Z",
+  "updated_at": "2026-11-23T16:12:07.687Z",
   "entries": [
     {
-      "hash": "a713a8cbcd7f5e4e",
-      "track": "Loser",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
+      "hash": "d512a3db56e3d4bf",
+      "track": "Lo Safar",
+      "artist": "Jubin Nautiyal",
+      "album": "Lo Safar (From \"Baaghi 2\")",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-14T11:17:14.564Z"
-    },
-    {
-      "hash": "7cef6a9a2cf69bac",
-      "track": "Let Her Go",
-      "artist": "Passenger",
-      "album": "Passenger",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-18T07:24:46.427Z"
+      "cached_at": "2026-11-23T16:09:43.628Z"
     }
   ]
 }
