@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-22T20:57:32.653Z",
+  "updated_at": "2026-11-23T14:20:07.658Z",
   "entries": [
     {
       "hash": "52b31e41cdc94dbb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-22T20:56:49.082Z"
+    },
+    {
+      "hash": "4a51a8ac74250b2e",
+      "track": "Kho Gaye Hum Kahan",
+      "artist": "Prateek Kuhad, Jasleen Royal",
+      "album": "Valentines Special",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-23T14:20:05.694Z"
     }
   ]
 }
