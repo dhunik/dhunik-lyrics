@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "t",
   "type": "track",
-  "updated_at": "2026-11-22T19:30:36.185Z",
+  "updated_at": "2026-11-23T14:32:44.801Z",
   "entries": [
     {
-      "hash": "7d25a1048316806a",
-      "track": "Tere Vaaste Punjabi Version - Noor Chahal",
-      "artist": "Noor Chahal",
-      "album": "YouTube Music",
+      "hash": "ce13b5b4e744eeab",
+      "track": "Tu Hi Hai Aashiqui (Remix)",
+      "artist": "Palash Muchhal, Arijit Singh, Altamash Faridi",
+      "album": "Dishkiyaoon",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-20T18:20:22.240Z"
-    },
-    {
-      "hash": "5fdfe562ce249a69",
-      "track": "Tujhe Kitna Chahein Aur (Film Version)",
-      "artist": "Jubin Nautiyal - Kabir Singh",
-      "album": "Kabir Singh",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T16:30:57.355Z"
-    },
-    {
-      "hash": "9f494290cfc88ae9",
-      "track": "Tere Nainon Mein",
-      "artist": "The Bilz, Kashif",
-      "album": "Tere Nainon Mein",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T18:12:40.225Z"
-    },
-    {
-      "hash": "a0d8afa76ba54b63",
-      "track": "That Should Be Me",
-      "artist": "Justin Bieber - My World 2.0",
-      "album": "My World 2.0",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-22T19:30:33.855Z"
+      "cached_at": "2026-11-23T14:32:22.846Z"
     }
   ]
 }
