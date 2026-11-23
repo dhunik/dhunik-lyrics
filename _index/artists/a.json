@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-23T14:20:10.489Z",
+  "updated_at": "2026-11-23T14:32:44.808Z",
   "entries": [
     {
-      "hash": "e5cbdb871a6e131b",
-      "track": "Aadat Ban Gaye Ho",
-      "artist": "Ankit Tiwari, Palak Muchhal, Harish Raut",
-      "album": "Luv U Turn",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-22T15:28:53.400Z"
-    },
-    {
-      "hash": "a714f619d9cad9c2",
-      "track": "Tere Bin (From \"Simmba\")",
-      "artist": "Asees Kaur, Tanishk Bagchi, Rashmi-Virag",
-      "album": "World Music Day",
+      "hash": "ce13b5b4e744eeab",
+      "track": "Tu Hi Hai Aashiqui (Remix)",
+      "artist": "Palash Muchhal, Arijit Singh, Altamash Faridi",
+      "album": "Dishkiyaoon",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-23T14:20:08.281Z"
+      "cached_at": "2026-11-23T14:32:22.846Z"
     }
   ]
 }
