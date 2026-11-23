@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-23T16:12:07.689Z",
+  "updated_at": "2026-11-23T20:47:49.787Z",
   "entries": [
     {
       "hash": "d512a3db56e3d4bf",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-23T16:09:43.628Z"
+    },
+    {
+      "hash": "175dc785efe93b11",
+      "track": "Ghost",
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-23T20:47:48.353Z"
     }
   ]
 }
