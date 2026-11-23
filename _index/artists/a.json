@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-22T15:30:52.916Z",
+  "updated_at": "2026-11-23T14:20:10.489Z",
   "entries": [
     {
       "hash": "e5cbdb871a6e131b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-22T15:28:53.400Z"
+    },
+    {
+      "hash": "a714f619d9cad9c2",
+      "track": "Tere Bin (From \"Simmba\")",
+      "artist": "Asees Kaur, Tanishk Bagchi, Rashmi-Virag",
+      "album": "World Music Day",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-23T14:20:08.281Z"
     }
   ]
 }
