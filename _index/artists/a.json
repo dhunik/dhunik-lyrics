@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-24T08:29:10.210Z",
+  "updated_at": "2026-11-24T08:29:52.788Z",
   "entries": [
     {
-      "hash": "76e3a5eea642173e",
-      "track": "Mangala Vanname (From \"Ramayana\")",
-      "artist": "A.R. Rahman, Abhay Jodhpurkar, Saindhavi, Karthik Netha",
-      "album": "Mangala Vanname (From \"Ramayana\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-24T06:57:29.042Z"
-    },
-    {
-      "hash": "77bc32e119f476f2",
-      "track": "Aaj Amaye (ORIGINAL)",
-      "artist": "Anwesshaa Dutta Gupta",
-      "album": "Power (Original Motion Picture Soundtrack) (ORIGINAL)",
+      "hash": "9648fa72ded91e9b",
+      "track": "Ure Geche",
+      "artist": "Ash King, Monali Thakur",
+      "album": "Parbona Ami Charte Toke (Original Motion Picture Soundtrack) (ORIGINAL)",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-24T08:29:08.679Z"
+      "cached_at": "2026-11-24T08:29:13.532Z"
     }
   ]
 }
