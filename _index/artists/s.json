@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-24T09:49:07.780Z",
+  "updated_at": "2026-11-24T11:24:47.177Z",
   "entries": [
     {
-      "hash": "2e3e1e69d7054d72",
-      "track": "Sajjan Raazi",
-      "artist": "Satinder Sartaaj, Jatinder Shah",
-      "album": "Hazaarey Wala Munda",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-24T09:48:27.051Z"
+      "hash": "ab1731866b8f51a1",
+      "track": "Tu Hi Mera",
+      "artist": "Sayeed Quadri, Pritam - Emraan Hashmi Sad Love Hits",
+      "album": "Yours Truly Pritam",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-24T11:20:14.624Z"
     }
   ]
 }
