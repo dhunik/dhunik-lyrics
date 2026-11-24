@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-21T15:37:09.491Z",
+  "updated_at": "2026-11-24T06:57:27.893Z",
   "entries": [
     {
-      "hash": "8acba6c963576aff",
-      "track": "The Humma Song (From \"OK Jaanu\")",
-      "artist": "A.R. Rahman, Badshah, Tanishk Bagchi, Shashaa Tirupati",
-      "album": "The Humma Song (From \"OK Jaanu\")",
+      "hash": "0a9693620e827530",
+      "track": "Chandigarh Mein",
+      "artist": "Badshah, Harrdy Sandhu, Lisa Mishra, Asees Kaur",
+      "album": "Holi Party Mix",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T12:27:18.187Z"
-    },
-    {
-      "hash": "e09d9956f08c5d1a",
-      "track": "DÁKITI",
-      "artist": "Bad Bunny, Jhayco",
-      "album": "EL ÚLTIMO TOUR DEL MUNDO",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-21T15:37:08.222Z"
+      "cached_at": "2026-11-24T06:56:45.810Z"
     }
   ]
 }
