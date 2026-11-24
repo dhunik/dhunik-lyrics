@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-22T17:40:42.345Z",
+  "updated_at": "2026-11-24T08:29:52.791Z",
   "entries": [
     {
-      "hash": "20cd2263c94b6cc7",
-      "track": "Toh Phir Aao",
-      "artist": "Pritam, Mustafa Zahid, Sayeed Quadri",
-      "album": "Awarapan (Original Motion Picture Soundtrack)",
+      "hash": "9648fa72ded91e9b",
+      "track": "Ure Geche",
+      "artist": "Ash King, Monali Thakur",
+      "album": "Parbona Ami Charte Toke (Original Motion Picture Soundtrack) (ORIGINAL)",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-22T17:40:13.244Z"
+      "has_plain": true,
+      "cached_at": "2026-11-24T08:29:13.532Z"
     }
   ]
 }
