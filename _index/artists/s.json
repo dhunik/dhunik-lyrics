@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-22T18:19:08.156Z",
+  "updated_at": "2026-11-24T09:49:07.780Z",
   "entries": [
     {
-      "hash": "614e47f980544744",
-      "track": "Dard-e-Dil Dard-e-Jigar (From \"Gunmaaster G9\")",
-      "artist": "Himesh Reshammiya, Sonia Kapoor Reshammiya - Dard-e-Dil Dard-e-Jigar (From \"Gunmaaster G9\")",
-      "album": "Dard-e-Dil Dard-e-Jigar (From \"Gunmaaster G9\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-22T18:18:39.153Z"
+      "hash": "2e3e1e69d7054d72",
+      "track": "Sajjan Raazi",
+      "artist": "Satinder Sartaaj, Jatinder Shah",
+      "album": "Hazaarey Wala Munda",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-24T09:48:27.051Z"
     }
   ]
 }
