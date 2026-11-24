@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-11-21T07:46:31.707Z",
+  "updated_at": "2026-11-24T08:29:10.206Z",
   "entries": [
     {
       "hash": "9c2e1d9c75f14e64",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T07:42:13.332Z"
+    },
+    {
+      "hash": "77bc32e119f476f2",
+      "track": "Aaj Amaye (ORIGINAL)",
+      "artist": "Anwesshaa Dutta Gupta",
+      "album": "Power (Original Motion Picture Soundtrack) (ORIGINAL)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-24T08:29:08.679Z"
     }
   ]
 }
