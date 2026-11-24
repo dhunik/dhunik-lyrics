@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-24T08:29:52.788Z",
+  "updated_at": "2026-11-24T20:13:50.717Z",
   "entries": [
     {
       "hash": "9648fa72ded91e9b",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-24T08:29:13.532Z"
+    },
+    {
+      "hash": "914269bc64a9abca",
+      "track": "sun saawariya",
+      "artist": "Accha Insaan, AtharvaMusic, Yaani Karnawat",
+      "album": "sun saawariya",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-24T20:13:48.359Z"
     }
   ]
 }
