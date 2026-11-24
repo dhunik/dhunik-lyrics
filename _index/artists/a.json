@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-23T14:32:44.808Z",
+  "updated_at": "2026-11-24T06:57:40.516Z",
   "entries": [
     {
-      "hash": "ce13b5b4e744eeab",
-      "track": "Tu Hi Hai Aashiqui (Remix)",
-      "artist": "Palash Muchhal, Arijit Singh, Altamash Faridi",
-      "album": "Dishkiyaoon",
+      "hash": "76e3a5eea642173e",
+      "track": "Mangala Vanname (From \"Ramayana\")",
+      "artist": "A.R. Rahman, Abhay Jodhpurkar, Saindhavi, Karthik Netha",
+      "album": "Mangala Vanname (From \"Ramayana\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-23T14:32:22.846Z"
+      "cached_at": "2026-11-24T06:57:29.042Z"
     }
   ]
 }
