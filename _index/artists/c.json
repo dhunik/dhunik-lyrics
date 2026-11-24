@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "c",
   "type": "artist",
-  "updated_at": "2026-11-21T15:23:13.525Z",
+  "updated_at": "2026-11-24T16:43:42.113Z",
   "entries": [
     {
       "hash": "5b9a375841f0e6c3",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T15:22:37.798Z"
+    },
+    {
+      "hash": "06e7014492b90916",
+      "track": "Ban Ja Tu",
+      "artist": "Charan Preet, Badshah",
+      "album": "Ban Ja Tu",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-24T16:43:40.185Z"
     }
   ]
 }
