@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "c",
   "type": "track",
-  "updated_at": "2026-11-20T17:36:02.516Z",
+  "updated_at": "2026-11-24T06:57:27.891Z",
   "entries": [
     {
-      "hash": "1577c912e59620e6",
-      "track": "Chandrullo Unde",
-      "artist": "Shankar Mahadevan",
-      "album": "Nuvvostanante Nenoddantana",
+      "hash": "0a9693620e827530",
+      "track": "Chandigarh Mein",
+      "artist": "Badshah, Harrdy Sandhu, Lisa Mishra, Asees Kaur",
+      "album": "Holi Party Mix",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T14:32:50.267Z"
-    },
-    {
-      "hash": "7690cc06271b325c",
-      "track": "CHAIN",
-      "artist": "SHIVAI VYAS, BAWA GULZAR",
-      "album": "Chain",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-20T17:35:57.059Z"
+      "cached_at": "2026-11-24T06:56:45.810Z"
     }
   ]
 }
