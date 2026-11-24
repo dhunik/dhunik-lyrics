@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-23T14:20:07.657Z",
+  "updated_at": "2026-11-24T20:13:23.057Z",
   "entries": [
     {
       "hash": "e5cbdb871a6e131b",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-23T14:20:05.694Z"
+    },
+    {
+      "hash": "f4626932833511aa",
+      "track": "Saiyyan",
+      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+      "album": "Teri Deewani",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-24T20:13:20.726Z"
     }
   ]
 }
