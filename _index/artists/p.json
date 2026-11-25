@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-25T11:56:01.014Z",
+  "updated_at": "2026-11-25T15:15:05.155Z",
   "entries": [
     {
       "hash": "a69420d7b8fd82a6",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-25T11:50:14.014Z"
+    },
+    {
+      "hash": "d49e337a6e2f2f46",
+      "track": "Shyama Aan Baso",
+      "artist": "Sachet Tandon, Parampara Tandon",
+      "album": "Shyama Aan Baso",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-25T15:14:56.090Z"
     }
   ]
 }
