@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-24T20:13:50.717Z",
+  "updated_at": "2026-11-25T12:28:46.068Z",
   "entries": [
     {
-      "hash": "9648fa72ded91e9b",
-      "track": "Ure Geche",
-      "artist": "Ash King, Monali Thakur",
-      "album": "Parbona Ami Charte Toke (Original Motion Picture Soundtrack) (ORIGINAL)",
+      "hash": "024fa6b4ad2f03e6",
+      "track": "Thumkeshwari",
+      "artist": "Divya Kumar, Rashmeet Kaur, Sachin-Jigar, Ash King",
+      "album": "Bhediya",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-24T08:29:13.532Z"
-    },
-    {
-      "hash": "914269bc64a9abca",
-      "track": "sun saawariya",
-      "artist": "Accha Insaan, AtharvaMusic, Yaani Karnawat",
-      "album": "sun saawariya",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-24T20:13:48.359Z"
+      "has_plain": false,
+      "cached_at": "2026-11-25T12:28:13.070Z"
     }
   ]
 }
