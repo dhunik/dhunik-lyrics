@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-25T12:28:46.066Z",
+  "updated_at": "2026-11-25T15:18:15.406Z",
   "entries": [
     {
-      "hash": "024fa6b4ad2f03e6",
-      "track": "Thumkeshwari",
-      "artist": "Divya Kumar, Rashmeet Kaur, Sachin-Jigar, Ash King",
-      "album": "Bhediya",
+      "hash": "deb954a8a5dff91f",
+      "track": "Kaan Phaad (From “Mirzapur The Movie”)",
+      "artist": "John Stewart Eduri, Parry G, Suzanne D'Mello - Mirzapur The Movie",
+      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T12:28:13.070Z"
+      "cached_at": "2026-11-25T15:17:52.103Z"
     }
   ]
 }
