@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-25T15:18:15.399Z",
+  "updated_at": "2026-11-25T15:19:18.472Z",
   "entries": [
     {
-      "hash": "deb954a8a5dff91f",
-      "track": "Kaan Phaad (From “Mirzapur The Movie”)",
-      "artist": "John Stewart Eduri, Parry G, Suzanne D'Mello - Mirzapur The Movie",
-      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+      "hash": "cf5fcdfb55bd7be6",
+      "track": "Aaya Sher",
+      "artist": "Anirudh Ravichander, Jangi Reddy, Arjun Chandy, Kasarla Shyam",
+      "album": "The Paradise (Telugu)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T15:17:52.103Z"
+      "cached_at": "2026-11-25T15:19:07.237Z"
     }
   ]
 }
