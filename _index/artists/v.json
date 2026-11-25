@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-11-20T06:18:54.728Z",
+  "updated_at": "2026-11-25T15:17:01.857Z",
   "entries": [
     {
       "hash": "ff45341a5fddd10d",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-20T06:18:51.087Z"
+    },
+    {
+      "hash": "df0eeda87f323c67",
+      "track": "Sajanva Redux (From “Mirzapur The Movie”)",
+      "artist": "Anand Bhaskar, Vidhya Gopal, Ginny Diwan - Mirzapur The Movie",
+      "album": "Mirzapur The Movie",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-25T15:16:59.508Z"
     }
   ]
 }
