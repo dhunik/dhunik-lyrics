@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-24T11:24:47.177Z",
+  "updated_at": "2026-11-25T02:26:54.739Z",
   "entries": [
     {
       "hash": "ab1731866b8f51a1",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-24T11:20:14.624Z"
+    },
+    {
+      "hash": "8a268bc9a037dd76",
+      "track": "Anbae Peranbae",
+      "artist": "Yuvan Shankar Raja, Sid Sriram, Shreya Ghoshal, Uma Devi",
+      "album": "NGK (Original Motion Picture Soundtrack)",
+      "has_synced": true,
+      "has_plain": true,
+      "cached_at": "2026-11-25T02:26:44.139Z"
     }
   ]
 }
