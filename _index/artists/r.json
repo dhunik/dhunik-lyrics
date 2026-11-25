@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-24T08:32:25.085Z",
+  "updated_at": "2026-11-25T12:28:46.064Z",
   "entries": [
     {
-      "hash": "6e66fde5250037fe",
-      "track": "Aaro Ekbar",
-      "artist": "Rupam Islam, Fossils",
-      "album": "Fossils, Vol. 1",
+      "hash": "024fa6b4ad2f03e6",
+      "track": "Thumkeshwari",
+      "artist": "Divya Kumar, Rashmeet Kaur, Sachin-Jigar, Ash King",
+      "album": "Bhediya",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-24T08:32:04.915Z"
+      "has_plain": false,
+      "cached_at": "2026-11-25T12:28:13.070Z"
     }
   ]
 }
