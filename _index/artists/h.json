@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-22T19:16:23.946Z",
+  "updated_at": "2026-11-25T12:27:49.248Z",
   "entries": [
     {
-      "hash": "d0f11362fa8967a8",
-      "track": "Tera Hua Sahiba",
-      "artist": "Garvit-Priyansh, Garvit Soni, Priyansh Srivastava, Hansika Pareek, Aniket Shukla - Musafir Cafe (Songs from the Netflix Series)",
-      "album": "Tera Hua Sahiba (From \"Musafir Cafe\")",
+      "hash": "143b527eee299f92",
+      "track": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
+      "artist": "Harshavardhan Rameshwar, Choir",
+      "album": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-18T06:07:27.324Z"
-    },
-    {
-      "hash": "a40041c5e07302fe",
-      "track": "Katiya Karun",
-      "artist": "Harshdeep Kaur",
-      "album": "Rockstar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-22T19:16:22.466Z"
+      "cached_at": "2026-11-25T12:22:38.770Z"
     }
   ]
 }
