@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-23T20:47:49.787Z",
+  "updated_at": "2026-11-25T15:18:15.399Z",
   "entries": [
     {
-      "hash": "d512a3db56e3d4bf",
-      "track": "Lo Safar",
-      "artist": "Jubin Nautiyal",
-      "album": "Lo Safar (From \"Baaghi 2\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-23T16:09:43.628Z"
-    },
-    {
-      "hash": "175dc785efe93b11",
-      "track": "Ghost",
-      "artist": "Justin Bieber",
-      "album": "Justice",
+      "hash": "deb954a8a5dff91f",
+      "track": "Kaan Phaad (From “Mirzapur The Movie”)",
+      "artist": "John Stewart Eduri, Parry G, Suzanne D'Mello - Mirzapur The Movie",
+      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-23T20:47:48.353Z"
+      "cached_at": "2026-11-25T15:17:52.103Z"
     }
   ]
 }
