@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "k",
   "type": "artist",
-  "updated_at": "2026-11-24T06:57:40.520Z",
+  "updated_at": "2026-11-25T11:56:01.016Z",
   "entries": [
     {
-      "hash": "76e3a5eea642173e",
-      "track": "Mangala Vanname (From \"Ramayana\")",
-      "artist": "A.R. Rahman, Abhay Jodhpurkar, Saindhavi, Karthik Netha",
-      "album": "Mangala Vanname (From \"Ramayana\")",
+      "hash": "a69420d7b8fd82a6",
+      "track": "Main Ram (From \"Ramayana\")",
+      "artist": "Sachet Tandon, Prateek Walia, Kumar Vishwas",
+      "album": "Main Ram (From \"Ramayana\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-24T06:57:29.042Z"
+      "cached_at": "2026-11-25T11:50:14.014Z"
     }
   ]
 }
