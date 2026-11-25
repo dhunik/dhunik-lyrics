@@ -2,34 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-24T20:13:23.057Z",
+  "updated_at": "2026-11-25T11:56:01.014Z",
   "entries": [
     {
-      "hash": "e5cbdb871a6e131b",
-      "track": "Aadat Ban Gaye Ho",
-      "artist": "Ankit Tiwari, Palak Muchhal, Harish Raut",
-      "album": "Luv U Turn",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-22T15:28:53.400Z"
-    },
-    {
-      "hash": "4a51a8ac74250b2e",
-      "track": "Kho Gaye Hum Kahan",
-      "artist": "Prateek Kuhad, Jasleen Royal",
-      "album": "Valentines Special",
+      "hash": "a69420d7b8fd82a6",
+      "track": "Main Ram (From \"Ramayana\")",
+      "artist": "Sachet Tandon, Prateek Walia, Kumar Vishwas",
+      "album": "Main Ram (From \"Ramayana\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-23T14:20:05.694Z"
-    },
-    {
-      "hash": "f4626932833511aa",
-      "track": "Saiyyan",
-      "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
-      "album": "Teri Deewani",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-24T20:13:20.726Z"
+      "cached_at": "2026-11-25T11:50:14.014Z"
     }
   ]
 }
