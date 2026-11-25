@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-11-24T08:29:10.206Z",
+  "updated_at": "2026-11-25T12:22:42.223Z",
   "entries": [
     {
       "hash": "9c2e1d9c75f14e64",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-24T08:29:08.679Z"
+    },
+    {
+      "hash": "143b527eee299f92",
+      "track": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
+      "artist": "Harshavardhan Rameshwar, Choir",
+      "album": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-25T12:22:38.770Z"
     }
   ]
 }
