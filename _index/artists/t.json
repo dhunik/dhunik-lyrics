@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "t",
   "type": "artist",
-  "updated_at": "2026-11-23T16:02:29.259Z",
+  "updated_at": "2026-11-25T15:17:51.125Z",
   "entries": [
     {
       "hash": "72ce412d04be9dca",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-23T16:02:01.722Z"
+    },
+    {
+      "hash": "d3069165573adbc1",
+      "track": "Vindhyvasini Ki Jai Ho (From “Mirzapur The Movie”)",
+      "artist": "Junaid Kumar, Krishna Lasya Muthyala, Tejpal - Mirzapur The Movie",
+      "album": "Mirzapur The Movie",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-25T15:17:42.368Z"
     }
   ]
 }
