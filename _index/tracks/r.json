@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "r",
   "type": "track",
-  "updated_at": "2026-11-21T16:27:47.486Z",
+  "updated_at": "2026-11-25T15:15:48.426Z",
   "entries": [
     {
       "hash": "0d058b4d645c5a42",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-21T16:27:14.571Z"
+    },
+    {
+      "hash": "9d6e5e78a17a9a74",
+      "track": "Rifle Ke Nokh Pa Nachaib Jabari",
+      "artist": "Aditya Samrat, Khushi Kakkar",
+      "album": "Rifle Ke Nokh Pa Nachaib Jabari",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-25T15:15:44.998Z"
     }
   ]
 }
