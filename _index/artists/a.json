@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-25T15:19:18.469Z",
+  "updated_at": "2026-11-25T15:24:15.481Z",
   "entries": [
     {
-      "hash": "cf5fcdfb55bd7be6",
-      "track": "Aaya Sher",
-      "artist": "Anirudh Ravichander, Jangi Reddy, Arjun Chandy, Kasarla Shyam",
-      "album": "The Paradise (Telugu)",
+      "hash": "a0ef00d204980e41",
+      "track": "Roddy Theme (From \"Jailer 2\")",
+      "artist": "Anirudh Ravichander",
+      "album": "Roddy Theme (From \"Jailer 2\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T15:19:07.237Z"
+      "cached_at": "2026-11-25T15:23:55.931Z"
     }
   ]
 }
