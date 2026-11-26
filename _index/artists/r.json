@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "r",
   "type": "artist",
-  "updated_at": "2026-11-25T12:28:46.064Z",
+  "updated_at": "2026-11-26T08:37:25.625Z",
   "entries": [
     {
-      "hash": "024fa6b4ad2f03e6",
-      "track": "Thumkeshwari",
-      "artist": "Divya Kumar, Rashmeet Kaur, Sachin-Jigar, Ash King",
-      "album": "Bhediya",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-25T12:28:13.070Z"
+      "hash": "2fe07f240cba1cbb",
+      "track": "Fillet Mignion",
+      "artist": "KR$NA, Seedhe Maut, Raftaar - Don't Try This At Home",
+      "album": "Don't Try This At Home",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-26T08:36:46.537Z"
     }
   ]
 }
