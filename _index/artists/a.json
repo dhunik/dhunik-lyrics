@@ -2,52 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T15:23:23.509Z",
+  "updated_at": "2026-11-26T15:38:08.974Z",
   "entries": [
     {
-      "hash": "7e3d1ff7e305772e",
-      "track": "Beretta",
-      "artist": "Amanraj Gill, Jaya Rohilla",
-      "album": "Beretta",
+      "hash": "9f5461d20ae0f106",
+      "track": "Dariya",
+      "artist": "Arko - Wedding Love Songs",
+      "album": "Wedding Love Songs",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T09:51:41.173Z"
-    },
-    {
-      "hash": "6c15ef453d01d65b",
-      "track": "Kaali Gaadi",
-      "artist": "Amit Saini Rohtakiya",
-      "album": "Kaali Gaadi",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-26T10:03:23.699Z"
-    },
-    {
-      "hash": "8b628c70825f9e6c",
-      "track": "Ghar Kab Aaoge (From \"BORDER 2\")",
-      "artist": "Anu Malik, Mithoon, Sonu Nigam, Arijit Singh, Roopkumar Rathod, Vishal Mishra, Diljit Dosanjh, Javed Akhtar, Manoj Muntashir - Ghar Kab Aaoge (From \"BORDER 2\")",
-      "album": "Ghar Kab Aaoge (From \"BORDER 2\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:08:43.513Z"
-    },
-    {
-      "hash": "0831b504937761c5",
-      "track": "Mareez - E - Ishq",
-      "artist": "Sharib Toshi, Arijit Singh - Zid",
-      "album": "Zid",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:18:29.231Z"
-    },
-    {
-      "hash": "f3d3479ec164aa20",
-      "track": "Tere Hawaale",
-      "artist": "Pritam, Arijit Singh, Shilpa Rao - Laal Singh Chaddha",
-      "album": "Laal Singh Chaddha",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:23:18.748Z"
+      "cached_at": "2026-11-26T15:37:55.236Z"
     }
   ]
 }
