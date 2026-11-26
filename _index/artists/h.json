@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-26T09:47:20.862Z",
+  "updated_at": "2026-11-26T09:47:31.381Z",
   "entries": [
     {
       "hash": "2a0b53520a91b755",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T09:47:04.872Z"
+    },
+    {
+      "hash": "19ccf8ca2729b400",
+      "track": "Chammak Challo",
+      "artist": "Vishal-Shekhar, Akon, Hamsika Iyer",
+      "album": "Ra-One",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T09:47:29.679Z"
     }
   ]
 }
