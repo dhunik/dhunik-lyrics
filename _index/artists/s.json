@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-25T15:18:15.406Z",
+  "updated_at": "2026-11-26T06:54:02.488Z",
   "entries": [
     {
-      "hash": "deb954a8a5dff91f",
-      "track": "Kaan Phaad (From “Mirzapur The Movie”)",
-      "artist": "John Stewart Eduri, Parry G, Suzanne D'Mello - Mirzapur The Movie",
-      "album": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+      "hash": "46100452ee3ea5bc",
+      "track": "Mahiya",
+      "artist": "Badshah, Shreya Ghoshal, Hiten",
+      "album": "Mahiya",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T15:17:52.103Z"
+      "cached_at": "2026-11-26T06:51:33.457Z"
     }
   ]
 }
