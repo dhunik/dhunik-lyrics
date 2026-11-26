@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-26T15:05:17.710Z",
+  "updated_at": "2026-11-26T15:08:50.299Z",
   "entries": [
     {
       "hash": "a741862da7c4465b",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:05:12.471Z"
+    },
+    {
+      "hash": "e9bbd08dc681bf8b",
+      "track": "5 Taara",
+      "artist": "Diljit Dosanjh, Jatinder Shah - 5 Taara",
+      "album": "5 Taara",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:08:48.250Z"
     }
   ]
 }
