@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-26T09:53:01.495Z",
+  "updated_at": "2026-11-26T16:02:09.494Z",
   "entries": [
     {
-      "hash": "244e1ff53fb5d025",
-      "track": "Madam Ji",
-      "artist": "Masoom Sharma, Rekha Goswami, Amar Karnawal",
-      "album": "Madam Ji",
+      "hash": "037c7343a2fc1b92",
+      "track": "Ramayan Ka Saar",
+      "artist": "Masoom Sharma",
+      "album": "Ramayan Ka Saar",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T09:52:33.426Z"
+      "cached_at": "2026-11-26T16:01:58.147Z"
     }
   ]
 }
