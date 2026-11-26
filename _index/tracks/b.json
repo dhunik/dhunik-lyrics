@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "track",
-  "updated_at": "2026-11-26T15:08:43.062Z",
+  "updated_at": "2026-11-26T15:55:20.706Z",
   "entries": [
     {
-      "hash": "418f682fd6350061",
-      "track": "Born to Shine",
-      "artist": "Diljit Dosanjh - G.O.A.T.",
-      "album": "G.O.A.T.",
+      "hash": "093bf2d7310199fb",
+      "track": "Baba VS Kand (feat. Manjeet Mor)",
+      "artist": "Masoom Sharma, Nidhi Sharma, Ashu Twinkle",
+      "album": "Baba VS Kand",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:04:15.216Z"
-    },
-    {
-      "hash": "2ed2a36d66563c71",
-      "track": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "artist": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer - Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "album": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:08:41.343Z"
+      "cached_at": "2026-11-26T15:54:58.781Z"
     }
   ]
 }
