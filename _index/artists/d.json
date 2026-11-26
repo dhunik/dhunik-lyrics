@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-08T19:19:05.939Z",
+  "updated_at": "2026-11-26T15:01:38.247Z",
   "entries": [
     {
-      "hash": "437bdf924ade66ba",
-      "track": "Thank You",
-      "artist": "Dido",
-      "album": "Best Of Love Vol. 10",
-      "has_synced": true,
+      "hash": "8622059e2394c14a",
+      "track": "POKITO",
+      "artist": "Daddy Yankee, Diljit Dosanjh - LA POSTAL",
+      "album": "LA POSTAL",
+      "has_synced": false,
       "has_plain": true,
-      "cached_at": "2026-11-08T19:18:30.186Z"
+      "cached_at": "2026-11-26T15:01:09.822Z"
     }
   ]
 }
