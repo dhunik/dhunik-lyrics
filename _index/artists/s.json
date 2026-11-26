@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T07:14:41.671Z",
+  "updated_at": "2026-11-26T08:37:25.623Z",
   "entries": [
     {
-      "hash": "661eedb0e73ae088",
-      "track": "O Mere Saajan",
-      "artist": "Ajay-Atul, Javed Ali, Shweta Mohan, Kshitij Patwardhan",
-      "album": "Ranabaali - Hindi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T07:11:10.770Z"
+      "hash": "2fe07f240cba1cbb",
+      "track": "Fillet Mignion",
+      "artist": "KR$NA, Seedhe Maut, Raftaar - Don't Try This At Home",
+      "album": "Don't Try This At Home",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-26T08:36:46.537Z"
     }
   ]
 }
