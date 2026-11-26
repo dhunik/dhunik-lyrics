@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "v",
   "type": "artist",
-  "updated_at": "2026-11-25T15:17:01.857Z",
+  "updated_at": "2026-11-26T09:47:20.861Z",
   "entries": [
     {
-      "hash": "ff45341a5fddd10d",
-      "track": "Dwapara",
-      "artist": "Arjun Janya, V.Nagendra Prasad, Jaskaran Singh",
-      "album": "Dwapara (From \"Krishnam Pranaya Sakhi\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-19T03:12:59.531Z"
-    },
-    {
-      "hash": "2a4411f081330bdc",
-      "track": "Pavazha Malli",
-      "artist": "Vivek, Sai Abhyankkar, Shruti Haasan",
-      "album": "Pavazha Malli (From \"Think Indie\")",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-19T11:04:48.266Z"
-    },
-    {
-      "hash": "9f1c40e2ade4fe76",
-      "track": "Aathi",
-      "artist": "Anirudh Ravichander, Vishal Dadlani, Yugabharathi",
-      "album": "Kaththi (Original Motion Picture Soundtrack)",
+      "hash": "2a0b53520a91b755",
+      "track": "One Two Three Four (Get On The Dance Floor)",
+      "artist": "Vishal-Shekhar, Vishal Dadlani, Hamsika Iyer",
+      "album": "Chennai Express",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-20T06:18:51.087Z"
-    },
-    {
-      "hash": "df0eeda87f323c67",
-      "track": "Sajanva Redux (From “Mirzapur The Movie”)",
-      "artist": "Anand Bhaskar, Vidhya Gopal, Ginny Diwan - Mirzapur The Movie",
-      "album": "Mirzapur The Movie",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-25T15:16:59.508Z"
+      "cached_at": "2026-11-26T09:47:04.872Z"
     }
   ]
 }
