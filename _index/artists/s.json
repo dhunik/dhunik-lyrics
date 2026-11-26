@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T07:06:30.768Z",
+  "updated_at": "2026-11-26T07:14:41.671Z",
   "entries": [
     {
-      "hash": "2fec185be64a0538",
-      "track": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
-      "artist": "Shreya Ghoshal, Javed Ali, Suvarna Tiwari, Prasad S",
-      "album": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
+      "hash": "661eedb0e73ae088",
+      "track": "O Mere Saajan",
+      "artist": "Ajay-Atul, Javed Ali, Shweta Mohan, Kshitij Patwardhan",
+      "album": "Ranabaali - Hindi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T06:55:03.406Z"
-    },
-    {
-      "hash": "ac250a1f38a81fea",
-      "track": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
-      "artist": "Himesh Reshammiya, Shreya Ghoshal, Sonia Kapoor Reshammiya",
-      "album": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T07:06:23.927Z"
+      "cached_at": "2026-11-26T07:11:10.770Z"
     }
   ]
 }
