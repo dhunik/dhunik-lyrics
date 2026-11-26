@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "f",
   "type": "artist",
-  "updated_at": "2026-11-24T08:32:01.435Z",
+  "updated_at": "2026-11-26T09:33:01.576Z",
   "entries": [
     {
-      "hash": "295f279ba040c905",
-      "track": "Jalpari",
-      "artist": "Faheem Abdullah, Huzaif Nazar, Rather Hashim, Hyder Dar",
-      "album": "Jalpari",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-22T15:00:40.744Z"
-    },
-    {
-      "hash": "f7ae69626a695916",
-      "track": "Khnoro Aamar Fossil",
-      "artist": "Rupam Islam, Fossils (Band)",
-      "album": "Fossils 4",
+      "hash": "db10ac4428defd66",
+      "track": "Taare",
+      "artist": "Farak, 10A",
+      "album": "Deewar Ke Uss Paar",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-24T08:31:53.508Z"
+      "has_plain": false,
+      "cached_at": "2026-11-26T09:28:16.333Z"
     }
   ]
 }
