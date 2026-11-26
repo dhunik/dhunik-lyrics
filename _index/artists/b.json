@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-26T15:30:23.500Z",
+  "updated_at": "2026-11-26T15:30:27.885Z",
   "entries": [
     {
       "hash": "b809015b9e39aa0c",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:30:02.011Z"
+    },
+    {
+      "hash": "620d415a05a127ed",
+      "track": "Kala Chashma",
+      "artist": "Amar Arshi, Badshah, Neha Kakkar - Baar Baar Dekho",
+      "album": "Baar Baar Dekho",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:30:24.678Z"
     }
   ]
 }
