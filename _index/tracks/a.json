@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "track",
-  "updated_at": "2026-11-25T15:19:18.289Z",
+  "updated_at": "2026-11-26T05:10:41.717Z",
   "entries": [
     {
-      "hash": "9c2e1d9c75f14e64",
-      "track": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jubin Nautiyal, Irshad Kamil",
-      "album": "Dhurandhar The Revenge",
+      "hash": "35747cdb611b87c3",
+      "track": "Aayega Maza Ab Barsaat Ka (From \"Andaaz\")",
+      "artist": "Alka Yagnik, Babul Supriyo",
+      "album": "Aayega Maza Ab Barsaat Ka (From \"Andaaz\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-21T07:42:13.332Z"
-    },
-    {
-      "hash": "77bc32e119f476f2",
-      "track": "Aaj Amaye (ORIGINAL)",
-      "artist": "Anwesshaa Dutta Gupta",
-      "album": "Power (Original Motion Picture Soundtrack) (ORIGINAL)",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-24T08:29:08.679Z"
-    },
-    {
-      "hash": "143b527eee299f92",
-      "track": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
-      "artist": "Harshavardhan Rameshwar, Choir",
-      "album": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-25T12:22:38.770Z"
-    },
-    {
-      "hash": "cf5fcdfb55bd7be6",
-      "track": "Aaya Sher",
-      "artist": "Anirudh Ravichander, Jangi Reddy, Arjun Chandy, Kasarla Shyam",
-      "album": "The Paradise (Telugu)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-25T15:19:07.237Z"
+      "cached_at": "2026-11-26T05:09:40.986Z"
     }
   ]
 }
