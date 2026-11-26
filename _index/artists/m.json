@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-26T04:07:16.161Z",
+  "updated_at": "2026-11-26T09:53:01.495Z",
   "entries": [
     {
-      "hash": "daa27adbcb7a45a1",
-      "track": "Tu Mil Jaaye",
-      "artist": "Sachin-Jigar, Ed Sheeran, Arijit Singh, Madhubanti Bagchi",
-      "album": "KING",
+      "hash": "244e1ff53fb5d025",
+      "track": "Madam Ji",
+      "artist": "Masoom Sharma, Rekha Goswami, Amar Karnawal",
+      "album": "Madam Ji",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-26T04:06:40.903Z"
+      "has_plain": false,
+      "cached_at": "2026-11-26T09:52:33.426Z"
     }
   ]
 }
