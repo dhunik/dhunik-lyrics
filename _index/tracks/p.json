@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "track",
-  "updated_at": "2026-11-26T06:56:43.082Z",
+  "updated_at": "2026-11-26T10:03:22.802Z",
   "entries": [
     {
       "hash": "2fec185be64a0538",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T06:55:03.406Z"
+    },
+    {
+      "hash": "d630e61e681f7307",
+      "track": "Pretty Please",
+      "artist": "Hearts2Hearts",
+      "album": "Pretty Please",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T10:03:16.340Z"
     }
   ]
 }
