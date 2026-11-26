@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T15:18:31.119Z",
+  "updated_at": "2026-11-26T15:23:23.509Z",
   "entries": [
     {
       "hash": "7e3d1ff7e305772e",
@@ -39,6 +39,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:18:29.231Z"
+    },
+    {
+      "hash": "f3d3479ec164aa20",
+      "track": "Tere Hawaale",
+      "artist": "Pritam, Arijit Singh, Shilpa Rao - Laal Singh Chaddha",
+      "album": "Laal Singh Chaddha",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:23:18.748Z"
     }
   ]
 }
