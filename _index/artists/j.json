@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "j",
   "type": "artist",
-  "updated_at": "2026-11-25T15:19:18.472Z",
+  "updated_at": "2026-11-26T09:52:12.110Z",
   "entries": [
     {
-      "hash": "cf5fcdfb55bd7be6",
-      "track": "Aaya Sher",
-      "artist": "Anirudh Ravichander, Jangi Reddy, Arjun Chandy, Kasarla Shyam",
-      "album": "The Paradise (Telugu)",
+      "hash": "7e3d1ff7e305772e",
+      "track": "Beretta",
+      "artist": "Amanraj Gill, Jaya Rohilla",
+      "album": "Beretta",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T15:19:07.237Z"
+      "cached_at": "2026-11-26T09:51:41.173Z"
     }
   ]
 }
