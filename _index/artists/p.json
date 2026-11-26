@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-26T10:00:07.089Z",
+  "updated_at": "2026-11-26T15:59:31.374Z",
   "entries": [
     {
-      "hash": "06fcd49fda9e26cc",
-      "track": "Kaha Se",
-      "artist": "Bintu Pabra, Shiva Choudhary, Pranjal Dahiya, Sihag Muzik",
-      "album": "Kaha Se",
+      "hash": "3c058e592a91cb2e",
+      "track": "Financer",
+      "artist": "Bintu Pabra, Bamboo Beat, Pranjal Dahiya, Shiva Choudhary",
+      "album": "Financer",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T09:58:46.567Z"
+      "cached_at": "2026-11-26T15:58:49.485Z"
     }
   ]
 }
