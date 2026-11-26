@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T09:45:45.995Z",
+  "updated_at": "2026-11-26T09:46:36.002Z",
   "entries": [
     {
       "hash": "57f2221f1971e7e9",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T09:45:35.917Z"
+    },
+    {
+      "hash": "d5d1ef48091c4438",
+      "track": "Lal Dabbi",
+      "artist": "Amanraj Gill, Bulbul",
+      "album": "Lal Dabbi",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T09:46:30.976Z"
     }
   ]
 }
