@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T09:47:30.937Z",
+  "updated_at": "2026-11-26T09:48:43.502Z",
   "entries": [
     {
-      "hash": "57f2221f1971e7e9",
-      "track": "Milne Hai Mujhse Aayi",
-      "artist": "Arijit Singh - Aashiqui 2",
-      "album": "Arijit Singh Broken Strings",
+      "hash": "235cad3e5d8e625f",
+      "track": "Lambi Lambi Chhori",
+      "artist": "Ashoka Deswal",
+      "album": "Lambi Lambi Chhori",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T07:54:42.355Z"
-    },
-    {
-      "hash": "cc819dbdb35d2c47",
-      "track": "Tag Awara Ke",
-      "artist": "Amanraj Gill, Shiva Choudhary",
-      "album": "Tag Awara Ke",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T09:45:35.917Z"
-    },
-    {
-      "hash": "d5d1ef48091c4438",
-      "track": "Lal Dabbi",
-      "artist": "Amanraj Gill, Bulbul",
-      "album": "Lal Dabbi",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T09:46:30.976Z"
-    },
-    {
-      "hash": "19ccf8ca2729b400",
-      "track": "Chammak Challo",
-      "artist": "Vishal-Shekhar, Akon, Hamsika Iyer",
-      "album": "Ra-One",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T09:47:29.679Z"
+      "cached_at": "2026-11-26T09:48:19.483Z"
     }
   ]
 }
