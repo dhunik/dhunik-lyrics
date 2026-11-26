@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T16:02:27.704Z",
+  "updated_at": "2026-11-26T16:03:07.649Z",
   "entries": [
     {
       "hash": "093bf2d7310199fb",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T16:02:24.202Z"
+    },
+    {
+      "hash": "9db538a56ffe1eb1",
+      "track": "Aaluma Doluma (From \"Vedalam\")",
+      "artist": "Anirudh Ravichander, Badshah, G. Rokesh - Anirudh Certified Bangers",
+      "album": "Anirudh Certified Bangers",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T16:03:06.039Z"
     }
   ]
 }
