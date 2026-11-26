@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T09:48:43.502Z",
+  "updated_at": "2026-11-26T09:52:12.108Z",
   "entries": [
     {
-      "hash": "235cad3e5d8e625f",
-      "track": "Lambi Lambi Chhori",
-      "artist": "Ashoka Deswal",
-      "album": "Lambi Lambi Chhori",
+      "hash": "7e3d1ff7e305772e",
+      "track": "Beretta",
+      "artist": "Amanraj Gill, Jaya Rohilla",
+      "album": "Beretta",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T09:48:19.483Z"
+      "cached_at": "2026-11-26T09:51:41.173Z"
     }
   ]
 }
