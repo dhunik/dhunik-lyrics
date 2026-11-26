@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-25T12:27:49.248Z",
+  "updated_at": "2026-11-26T07:06:30.773Z",
   "entries": [
     {
       "hash": "143b527eee299f92",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-25T12:22:38.770Z"
+    },
+    {
+      "hash": "ac250a1f38a81fea",
+      "track": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
+      "artist": "Himesh Reshammiya, Shreya Ghoshal, Sonia Kapoor Reshammiya",
+      "album": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T07:06:23.927Z"
     }
   ]
 }
