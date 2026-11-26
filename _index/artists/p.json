@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-26T16:04:03.965Z",
+  "updated_at": "2026-11-26T16:10:35.456Z",
   "entries": [
     {
       "hash": "a6ea0ae71b68fdcd",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T16:03:40.052Z"
+    },
+    {
+      "hash": "60e147dce7ea0a7f",
+      "track": "Sajna, Say Yes To The Dress",
+      "artist": "Badshah, Payal Dev - Sajna, Say Yes To The Dress",
+      "album": "Sajna, Say Yes To The Dress",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T16:10:33.371Z"
     }
   ]
 }
