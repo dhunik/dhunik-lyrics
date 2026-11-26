@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-25T15:15:05.155Z",
+  "updated_at": "2026-11-26T10:00:07.089Z",
   "entries": [
     {
-      "hash": "a69420d7b8fd82a6",
-      "track": "Main Ram (From \"Ramayana\")",
-      "artist": "Sachet Tandon, Prateek Walia, Kumar Vishwas",
-      "album": "Main Ram (From \"Ramayana\")",
+      "hash": "06fcd49fda9e26cc",
+      "track": "Kaha Se",
+      "artist": "Bintu Pabra, Shiva Choudhary, Pranjal Dahiya, Sihag Muzik",
+      "album": "Kaha Se",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T11:50:14.014Z"
-    },
-    {
-      "hash": "d49e337a6e2f2f46",
-      "track": "Shyama Aan Baso",
-      "artist": "Sachet Tandon, Parampara Tandon",
-      "album": "Shyama Aan Baso",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-25T15:14:56.090Z"
+      "cached_at": "2026-11-26T09:58:46.567Z"
     }
   ]
 }
