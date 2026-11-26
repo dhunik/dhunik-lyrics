@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "n",
   "type": "artist",
-  "updated_at": "2026-11-24T20:13:23.130Z",
+  "updated_at": "2026-11-26T15:18:26.738Z",
   "entries": [
     {
       "hash": "33eb7261c04bf12e",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": true,
       "cached_at": "2026-11-24T20:13:20.726Z"
+    },
+    {
+      "hash": "cd7fb1a3e0c317e6",
+      "track": "Aavan Jaavan",
+      "artist": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya - WAR 2",
+      "album": "WAR 2",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:18:25.161Z"
     }
   ]
 }
