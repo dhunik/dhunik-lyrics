@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-26T10:03:22.949Z",
+  "updated_at": "2026-11-26T15:05:10.335Z",
   "entries": [
     {
       "hash": "2a0b53520a91b755",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T10:03:16.340Z"
+    },
+    {
+      "hash": "9f6e05baf53a9d69",
+      "track": "Ez-Ez (From \"Dhurandhar\")",
+      "artist": "Hanumankind, Shashwat Sachdev, Raj Ranjodh, Diljit Dosanjh - Ez-Ez (From \"Dhurandhar\")",
+      "album": "Ez-Ez (From \"Dhurandhar\")",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:05:00.522Z"
     }
   ]
 }
