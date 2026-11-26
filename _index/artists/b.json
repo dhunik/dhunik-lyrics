@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-26T15:30:27.885Z",
+  "updated_at": "2026-11-26T15:59:31.371Z",
   "entries": [
     {
-      "hash": "b809015b9e39aa0c",
-      "track": "Inaam",
-      "artist": "Jasleen Royal, Badshah, Ansh Chahal - Inaam",
-      "album": "Inaam",
+      "hash": "3c058e592a91cb2e",
+      "track": "Financer",
+      "artist": "Bintu Pabra, Bamboo Beat, Pranjal Dahiya, Shiva Choudhary",
+      "album": "Financer",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:30:02.011Z"
-    },
-    {
-      "hash": "620d415a05a127ed",
-      "track": "Kala Chashma",
-      "artist": "Amar Arshi, Badshah, Neha Kakkar - Baar Baar Dekho",
-      "album": "Baar Baar Dekho",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:30:24.678Z"
+      "cached_at": "2026-11-26T15:58:49.485Z"
     }
   ]
 }
