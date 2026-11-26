@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T08:45:02.457Z",
+  "updated_at": "2026-11-26T15:08:43.217Z",
   "entries": [
     {
       "hash": "2fe07f240cba1cbb",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T08:45:00.536Z"
+    },
+    {
+      "hash": "2ed2a36d66563c71",
+      "track": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
+      "artist": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer - Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
+      "album": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:08:41.343Z"
     }
   ]
 }
