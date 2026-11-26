@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T08:37:25.623Z",
+  "updated_at": "2026-11-26T08:45:02.457Z",
   "entries": [
     {
       "hash": "2fe07f240cba1cbb",
@@ -12,6 +12,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-26T08:36:46.537Z"
+    },
+    {
+      "hash": "032b207dcf70aef9",
+      "track": "KODAK",
+      "artist": "King, Seedhe Maut - SAZA",
+      "album": "SAZA",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T08:45:00.536Z"
     }
   ]
 }
