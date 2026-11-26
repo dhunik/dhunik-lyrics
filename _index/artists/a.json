@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T07:14:41.680Z",
+  "updated_at": "2026-11-26T07:59:38.980Z",
   "entries": [
     {
-      "hash": "661eedb0e73ae088",
-      "track": "O Mere Saajan",
-      "artist": "Ajay-Atul, Javed Ali, Shweta Mohan, Kshitij Patwardhan",
-      "album": "Ranabaali - Hindi",
+      "hash": "57f2221f1971e7e9",
+      "track": "Milne Hai Mujhse Aayi",
+      "artist": "Arijit Singh - Aashiqui 2",
+      "album": "Arijit Singh Broken Strings",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T07:11:10.770Z"
+      "cached_at": "2026-11-26T07:54:42.355Z"
     }
   ]
 }
