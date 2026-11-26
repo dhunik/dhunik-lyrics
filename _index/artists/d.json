@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-26T15:04:36.779Z",
+  "updated_at": "2026-11-26T15:04:59.503Z",
   "entries": [
     {
-      "hash": "418f682fd6350061",
-      "track": "Born to Shine",
-      "artist": "Diljit Dosanjh - G.O.A.T.",
-      "album": "G.O.A.T.",
+      "hash": "a741862da7c4465b",
+      "track": "Lover",
+      "artist": "Diljit Dosanjh - MoonChild Era",
+      "album": "MoonChild Era",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:04:15.216Z"
+      "cached_at": "2026-11-26T15:04:47.930Z"
     }
   ]
 }
