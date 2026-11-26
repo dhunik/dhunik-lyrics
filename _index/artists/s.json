@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T15:23:53.483Z",
+  "updated_at": "2026-11-26T16:06:46.868Z",
   "entries": [
     {
       "hash": "f3d3479ec164aa20",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:23:18.748Z"
+    },
+    {
+      "hash": "d08409bd3c33911f",
+      "track": "Saturday Saturday",
+      "artist": "Sharib Toshi, Badshah, Indeep Bakshi, Akriti Kakar - Humpty Sharma Ki Dulhania",
+      "album": "Humpty Sharma Ki Dulhania",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T16:06:45.188Z"
     }
   ]
 }
