@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "l",
   "type": "track",
-  "updated_at": "2026-11-23T16:12:07.687Z",
+  "updated_at": "2026-11-26T08:47:37.330Z",
   "entries": [
     {
-      "hash": "d512a3db56e3d4bf",
-      "track": "Lo Safar",
-      "artist": "Jubin Nautiyal",
-      "album": "Lo Safar (From \"Baaghi 2\")",
+      "hash": "6c1189dfb327cd74",
+      "track": "Lost In Love (feat. Shahid Hussain)",
+      "artist": "Humnava, Zain Zohaib, Damsaaz",
+      "album": "Lost In Love",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-23T16:09:43.628Z"
+      "has_plain": false,
+      "cached_at": "2026-11-26T08:47:08.265Z"
     }
   ]
 }
