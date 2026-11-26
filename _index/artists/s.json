@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T15:08:43.217Z",
+  "updated_at": "2026-11-26T15:18:31.118Z",
   "entries": [
     {
       "hash": "2fe07f240cba1cbb",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:08:41.343Z"
+    },
+    {
+      "hash": "0831b504937761c5",
+      "track": "Mareez - E - Ishq",
+      "artist": "Sharib Toshi, Arijit Singh - Zid",
+      "album": "Zid",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T15:18:29.231Z"
     }
   ]
 }
