@@ -2,70 +2,16 @@
   "v": 1,
   "shard": "g",
   "type": "track",
-  "updated_at": "2026-11-26T16:03:43.020Z",
+  "updated_at": "2026-11-26T16:18:05.666Z",
   "entries": [
     {
-      "hash": "97aea37f93be0519",
-      "track": "Gal Karke",
-      "artist": "Inder Chahal, Rajat Nagpal",
-      "album": "Gal Karke",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-10-31T17:12:55.699Z"
-    },
-    {
-      "hash": "65361d09678a7cca",
-      "track": "Gym De Shokeen",
-      "artist": "Bhallwaan",
-      "album": "Gym De Shokeen",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:03:28.266Z"
-    },
-    {
-      "hash": "d80e1925ecb77f94",
-      "track": "Glassy",
-      "artist": "Jazzy B",
-      "album": "Talli",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-03T17:07:41.174Z"
-    },
-    {
-      "hash": "0cd8ec917cca0315",
-      "track": "Guruji Ko Aadesh Alakh Niranjan",
-      "artist": "Anshu Vasishta",
-      "album": "Guruji Ko Aadesh Alakh Niranjan",
-      "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-21T06:25:56.073Z"
-    },
-    {
-      "hash": "175dc785efe93b11",
-      "track": "Ghost",
-      "artist": "Justin Bieber",
-      "album": "Justice",
+      "hash": "a1a5e7cffe8c369c",
+      "track": "Ganga Ke Kinare",
+      "artist": "Bunny, Sagar - Ganga Ke Kinare",
+      "album": "Ganga Ke Kinare",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-23T20:47:48.353Z"
-    },
-    {
-      "hash": "8b628c70825f9e6c",
-      "track": "Ghar Kab Aaoge (From \"BORDER 2\")",
-      "artist": "Anu Malik, Mithoon, Sonu Nigam, Arijit Singh, Roopkumar Rathod, Vishal Mishra, Diljit Dosanjh, Javed Akhtar, Manoj Muntashir - Ghar Kab Aaoge (From \"BORDER 2\")",
-      "album": "Ghar Kab Aaoge (From \"BORDER 2\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:08:43.513Z"
-    },
-    {
-      "hash": "a6ea0ae71b68fdcd",
-      "track": "Gone Girl",
-      "artist": "Badshah, Payal Dev - Gone Girl",
-      "album": "Gone Girl",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:03:40.052Z"
+      "cached_at": "2026-11-26T16:17:49.031Z"
     }
   ]
 }
