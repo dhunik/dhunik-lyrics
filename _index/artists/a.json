@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T05:10:41.719Z",
+  "updated_at": "2026-11-26T07:06:22.385Z",
   "entries": [
     {
-      "hash": "35747cdb611b87c3",
-      "track": "Aayega Maza Ab Barsaat Ka (From \"Andaaz\")",
-      "artist": "Alka Yagnik, Babul Supriyo",
-      "album": "Aayega Maza Ab Barsaat Ka (From \"Andaaz\")",
+      "hash": "7df62a07d9d94b5e",
+      "track": "Pardesiya (From \"Param Sundari\")",
+      "artist": "Sachin-Jigar, Sonu Nigam, Krishnakali Saha, Amitabh Bhattacharya",
+      "album": "Pardesiya (From \"Param Sundari\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T05:09:40.986Z"
+      "cached_at": "2026-11-26T07:02:42.611Z"
     }
   ]
 }
