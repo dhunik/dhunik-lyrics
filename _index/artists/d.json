@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-26T15:08:56.466Z",
+  "updated_at": "2026-11-26T15:09:23.773Z",
   "entries": [
     {
-      "hash": "2ed2a36d66563c71",
-      "track": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "artist": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer - Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "album": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
+      "hash": "6f01f86136ff4064",
+      "track": "Laembadgini",
+      "artist": "Diljit Dosanjh - Laembadgini",
+      "album": "Laembadgini",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:08:41.343Z"
+      "cached_at": "2026-11-26T15:08:57.733Z"
     }
   ]
 }
