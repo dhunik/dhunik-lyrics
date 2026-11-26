@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T15:55:20.722Z",
+  "updated_at": "2026-11-26T16:02:27.704Z",
   "entries": [
     {
       "hash": "093bf2d7310199fb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:54:58.781Z"
+    },
+    {
+      "hash": "75b783533dd09c6a",
+      "track": "Lambiyaan Si Judaiyaan",
+      "artist": "Pritam, Kaushik-Aakash-Guddu (KAG) for JAM8, Arijit Singh - Raabta",
+      "album": "Raabta",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T16:02:24.202Z"
     }
   ]
 }
