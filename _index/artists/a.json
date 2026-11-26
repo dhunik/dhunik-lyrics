@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T07:59:38.980Z",
+  "updated_at": "2026-11-26T09:45:45.995Z",
   "entries": [
     {
       "hash": "57f2221f1971e7e9",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T07:54:42.355Z"
+    },
+    {
+      "hash": "cc819dbdb35d2c47",
+      "track": "Tag Awara Ke",
+      "artist": "Amanraj Gill, Shiva Choudhary",
+      "album": "Tag Awara Ke",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T09:45:35.917Z"
     }
   ]
 }
