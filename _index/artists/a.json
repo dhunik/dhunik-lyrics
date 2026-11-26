@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-25T15:24:15.481Z",
+  "updated_at": "2026-11-26T05:10:41.719Z",
   "entries": [
     {
-      "hash": "a0ef00d204980e41",
-      "track": "Roddy Theme (From \"Jailer 2\")",
-      "artist": "Anirudh Ravichander",
-      "album": "Roddy Theme (From \"Jailer 2\")",
+      "hash": "35747cdb611b87c3",
+      "track": "Aayega Maza Ab Barsaat Ka (From \"Andaaz\")",
+      "artist": "Alka Yagnik, Babul Supriyo",
+      "album": "Aayega Maza Ab Barsaat Ka (From \"Andaaz\")",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T15:23:55.931Z"
+      "cached_at": "2026-11-26T05:09:40.986Z"
     }
   ]
 }
