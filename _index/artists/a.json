@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T07:06:22.385Z",
+  "updated_at": "2026-11-26T07:14:41.680Z",
   "entries": [
     {
-      "hash": "7df62a07d9d94b5e",
-      "track": "Pardesiya (From \"Param Sundari\")",
-      "artist": "Sachin-Jigar, Sonu Nigam, Krishnakali Saha, Amitabh Bhattacharya",
-      "album": "Pardesiya (From \"Param Sundari\")",
+      "hash": "661eedb0e73ae088",
+      "track": "O Mere Saajan",
+      "artist": "Ajay-Atul, Javed Ali, Shweta Mohan, Kshitij Patwardhan",
+      "album": "Ranabaali - Hindi",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T07:02:42.611Z"
+      "cached_at": "2026-11-26T07:11:10.770Z"
     }
   ]
 }
