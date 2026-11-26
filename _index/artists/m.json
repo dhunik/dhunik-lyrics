@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-24T08:29:52.791Z",
+  "updated_at": "2026-11-26T04:07:16.161Z",
   "entries": [
     {
-      "hash": "9648fa72ded91e9b",
-      "track": "Ure Geche",
-      "artist": "Ash King, Monali Thakur",
-      "album": "Parbona Ami Charte Toke (Original Motion Picture Soundtrack) (ORIGINAL)",
+      "hash": "daa27adbcb7a45a1",
+      "track": "Tu Mil Jaaye",
+      "artist": "Sachin-Jigar, Ed Sheeran, Arijit Singh, Madhubanti Bagchi",
+      "album": "KING",
       "has_synced": true,
       "has_plain": true,
-      "cached_at": "2026-11-24T08:29:13.532Z"
+      "cached_at": "2026-11-26T04:06:40.903Z"
     }
   ]
 }
