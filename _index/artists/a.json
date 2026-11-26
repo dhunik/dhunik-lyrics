@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T15:38:08.974Z",
+  "updated_at": "2026-11-26T15:55:20.722Z",
   "entries": [
     {
-      "hash": "9f5461d20ae0f106",
-      "track": "Dariya",
-      "artist": "Arko - Wedding Love Songs",
-      "album": "Wedding Love Songs",
+      "hash": "093bf2d7310199fb",
+      "track": "Baba VS Kand (feat. Manjeet Mor)",
+      "artist": "Masoom Sharma, Nidhi Sharma, Ashu Twinkle",
+      "album": "Baba VS Kand",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:37:55.236Z"
+      "cached_at": "2026-11-26T15:54:58.781Z"
     }
   ]
 }
