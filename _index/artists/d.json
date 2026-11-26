@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-26T15:08:50.299Z",
+  "updated_at": "2026-11-26T15:08:56.466Z",
   "entries": [
     {
-      "hash": "a741862da7c4465b",
-      "track": "Lover",
-      "artist": "Diljit Dosanjh - MoonChild Era",
-      "album": "MoonChild Era",
+      "hash": "2ed2a36d66563c71",
+      "track": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
+      "artist": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer - Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
+      "album": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:04:47.930Z"
-    },
-    {
-      "hash": "9f6e05baf53a9d69",
-      "track": "Ez-Ez (From \"Dhurandhar\")",
-      "artist": "Hanumankind, Shashwat Sachdev, Raj Ranjodh, Diljit Dosanjh - Ez-Ez (From \"Dhurandhar\")",
-      "album": "Ez-Ez (From \"Dhurandhar\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:05:00.522Z"
-    },
-    {
-      "hash": "bdb4bfb239fec85b",
-      "track": "Lalkara",
-      "artist": "Diljit Dosanjh, Intense ft. Sultaan - Ghost",
-      "album": "Ghost",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:05:12.471Z"
-    },
-    {
-      "hash": "e9bbd08dc681bf8b",
-      "track": "5 Taara",
-      "artist": "Diljit Dosanjh, Jatinder Shah - 5 Taara",
-      "album": "5 Taara",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:08:48.250Z"
+      "cached_at": "2026-11-26T15:08:41.343Z"
     }
   ]
 }
