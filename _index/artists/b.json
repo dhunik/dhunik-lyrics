@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-26T15:59:31.371Z",
+  "updated_at": "2026-11-26T16:04:03.963Z",
   "entries": [
     {
-      "hash": "3c058e592a91cb2e",
-      "track": "Financer",
-      "artist": "Bintu Pabra, Bamboo Beat, Pranjal Dahiya, Shiva Choudhary",
-      "album": "Financer",
+      "hash": "a6ea0ae71b68fdcd",
+      "track": "Gone Girl",
+      "artist": "Badshah, Payal Dev - Gone Girl",
+      "album": "Gone Girl",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T15:58:49.485Z"
+      "cached_at": "2026-11-26T16:03:40.052Z"
     }
   ]
 }
