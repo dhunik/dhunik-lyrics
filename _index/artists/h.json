@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "h",
   "type": "artist",
-  "updated_at": "2026-11-26T07:06:30.773Z",
+  "updated_at": "2026-11-26T09:47:20.862Z",
   "entries": [
     {
-      "hash": "143b527eee299f92",
-      "track": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
-      "artist": "Harshavardhan Rameshwar, Choir",
-      "album": "Abrar’s Entry Jamal Kudu (From \"ANIMAL\")",
+      "hash": "2a0b53520a91b755",
+      "track": "One Two Three Four (Get On The Dance Floor)",
+      "artist": "Vishal-Shekhar, Vishal Dadlani, Hamsika Iyer",
+      "album": "Chennai Express",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-25T12:22:38.770Z"
-    },
-    {
-      "hash": "ac250a1f38a81fea",
-      "track": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
-      "artist": "Himesh Reshammiya, Shreya Ghoshal, Sonia Kapoor Reshammiya",
-      "album": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T07:06:23.927Z"
+      "cached_at": "2026-11-26T09:47:04.872Z"
     }
   ]
 }
