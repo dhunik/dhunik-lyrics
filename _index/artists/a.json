@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-26T16:03:07.649Z",
+  "updated_at": "2026-11-26T16:06:33.117Z",
   "entries": [
     {
       "hash": "093bf2d7310199fb",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T16:03:06.039Z"
+    },
+    {
+      "hash": "ad34467e577c7110",
+      "track": "Tamma Tamma Again",
+      "artist": "Bappi Lahiri, Anuradha Paudwal, Badshah - Badrinath Ki Dulhania",
+      "album": "Badrinath Ki Dulhania",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-26T16:06:31.405Z"
     }
   ]
 }
