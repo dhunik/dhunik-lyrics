@@ -2,43 +2,16 @@
   "v": 1,
   "shard": "s",
   "type": "artist",
-  "updated_at": "2026-11-26T15:18:31.118Z",
+  "updated_at": "2026-11-26T15:23:53.483Z",
   "entries": [
     {
-      "hash": "2fe07f240cba1cbb",
-      "track": "Fillet Mignion",
-      "artist": "KR$NA, Seedhe Maut, Raftaar - Don't Try This At Home",
-      "album": "Don't Try This At Home",
-      "has_synced": false,
-      "has_plain": true,
-      "cached_at": "2026-11-26T08:36:46.537Z"
-    },
-    {
-      "hash": "032b207dcf70aef9",
-      "track": "KODAK",
-      "artist": "King, Seedhe Maut - SAZA",
-      "album": "SAZA",
+      "hash": "f3d3479ec164aa20",
+      "track": "Tere Hawaale",
+      "artist": "Pritam, Arijit Singh, Shilpa Rao - Laal Singh Chaddha",
+      "album": "Laal Singh Chaddha",
       "has_synced": true,
       "has_plain": false,
-      "cached_at": "2026-11-26T08:45:00.536Z"
-    },
-    {
-      "hash": "2ed2a36d66563c71",
-      "track": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "artist": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer - Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "album": "Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull)",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:08:41.343Z"
-    },
-    {
-      "hash": "0831b504937761c5",
-      "track": "Mareez - E - Ishq",
-      "artist": "Sharib Toshi, Arijit Singh - Zid",
-      "album": "Zid",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:18:29.231Z"
+      "cached_at": "2026-11-26T15:23:18.748Z"
     }
   ]
 }
