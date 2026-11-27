@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "i",
   "type": "artist",
-  "updated_at": "2026-11-22T20:57:32.661Z",
+  "updated_at": "2026-11-27T09:08:45.435Z",
   "entries": [
     {
       "hash": "52b31e41cdc94dbb",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-22T20:56:49.082Z"
+    },
+    {
+      "hash": "f1dbb8e57dbc6405",
+      "track": "Jaane Tu (From \"Chhaava\")",
+      "artist": "A.R. Rahman, Arijit Singh, Irshad Kamil - Chhaava",
+      "album": "Chhaava",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-27T09:08:42.451Z"
     }
   ]
 }
