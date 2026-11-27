@@ -2,25 +2,16 @@
   "v": 1,
   "shard": "m",
   "type": "artist",
-  "updated_at": "2026-11-26T16:18:09.794Z",
+  "updated_at": "2026-11-27T08:57:53.284Z",
   "entries": [
     {
-      "hash": "037c7343a2fc1b92",
-      "track": "Ramayan Ka Saar",
-      "artist": "Masoom Sharma",
-      "album": "Ramayan Ka Saar",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:01:58.147Z"
-    },
-    {
-      "hash": "f843d4454ebef750",
-      "track": "Bolo Har Har Har",
-      "artist": "Mithoon, Mohit Chauhan, Sukhwinder Singh - Shivaay",
-      "album": "Shivaay",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:18:08.140Z"
+      "hash": "e5fee3a2a031570b",
+      "track": "Rabba Mereya",
+      "artist": "Mudassar Aziz, Vishal Mishra",
+      "album": "Mere Husband Ki Biwi",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-27T08:57:19.393Z"
     }
   ]
 }
