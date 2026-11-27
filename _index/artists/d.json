@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "d",
   "type": "artist",
-  "updated_at": "2026-11-26T15:09:23.773Z",
+  "updated_at": "2026-11-27T21:14:39.221Z",
   "entries": [
     {
       "hash": "6f01f86136ff4064",
@@ -12,6 +12,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T15:08:57.733Z"
+    },
+    {
+      "hash": "bf65164c2fe77212",
+      "track": "Thumkeshwari (From \"Bhediya\")",
+      "artist": "Sachin-Jigar, Rashmeet Kaur, Ash King, Divya Kumar",
+      "album": "Thumkeshwari (From \"Bhediya\")",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-27T21:14:33.725Z"
     }
   ]
 }
