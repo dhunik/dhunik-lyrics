@@ -2,61 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-27T09:08:45.447Z",
+  "updated_at": "2026-11-27T15:47:48.140Z",
   "entries": [
     {
-      "hash": "093bf2d7310199fb",
-      "track": "Baba VS Kand (feat. Manjeet Mor)",
-      "artist": "Masoom Sharma, Nidhi Sharma, Ashu Twinkle",
-      "album": "Baba VS Kand",
+      "hash": "d671a94a3daa6c84",
+      "track": "Khul Kabhi Toh",
+      "artist": "Arijit Singh, Vishal Bhardwaj",
+      "album": "Haider",
       "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T15:54:58.781Z"
-    },
-    {
-      "hash": "75b783533dd09c6a",
-      "track": "Lambiyaan Si Judaiyaan",
-      "artist": "Pritam, Kaushik-Aakash-Guddu (KAG) for JAM8, Arijit Singh - Raabta",
-      "album": "Raabta",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:02:24.202Z"
-    },
-    {
-      "hash": "9db538a56ffe1eb1",
-      "track": "Aaluma Doluma (From \"Vedalam\")",
-      "artist": "Anirudh Ravichander, Badshah, G. Rokesh - Anirudh Certified Bangers",
-      "album": "Anirudh Certified Bangers",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:03:06.039Z"
-    },
-    {
-      "hash": "ad34467e577c7110",
-      "track": "Tamma Tamma Again",
-      "artist": "Bappi Lahiri, Anuradha Paudwal, Badshah - Badrinath Ki Dulhania",
-      "album": "Badrinath Ki Dulhania",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:06:31.405Z"
-    },
-    {
-      "hash": "d08409bd3c33911f",
-      "track": "Saturday Saturday",
-      "artist": "Sharib Toshi, Badshah, Indeep Bakshi, Akriti Kakar - Humpty Sharma Ki Dulhania",
-      "album": "Humpty Sharma Ki Dulhania",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-26T16:06:45.188Z"
-    },
-    {
-      "hash": "f1dbb8e57dbc6405",
-      "track": "Jaane Tu (From \"Chhaava\")",
-      "artist": "A.R. Rahman, Arijit Singh, Irshad Kamil - Chhaava",
-      "album": "Chhaava",
-      "has_synced": true,
-      "has_plain": false,
-      "cached_at": "2026-11-27T09:08:42.451Z"
+      "has_plain": true,
+      "cached_at": "2026-11-27T15:47:04.613Z"
     }
   ]
 }
