@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "p",
   "type": "artist",
-  "updated_at": "2026-11-26T16:10:35.456Z",
+  "updated_at": "2026-11-27T06:39:54.675Z",
   "entries": [
     {
       "hash": "a6ea0ae71b68fdcd",
@@ -21,6 +21,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T16:10:33.371Z"
+    },
+    {
+      "hash": "5c273550af66d69e",
+      "track": "SAWARE",
+      "artist": "ARIJIT SINGH, PRITAM, AMITABH BHATTACHARYA",
+      "album": "PHANTOM",
+      "has_synced": false,
+      "has_plain": true,
+      "cached_at": "2026-11-27T06:39:53.095Z"
     }
   ]
 }
