@@ -2,16 +2,16 @@
   "v": 1,
   "shard": "a",
   "type": "artist",
-  "updated_at": "2026-11-27T15:47:48.140Z",
+  "updated_at": "2026-11-27T21:16:11.087Z",
   "entries": [
     {
-      "hash": "d671a94a3daa6c84",
-      "track": "Khul Kabhi Toh",
-      "artist": "Arijit Singh, Vishal Bhardwaj",
-      "album": "Haider",
+      "hash": "5ad8a064f6ba8e57",
+      "track": "Gazab Ka Hain Yeh Din",
+      "artist": "Arijit Singh, Amaal Mallik",
+      "album": "Sanam Re",
       "has_synced": true,
-      "has_plain": true,
-      "cached_at": "2026-11-27T15:47:04.613Z"
+      "has_plain": false,
+      "cached_at": "2026-11-27T21:15:58.808Z"
     }
   ]
 }
