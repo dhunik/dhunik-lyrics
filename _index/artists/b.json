@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "b",
   "type": "artist",
-  "updated_at": "2026-11-26T16:10:35.418Z",
+  "updated_at": "2026-11-28T03:28:22.626Z",
   "entries": [
     {
       "hash": "a6ea0ae71b68fdcd",
@@ -30,6 +30,15 @@
       "has_synced": true,
       "has_plain": false,
       "cached_at": "2026-11-26T16:10:33.371Z"
+    },
+    {
+      "hash": "de222959012c936c",
+      "track": "Teri Khair Mangdi",
+      "artist": "Bilal Saeed",
+      "album": "Baar Baar Dekho",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-28T03:28:19.376Z"
     }
   ]
 }
