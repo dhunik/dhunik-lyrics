@@ -2,7 +2,7 @@
   "v": 1,
   "shard": "s",
   "type": "track",
-  "updated_at": "2026-11-27T06:39:54.677Z",
+  "updated_at": "2026-11-28T08:31:51.885Z",
   "entries": [
     {
       "hash": "2e3e1e69d7054d72",
@@ -48,6 +48,15 @@
       "has_synced": false,
       "has_plain": true,
       "cached_at": "2026-11-27T06:39:53.095Z"
+    },
+    {
+      "hash": "66e363db11fbf9b8",
+      "track": "Shararat",
+      "artist": "Shashwat Sachdev, Madhubanti Bagchi, Jasmine Sandlas - Dhurandhar",
+      "album": "Dhurandhar",
+      "has_synced": true,
+      "has_plain": false,
+      "cached_at": "2026-11-28T08:31:46.022Z"
     }
   ]
 }
